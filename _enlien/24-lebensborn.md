@@ -1,0 +1,13 @@
+---
+layout: post
+published: true
+categories: enlien
+title: 'Interventions du 4 mars 2018 au château de Wégimont sur le Lebensborn'
+img_file: /assets/uploads/20180304-wegimont-lebensborn.jpg
+enlien_link: /assets/uploads/20180304-wegimont_lebensborn.pdf
+enlien_link_txt: Télécharger
+posted_on: '2018-03-04'
+---
+En 1995, dans « reconnaître le fascisme », Umberto Eco écrivait : « Le fascisme est devenu un terme s’adaptant à tout parce que même si l’on élimine d’un régime fasciste un ou plusieurs aspects, il sera toujours possible de le reconnaître comme fasciste. Enlevez-lui l’impérialisme et vous aurez Franco et Salazar ; enlevez le colonialisme et vous aurez le fascisme balkanique. Ajoutez au fascisme italien un anticapitalisme radical (qui ne fascina jamais Mussolini) et vous aurez Ezra Pound. Ajoutez le culte de la mythologie celte et le mysticisme du Graal (totalement étranger au fascisme officiel) et vous aurez l’un des gourous fascistes les plus respectés, Julius Evola. En dépit de cet imbroglio, je crois possible d’établir une liste de caractéristiques typiques de ce que je voudrais appeler l’Ur-fascisme, c’est-à-dire le Fascisme Primitif et Eternel. »
+Dans le cas du nazisme, le racisme est d’emblée et ouvertement au programme. Pour les nazis, la race germanique doit dominer le monde, et, au sein de celle-ci, l’élite c’est la race nordique (blonds aux yeux bleus). Le déclencheur du Lebensborn, c’est probablement un rapport qui estime à quelque 700.000 le nombre d’avortements, chaque année, en Allemagne : rien que la moitié constituerait une armée. Encore faut-il que cette armée soit constituée d’individus de la race supérieure. Le natalisme, lui, sert l’hégémonisme.
+Officiellement, on va lutter contre l’avortement ; ne perdons pas de vue la double fonction du discours nazi : d’une part rassembler en construisant l’ennemi. L’ennemi, c’est le youpin, le voleur de poules, le negro, le pédé, etc…toutes ces catégories auxquelles on attribue un triangle de couleur différente dans les camps de la mort. Pour les catholiques, les Juifs sont ceux qui ont crucifié le Christ ; quant à Luther, on lui doit la citation « Si je dois baptiser un juif, je l’emmène à un pont au-dessus de l’Elbe, lui attache une pierre autour du cou et le pousse en disant : je te baptise au nom d’Abraham ». Son slogan « les Juifs font notre malheur » sera repris par les nazis. L’antisémitisme, la répression de l’avortement et de l’homosexualité : un ordre moral qui attire des voix. Sans parler de l’éternité promise, par bail de mille ans, à ceux qui survivront au Jugement dernier, préparation psychologique à l’élimination de l’Autre, au génocide.

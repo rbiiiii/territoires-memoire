@@ -1,0 +1,21 @@
+.page-content, .post__content, .site-footer__address, .site-footer__newsletter, .post_breadcrumbs, .post__meta__card {
+
+  a {
+    background-image: linear-gradient($rouge-tm 0%, $rouge-tm 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 2px;
+    background-position: 0 100%;
+    color:$text-color;
+    transition:background-size 150ms ease-out, color 150ms ease-out;
+
+    &:hover, &:focus {
+      background-size: 100% 88%;
+      color:white;
+    }  
+
+    &.without-background {
+      background:none;  
+    }
+  }
+}
+  

@@ -1,0 +1,29 @@
+{%- capture categorie -%}{{ include.categorie }}{%- endcapture -%}
+<div class="list-permanents__group">
+    <h3 class="list-permanents__group__title"><span class="category">{{ categorie }}</span>
+         - <span class="meta"><a href="mailto:{{ include.email }}">{{ include.email }}</a></span>
+         - <span class="meta">{{ include.tel }}</span></h3>
+    <ul class="list-permanents__group__container list--no-style">
+        {%- for permanent in site.data.permanents -%}
+            {%- if permanent.categorie == categorie -%}
+            <li class="list-permanents__item list-permanents__item--{{ permanent.categorie_slug }}">
+                <a 
+                class="list-permanents__item__link" data-fancybox="gallery-permanents" data-caption="{{ permanent.nom }}"
+                href="/assets/images/association/permanents/big/{{ permanent.photo }}">
+                    <img 
+                    class="list-permanents__item__img"
+                    src="/assets/images/association/permanents/small/{{ permanent.photo }}">
+                </a>    
+                <div class="list-permanents__item__text">
+                    <h4>{{ permanent.nom }}</h4>
+                    <p>
+                        {{ permanent.titre }}<br>
+                        Tél&nbsp;: {{ permanent.tel }}<br>
+                        <a href="mailto:{{ permanent.email }}">{{ permanent.email }}</a>
+                    </p>
+                </div>
+            </li>
+            {%- endif -%}
+        {%- endfor -%}
+    </ul>
+</div>

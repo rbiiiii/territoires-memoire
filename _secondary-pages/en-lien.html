@@ -1,0 +1,32 @@
+---
+layout: category
+title:  "En lien"
+permalink: en-lien
+class: en-lien
+---
+
+<ul class="post-list list--no-style blocks">
+  {%- assign enLien = site.enlien | where:'published', 'true' | sort: "posted_on" | reverse -%}
+  {%- for post in enLien -%}
+      <li class="block post-list__item">
+        <article class="post">
+          <a class="post__link without-background" href="{{ post.url }}">
+              <header class="post__header">
+                  <div class="post__header__img">
+                      <img src="{{ post.img_file }}" alt="{{ post.title | escape }}">
+                      <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+                  </div>
+                  <div class="post__title">
+                      <h3>{{ post.title }}</h3>
+                  </div>
+              </header>
+              <div class="post__content">
+                  <div class="post__excerpt">
+                      <p>{{ post.content | strip_html | truncate: 140, "&nbsp;[…]" }}</p>
+                  </div>
+              </div>
+          </a>
+        </article>
+      </li> 
+  {%- endfor -%}
+</ul>

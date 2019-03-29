@@ -1,0 +1,62 @@
+.book__content {
+    max-width:100%;
+}
+
+a.book__link {
+
+    &:hover, &:focus {
+
+        .book__img__heart-wrapper {
+            opacity:1;
+        }
+    }
+}
+
+.book__title {
+    text-align: left;    
+}
+
+.book__body {
+    position:relative;
+    margin-top:$spacing-unit/2;    
+}
+
+.book__img-wrapper {
+    position:relative;
+    width:144px;
+    margin:$spacing-unit/2 auto;
+
+    @media screen and (min-width:420px) {
+        float:left;
+        margin:0.4em 1em 0 0;
+    }
+}
+
+.book__img {
+    margin:0;
+    width:100%;
+    height:auto;
+    position: relative;
+    z-index:1;
+}
+
+.book__img__heart-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    right:0;
+    left: 0;
+    bottom:0;
+    width: 144px;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.85);
+    opacity: 0;
+    transition: opacity 150ms ease-out;
+    z-index: 2;
+}
+
+.book__img__heart {
+    width:100px;
+}

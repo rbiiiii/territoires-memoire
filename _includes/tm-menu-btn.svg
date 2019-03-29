@@ -1,0 +1,29 @@
+<svg version="1.1" id="burger" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 258.243 317.102" enable-background="new 0 0 258.243 317.102" xml:space="preserve">
+
+	<g>
+		<g id="shadow">
+			<path id="shadow-up" fill="#7F9DB0" d="M117.226,293.633l-19.632-33.998H23.797L0,236.169V0h234.446l23.797,23.466v236.168h-84.045
+			l-33.178,57.467L117.226,293.633 M24.958,232.295h76.76l23.225,40.227l23.225-40.227h76.758V30.602H24.958V232.295z" style="display: block;"></path>
+			<path id="shadow-down" fill="#7F9DB0" d="M101.636,259.635H23.797L10,246.169V10h234.446l13.797,13.466v236.168h-84.045l-33.178,57.467
+			l-13.797-13.467 M24.958,232.295h76.76l23.225,40.227l23.225-40.227h76.758V30.602H24.958V232.295z" style="display: none;"></path>
+		</g>
+		<polygon class="anim" fill="#003B62" points="217,219 140.449,219 117.223,259.227 93.997,219 18,219 18,18 217,18" transform="translate(0, 0)"></polygon>
+		<g class="anim" transform="translate(0, 0)">
+			<g>
+				<rect x="58" y="42" fill="#FFFFFF" width="120" height="31"></rect>
+			</g>
+			<g>
+				<rect x="58" y="163" fill="#FFFFFF" width="120" height="31"></rect>
+			</g>
+			<g>
+				<rect x="58" y="103" fill="#FFFFFF" width="120" height="31"></rect>
+			</g>
+		</g>
+		<g class="anim" transform="translate(0, 0)">
+			<g>
+				<path fill="#FFFFFF" d="M117.223,293.635l-33.178-57.466H0V0h234.446v236.169H150.4L117.223,293.635z M17.238,218.931h76.76
+				l23.225,40.228l23.224-40.228h76.761V17.238H17.238V218.931z"></path>
+			</g>
+		</g>
+	</g>
+</svg>

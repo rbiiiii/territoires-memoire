@@ -1,0 +1,114 @@
+- src: voyages-pour-la-memoire-gallery-01.jpg
+  type: vertical
+  position: left
+  gallery: voyages-pour-la-memoire
+
+- src: voyages-pour-la-memoire-gallery-02.jpg
+  type: horizontal
+  position: right
+  gallery: voyages-pour-la-memoire
+
+- src: voyages-pour-la-memoire-gallery-03.jpg
+  type: horizontal
+  position: right
+  gallery: voyages-pour-la-memoire
+
+- src: voyages-pour-la-memoire-gallery-04.jpg
+  type: horizontal
+  position: left
+  gallery: voyages-pour-la-memoire
+
+- src: voyages-pour-la-memoire-gallery-05.jpg
+  type: horizontal
+  position: left
+  gallery: voyages-pour-la-memoire
+
+- src: voyages-pour-la-memoire-gallery-06.jpg
+  type: vertical
+  position: right
+  gallery: voyages-pour-la-memoire
+
+- src: journees-pour-la-memoire-gallery-01.jpg
+  type: vertical
+  position: left
+  gallery: journees-pour-la-memoire
+
+- src: journees-pour-la-memoire-gallery-02.jpg
+  type: horizontal
+  position: right
+  gallery: journees-pour-la-memoire
+
+- src: journees-pour-la-memoire-gallery-03.jpg
+  type: horizontal
+  position: right
+  gallery: journees-pour-la-memoire
+
+- src: journees-pour-la-memoire-gallery-04.jpg
+  type: horizontal
+  position: left
+  gallery: journees-pour-la-memoire
+
+- src: journees-pour-la-memoire-gallery-05.jpg
+  type: horizontal
+  position: left
+  gallery: journees-pour-la-memoire
+
+- src: journees-pour-la-memoire-gallery-06.jpg
+  type: vertical
+  position: right
+  gallery: journees-pour-la-memoire
+
+- src: voyage-annuel-2019-gallery-01.jpg
+  type: vertical
+  position: left
+  gallery: voyage-annuel
+
+- src: voyage-annuel-2019-gallery-02.jpg
+  type: horizontal
+  position: right
+  gallery: voyage-annuel
+
+- src: voyage-annuel-2019-gallery-03.jpg
+  type: horizontal
+  position: right
+  gallery: voyage-annuel
+
+- src: voyage-annuel-2019-gallery-04.jpg
+  type: horizontal
+  position: left
+  gallery: voyage-annuel
+
+- src: voyage-annuel-2019-gallery-05.jpg
+  type: horizontal
+  position: left
+  gallery: voyage-annuel
+
+- src: voyage-annuel-2019-gallery-06.jpg
+  type: vertical
+  position: right
+  gallery: voyage-annuel
+
+- src: reseau-gallery-01.jpg
+  type: horizontal
+  position: left
+  gallery: reseau
+
+- src: reseau-gallery-02.jpg
+  type: horizontal
+  position: right
+  gallery: reseau
+
+- src: reseau-gallery-03.jpg
+  type: horizontal
+  position: left
+  gallery: reseau
+
+- src: reseau-gallery-04.jpg
+  type: horizontal
+  position: left
+  gallery: reseau
+
+- src: reseau-gallery-05.jpg
+  type: vertical
+  position: right
+  gallery: reseau

@@ -1,0 +1,85 @@
+.pdf-link {
+    padding:0 $spacing-unit;
+    max-width:270px;
+    @extend %limited-width;
+}
+
+a.pdf-link__link {
+    background:none;
+    display:flex;
+    align-items: center;
+    max-width:270px;
+
+    &:hover, &:focus {
+
+        .pdf-link__text {
+            color:$rouge-tm;
+        }
+        
+        .pdf-link__img--color {
+            fill:$rouge-tm
+        }
+    }
+
+    &:active {
+
+        .pdf-link__text {
+            color:$bleu-tm-light;    
+        }
+        
+        .pdf-link__img--color {
+            fill:$bleu-tm-light;
+        }
+    }
+
+    &.color-white {
+        
+        &:hover, &:focus {
+
+            .pdf-link__text {
+                color:white;
+            }
+            
+            .pdf-link__img--color {
+                fill:#FFFFFF;
+            }
+        }
+
+        &:active {
+
+            .pdf-link__text {
+                color:white;
+            }
+            
+            .pdf-link__img--color {
+                fill:#FFFFFF;
+            }
+        }
+    }
+}
+
+.pdf-link__img {
+    width: 50px;
+    height:64.4px;
+    margin-right:$spacing-unit;
+    flex-shrink: 0;
+}
+
+.pdf-link__text {
+    @include pj-regular;
+    color:$bleu-tm;
+    line-height: 1.2;
+    transition:color 150ms ease-out;
+
+    .color-white & {
+        color:#ffffff;    
+    }
+}
+
+.pdf-link__img--color {
+    transition:fill 150ms ease-out;
+
+    .color-white & {
+        fill:#ffffff;    
+    }     
+}

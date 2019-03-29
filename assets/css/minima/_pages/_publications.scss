@@ -1,0 +1,13 @@
+.dossiers {
+
+    .page-tuile__container {
+
+        &:before {
+            background:none;    
+        }
+    }
+
+    .page-tuile__text {
+        visibility:hidden;
+    }    
+}

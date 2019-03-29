@@ -1,0 +1,157 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: "assets/uploads"
+public_folder: "assets/uploads"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+collections:
+  - name: "agenda"
+    label: "Agenda"
+    folder: "_agenda"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Catégorie", name: "categories", widget: "hidden", default: "agenda"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date du début de l'événement", name: "date_start", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Date de fin de l'événement", name: "date_stop", widget: "date", format: "YYYY-MM-DD", default: "", required: false}
+      - {label: "Heure de l'événement (one day only)", name: "hour", widget: "string", required: false}
+      - {label: "Image", name: "img_file", widget: "image", required: false}
+      - {label: "Adresse affichée", name: "place", widget: "string"}
+      - {label: "Adresse googlemaps", name: "address", widget: "string"}
+      - {label: "Prix (version résumée)", name: "price", widget: "string", required: false}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Horaire", name: "schedule", widget: "markdown", required: false}
+      - {label: "Prix d'entrée (version détaillée)", name: "entrance", widget: "markdown", required: false}
+      - {label: "Réservation", name: "booking", widget: "markdown", required: false}
+      - {label: "Plus d'infos pratiques", name: "practical", widget: "markdown", required: false}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+
+  - name: "actualites"
+    label: "Actualités"
+    folder: "_actualites"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Publié ?", name: "published", widget: "boolean", default: false}
+      - {label: "Catégorie", name: "categories", widget: "hidden", default: "actualites"}
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Image", name: "img_file", widget: "image", required: false}
+      - {label: "Publié le", name: "posted_on", widget: "date", format: "YYYY-MM-DD"}
+      #- {label: "Ajouter un fichier", name: "file_src", widget: "file", required: false}
+      - label: "Fichier(s)"
+        name: "uploaded_files"
+        widget: "list"
+        required: false
+        fields:
+          - label: Fichier
+            name: file
+            widget: object
+            fields:
+              - {label: Nom du fichier, name: file_name, widget: string}
+              - {label: "Ajouter un fichier", name: "file_src", widget: "file"}
+              - label: "Type de fichier"
+                name: "file_type"
+                widget: "select"
+                options:
+                  - { label: "ZIP", value: "ZIP" }
+                  - { label: "PDF", value: "PDF" }
+      - {label: "Contenu", name: "body", widget: "markdown"}    
+
+  - name: "focus"
+    label: "Focus page d'accueil"
+    folder: "_focus"
+    create: true
+    slug: "{{year}}-{{slug}}"
+    fields:
+      - {label: "Publié ?", name: "published", widget: "boolean", default: false}
+      - {label: "Titre", name: "title", widget: "string" }
+      - {label: "Date", name: "posted_on", widget: "date"}
+      - {label: "Lien", name: "link", widget: "string" }
+      - {label: "Image", name: "img_file", widget: "image"}
+
+  - name: "books"
+    label: "Livres Aide-mémoire"
+    folder: "_books"
+    create: true
+    slug: "{{year}}-_-{{slug}}"
+    fields:
+      - {label: "Coup de coeur ?", name: "tag", widget: "select", options: ["", "heart"]}
+      - {label: "Version de l'AM concerné", name: "version", widget: "number", valueType: "int"}
+      - {label: "Auteur(s)", name: "author", widget: "string", required: false}
+      - {label: "Information(s) supplémentaire(s)", name: "extra", widget: "string", required: false}
+      - {label: "Titre", name: "title", widget: "string", required: false}
+      - {label: "Edition", name: "editor", widget: "string", required: false}
+      - {label: "Collection", name: "col", widget: "string", required: false}
+      - {label: "Année de publication", name: "year", widget: "string", required: false}
+      - {label: "Prix", name: "price", widget: "string", default: "Exemple: 20 €", required: false}
+      - {label: "Lien", name: "link", widget: "string", required: false}
+      - {label: "Image", name: "img_src", widget: "image"}
+      - {label: "Description", name: "body", widget: "markdown"}
+
+  - name: "aide-memoire"
+    label: "Aide-mémoire numéro"
+    folder: "_aide-memoire"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Publié ?", name: "published", widget: "boolean", default: false}
+      - {label: "Titre", name: "title", widget: "string", default: "Aide-mémoire n°85"}
+      - {label: "chemin URL", name: "slug", widget: "string", default: "aide-memoire-85"}
+      - {label: "Numéro", name: "num", widget: "number", valueType: "int"}
+      - {label: "Période de publication", name: "date_publication", widget: "string"}
+      - {label: "Couverture", name: "couv_src", widget: "image"}
+      - {label: "Illustration", name: "img_src", widget: "image"}
+      - {label: "Pdf", name: "pdf_src", widget: "file"}
+      - {label: "Description", name: "body", widget: "markdown"}
+
+  - name: "am-posts"
+    label: "Aide-mémoire article"
+    folder: "_am-posts"
+    create: true
+    slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}-{{slug}}"
+    fields:
+      - {label: "Numéro d'Aide-mémoire", name: "categories", widget: "relation", collection: "aide-memoire", searchFields: ["name", "num", "slug"], valueField: "slug" }
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Type de contenu", name: "type", widget: "select", options: ["article", "editorial", "mots"]}
+      - {label: "Crédits", name: "credits", widget: "string", default: "Par Julien Paulus par ex."}
+      - {label: "A propos de l'auteur", name: "about_the_author", widget: "markdown", required: false}
+      - {label: "Ordre d'apparition", name: "order", widget: "number", valueType: "int"}
+      - {label: "Contenu de l'article", name: "body", widget: "markdown"}
+
+  - name: "communiques-presse"
+    label: "Communiqués de presse"
+    folder: "_communiques-presse"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "PDF", name: "pdf_src", widget: "file", required: false}
+      - {label: "ZIP", name: "zip_src", widget: "file", required: false}
+      - {label: "Lien externe", name: "external_url", widget: "string", required: false}
+
+  - name: "enlien"
+    label: "En lien"
+    folder: "_enlien"
+    create: true
+    slug: "{{minute}}-{{slug}}"
+    fields:
+      - {label: "Template", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Catégorie", name: "categories", widget: "hidden", default: "enlien"}
+      - {label: "Publié ?", name: "published", widget: "boolean", default: false}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "img_file", widget: "image"}
+      - {label: "Fichier à télécharger", name: "enlien_link", widget: "file"}
+      - {label: "Texte pour le bouton de téléchargement", name: "enlien_link_txt", widget: "string"}
+      - {label: "Publié le", name: "posted_on", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Contenu", name: "body", widget: "markdown"}
+
+

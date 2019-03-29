@@ -1,0 +1,15 @@
+---
+---
+[
+  {% assign am_sorted = site.am-posts | sort: 'categories' | reverse %}
+  {% for am-post in am_sorted  %}
+    {
+    
+      "title"      : "{{ am-post.title | escape }}",
+      "url"        : "{{ site.baseurl }}{{ am-post.url }}",
+      "credits"    : "{{ am-post.credits }}",
+      "categories" : "{{ am-post.categories }}"
+      
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

@@ -1,0 +1,172 @@
+.biblio {
+
+    .page-section {
+
+        &.top {   
+
+            .biblio__header {
+                margin-right: auto;
+                margin-left: auto;
+                margin-bottom:$spacing-unit*2;
+            }    
+
+            .blocks {
+
+                @supports (display: grid) {
+                    grid: auto-flow / 1fr 330px;
+                }
+            }
+
+            .block {
+                max-width:100%;
+                
+                &.card {
+                    max-width: 330px;
+                }
+
+                .chapeau {
+                    margin-bottom:0.5em;
+                }
+            }
+        }    
+    }    
+
+    .books {
+
+        .mini-heart {
+            display:none;
+        }
+    }
+}
+
+.biblio__catalogue {
+    text-align: center;
+    margin-top:$spacing-unit*3;
+}
+
+#horaires-et-informations {
+
+    .card {
+        max-width:$large-width;
+        margin-right:auto;    
+        margin-left:auto;    
+    }    
+
+    .pdf-link {
+        margin-top:$spacing-unit;
+        margin-left:0;
+        padding-left:0;    
+    }
+}
+
+.horaires-et-informations__infos_pratiques {
+    display:flex;    
+}
+
+.horaires-et-informations__infos_pratiques__item {
+    
+    &.left {
+        margin-right:$spacing-unit;
+    }    
+}
+
+#deux-espaces {
+
+    .container {
+        max-width:$medium-width - $spacing-unit*2 ;
+        margin-right:auto;    
+        margin-left:auto;  
+
+        @media screen and (min-width:1024px) {
+            
+            @supports (display:grid) {
+                max-width:$medium-width;
+            }
+        }
+
+        p {
+            margin-top:$spacing-unit/2;    
+        }    
+    }
+
+    h3 {
+        margin-top:10px;    
+    }
+}
+
+.books.slick-slider {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top:$spacing-unit;
+    flex-wrap:nowrap;
+    flex-direction:row;
+    margin-bottom:$spacing-unit*2;
+
+    @media screen and (min-width:768px) {
+        align-items: center;
+    }
+
+    @media screen and (min-width:1756px) {
+        align-items:stretch;
+        flex-wrap:nowrap;    
+    }
+
+    button {
+        z-index:20;
+        position:relative;
+        width:20px;
+        height:auto;
+        border:none;
+        background:none;
+        margin: 0;
+        padding: 0;
+
+        svg {
+            width:20px;
+            height:auto;
+        }
+
+        &:hover, &:focus {
+            cursor:pointer;
+
+            .tm-icon-slider--color {
+                fill:$bleu-tm; 
+            }
+        }
+    }
+
+    .slick-list {
+        flex:0 0 100%; 
+        position: relative;
+    }
+
+    .slick-prev {
+        left:10px;   
+
+        @media screen and (min-width:1024px) {
+            left:50px;
+        }
+    }
+
+    .slick-next {
+        right:10px;   
+
+        @media screen and (min-width:1024px) {
+            right:50px;
+        }
+    }
+
+    .slick-slide {
+        margin:0 $spacing-unit;    
+
+        @media screen and (min-width:1024px) {
+            margin:0 $spacing-unit*2;    
+        }
+    }
+
+    .tm-icon-slider--color {
+        fill:$rouge-tm;
+        transition:fill 150ms ease-out; 
+    }
+}

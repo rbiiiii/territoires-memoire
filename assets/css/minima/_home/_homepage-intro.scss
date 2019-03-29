@@ -1,0 +1,209 @@
+.homepage-intro {
+    margin-top:0;
+    padding-top:0;
+    position:relative;
+
+    .card {
+        padding: $spacing-unit*2 $spacing-unit;
+        margin-bottom:0;
+
+        @media screen and (min-width:768px) {
+            padding: $spacing-unit*4 $spacing-unit*2;
+            @include relative-font-size(1.2);
+            font-size:2.4vw;
+        }
+
+        @media screen and (min-width:1240px) {
+            position: absolute;
+            z-index: 5;
+            padding: 1.3em;
+            background: #003b52;
+            margin: 0;
+            background-color:rgba($bleu-tm, 0.7);
+            @include relative-font-size(1.3);
+            right: $spacing-unit *2;
+            bottom: $spacing-unit *2;
+            width: 100%;
+            max-width: 42%;  
+        }
+    }
+
+    .page-section__title {
+        text-align:left;  
+        margin-top:0;  
+    }
+
+    .page-section__description {
+        padding:0;
+        margin-bottom:0;
+        text-align: center;
+        
+        @media screen and (min-width:560px) {
+            text-align: left;
+        }
+    }
+
+    a.button {
+        @include relative-font-size(0.8);
+        margin:$spacing-unit/2 0.5em 0 0;
+    }
+}
+
+.homepage-intro__video-container {
+    width: 100%;
+    height: auto;
+    margin:0;
+    max-height: 680px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    overflow:hidden;
+    background:black;
+    position:relative;
+}
+
+#homepage-intro__video {
+    width: 100%;
+    height: auto;
+    background:black;
+}
+
+.homepage-intro__video__status-indicator {
+    position:absolute;
+    background:none;
+    border:none;
+    color:white;
+    text-shadow:1px 1px $bleu-tm-light;
+    font-size:25px;
+    z-index:5;
+    opacity:0;
+    transform:scale(0);
+    transform-origin: 50% 50%;
+    transition:70ms opacity ease-out, 70ms transform ease-out;
+
+    &:hover, &:focus {
+        cursor:pointer;    
+        content:"&#9654;";
+    }
+
+    &.visible {
+        opacity:1;
+        transform:scale(1);    
+    }
+
+    span {
+        width:50px;
+        display:inline-block;
+        text-align: center; 
+    }
+}
+
+.homepage-intro__actions {
+    display: flex;
+    max-width: 540px;
+    margin: $spacing-unit*2 auto 0 auto;
+    flex-direction:column;
+    align-items: center;
+
+    @media screen and (min-width:560px) {
+        flex-direction:row;
+        justify-content: space-between;
+        align-items: flex-end;
+    }
+
+    @media screen and (min-width:1240px) {
+        margin-bottom: 0;
+    }
+}
+
+.homepage-intro__actions__button {
+    max-width:220px;
+    width:100%;
+    margin-bottom:$spacing-unit;
+
+    &:last-of-type {
+        margin-bottom:0;    
+    }
+
+    @media screen and (min-width:560px) {
+        margin-bottom:0;    
+    }
+
+    &.social {
+        height:75px;
+        background-color:transparent; 
+    } 
+
+    a.button {
+        display:flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-top:0;
+
+        &:hover, &:focus {
+            
+            h3.homepage-intro__actions__button__text {
+                color:$rouge-tm;
+
+                .social & {
+                    color:white;    
+                }
+            }
+            
+            .homepage-intro__actions__button__img--color {
+                fill:$rouge-tm;
+            }    
+        }
+    }
+}
+
+h3.homepage-intro__actions__button__text {
+    display: block;
+    @include pj-medium;
+    @include relative-font-size(1.1);
+    line-height: 1.3;
+    color:$bleu-tm;
+    margin-bottom:0;
+    transition:color 150ms ease-out;
+
+    .social & {
+        color:white;
+        text-align: center;
+    }
+}
+
+.homepage-intro__actions__button__img {
+    width:60px;
+    height:62px;
+}
+
+.homepage-intro__actions__button__img--color, .st0.homepage-intro__actions__button__img--color  {
+    fill:$bleu-tm;    
+    transition:fill 150ms ease-out;    
+}
+
+.homepage-intro__actions__social-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+a.homepage-intro__actions__social-item {
+    display: flex;
+    align-items: center;
+
+    &:hover, &:focus {
+
+         .homepage-intro__actions__social-item__img-color {
+            fill:$rouge-tm;    
+        }   
+    }   
+}
+
+.homepage-intro__actions__social-item__img {
+    height:25px;
+}
+
+.homepage-intro__actions__social-item__img-color {
+    fill:white;
+    transition:fill 150ms ease-out; 
+}

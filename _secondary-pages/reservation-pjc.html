@@ -1,0 +1,141 @@
+---
+layout: secondary-page
+title:  "Formulaire de demande de réservation"
+img_file: "pjc/page-title-plus_jamais_ca.jpg"
+permalink: /reservation-pjc/
+breadcrumb_parent_title: L'exposition permanente
+breadcrumb_parent_src: plusjamaisca
+class: pjc-booking
+---
+
+<section class="page-section top">
+    <div class="page-section__content .limited-width--without-padding">
+        <p>Ce formulaire vous permet de nous communiquer toutes les informations utiles pour réserver une ou plusieurs visites de l’exposition. Nous vous contacterons dans les plus brefs délais pour vous confirmer la réservation ou vous proposer une alternative si l’exposition affiche complet.</p>
+        <form id="pjc-booking__form" action="/reservation-pjc-merci/" method="post" name="Contact Form" netlify-honeypot="mr-hyde-input" data-netlify-recaptcha="true" data-netlify="true">
+            <h3>Coordonnées de la personne de contact</h3>
+            <p class="mr-hyde">
+                <label>Ne pas remplir si vous n'êtes pas humains: <input name="mr-hyde-input" /></label>
+            </p>
+            <p>
+                Madame&nbsp;<input type="radio" name="sexe" value="Madame" checked="checked">
+                Monsieur&nbsp;<input type="radio" name="sexe" value="Monsieur">
+                Autre&nbsp;<input type="radio" name="sexe" value="Autre">
+            </p>
+            <p>
+                <label for="firstname">Prénom <span class="required-field">*</span></label><br>	
+                <input type="text" id="firstname" name="firstname" required>
+            </p>
+            <p>
+                <label for="name">Nom <span class="required-field">*</span></label><br>	
+                <input type="text" id="name" name="name" required>
+            </p>
+            <p>
+                <label for="tel">Numéro de téléphone <span class="required-field">*</span></label><br>	
+                <input type="tel" id="tel" name="tel" required>
+            </p>
+            <p>
+                <label for="email">Email <span class="required-field">*</span></label><br>
+                <input type="email" id="email" name="email" required>
+            </p>
+            <p>
+                <label for="address">Adresse</label><br>
+                <textarea id="address" name="address" row="2"></textarea>
+            </p>
+            <p>
+                <label for="cp">Code postal</label><br>	
+                <input type="text" id="cp" name="cp">
+            </p>
+            <p>
+                <label for="localite">Localité</label><br>	
+                <input type="text" id="localite" name="localite">
+            </p>
+            <h3 id="group-dropdown-btn">S'il s'agit d'un groupe</h3>
+            <p id="group-dropdown-more">[...]</p>
+            <div id="group-dropdown" style="display:none">
+                <p>
+                    <label for="scolaire">Scolaire ?</label><br>
+                    Oui&nbsp;<input type="radio" name="scolaire" value="Oui" checked="checked">
+                    Non&nbsp;<input type="radio" name="scolaire" value="Non">
+                </p>
+                <p>
+                    <label for="groupName">Nom (de l’établissement, de l’organisation…)</label><br>	
+                    <input type="text" id="groupName" name="groupName">
+                </p>
+                <p>
+                    <label for="groupAddress">Adresse</label><br>
+                    <textarea id="groupAddress" name="groupAddress" row="2"></textarea>
+                </p>
+                <p>
+                    <label for="groupCp">Code postal</label><br>	
+                    <input type="text" id="groupCp" name="groupCp">
+                </p>
+                <p>
+                    <label for="groupLocalite">Localité</label><br>	
+                    <input type="text" id="groupLocalite" name="groupLocalite">
+                </p>
+            </div>
+            <h3>La visite</h3>
+            <p style="line-height:1.25">Maximum 20 personnes par visite (25 si < 15 ans). Le groupe sera scindé si nécessaire (départ toutes les 30 minutes).</p>
+            <p>
+                <label for="nbr1114">Nombre de participants entre 11 et 14 ans <span class="required-field">*</span></label><br>	
+                <input type="number" id="nbr1114" name="nbr1114" max="20" value="0" min="0" required>
+            </p>
+            <p>
+                <label for="nbr15">Nombre de participants de 15 ans et plus <span class="required-field">*</span></label><br>	
+                <input type="number" id="nbr15" name="nbr15" max="20" value="0" min="0" required>
+            </p>
+            <p>
+                <label for="nbrSeniors">Nombre de seniors</label><br>	
+                <input type="number" id="nbrSeniors" name="nbrSeniors" max="20" value="0" min="0">
+            </p>
+            <p>
+                <label for="nbrAccompanists">Nombre d'accompagnateurs <span class="required-field">*</span></label><br>	
+                <input type="number" id="nbrAccompanists" name="nbrAccompanists" value="0" min="0" required>
+            </p>
+            <p>
+                <label for="dates">Date(s) souhaitée(s) <span class="required-field">*</span></label><br>	
+                <input type="text" id="dates" name="dates" required>
+            </p>
+            <p>
+                <label for="schedule"><a href="http://www.citemiroir.be/fr/exposition-permanente/plus-jamais-ca" target="_blank">Plages horaires</a> <span class="required-field">*</span></label><br>
+                Matin <input type="checkbox" name="schedule" value="Matin" checked="checked" required>
+                Après-midi <input type="checkbox" name="schedule" value="Après-midi">
+            </p>
+            <p>
+                <label for="language">Langue de la visite <span class="required-field">*</span></label><br>
+                FR <input type="radio" name="language" value="FR" checked="checked" required>
+                NL <input type="radio" name="language" value="NL">
+            </p>
+            <p>
+                <label for="otherInfos">Autres informations utiles à nous communiquer</label><br>
+                <textarea id="otherInfos" name="otherInfos" row="4"></textarea>
+            </p>
+            <h3>Modalités de paiement <small>(<a target="_blank" href="http://www.citemiroir.be/fr/exposition-permanente/plus-jamais-ca">Tarifs</a>)</small></h3>
+            <p>Paiement sur place lors de la visite, en espèces ou par carte.</p>
+            <p>
+                <div data-netlify-recaptcha="true"></div>
+            </p>
+            <p>
+                <input class="button button--blue" id="submit-form" type="submit" value="Envoyer">
+            </p>
+        </form>
+    </div>
+</section>
+
+<script>
+var groupDropDown = document.getElementById("group-dropdown");
+var groupDropDownBtn = document.getElementById("group-dropdown-btn");
+var groupDropDownMore = document.getElementById("group-dropdown-more");
+
+function toggleGroup() {
+    if (groupDropDown.style.display === "none") {
+        groupDropDown.style.display = "block";
+        groupDropDownMore.style.display = "none";
+    } else {
+        groupDropDown.style.display = "none";
+        groupDropDownMore.style.display = "block";
+    }
+}
+
+groupDropDownBtn.addEventListener('click', toggleGroup);
+</script>

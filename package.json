@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@sendgrid/client": "^6.3.0",
+    "@sendgrid/mail": "^6.3.1",
+    "dotenv": "^6.2.0",
+    "netlify-lambda": "^1.4.2"
+  },
+  "scripts": {
+    "start:lambda": "netlify-lambda serve functions-src"
+  }
+}

@@ -1,0 +1,109 @@
+.pdf-txt {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.pdf-txt__item {
+    padding:$spacing-unit 0;
+    margin:0 auto;
+
+    @media screen and (min-width:$medium-width) {
+        padding:$spacing-unit;
+    }
+
+    @media screen and (min-width:1024px) {
+        width:50%;
+        margin:0;
+    }
+}
+
+a.pdf-txt__item__link[href] {
+    background: none;
+    display:flex;
+    flex-direction: column;
+
+    @media screen and (min-width:$medium-width) {
+        flex-direction: row;
+    }
+
+    &:hover, &:focus {
+        
+        .pdf-txt__item__img {
+            border-color:$rouge-tm;
+        }
+
+        .pdf-txt__item__text__title {
+            color:$rouge-tm;
+        }
+    }
+
+    &:active {
+        
+        .pdf-txt__item__img {
+            border-color:$bleu-tm-light;
+        }
+
+        .pdf-txt__item__text__title {
+            color:$bleu-tm-light;
+        }
+    }    
+}
+
+.pdf-txt__item__img {
+    display:block;
+    flex:0 0 138px;
+    align-self:flex-start;
+    height:auto;
+    margin:0 auto $spacing-unit/2 auto;
+    border:3px solid $bleu-tm;
+    transition:150ms border-color ease-out;
+
+    @media screen and (min-width:$medium-width) {
+        margin:0 $spacing-unit 0 0;
+    }
+}
+
+.pdf-txt__item__text {
+    max-width:24em;
+    text-align: justify;
+    hyphens:auto;
+}
+
+.pdf-txt__item__text__title {
+    line-height:1.1;
+    margin-bottom:0.2em;
+    text-align: center;
+    @include relative-font-size(1.4);
+    transition:color 150ms ease-out;
+
+    @media screen and (min-width:$medium-width) {
+        text-align: left;
+    }
+}
+
+.pdf-txt__item__text__txt {
+    color:$text-color;
+    margin:0;
+}
+
+@supports (display:grid) {
+
+    @media screen and (min-width:1024px) {
+        
+        .pdf-txt {
+            display:grid;
+            grid:auto-flow / 1fr 1fr;
+            grid-gap:$spacing-unit*2; 
+        }
+
+        .pdf-txt__item {
+            padding:0;
+            margin:0;
+
+            @media screen and (min-width:1024px) {
+                width:100%;
+            }
+        }
+    }
+}

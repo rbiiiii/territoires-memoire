@@ -1,0 +1,203 @@
+.editions-infos {
+    margin-top:$spacing-unit*2;    
+
+    .card--one {
+        order:1;    
+    }
+
+    .card--two {
+        order:2;    
+    }
+
+    @supports (display:grid) {
+        .card {
+            margin:0;    
+        }
+    }
+
+    .container--half.odd {
+        margin-top:$spacing-unit*2; 
+    }   
+
+    @media screen and (min-width:1024px) {
+        
+        .container--half.odd {
+            margin-top:0;    
+        }
+    }
+
+    .flex-block__right {
+        
+        p {
+            margin-bottom:0;    
+        }
+    }
+}
+
+.editions-infos--left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+
+    .card {
+        position:relative;    
+    }
+}
+
+.editions-infos__ou {
+    position: absolute;
+    bottom: -51px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    left: 0;
+}
+
+.editions-infos__ou__inner {
+    padding: 0.2em 1em;
+    background: white;
+    color: $bleu-tm;
+    @include relative-font-size(1.2);
+    @include pj-regular;
+
+    .arrow-bottom {
+        font-size: 120%;
+        height: 1.25em;
+        margin-top: -0.3em;
+    }
+
+    .arrow-right {
+        display:none;    
+    } 
+}
+
+@media screen and (min-width:1024px) {
+
+    .editions-infos {
+
+        .card--one {
+            order:2;    
+        }
+
+        .card--two {
+            order:1;    
+        }
+    }
+
+    .editions-infos__ou {
+        height:100%;
+        width:auto;
+        top:0;
+        right:0;
+        bottom:auto;
+        left:auto;
+        flex-direction: column;
+    }
+
+    .editions-infos__ou__inner {
+        padding: 0.5em 1em;
+        background: white;
+        color: $bleu-tm;
+        @include relative-font-size(1.2);
+        @include pj-regular;
+
+        .arrow-right {
+            display: inline;    
+            font-size:82%;
+            height:auto;
+            margin-top:0;
+        }   
+
+        .arrow-bottom {
+            display:none;    
+        }
+    }
+}
+
+.editions {
+
+    .grid__item__link {
+        border:0;    
+
+        &:hover {
+            
+            .grid__item__img {
+                border-color: $rouge-tm; 
+            }    
+
+            .grid__item__text {
+                color:$rouge-tm;
+                background:none;
+            }
+
+            .grid__item__author {
+                color:$text-color;    
+            }
+        } 
+
+        &:active {
+            
+            .grid__item__img {
+                border-color: $bleu-tm-light; 
+            }    
+
+            .grid__item__text {
+                color:$bleu-tm-light;
+                background:none;
+            }
+
+            .grid__item__author {
+                color:$text-color;    
+            }
+        } 
+    }
+
+    .grid__item__img {
+        border: 2px solid $bleu-tm;
+        transition: border-color 150ms ease-out;    
+    }
+
+    .grid__item__text {
+        background:none;
+        text-align: left;
+        color:$bleu-tm;
+        @include relative-font-size(1.1);
+        padding:0;
+        margin: $spacing-unit/2 0 $spacing-unit/4 0;   
+        min-height:1px;
+        display:block;
+        transition: color 150ms ease-out;    
+    }
+
+    .grid__item__author {
+        @include relative-font-size(0.9);    
+    }
+}
+
+@media screen and (min-width:1919px) {
+
+    .editions {
+        
+        .page-section {
+            background: no-repeat right bottom;    
+        }
+    }
+        
+    #collection-voix-de-la-memoire {
+        background-image:url('./images/editions/bg-voix-de-la-memoire.svg'); 
+    }
+
+    #collection-libres-ecrits {
+        background-image:url('./images/editions/bg-libres-ecrits.svg'); 
+    }
+
+    #collection-points-d-encrage {
+        background-image:url('./images/editions/bg-points-d-encrage.svg'); 
+    }
+
+    #collection-a-refaire {
+        background-image:url('./images/editions/bg-a-refaire.svg'); 
+    }
+}

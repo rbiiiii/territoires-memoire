@@ -1,0 +1,75 @@
+---
+layout: static-page
+title:  "Des dossiers pour comprendre"
+title_img: "dossiers/page-title-dossiers.jpg"
+permalink: dossiers
+class: dossiers
+---
+
+<section class="page-section top limited">
+    <div class="page-section__content">
+        <p class="chapeau">Les Territoires de la Mémoire éditent des dossiers thématiques, des dossiers pédagogiques et des dossiers sur les camps nazis. Ils permettent d'approfondir les sujets abordés par l'association. Ces dossiers sont disponibles en prêt à la Bibliothèque George Orwell, à la vente à la Librairie Stéphane Hessel et ils sont disponibles gratuitement en pdf imprimables.</p>
+        <div class="page-tuiles">
+            {%- include_cached pages/page-tuile.html title="Dossiers camps" url="#dossiers-camps" imageSlug ="dossiers" imageFileName="page-dossiers-tuile-01.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Dossiers pédagogiques" url="#dossiers-pedagogiques" imageSlug ="dossiers" imageFileName="page-dossiers-tuile-02.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Fiches thématiques clés" url="#fiches-thematiques-cle" imageSlug ="dossiers" imageFileName="page-dossiers-tuile-03.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Dossiers thématiques clés" url="#dossiers-thematiques-cle" imageSlug ="dossiers" imageFileName="page-dossiers-tuile-04.jpg" -%}
+        </div>
+    </div>
+</section>
+
+<section id="dossiers-camps" class="page-section">
+    <header>
+        <div class="page-section__img">
+            <img src="/assets/images/dossiers/dossiers-camps.jpg" alt="Dossiers camps">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">Dossiers camps</h2>
+        <p class="page-section__description">Afin de préparer une visite vers un site mémoriel ou pour compléter vos connaissances générales, les Territoires de la Mémoire proposent des dossiers thématiques sur un certain nombre de camps de concentration et d’extermination nazis. Ils sont introduits par une contextualisation générale sur l’ascension du parti nazi, leur idéologie et leur politique de répression. Retrouvez-les ici en format pdf imprimable.</p>
+    </header>
+    <div class="page-section__content">
+        {%- include_cached pages/pdf-item.html slug="dossiers-camps" folder="dossiers" -%}
+    </div>
+</section>
+
+<section id="dossiers-pedagogiques" class="page-section">
+    <header>
+        <div class="page-section__img">
+            <img src="/assets/images/dossiers/dossiers-pedagogiques.jpg" alt="Dossiers pédagogiques">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">Dossiers pédagogiques</h2>
+        <p class="page-section__description">Désireux d’offrir aux acteurs de l’Éducation un service qui répond au plus près à leurs besoins, les Territoires de la Mémoire présentent le dossier pédagogique Plus jamais ça&nbsp;! Dossier de préparation à la visite de l’exposition. Le corpus Plus jamais ça&nbsp;! ne constitue cependant qu’une première étape nécessaire mais assurément pas suffisante ; il s’agit d’une amorce, d’une première rencontre essentielle avec l’histoire des événements commémorés au travers de l’exposition.</p>
+    </header>
+    <div class="page-section__content">
+        {%- include_cached pages/pdf-item.html slug="dossiers-pedagogiques" folder="dossiers" -%}
+    </div>
+</section>
+
+<section id="fiches-thematiques-cle" class="page-section">
+    <header>
+        <div class="page-section__img">
+            <img src="/assets/images/dossiers/fiches-thematiques-cle.jpg" alt="Dossiers camps">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">Fiches thématiques clés</h2>
+        <p class="page-section__description">Préparées à l’occasion d’activités et animations, les fiches thématiques apportent des informations complémentaires sur des questions historiques et sociétales diverses. Elles permettent également d’aller plus loin avec des propositions de liens bibliographiques.</p>
+    </header>
+    <div class="page-section__content">
+        {%- include_cached pages/pdf-item.html slug="fiches-thematiques-cle" folder="dossiers" -%}
+    </div>
+</section>
+
+<section id="dossiers-thematiques-cle" class="page-section">
+    <header>
+        <div class="page-section__img">
+            <img src="/assets/images/dossiers/dossiers-thematiques-cle.jpg" alt="Dossiers camps">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">Dossiers thématiques clés</h2>
+        <p class="page-section__description">Édités à l’occasion d’activités de l’association, les dossiers thématiques proposent d’étudier des questions thématiques plus en profondeur. Retrouvez-les ici en format pdf téléchargeable et imprimable.</p>
+    </header>
+    <div class="page-section__content">
+        {%- include_cached pages/pdf-item.html slug="dossiers-thematiques-cle" folder="dossiers" -%}
+    </div>
+</section>

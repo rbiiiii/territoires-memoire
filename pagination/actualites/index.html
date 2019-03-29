@@ -1,0 +1,19 @@
+---
+layout: category
+title: Actualités
+permalink: /actualites/
+pagination:
+  enabled: true
+  collection: actualites
+  permalink: /:num/
+  sort_field: 'posted_on'
+  sort_reverse: true
+---
+
+<div class="actualites">
+  <ul class="post-list list--no-style blocks">
+    {% for post in paginator.posts %}
+      <li class="block post-list__item">{%- include posts/news-template.html -%}</li>
+    {% endfor %}
+  </ul>
+</div>

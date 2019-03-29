@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<div class="page {{ page.class }}">
+
+  <header class="page-header">
+    <div class="page-title__container">
+        <h1 class="page-title">{{ page.title | escape }}
+          {%- if page.subtitle -%}
+          <br><small>{{ page.subtitle | escape }}</small>
+          {%- endif -%}
+        </h1>
+    </div>
+    {%- if page.title_img -%}
+      <div class="page-title__img">
+          {%- if page.title_img_alt -%}
+            {%- assign alt = page.title_img_alt -%}
+          {%- else -%}
+            {%- assign alt = page.title -%}
+          {%- endif -%}
+          <img src="/assets/images/{{ page.title_img }}" alt="{{ alt }}">
+      </div>
+    {%- endif -%}
+  </header>
+
+  <div class="page-content">
+    {{ content }}
+  </div>
+
+</div>

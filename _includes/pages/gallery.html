@@ -1,0 +1,21 @@
+<div class="page-gallery">
+    <ul class="page-gallery__container">
+        {%- capture album -%}{{ include.album }}{%- endcapture -%}
+        {%- for item in site.data.gallery -%}
+            {%- if item.gallery == album -%}
+            <li class="page-gallery__item page-gallery__item--{{ item.type }} page-gallery__item--{{ item.position }}">
+                <a 
+                class="page_gallery__item__link"
+                href="/assets/images/{{ include.folder }}/{{ include.album }}/big/{{ item.src }}" 
+                data-fancybox="gallery-{{ album }}">
+                    <img 
+                    class="page-gallery__item__img"
+                    src="/assets/images/{{ include.folder }}/{{ include.album }}/small/{{ item.src }}"
+                    alt=""> 
+                    <span class="page-gallery__item__text">[+]</span>
+                </a>
+            </li>
+            {%- endif -%}
+        {%- endfor -%}
+    </ul>
+</div>

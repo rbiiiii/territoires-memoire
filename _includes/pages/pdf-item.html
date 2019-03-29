@@ -1,0 +1,39 @@
+{%- capture slug -%}{{ include.slug }}{%- endcapture -%}
+<div class="grid pdf {{ slug }}">
+    {%- assign sorted = site.data.pdf_items -%}
+    {%- for pdf-item in sorted -%}
+        {%- if pdf-item.categorie == slug -%}
+            <div class="grid__item pdf__item {{ include.slug }}__item">
+                {%- if pdf-item.link -%}
+                    {%- if pdf-item.external -%}
+                        <a 
+                        class="grid__item__link {{ include.slug }}__item__link"
+                        href="{{ pdf-item.link }}">
+                    {%- else -%}
+                        <a 
+                        class="grid__item__link {{ include.slug }}__item__link"
+                        href="/assets/pdf/{{ include.folder }}/{{ pdf-item.link }}">
+                    {%- endif -%} 
+                            <img 
+                            class="grid__item__img {{ include.slug }}__item__img"
+                            src="/assets/images/{{ include.folder }}/pdf-items/{{ pdf-item.img_src }}" 
+                            alt="{{ pdf-item.title | escape }}">
+                            <h5 class="grid__item__text">{{ pdf-item.title }}</h5>
+                            {%- if pdf-item.author -%}
+                            <p class="grid__item__author">{{ pdf-item.author }}</p>
+                            {%- endif -%}
+                        </a>
+                {%- else -%}
+                    <img 
+                    class="grid__item__img {{ include.slug }}__item__img"
+                    src="/assets/images/{{ include.folder }}/pdf-items/{{ pdf-item.img_src }}" 
+                    alt="{{ pdf-item.title | escape }}">
+                    <h5 class="grid__item__text">{{ pdf-item.title }}</h5>
+                    {%- if pdf-item.author -%}
+                    <p class="grid__item__author">{{ pdf-item.author }}</p>
+                    {%- endif -%}
+                {%- endif -%}
+            </div>
+        {%- endif -%}
+    {%- endfor -%}
+</div>

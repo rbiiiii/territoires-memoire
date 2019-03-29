@@ -1,0 +1,145 @@
+// CARDS
+.card {
+    padding:$spacing-unit;
+    color:white;
+    margin-bottom:$spacing-unit*2;
+    display: block;
+
+    h2, h3, h4, a {
+        color:white;    
+    }
+
+    h2 {
+        padding:0;    
+    }
+
+    h4 small {
+        font-size:80%;
+        font-family:$base-font-family; 
+    }
+}
+
+.card--one {
+    background-color:$bleu-tm;
+}
+
+.card--two {
+    background-color:$bleu-tm-light;
+}
+
+.card--three {
+    background-color:$bleu-tm-ultra-light;
+}
+.card--red {
+    background-color:$rouge-tm;
+
+    a {
+
+        &, .page-content & {
+            background-image: linear-gradient($bleu-tm 0%, $bleu-tm 100%);    
+        }
+    }
+}
+
+.card--reverse {
+    background-color:white;
+    color:$bleu-tm;
+
+    &.card--one {
+        border:0.7em solid $bleu-tm;
+    }
+
+    &.card--two {
+        border:0.35em solid $bleu-tm;
+    }
+
+    &.card--three {
+        border:1px solid $bleu-tm;
+    }
+
+    h3 {
+        color:$bleu-tm;    
+    }
+}
+
+.card--no-padding {
+    padding:0;
+
+    h2 {
+        margin:0;
+        padding:$spacing-unit;    
+    }
+
+    &__content {
+        padding:$spacing-unit;    
+    }
+}
+
+.card--header-red {
+    
+    h2 {
+        background-color:$rouge-tm;    
+    }
+}
+
+.card--triangle-top-right {
+    position: relative;
+    $tr-top-right-unit:15px;
+
+    h2 {
+        padding:$spacing-unit/2 $tr-top-right-unit*5 $spacing-unit/2  $spacing-unit;    
+    }
+
+    &::before {
+        content: '';
+        display: block;
+        width: 0;
+        height: 0;
+        background-color: $rouge-tm;
+        border-style: solid;
+        border-width: $tr-top-right-unit*2 $tr-top-right-unit 0 $tr-top-right-unit;
+        border-color: #ffffff transparent transparent transparent;
+        margin: 0 auto;
+        position: absolute;
+        right:$spacing-unit*2;
+    }   
+}
+
+.card--no-margin-bottom {
+    margin-bottom:0;
+}
+
+.card--pdf-link {
+    max-width:250px;
+    padding:0;
+    transition:box-shadow 150ms ease-out, transform 150ms ease-out;
+
+    &:hover {
+        background-color:$rouge-tm;    
+        box-shadow: 3px 3px $rouge-tm-light;
+        transform:translate(-3px, -3px);
+    }   
+
+    &:active {   
+        box-shadow: none;
+        transform:translate(0, 0);
+    }   
+    
+    .pdf-link {
+        padding:0;
+        margin:0 auto;  
+    }
+
+    .pdf-link__link {
+        padding:$spacing-unit;
+    }
+}
+
+.card--centered {
+    margin-right:auto;    
+    margin-left:auto;
+}
+
+.card--medium-width {
+    max-width:$medium-width;
+}

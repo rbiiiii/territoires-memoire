@@ -1,0 +1,12 @@
+.flex-blocks  {
+    display: flex;
+
+    .flex-block__right {
+        align-self: flex-end;
+    }
+
+    .flex-block__left {
+        align-self: flex-end;
+        margin-right:$spacing-unit;    
+    }
+}

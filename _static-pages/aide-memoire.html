@@ -1,0 +1,73 @@
+---
+layout: static-page
+title:  'Revue Aide-mémoire'
+title_img: "aide-memoire/page-title-aide-memoire.jpg" 
+permalink: aide-memoire
+class: aide-memoire
+---
+
+<section class="page-section top">
+    <div class="page-section__content">
+        <h2 class="page-section__title editable" style="display:none;">Revue Aide-mémoire</h2>
+        <p class="chapeau editable">À chaque numéro, citoyens engagés, philosophes, historiens et autres enseignants s'efforcent de décrypter les enjeux réels auxquels sont confrontées les sociétés démocratiques contemporaines. Dans notre revue, les discours démagogiques, les résurgences du fascisme et les tentations nationalistes se lisent à la lumière de la mondialisation, des relations politiques internationales, des inégalités et de l'exclusion sociale. Nous savons qu'il est inutile d'isoler tel acte raciste ou tel groupe d'extrême droite sans les intégrer dans un cadre plus global d'explication et d'interprétation du fonctionnement de nos sociétés.</p>
+    </div>
+</section>
+
+<section id="derniers-numero" class="page-section">
+    <div class="page-section__content">
+        <h2 class="page-section__title editable">Derniers numéros</h2>
+        <div class="blocks page-am-nums">
+            {%- assign page-am-nums = site.aide-memoire | sort: 'num' | reverse -%}
+            {%- for am in page-am-nums limit: 4 -%}
+                {%- if am.published -%}
+                    <div class="block page-am-num clearfix">
+                        <a class="page-am-num__link" href="{{ am.url }}">
+                            <img class="page-am-num__img" src="{{ site.url }}{{ am.couv_src }}" alt="{{ am.title }}">
+                            <h3 class="page-am-num__title">{{ am.title }}<br>
+                                <small class="page-am-num__date">{{ am.date_publication }}</small></h3>
+                            <div class="page-am-num__excerpt">{{ am.content | truncate: 260, "&nbsp;[…]" }}</div>
+                        </a>
+                    </div>
+                {%- endif -%}
+            {%- endfor -%}
+        </div>
+    </div>
+    <p class="am-archives-link-wrapper">
+        <a class="button button--blue editable" href="/archives-aide-memoire">Consulter les archives</a>
+    </p>
+</section>
+
+<section id="rechercher" class="page-section">
+    <div class="page-section__content">
+        <h2 class="page-section__title editable">Rechercher des articles ou des auteurs</h2>
+        <div id="am-search-container">
+            <input type="search" id="am-search-input" placeholder="Rechercher..." aria-label="Rechercher dans les articles et les auteurs d'Aide-mémoire">
+            <div id="am-results-container"></div>
+        </div>
+    </div>
+</section> 
+
+<section id="aide-memoire-fait-debat" class="page-section">
+    <header class="page-section__header">
+        <div class="page-section__img">
+            <img src="/assets/images/aide-memoire/aide-memoire-fait-debat.jpg" alt="La revue Aide-mémoire fait débat">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title editable">La revue <em>Aide-mémoire</em> fait débat</h2>
+        <p class="page-section__description editable">À chaque sortie de numéro, la revue <em>Aide-mémoire</em> fait l’objet d’une rencontre-débat dans l’idée de faire sortir la réflexion hors de ses pages. L’envie est de rencontrer nos lecteurs et publics, en présence d'un ou plusieurs contributeurs de la revue, pour prolonger les pistes de réflexion abordées dans le numéro et surtout en lancer d’autres en favorisant la participation de chacun et chacune. Nous souhaitons vraiment que la revue ne reste pas l’objet de ses auteurs et qu’elle devienne ainsi un lieu d’échanges avec les citoyens, qu’ils s’emparent de cet outil, qu’ils s’y expriment et y fassent entendre leur voix.</p>
+    </header>
+    <div class="page-section__content category category--reverse am-fait-debat-events">
+        <ul class="post-list list--no-style blocks">  
+            {%- assign amEvents = site.agenda | where: "tags", "Aide-mémoire fait débat" | sort: 'date_start' -%}
+            {%- assign curDate = site.time | date: '%Y-%m-%d' -%}
+            {%- for event in amEvents -%}
+                {%- assign postStartDate = event.date_start | date: '%Y-%m-%d' -%}
+                {%- if postStartDate >= curDate -%}
+                    <li class="block post-list__item">     
+                        {%- include posts/event-template.html reverse="yes" -%}
+                    </li>
+                {%- endif -%}
+            {%- endfor -%}
+        </ul>
+    </div>
+</section>

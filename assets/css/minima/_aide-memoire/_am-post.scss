@@ -1,0 +1,362 @@
+
+
+.am-post {
+    
+    .site-nav {
+        top:160px;
+
+        @media screen and (min-width:400px) {
+            top:140px; 
+        }    
+
+        &.sticky {
+            top:$spacing-unit;    
+        }
+    }      
+}
+
+.am-article {
+    @include garamond; 
+    max-width: 1920px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+
+    .post__header__breadcrumbs {
+        margin-bottom:$spacing-unit;
+
+        a {
+            background:none;
+            @include relative-font-size(1);
+            color:$bleu-tm;   
+
+            &:hover, &:focus {
+                color:$rouge-tm;    
+            }        
+
+            &:active {
+                color:$bleu-tm; 
+            }
+        }
+    }
+
+    h1.post__title {
+        @include garamond;
+        font-weight:700;
+        text-align:left;
+        padding:0;
+        color:$bleu-tm;
+        @include relative-font-size(2);
+        line-height:1.1;
+        margin-top:0.3em;
+        margin-bottom:0.3em;
+
+        @media screen and (min-width:400px) {
+            @include relative-font-size(2.4);          
+        }
+
+        @media screen and (min-width:560px) {
+            margin:0.3em auto;            
+            @include relative-font-size(2.8);   
+        }
+
+        @media screen and (min-width:1024px) {
+            @include relative-font-size(3.5);
+        }
+
+        small  {
+            font-size:0.5em;  
+            font-weight: 600;
+        }    
+    }    
+
+    .post__credits {
+        @include garamond;
+        font-weight: 600;
+        margin-top:$spacing-unit;
+        margin-bottom:$spacing-unit*2;
+
+        &.about-the-author {
+            font-weight:400;
+            margin-top:-$spacing-unit*2;
+        }
+    }
+
+    .post__content-wrapper {
+        max-width:$max-width;
+        padding:0 $spacing-unit;
+        margin:0 auto;
+        display:flex;
+        justify-content: center;
+        flex-direction: column;
+
+        @supports (display:grid) {
+            
+            @media screen and (min-width:1240px) {
+                display:grid;
+                grid-template: auto / 240px 760px 240px;
+            }
+        }
+    }
+
+    .post__content {
+        max-width: 760px;
+        margin:0;
+        @include relative-font-size(1);
+        line-height:1.45;
+
+        @media screen and (min-width:400px) {
+            @include relative-font-size(1.1);          
+        }
+
+        @media screen and (min-width:560px) {
+            margin:0 auto;            
+            @include relative-font-size(1.2);   
+        }
+        
+        @media screen and (min-width:768px) {
+            
+        }
+
+        @media screen and (min-width:1024px) {
+            @include relative-font-size(1.4);
+        }
+
+        @media screen and (min-width:1240px) {
+            margin:0 $spacing-unit*2 0 0;
+        }
+
+        @supports (display:grid) {
+                
+            @media screen and (min-width:1240px) {
+                grid-column: 2 / 3;
+            }
+        }
+
+        p, ul, h2, h3, blockquote {
+            margin-bottom:1.5em;  
+            @include garamond;  
+            
+        }
+
+        .chapeau {
+            @include relative-font-size(1.15);
+
+            @media screen and (min-width:400px) {
+                @include relative-font-size(1.25);
+            }
+
+            @media screen and (min-width:560px) {     
+                @include relative-font-size(1.35);   
+            }
+            
+            @media screen and (min-width:1024px) {
+                @include relative-font-size(1.65);
+            }
+        }
+
+        img {
+            display: block;
+            max-width:100%;    
+            margin:$spacing-unit auto 0 auto;
+        }
+
+        .img-copyright {
+            display:block;
+            color:gray;
+            font-style: italic;
+            @include relative-font-size(0.9);
+            margin-top:-1.5em;
+            text-align: center;
+
+            .footnoteContent {
+                font-size:100%;    
+            }
+        }
+
+        h2 {
+            margin: 2em 0 1em 0;
+        }
+
+        blockquote {
+            margin-left:1.5em;
+
+            @media screen and (min-width:400px) {
+                margin-left:2em;
+            }
+        }
+    }
+
+    .post__aside {
+        min-width:240px;    
+        max-width:340px;  
+        margin:0 auto $spacing-unit*2 auto;  
+
+        @supports (display:grid) {
+            
+            @media screen and (min-width:1240px) {
+                grid-column: 3 / 4;
+                justify-self: right;
+            }
+        }
+    }
+
+    .post__aside__title {
+        margin-top:10px;
+        text-align: center;
+        @include garamond;
+        @include relative-font-size(1.8);
+
+        @media screen and (min-width:1024px) {
+            @include relative-font-size(1.6);
+        }
+    }
+
+    .post__aside__subtitle {
+        font-size:0.65em;
+    }
+
+    a.post__aside__link {
+        display: block;
+
+        &:hover {
+
+            .post__aside__title {
+                color:$rouge-tm; 
+            }    
+        }    
+    }
+
+    .footnotes {
+        margin-top: $spacing-unit/2;
+        font-size: 80%;
+        padding-right: $spacing-unit;
+        padding-left: $spacing-unit;
+        margin-left: 0;
+
+        li {
+            margin-bottom:0.5em;
+            line-height:1.25;
+
+            &:last-child {
+                margin-bottom:0;    
+            }    
+        }
+    }
+
+    .footnote-hook {
+        width: 2em;
+        height:2em;
+        position: relative;
+    }
+
+    .footnote-hook__top {
+        display:inline;
+        margin-bottom:$spacing-unit/2;
+        left:-$spacing-unit/2;
+        text-align:left;
+
+        @media screen and (min-width:$large-width) {
+            left:-$spacing-unit;
+        }
+    }
+
+    .footnote-hook__bottom-container {
+        width:100%;
+    }
+
+    .footnote-hook__bottom {
+        float:right;
+        right:-$spacing-unit/2;
+
+        @media screen and (min-width:$large-width) {
+            right:-$spacing-unit;
+        }
+    }
+
+    .footnote-link {
+        font-size: 80%;
+        transform: translateY(-0.5em);
+        display: inline-block;
+        background: none;   
+
+        &:hover, &:focus {
+            color:$rouge-tm;    
+        }
+    }
+
+    .note-link {
+        background: none;   
+
+        svg {
+            height: 0.9em;
+            width: 0.9em;
+            margin-right: 0.2em;
+            margin-left: 0.2em;    
+
+            #top-link__arrow {
+                transition:transform 100ms ease-out;
+            }
+        }
+
+        &:hover, &:focus {
+            color:$rouge-tm; 
+            
+            #top-link__arrow {
+                transform: translateY(-3px);
+            }
+        }
+    }
+
+    .footnoteContent {
+        position:relative;
+        z-index:5;
+        padding:0.5em;
+        font-size:80%;
+        color:gray;
+
+        @media screen and (min-width:1600px) {
+            position:absolute;
+            right: $spacing-unit;
+            max-width: 25%;
+            width: 100%;
+            text-align: right;    
+        }
+
+        .footnoteContentInner {
+            margin-top:0.5em;    
+            margin-bottom:0.5em;
+            width:100%;
+            display:inline;    
+        }
+
+        .footnote-hook {
+            width: 1em;
+            height:1em;
+        }
+
+        .footnote-hook__top {
+            left:-20px;
+
+            @supports (display:grid) {
+                left:-10px;  
+            }  
+
+            @media screen and (min-width:1600px) {
+                
+                @supports (display:grid) {
+                    left:0;
+                } 
+            } 
+        }
+    }
+
+    .post__share-icons {
+        font-family: $base-font-family;
+        margin: $spacing-unit*2 auto 0 auto;
+
+        @media screen and (min-width:1024px) {
+            margin-top: $spacing-unit*4;    
+        }
+    }
+}

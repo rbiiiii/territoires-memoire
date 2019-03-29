@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$base-font-family: TTCommons, sans-serif !default;
+$base-font-size:   1rem !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     20px !default;
+
+$text-color:          #111 !default;
+$background-color:    #fdfdfd !default;
+$brand-color:         #003a60 !default;
+$bleu-tm:             #003a60 !default;
+$bleu-tm-light:       #7F9DB0 !default;
+$bleu-tm-ultra-light: #b2cbdc !default;
+$bleu-tm-50:          rgba(0, 25, 96, .5);
+$rouge-tm:            #ff0000 !default;
+$rouge-tm-light:      rgba(255, 0, 0, .25) !default;
+$bleu-am:             #009ee0;
+
+$table-text-align: left !default;
+
+$medium-width:  600px; 
+$large-width:   960px;
+$max-width:     1240px;
+
+// Import partials.
+@import
+  "minima/mixins",
+  "minima/extends",
+  "minima/base",
+  "minima/typo",  
+  "minima/layout",
+  "minima/modules",
+  "minima/pages",
+  "minima/categories",
+  "minima/posts",
+  "minima/secondary-pages",
+  "minima/home"
+;

@@ -1,0 +1,24 @@
+---
+layout: secondary-page
+title:  Archives des rencontres "Citoyens du Livre"
+img_file: /biblio/citoyens-du-livre.jpg
+permalink: /archives-citoyens-du-livre/
+breadcrumb_parent_title: Bibliothèque
+breadcrumb_parent_src: bibliotheque
+class: archives-cdl
+---
+
+<div class="page-section">
+    <div class="page-section__content limited">
+        <ul class="list list--no-style list-cdl">
+        {% assign cdl_list = site.data.cdl | sort: "date" | reverse %}
+        {%- for cdl_item in cdl_list -%}
+            <li class="list-cdl__item">
+                <h3>Citoyens du Livre #{{ cdl_item.num }} <small>({{ cdl_item.date | date: "%d/%m/%Y" }})</small></h3>
+                <p>⇨ <a href="/assets/pdf/biblio/cdl/{{ cdl_item.pdf }}">Compte-rendu en pdf</a></p>
+                <p>{{ cdl_item.content }}</p>
+            </li> 
+        {%- endfor -%}
+        </ul>
+    </div>
+</div>

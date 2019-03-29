@@ -1,0 +1,77 @@
+---
+layout: default
+---
+<div class="page page--secondary {{ page.class }}">
+
+  <header class="post__header limited-width {%- if page.img_file -%}{%- else -%}post__header--no-img{%- endif -%}">
+    {%- if page.breadcrumb_parent_title -%}
+      <p class="post_breadcrumbs">
+        <a href="/{{ page.breadcrumb_parent_src }}">{{ page.breadcrumb_parent_title }}</a>
+        <svg viewBox="0 0 10 22.6"><polygon points="3.9,0 10,11.3 3.9,22.6 0,20.6 5,11.3 0,2.1 "/></svg>
+        {{ page.title }}
+      </p> 
+    {%- endif -%}
+    {%- if page.img_file -%}
+      <div class="post__header__img">
+        <img src="/assets/images/{{ page.img_file }}" alt="{{ page.title }}">
+        <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+      </div>
+      <div class="post__title">
+        <h1>{{ page.title }}</h1>
+        {%- if page.subtitle -%}
+          <h2>{{ page.subtitle }}</h2>  
+        {%- endif -%}
+      </div>
+    {%- else -%}
+      <div class="post__title">
+        <h1>{{ page.title }}</h1>
+        {%- if page.subtitle -%}
+          <h2>{{ page.subtitle }}</h2>  
+        {%- endif -%}
+      </div>
+    {%- endif -%}
+  </header>
+
+  <div class="page-content limited-width">
+    {{ content }}
+  </div>
+
+  {%- if paginator.page_trail -%}
+  <aside class="post-list__pager">
+    <nav>
+        <ul class="list list--no-style limited-width">
+            {%- if paginator.previous_page -%}
+                <li class="post-list__pager__item first">
+                    <a class="button button--blue" href="{{ paginator.first_page_path | replace: '//', '/' }}">
+                    <svg class="post-list__pager__icon" viewBox="0 0 14 22.6" width="14px" height="22.6px"><path class="post-list__pager__icon--color" d="M10.1 22.6L4 11.3 10.1 0 14 2l-5 9.3 5 9.2zM0 0h3v22.6H0z"/></svg>
+                    </a>
+                </li>
+                <li class="post-list__pager__item previous">
+                    <a class="button button--blue" href="{{ paginator.previous_page_path | replace: '//', '/' }}">
+                    <svg class="post-list__pager__icon" viewBox="0 0 10 22.6" width="10px" height="22.6px"> <polygon class="post-list__pager__icon--color" points="6.1,22.6 0,11.3 6.1,0 10,2.1 5,11.3 10,20.6 "></polygon> </svg>                  
+                    </a>
+                </li>
+            {%- endif -%}
+            {%- for trail in paginator.page_trail -%}
+            <li class="post-list__pager__item {% if page.url == trail.path %}selected{%- endif -%}">
+                <a class="button button--blue" href="{{ trail.path }}" title="{{trail.title}}">{{ trail.num }}</a>
+            </li>
+            {%- endfor -%}
+            {%- if paginator.next_page -%}
+            <li class="post-list__pager__item next">
+                <a class="button button--blue" href="{{ paginator.next_page_path | replace: '//', '/' }}">
+                    <svg class="post-list__pager__icon" viewBox="0 0 10 22.6" width="10px" height="22.6px"> <polygon class="post-list__pager__icon--color" points="3.9,0 10,11.3 3.9,22.6 0,20.6 5,11.3 0,2.1 "></polygon> </svg>                
+                </a>
+            </li>
+            <li class="post-list__pager__item last">
+                <a class="button button--blue" href="{{ paginator.last_page_path | replace: '//', '/' }}">
+                    <svg class="post-list__pager__icon" viewBox="0 0 14 22.6" width="14px" height="22.6px"><path class="post-list__pager__icon--color" d="M3.9 0L10 11.3 3.9 22.6l-3.9-2 5-9.3-5-9.2zM14 22.6h-3V0h3z"/></svg>
+                </a>
+            </li>
+            {%- endif -%}
+        </ul>
+    </nav>
+  </aside>
+  {%- endif -%}
+
+</div>

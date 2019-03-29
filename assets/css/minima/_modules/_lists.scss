@@ -1,0 +1,80 @@
+// LISTS 
+
+ul, .list {
+  list-style: none;
+  padding: 0;
+  margin-left:0.7em;
+
+    li {
+        margin-bottom:0.2em;
+
+        &:last-child {
+            margin-bottom:0;    
+        }
+
+        &::before {
+            display: inline-block;
+            content: "\00b7";
+            width: 0.7em;
+            margin-left: -0.7em;
+        }
+    }
+
+    h4 {
+        display:inline;    
+    }
+}
+
+.list--dashed {
+    list-style: none;
+    margin-left: 0.8em;
+
+    li {
+
+        &::before {
+            content: "- ";
+            display:inline-block;
+            width:0.7em;
+            margin-left: -0.7em;
+            font-weight: bold;     
+        }
+    }
+
+}
+
+.list--no-style {
+    list-style:none;
+    margin-left:0;
+
+    li {
+
+        &::before {
+            display: none;
+        }
+    }
+    
+}
+
+.list--big-margins {
+
+    li {
+        margin-bottom:0.8em;    
+    }
+}
+
+.list--inline {
+
+    li {
+        display:inline-block;   
+        margin-right: $spacing-unit/2; 
+    }    
+}
+
+.list--margin-left {
+    margin-left:0.7em;    
+}
+
+.list__item--with-icon {
+    display:flex;
+    align-items: flex-start;
+}

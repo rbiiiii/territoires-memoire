@@ -1,0 +1,94 @@
+@mixin containers($width) {
+
+    .container--half {
+
+        &:nth-child(even) {
+            margin-top:$spacing-unit*2;
+        }    
+    }
+        
+    .container--visible-at-lg {
+        display:none;    
+    }
+        
+    @media screen and (min-width:$width) {
+
+        &.containers {
+            display:flex;
+            flex-wrap:wrap;
+            align-items: flex-start;
+            justify-content: space-between;
+
+            &.top {
+                margin-top:$spacing-unit*2;    
+            }
+        }
+
+        .container--half {
+            flex:1 1 45%;
+            margin:0 $spacing-unit $spacing-unit $spacing-unit;
+
+            &:nth-child(even) {
+                margin-top:0;
+            } 
+
+            .page-section__header & .card {
+                margin-top:0;        
+                margin-left:0;    
+            }
+        }
+
+        .container--visible-at-lg {
+            display:block;    
+        }
+
+        @supports (display:grid) {
+            
+            .containers {
+                display:grid;
+                grid: auto-flow / 1fr 1fr;
+                grid-gap: $spacing-unit*2; 
+            }
+
+            .container--half {
+                margin:0;
+            }
+
+            .container--visible-at-lg {
+                display:block;    
+            }
+        }
+
+        .containers + .page-tuiles {
+            margin-top:$spacing-unit*2;    
+        }
+    }
+}
+
+@mixin tt-commons {
+  font-family: 'TTCommons', sans-serif;
+}
+
+@mixin pj-light {
+  font-family: ProjectSans-Light, sans-serif;
+}
+
+@mixin pj-regular {
+  font-family: ProjectSans-Regular, sans-serif;
+}
+
+@mixin pj-medium {
+  font-family: ProjectSans-Medium, sans-serif;
+}
+
+@mixin pj-black {
+  font-family: ProjectSans-Black, sans-serif;
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+@mixin garamond {
+    font-family: 'EB Garamond', Georgia, serif;
+}

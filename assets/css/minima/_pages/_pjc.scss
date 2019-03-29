@@ -1,0 +1,118 @@
+.pjc {
+    
+    .page-title__img {
+
+        img {    
+            
+            min-height:120px;
+        }
+    }
+}
+    
+.pjc-detail {
+
+    td:nth-child(2), td:nth-child(3) {
+        text-align: center;    
+    }    
+}
+
+#pjc-intro-video {
+    width:100%;    
+}
+
+.pjc-preparation {
+    margin-top:$spacing-unit*2;
+
+    .grid {
+        display:flex;
+        flex-wrap: wrap;
+
+        .grid__item {
+            width:100%;
+            max-width: 240px;
+
+            @media screen and (min-width:460px) {
+                width:45%;
+                max-width:100%;
+            }
+        }
+    }
+}
+
+#pjc-booking__form {
+    margin:$spacing-unit*2 auto 0 auto;
+    line-height: 1.8;
+
+    h3 {
+        margin-top:$spacing-unit*2;
+
+        small {
+
+            a {
+                color:$bleu-tm;
+
+                &:hover {
+                    color:white;
+                }
+            }
+        }
+    }
+
+    input, textarea {
+        font-family: inherit;
+        font-size:100%;
+        border: 2px solid $bleu-tm-light;
+        padding: 0.2em 0.4em;
+        width: 100%;
+        max-width: 460px;
+        color:$bleu-tm-light;
+        transition: 150ms border-color ease-out, 150ms color ease-out;
+
+        &:focus {
+            border-color:$bleu-tm;
+            color:$bleu-tm;
+        }
+    }
+
+    textarea {
+        height:3em;
+    }
+
+    input[type="radio"], input[type="checkbox"] {
+        width:auto;
+    }
+
+    input[type="submit"] {
+        width:auto;
+        margin-top:$spacing-unit*2;
+        font-size: 100%;
+        font-style: normal;
+        color:$bleu-tm;
+        border-color:$bleu-tm;
+        @include pj-regular;
+        transition: 150ms border-color ease-out, 150ms color ease-out;
+
+        &:hover, &:active, &:focus {
+            border-color:$rouge-tm;
+            color:$rouge-tm;
+        }
+    }
+
+    .required-field {
+        color:$rouge-tm;
+        font-weight: bold;
+    }
+
+     #group-dropdown-btn {
+        transition: 150ms color ease-out;
+        
+        &:hover, &:focus {
+            cursor: pointer;
+            color:$rouge-tm;
+        }
+     }
+}
+
+.mr-hyde {
+    display:none;
+}

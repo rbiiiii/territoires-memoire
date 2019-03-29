@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  {% assign thisPageClass = page.layout %}
+
+  <body id="top" class="{{ thisPageClass }}">
+
+    {%- include_cached header.html -%}
+
+    <main class="main" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include_cached footer.html -%}
+
+    {%- if page.path contains '_am-posts' or page.path contains '_aide-memoire' -%}
+      <script>
+        $(function() {
+          var fonts = 'https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,500i,600,600i';
+          if (document.createStyleSheet) document.createStyleSheet(fonts);
+          else $("head").append($("<link rel='stylesheet' href='"+ fonts +"' type='text/css' media='screen' />"));
+        });
+      </script>
+    {%- endif -%}
+    {%- if page.path contains '_agenda' -%}
+      <script>
+          var geocoder;
+          var map;
+          var address = {{ page.address | jsonify }};
+          function initMap(){var e=new google.maps.Map(document.getElementById("map"),{zoom:14,styles:[{elementType:"geometry",stylers:[{color:"#1d2c4d"}]},{elementType:"labels.text.fill",stylers:[{color:"#8ec3b9"}]},{elementType:"labels.text.stroke",stylers:[{color:"#1a3646"}]},{featureType:"administrative.country",elementType:"geometry.stroke",stylers:[{color:"#4b6878"}]},{featureType:"administrative.land_parcel",elementType:"labels.text.fill",stylers:[{color:"#64779e"}]},{featureType:"administrative.province",elementType:"geometry.stroke",stylers:[{color:"#4b6878"}]},{featureType:"landscape.man_made",elementType:"geometry.stroke",stylers:[{color:"#334e87"}]},{featureType:"landscape.natural",elementType:"geometry",stylers:[{color:"#023e58"}]},{featureType:"poi",elementType:"geometry",stylers:[{color:"#283d6a"}]},{featureType:"poi",elementType:"labels.text.fill",stylers:[{color:"#6f9ba5"}]},{featureType:"poi",elementType:"labels.text.stroke",stylers:[{color:"#1d2c4d"}]},{featureType:"poi.park",elementType:"geometry.fill",stylers:[{color:"#023e58"}]},{featureType:"poi.park",elementType:"labels.text.fill",stylers:[{color:"#3C7680"}]},{featureType:"road",elementType:"geometry",stylers:[{color:"#304a7d"}]},{featureType:"road",elementType:"labels.text.fill",stylers:[{color:"#98a5be"}]},{featureType:"road",elementType:"labels.text.stroke",stylers:[{color:"#1d2c4d"}]},{featureType:"road.highway",elementType:"geometry",stylers:[{color:"#2c6675"}]},{featureType:"road.highway",elementType:"geometry.stroke",stylers:[{color:"#255763"}]},{featureType:"road.highway",elementType:"labels.text.fill",stylers:[{color:"#b0d5ce"}]},{featureType:"road.highway",elementType:"labels.text.stroke",stylers:[{color:"#023e58"}]},{featureType:"transit",elementType:"labels.text.fill",stylers:[{color:"#98a5be"}]},{featureType:"transit",elementType:"labels.text.stroke",stylers:[{color:"#1d2c4d"}]},{featureType:"transit.line",elementType:"geometry.fill",stylers:[{color:"#283d6a"}]},{featureType:"transit.station",elementType:"geometry",stylers:[{color:"#3a4762"}]},{featureType:"water",elementType:"geometry",stylers:[{color:"#0e1626"}]},{featureType:"water",elementType:"labels.text.fill",stylers:[{color:"#4e6d70"}]}]});geocoder=new google.maps.Geocoder,codeAddress(geocoder,e)}function codeAddress(e,l){e.geocode({address:address},function(e,t){if("OK"===t){l.setCenter(e[0].geometry.location);new google.maps.Marker({map:l,icon:"/assets/images/icons/tm-icon-map_marker.png",position:e[0].geometry.location})}else alert("Geocode was not successful for the following reason: "+t)})}
+        </script>
+
+      <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBPPTCKwiBsM1Yu7rEdpt4nojbPQ10D3Dk&callback=initMap" defer></script>
+    {%- endif -%}
+
+    {%- if page.permalink == "reseau" -%}
+    <script>  
+    //////// DRAW MAP AND DISPLAY COMMUNES COUNT
+    var reseauMap=L.map("reseau-map",{scrollWheelZoom:!0,touchZoom:!0}),pathToGeoJSON="/assets/json/belgium.geojson",geoJSONLayer=new L.GeoJSON.AJAX(pathToGeoJSON,{filter:communes,color:"#003a60",weight:2});function communes(e){return e.properties.show_on_map}function initMap(){var e=7;768<=$(window).width()&&(e=8),reseauMap.setView([50.302,4.614],e)}function addCommunes(){$("#reseau-filtre").show(),$("#add-communes-wrapper").hide();var e=$("#list-reseau"),o=[];geoJSONLayer.eachLayer(function(e){var a=e.feature.properties.name;o.push(a)});for(var a=o.sort(),t=a.length,n=0;n<t;n++)e.append('<li class="list-reseau__item"><a>'+a[n]+"</a></li>")}function showPopUp(){$(".list-reseau__item a").on("click",function(e){e.preventDefault,$("html, body").animate({scrollTop:$("#votre-commune-est-elle-territoire-de-memoire").offset().top},800);var o=$(this).html();geoJSONLayer.eachLayer(function(e){var a=e.feature.properties.name;a===o&&(initMap(),e.bindPopup(a).openPopup())})})}function reseauFilter(){var e,a,o;for(e=document.getElementById("reseauInput").value.toUpperCase(),a=document.getElementById("list-reseau").getElementsByTagName("li"),o=0;o<a.length;o++)-1<a[o].getElementsByTagName("a")[0].innerHTML.toUpperCase().indexOf(e)?a[o].style.display="":a[o].style.display="none"}geoJSONLayer.bindPopup(function(e){return e.feature.properties.name}),geoJSONLayer.addTo(reseauMap),geoJSONLayer.on("data:loaded",function(){var e=-5;reseauMap.eachLayer(function(){e+=1}),$("#numberOfCommunes").html(e),$("#addCommunes").addClass("visible")}),initMap(),L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}",{attribution:'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',maxZoom:18,scrollWheelZoom:!0,id:"mapbox.streets",accessToken:"pk.eyJ1Ijoicm9iaW5jYWwiLCJhIjoiY2pqOXQzcHQyMnZ3YTN3bW5meWRpdXkzbyJ9.cI-k5ZoD8Zv4aqMHEjIuPA"}).addTo(reseauMap),$("#addCommunes").on("click",function(){addCommunes(),showPopUp()}),$("#reseauInput").on("keyup",function(e){27==e.keyCode?($("#reseauInput").val(""),$(".list-reseau__item").css("display","inline")):reseauFilter()});
+    </script>
+    {%- endif -%}
+
+    {%- if page.permalink == "aide-memoire" -%}
+    <script src="/assets/javascript/search-am.js"></script>    
+    <script>
+    // SEARCH AM
+    var sI=document.getElementById("am-search-input"),amR=document.getElementById("am-results-container");amSearch({searchInput:sI,resultsContainer:amR,json:"/assets/json/search-am.json",searchResultTemplate:'<div class="am-result"><a class="am-result__link" href="{url}"><h4 class="am-result__title">{title}</h4></a><div><a href="/{categories}">{categories}</a> | {credits}</div></div>'});
+    </script> 
+    {%- endif -%}
+    <script>
+    window.netlifyIdentity&&window.netlifyIdentity.on("init",a=>{a||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})});
+    </script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+    <script>
+    // COOKIE CONSENT
+    window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ffffff",text:"#003a60"},button:{background:"#003a60",text:"#ffffff"}},theme:"classic",content:{message:"Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site. Si vous continuez à utiliser ce dernier, nous considérerons que vous acceptez l'utilisation des cookies. ",dismiss:"Accepter",link:"En savoir plus",href:"/politique-de-confidentialite"}})});
+    </script>
+    <script type="text/javascript">
+    //GOOGLE ANALYTICS
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-38116427-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    {%- if thisPageClass == "home" -%}
+    <script>
+    // DELAY HOME VIDEO LOADING AND CHOOSING QUALITY
+    $(document).ready(function(){var e=navigator.userAgent.match(/(iPhone|iPod|iPad|Android|webOS|BlackBerry|IEMobile|Opera Mini)/i),o=$(window).width();sourceFile=null,$("video#homepage-intro__video source").each(function(){sourceFile=e||o<1360?$(this).attr("data-low-src"):$(this).attr("data-src"),$(this).attr("src",sourceFile);var i=this.parentElement;console.log("video ready"),i.load(),console.log("video loading..."),i.play()})});
+    </script>
+    {%- endif -%}
+
+  </body>
+
+</html>

@@ -1,0 +1,110 @@
+a.button, .button {
+
+    &, .page-section__content &, .post-navigation & {
+        display: inline-block;
+        @include pj-regular;
+        background-image: none;
+        user-select: none;
+        position:relative;
+        max-width:360px;
+        padding:0.2em 0.5em 0.2em 0.5em;
+        transform: translate(-4px, -4px);
+        transition:all 50ms;
+        
+
+        &:hover, &:focus {
+            border:3px solid $rouge-tm;
+            color:$rouge-tm;
+
+            &::after {
+                background-color:$rouge-tm;    
+            }
+        }
+
+        &:active {
+            transform:translate(0,0);
+            box-shadow:none;
+        }
+    }
+
+    &:hover {
+        cursor: pointer;    
+    }
+}
+
+a.button--blue, .button--blue {
+
+    &, .page-section__content & {
+        color: $bleu-tm;
+        border: 3px solid $bleu-tm;
+        background-color:white;
+        box-shadow: 4px 4px 0 $bleu-tm-light;
+    }
+}
+
+a.button--white, .button--white {
+
+    &, .page-section__content & {
+        color: white;
+        border-color: white;
+        background-color:$bleu-tm;
+        box-shadow: 4px 4px 0 $bleu-tm-light;
+
+        &:active {
+            color: white;
+            border-color: white; 
+        }
+    }
+}
+
+a.button--red, .button--red {
+
+    &, .page-section__content & {
+        color: $rouge-tm;
+        border: 3px solid $rouge-tm;
+        background-color:$bleu-tm;
+        box-shadow: 4px 4px 0 $bleu-tm-light;
+
+        &:hover, &:focus {
+            color: white;
+            border-color: white; 
+        }
+
+        &:active {
+            color: $rouge-tm;
+            border-color: $rouge-tm; 
+        }
+    }
+}
+
+a.button--has-img {
+    display:block;
+    border:3px solid white;
+    transition:border-color 50ms ease-out;
+    
+    &:hover, &:focus {
+        border:3px solid $rouge-tm;    
+    }    
+}
+
+a.button--without-shadow, .button--without-shadow {
+    box-shadow:none;
+    transform:translate(0,0);
+
+    &:active {
+        transform:translate(0,0);
+        box-shadow:none;
+    }
+}
+
+a.button--small, .button--small {
+    font-size:80%;
+} 
+
+.home-intro__actions__social-item__img--color {
+    fill:white;
+}
+
+a.paypal-donate {
+    margin:$spacing-unit/2 0;
+}

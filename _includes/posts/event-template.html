@@ -1,0 +1,80 @@
+{%- capture reverse -%}{{ include.reverse }}{%- endcapture -%}
+<article class="post">
+    <a class="post__link without-background" href="{{ event.url }}">
+      <header class="post__header">
+        <div class="post__header__img">
+          <img src="{{ event.img_file }}" alt="{{ event.title | escape }}">
+          {%- if reverse == "yes" -%}
+            {%- include_cached pages/separateur-reverse.html -%}
+          {%- else -%}
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+          {%- endif -%}
+          <div class="post__header__tag">
+            <span class="post__header__tag__text">
+              {{ event.tags | first }}
+            </span>
+          </div>
+        </div>
+        <div class="post__title">
+          <h3>{{ event.title }}</h3>
+        </div>
+      </header>
+      <div class="post__content">
+        <div class="post__meta card card--one {% if reverse == 'yes' %}card--reverse{% endif %}">
+          <ul class="list list--no-style">
+            <li class="post__meta__item">
+              <span class="post__meta__icon">
+                {%- if reverse == "yes" -%}
+                  <img src="/assets/images/icons/tm-icon-date-reverse.svg" alt="date">
+                {%- else -%}
+                  <img src="/assets/images/icons/tm-icon-date.svg" alt="date">
+                {%- endif -%}
+              </span>
+              <span class="post__meta__text">
+                  {{ event.date_start | date: "%-d" }}
+                  {% assign m = event.date_start | date: "%-m" %}
+                  {% case m %}
+                    {% when '1' %}janvier
+                    {% when '2' %}février
+                    {% when '3' %}mars
+                    {% when '4' %}avril
+                    {% when '5' %}mai
+                    {% when '6' %}juin
+                    {% when '7' %}juillet
+                    {% when '8' %}août
+                    {% when '9' %}septembre
+                    {% when '10' %}octobre
+                    {% when '11' %}novembre
+                    {% when '12' %}décembre
+                  {% endcase %}
+                  {{ event.date_start | date: "%Y" }}
+
+                  {% if event.date_stop != '' and event.date_stop != 'Invalid date' %}
+                    {% assign mm = event.date_stop | date: "%-m" %}
+                    > {{ event.date_stop | date: "%-d" }}
+                        {% case mm %}
+                          {% when '1' %}janvier
+                          {% when '2' %}février
+                          {% when '3' %}mars
+                          {% when '4' %}avril
+                          {% when '5' %}mai
+                          {% when '6' %}juin
+                          {% when '7' %}juillet
+                          {% when '8' %}août
+                          {% when '9' %}septembre
+                          {% when '10' %}octobre
+                          {% when '11' %}novembre
+                          {% when '12' %}décembre
+                        {% endcase %}
+                        {{ event.date_stop | date: "%Y" }}
+                  {% endif %}
+              </span>
+            </li>
+          </ul>
+        </div>
+        <div class="post__excerpt">
+          {{ event.content | strip_html | truncate: 150, "&nbsp;[…]" }}
+        </div>
+      </div>
+    </a>
+  </article>

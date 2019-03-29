@@ -1,0 +1,88 @@
+.homepage-focus {
+    background-color:$bleu-tm;
+    margin-top:0;
+
+    .wrapper {
+        padding-top:$spacing-unit*4;
+        padding-bottom:$spacing-unit*2;
+
+        @media screen and (min-width:1024px) {
+            padding-bottom:$spacing-unit*4;
+        }
+    }
+
+    .page-section__title {
+        color:white;
+        margin-bottom:$spacing-unit*2;
+    } 
+
+    .page-section__content {
+        padding:0;
+        margin:$spacing-unit 0 0 0;
+    } 
+}
+
+.homepage-focus-items {
+    padding:0;
+    max-width:$medium-width - $spacing-unit*2;
+
+    @media screen and (min-width:1024px) {
+        max-width:$max-width - $spacing-unit*2;    
+        align-items:stretch;
+    }
+}
+
+.homepage-focus-item__link {
+    background-color:$rouge-tm;
+    position:relative;
+    display:block;
+    height: 100%;
+    border:5px solid $bleu-tm;
+    transition: border-color 150ms ease-out, background-color 150ms ease-out;
+
+    &:hover, &:focus {
+        border-color:$rouge-tm;
+        background-color:$bleu-tm; 
+    }
+
+    &:active {
+        border-color:$bleu-tm;
+        background-color:$rouge-tm;  
+    }
+}
+
+.homepage-focus-item__tag {
+    position:absolute;
+    top:0;
+    left:0;
+    display: block;
+    background-color:$rouge-tm;
+    color:white;
+    padding: 0.2em 0.4em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.homepage-focus-item__img {
+    width:100%;
+
+    @supports (object-fit:cover) {
+        object-fit: cover;
+
+        @media screen and (min-width:600px) {
+            min-height: 200px;            
+        }
+    }
+    
+}
+
+.homepage-focus-item__txt {
+    padding:$spacing-unit;
+    color:white;
+
+    h3 {
+        @include relative-font-size(1.3);
+        color:white;
+        margin-bottom:0;
+    }    
+}

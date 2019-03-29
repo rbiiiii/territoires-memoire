@@ -1,0 +1,129 @@
+---
+layout: static-page
+title:  "Voyages et journées pour la Mémoire"
+title_img: "voyages/page-title-voyages.jpg"
+permalink: voyages
+---
+
+<section class="page-section top limited">
+    <div class="page-section__content">
+        <div class="blocks">
+            <div class="block">
+                <p class="chapeau">Les Territoires de la Mémoire accompagnent les associations et institutions désireuses d'organiser des journées et des voyages d’étude dans des lieux de Mémoire qui ont servi la barbarie nazie. Ces voyages permettent de bénéficier de l'expertise de l'association sur les thématiques abordées ainsi qu’un encadrement pédagogique de qualité tout au long du voyage.</p>
+                <p class="chapeau text-demi-bold">Profitez de l'expérience de l'association dans l'organisation de vos journées et de vos voyages&nbsp;!</p>
+                <p class="chapeau text-demi-bold">Les Territoires de la Mémoire vous accompagnent dans le choix de vos destinations et dans les modalités pratiques et pédagogiques liées à l'organisation de vos voyages et de vos journées.</p>
+                
+            </div>
+            <div class="card card--one block">
+                <h3>Contact</h3>
+                <ul class="list--no-style">
+                    <li><a href="mailto:voyages@territoires-memoire.be">voyages@territoires-memoire.be</a></li>
+                    <li>0032 (0) 4 250 99 41</li> 
+                </ul>
+            </div>
+        </div>
+        <div class="page-tuiles">
+            {%- include_cached pages/page-tuile.html title="Voyages pour la Mémoire en Europe" url="#voyages-pour-la-memoire" imageSlug ="voyages" imageFileName="page-voyages-tuile-01.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Journées pour la Mémoire en Belgique" url="#journees-pour-la-memoire" imageSlug ="voyages" imageFileName="page-voyages-tuile-02.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Voyage annuel" url="#voyage-annuel" imageSlug ="voyages" imageFileName="page-voyages-tuile-03.jpg" -%}
+        </div>
+    </div>
+</section>
+
+<section id="voyages-pour-la-memoire" class="page-section">
+    <header>
+        <div class="page-section__img">
+            <img src="/assets/images/voyages/voyages-pour-la-memoire.jpg" alt="Voyages pour la Mémoire en Europe">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">Vous désirez organiser un voyage pour la Mémoire en Europe&nbsp;?</h2>
+        <p class="page-section__description">
+            Les Territoires de la Mémoire disposent d’une expérience notable dans l’organisation de voyages vers les lieux de Mémoire. L’association propose des plans d’accompagnement en amont et en aval de votre projet.
+        </p>
+    </header>
+    <div class="page-section__content">
+        {%- include_cached pages/pdf-item.html slug="voyages-pour-la-memoire-en-europe" folder="voyages" -%}
+        <div class="containers">
+            <div class="container container--half container--order-two">
+                <div class="card card--one">
+                    <h3>Formalités</h3>
+                    <ul class="list">
+                        <li>Prenez contact avec les Territoires de la Mémoire par téléphone au 04 250 99 41 ou par e-mail : <a href="mailto:voyages@territoires-memoire.be">voyages@territoires-memoire.be</a></li>
+                    </ul>
+                </div>
+                <p>
+                    <a class="button button--blue" href="/dossiers#dossiers-camps">Consulter nos dossiers pédagogiques</a>
+                </p>
+            </div>
+            <div class="container container--half container--order-one">
+                {%- include_cached pages/gallery.html folder="voyages/gallery" album="voyages-pour-la-memoire" -%}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="journees-pour-la-memoire" class="page-section">
+    <header>
+        <div class="page-section__img">
+            <img src="/assets/images/voyages/journees-pour-la-memoire.jpg" alt="Journées pour la Mémoire en Belgique">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">Un accompagnement personnalisé dans l’organisation de vos journées pour la Mémoire</h2>
+        <p class="page-section__description">
+            Le temps d’une journée ou une demi-journée, Les Territoires de la Mémoire proposent, aux groupes issus de ses partenaires, l’organisation de visite de différents lieux de Mémoire en Belgique.<br>
+            Profitez de l’expérience de l’association dans l’organisation de vos journées pour la Mémoire !
+            Les Territoires de la Mémoire vous accompagnent dans le choix de vos destinations et dans les modalités pratiques et pédagogiques liées à l’organisation de vos journées.
+        </p>
+    </header>
+    <div class="page-section__content">
+        {%- include_cached pages/pdf-item.html slug="journees-pour-la-memoire-en-belgique" folder="voyages" -%}
+        <div class="containers">
+            <div class="container container--half container--order-two">
+                <div class="card card--one">
+                    <h3>Formalités</h3>
+                    <ul class="list">
+                        <li>Prenez contact avec les Territoires de la Mémoire par téléphone au 04 250 99 41 ou par e-mail : <a href="mailto:voyages@territoires-memoire.be">voyages@territoires-memoire.be</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="container container--half container--order-one">
+                {%- include_cached pages/gallery.html folder="voyages/gallery" album="journees-pour-la-memoire" -%}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="voyage-annuel" class="page-section">
+    <header>
+        <div class="page-section__img">
+            <img src="/assets/images/voyages/voyage-annuel.jpg" alt="Voyage pour la Mémoire annuel">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">Les Territoires de la Mémoire accompagnent des groupes sur les lieux où la barbarie nazie s’est exprimée.
+        </h2>
+        <p class="page-section__description">
+            L’association propose un encadrement thématique et pédagogique lors des journées et des voyages pour la Mémoire. Cette approche vise la construction d’une société démocratique et solidaire en s’appuyant sur l’Histoire. Afin d’ouvrir cette expérience au plus grand nombre, elle accompagne chaque année un voyage d’étude ouvert aux particuliers.
+        </p>
+    </header>
+    <div class="page-section__content">
+        <div class="containers">
+            <div class="container container--half container--order-two">
+                <div class="voyage-annuel-promo">
+                    <h3>Destination 2019&nbsp;: Mauthausen, Linz et Nuremberg du 30 mai au 2 juin 2019</h3>
+                    <p class="text-centered" style="margin:30px 0 40px 0">
+                        <a class="button button--blue" href="/assets/pdf/voyages/tm-voyage_annuel_2019.pdf">Plus d'infos sur le voyage</a>
+                    </p>
+                </div>
+                <div class="card card--one">
+                    <h3>Formalités</h3>
+                    <ul class="list">
+                        <li>Prenez contact avec les Territoires de la Mémoire par téléphone au 04 250 99 41 ou par e-mail : <a href="mailto:voyages@territoires-memoire.be">voyages@territoires-memoire.be</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="container container--half container--order-one">
+                {%- include_cached pages/gallery.html folder="voyages/gallery" album="voyage-annuel" -%}
+            </div>
+        </div>
+    </div>
+</section>

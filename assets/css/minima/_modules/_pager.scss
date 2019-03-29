@@ -1,0 +1,48 @@
+.post-list__pager {
+    padding: $spacing-unit*2 0 $spacing-unit*4 0;
+
+    .category & {
+        background-color:$bleu-tm-ultra-light;
+        padding: 0 0 $spacing-unit*4 0;
+    }
+    
+    .list {
+        display: flex;
+        margin: 0 auto;
+        justify-content: center;
+    }
+}
+
+.post-list__pager__item {
+    margin:0 5px;
+
+    &.selected {
+        transform:scale(1.2);
+        margin: 2px 10px 0 10px;
+    }
+
+    &:first, &.last {
+        transform: scale(0.8);
+    }
+
+    a {
+        
+        .post-list__pager__icon--color {
+            fill:$bleu-tm;
+            transition:fill 150ms ease-out;
+        }
+
+        &:hover, &:active, &:focus {
+            
+            .post-list__pager__icon--color {
+                fill:$rouge-tm;
+            }
+        }
+    }
+}
+
+.post-list__pager__icon {
+    height: 30px;
+    padding: 2px;
+    display: block;
+}

@@ -1,0 +1,11 @@
+<div class="page-tuile">
+    <a class="page-tuile__link internal" href="{{ include.url }}">
+        <div class="page-tuile__container">
+            <img 
+                class="page-tuile__img"
+                src="{{ "/assets/images/" | relative_url }}{{ include.imageSlug }}/{{ include.imageFileName }}"
+                alt="{{ include.title | escape }}">
+            <h3 class="page-tuile__text">{{ include.title }}</h3>
+        </div>
+    </a>
+</div>

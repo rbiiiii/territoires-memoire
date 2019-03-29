@@ -1,0 +1,62 @@
+---
+categories: aide-memoire-77
+title: De la nuance entre droite radicale et extrême droite
+type: article
+credits: Une chronique de Julien Dohet
+order: 13
+---
+On lit souvent des analyses différenciant l’extrême droite de la droite radicale, analyses qui si ce n’en est pas le but ont pour effet de rendre acceptable la seconde. En Belgique, le point est particulièrement sensible depuis deux ans et l’arrivée au gouvernement de la NVa, dont une partie de l’histoire et des membres est commune avec le Vlaams Belang. Outre que l’on rappellera que l’arrivée « démocratique » des nazis au pouvoir le fut grâce à des alliances avec des partis de droites « moins radicaux », « classiques »[[1]](#footnote-1), on peut légitimement s’interroger sur les réelles différences. Profitons donc de cette chronique pour aborder un personnage qui sera plus souvent considéré comme membre de la droite radicale que de l’extrême droite.
+
+![Le contre-amiral Gabriel Auphan](/assets/uploads/am-77-le-contre-amiral-gabriel-auphan.jpg)
+
+<span class="img-copyright"> Le contre-amiral Gabriel Auphan </span>
+
+## Militaire, catholique, Vichyste
+
+Celui qui signe encore après la guerre ses textes de « Amiral Auphan » ou « Paul Auphan, Ancien secrétaire d’État à la Marine » est né le 4 novembre 1894 à Alès. Entré à l’école navale en 1911, il participe à la Première Guerre mondiale, notamment lors de la campagne des Dardanelles et dans l’Adriatique à bord d’un sous-marin. En 1922, il intègre l’état-major de la Marine puis participera à plusieurs cabinets ministériels dans les années 30 mais aussi au sein du gouvernement Pétain. Nommé chef d’état-major de la marine en août 41 puis Secrétaire d’État à la Marine en avril 1942, il donne pour instruction de saborder la flotte à [Toulon](https://fr.wikipedia.org/wiki/Sabordage_de_la_flotte_fran%C3%A7aise_%C3%A0_Toulon) en novembre 42 pour ne pas la livrer aux Allemands et démissionne quelques jours plus tard. Il ne rejoint pas pour autant la France Libre de De Gaulle, considérant que Vichy est la seule émanation légale de la France et n’ayant pas digéré l’attaque anglaise de [Mers El-Kébir](https://fr.wikipedia.org/wiki/Attaque_de_Mers_el-K%C3%A9bir). En août 44, il tente sans succès de jouer les intermédiaires entre Pétain et De Gaulle. Ayant fui la France, il est condamné par contumace en 1946 aux travaux forcés, à la dégradation nationale à vie et à la confiscation de ses biens. Comme beaucoup d’autres, il profite à son retour en France en 1955 d’un second procès qui le condamne uniquement à 5 ans de prison avec sursis et 5 ans de dégradation nationale avant de retrouver son grade et sa pension l’année suivante. N’ayant jamais renié ses engagements, il fait partie de ceux qui lutteront jusqu’au bout pour réhabiliter l’action du Maréchal Pétain et le bilan du gouvernement de Vichy en minimisant ou niant les actions les plus graves. Il sera d’ailleurs président, de 1972 à 1976, de l’Association pour défendre la mémoire du Maréchal Pétain (ADMP)[[2]](#footnote-2). Décédé le 6 avril 1982, son parcours se conclut par un fait très intéressant concernant le titre de notre chronique. Ce fervent catholique très à droite, qui osera s’opposer aux Allemands par patriotisme et réflexe « 14-18 »[[3]](#footnote-3), sera après-guerre un membre très actif de La Cité catholique, et membre du comité de soutien à Jean-Marie Le Pen pour l’élection présidentiel de 1981[[4]](#footnote-4).
+
+Les deux brochures que nous analysons cette fois-ci datent du milieu des années 70, soit au moment de sa présidence de l’ADMP. L’une d’entre elles est éditée par l’« Office international des œuvres de formations civiques et d’action doctrinale selon le droit naturel et chrétien », un des noms avec ICTUS (Institut culturel et technique d’utilité sociale) de la Cité Catholique. Cette organisation a été fondée en 1946 par Jean Ousset, un anticommuniste acharné marqué par le Front Populaire[[5]](#footnote-5) et qui voulait redonner une élite aux catholiques[[6]](#footnote-6) pour contrer la subversion marxiste. Son organisation se développera avec le soutien de la hiérarchie catholique tout en gardant son indépendance et en s’internationalisant. Elle sera notamment influente au sein de l’armée au moment des guerres de libération nationale[[7]](#footnote-7).
+
+## L’importance de l’élite
+
+L’élitisme est vu à l’extrême droite comme une évidence naturelle, opposée à la démocratie qui permet à n’importe qui d’accéder aux responsabilités[[8]](#footnote-8). Auphan n’échappe pas à cette logique quand il dit, reprenant au passage la distinction maurassienne[[9]](#footnote-9) rendue célèbre en Belgique par Degrelle[[10]](#footnote-10) : « En France, (…) le “pays mental”, celui qui ne fait que parler et critiquer, paralyse le “pays réel”, celui qui travaille, qui peine, qui cherche à remplir son rôle dans la société. (…) Vous mesurez le service qu’une élite décidée pourrait rendre en se substituant à une minorité d’intellectuels désaxés pour répondre à ce vœu de la masse[[11]](#footnote-11). » Cette élite, elle est définie ainsi : « Font partie de l’élite tous ceux qui, venus au monde dans n’importe quel milieu social, accomplissent leur tâche quotidienne, si modeste soit-elle, en voyant plus haut que leur intérêt personnel, en pensant au bien commun de la portion de société, grande ou petite, où leur action s’exerce, en remplissant leur devoir d’état comme si Dieu, à travers leur conscience, les regardait[[12]](#footnote-12) », avec une dimension du chacun à sa place chère à la doctrine corporatiste[[13]](#footnote-13) : « Entre un chef et ses subordonnés – comme, jusqu’à un certain point, entre employeur et employés, entre patron et salariés, entre députés et électeurs… – il s’établit une sorte de pacte tacite par lequel les subordonnés ou les mandants se soumettent au chef, ou au mandataire, à charge à celui-ci qui est par définition placé à un échelon mieux renseigné, de les conduire[[14]](#footnote-14). »
+
+
+
+![La formation morale des élites La guerre et le droit naturel](/assets/uploads/am-77-la-formation-morale-des-elites-et-la-guerre-droit-naturel.jpg)
+
+
+
+Cette nécessité de reconstruire une élite et de la mettre aux commandes, est d’autant plus urgente que la civilisation chrétienne est menacée. Alors que l’Église établissait des règles, permettait à la civilisation de se développer, « la guerre subversive se caractérise par une perversion égale et fatale de la fin et des moyens[[15]](#footnote-15) ». Ce n’est, pour l’auteur, pas étonnant quand on sait que « (…) ceux qui ne croient pas en Dieu comme les communistes, ou qui n’ont pas les mêmes normes morales que nous comme les musulmans, ou qui n’ont aucun scrupule de consciences comme les machiavéliques, ne sauraient être gênés dans leurs desseins politiques par les exigences doctrinales de l’Église et il serait imprudent de la part d’un chef politique chrétien (…) de ne pas en tenir compte[[16]](#footnote-16) ». On notera au passage combien le musulman n’est pas devenu une cible de l’extrême droite uniquement dans les années 80[[17]](#footnote-17). D’ailleurs, « si vous prenez un peu de recul pour considérer le déroulement de l’histoire, vous verrez, pour prendre un exemple contemporain, que les croisades ont eu, en beaucoup plus grand, un effet stratégique comparable à celui de l’intervention américaine au Vietnam aujourd’hui[[18]](#footnote-18) ». En clair, la fixation de l’ennemi sur son sol par la guerre à cet endroit ralentit sa progression et donc permet de préparer la défense ou la contrattaque. Dans cette vision, les croisades sont vues comme ayant retardé l’arrivée des musulmans en Europe et ainsi sauvé la chrétienté. Et la colonisation est vue comme positive : « En dehors de la vieille Asie, c’est grâce à la colonisation et à rien d’autre que la civilisation s’est répandue dans le monde (…) les colonisés se mettaient de bonne grâce à l’école de la civilisation comme nos ancêtres gaulois par exemple à celle des Romains[[19]](#footnote-19). »
+
+## L’ombre de Vichy
+
+Comme on l’a souligné dans la présentation de l’auteur ici analysé, et pour reprendre le titre d’un ouvrage marquant, Vichy est un passé qui ne passe pas. Et Auphan, parlant de la nécessité de la discipline collective, de souligner : « Je vous rappelle, au passage, qu’il ne peut y avoir de nation organisée, d’État, sans un minimum de sens civique chez les citoyens, c’est-à-dire, pour appeler les choses par leur nom, sans une discipline consentie. Des multiples constitutions que la France a connues depuis la grande Révolution, celle qui a été élaborée à Vichy dans la souffrance après notre défaite de 1940, mais qui n’a jamais vu le jour, est la seule à l’avoir affirmé dans son article premier[[20]](#footnote-20). » Ou de critiquer la Résistance et les actions de celles-ci[[21]](#footnote-21) : « en vertu de cet accord (la convention de La Haye) souscrit par toutes les nations civilisées, les milices n’étaient tolérées à côté des armées régulières que si elles avaient, comme elles, un “signe distinctif reconnaissable à distance” et “portaient ostensiblement les armes”, ce qui éliminait les combattants sans uniforme, comme on se plaît à dire aujourd’hui et prohibait d’avance les assassinats commis au temps de l’occupation dans le métro ou dans la rue, par un passant apparemment inoffensif qui tire tout à coup un pistolet de sa poche[[22]](#footnote-22). »
+
+La critique est d’ailleurs plus large et s’étend au pacifisme, vu uniquement sous l’angle d’une des facettes de la subversion communiste : « Il ne faut donc pas se laisser entraîner dans les courroies de transmission du communisme international, lequel, sous couleur de pacifisme, cherche beaucoup plus à désarmer ses adversaires qu’à faire régner la justice telle que la conçoit une conscience chrétienne ou même simplement civilisée. Le Mouvement Mondial de la Paix, les associations qui font de la non-violence un absolu et maints autres groupements ambigus sont à classer dans ces courroies de transmission[[23]](#footnote-23). »
+
+On le voit, loin d’être anecdotique et neutre, le parcours et les écrits de l’Amiral Auphan font la liaison entre l’avant et l’après-guerre mondiale pour un milieu très à droite qui ne reniera jamais ses engagements ni ses ennemis et montre que certaines distinctions, si elles sont intéressantes intellectuellement, sont dans les faits nettement moins pertinentes.
+
+1. Voir « Les résultats d’une coalition avec l’extrême droite » in _Aide-mémoire_ n°30 d’octobre-novembre-décembre 2004
+2. Voir « L’histoire est incomplète sans le témoignage des perdants » in _Aide-mémoire_ n°73 de juillet-août-septembre 2015
+3. Voir « Un résistant d’extrême droite » in _Aide-mémoire_ n°67 de janvier-février-mars 2014
+4. Voir « Retour sur le discours du fondateur de la dynastie Le Pen » in _Aide-mémoire_ n°56 d’avril-mai-juin 2011
+5. Voir « La cohérence d’un engagement » in _Aide-mémoire_ n°40 d’avril-mai-juin 2007
+6. Voir « La Loi du décalogue » in _Aide-mémoire_ n°64 d’avril-mai-juin 2013
+7. Voir « Quand la résistance et le droit d’insurrection sont-ils justifiés ? » in _Aide-mémoire_ n°55 de janvier-février-mars 2011
+8. Voir « L’inégalité comme étoile polaire de l’extrême droite » in _Aide-mémoire_ n°66 d’octobre-novembre-décembre 2013
+9. Voir « De l’inégalité à la monarchie » in _Aide-mémoire_ n°33 de juillet-août-septembre 2005
+10. Voir « Léon Degrelle et le Rexisme » in _Aide-mémoire_ n°23 de janvier-février-mars 2003 et « “Tintin-Degrelle” une idéologie au-delà de la polémique » in _Aide-mémoire_ n°50 d’octobre-novembre-décembre 2009 et n°51 de janvier-février-mars 2010
+11. Paul Auphan, _La formation morale des élites_, Paris, CLC, (1974), P. 18
+12. _Idem_, p. 2
+13. Voir « L’extrême droite défend-elle les travailleurs ? » in _Aide-mémoire_ n°60 d’avril-mai-juin 2012
+14. Paul Auphan, _op. cit._, p. 13
+15. Paul Auphan, _La guerre et le droit naturel_, Paris, Permanences, (s.d.), p. 12. Précisons que Permanences est le nom de la revue de diffusion des idées de la Cité Catholique. Voir « La pensée “contrerévolutionnaire” » in _Aide-mémoire_ n°36 d’avril-mai-juin 2006
+16. Paul Auphan,_ op. cit_., p. 4
+17. Voir « Danger : Invasion ! » in _Aide-mémoire_ n°22 de juillet-août-septembre 2002,
+18. Paul Auphan, _op. cit._, p. 8
+19. _Idem_, p. 9
+20. Paul Auphan, _La formation…_, op.cit., p. 17
+21. Voir « Le "résistantialisme", un équivalent au négationnisme » n°44 d’avril-mai-juin 2008,
+22. Paul Auphan, _La guerre…_, op.cit., p. 10
+23. _Idem_, p. 15

@@ -1,0 +1,10 @@
+<div class="ra-list grid">
+    {%- for item in site.data.ra -%}
+        <div class="ra-list__item grid-item">
+            <a class="ra-list__item__link" href="/assets/pdf/association/ra/tdlm-rapport_activites-{{ item.year }}.pdf">
+                <h4 class="ra-list__item__year">{{ item.year }}</h4>
+                <img class="ra-list__item__img" src="/assets/images/association/ra/tm-ra-{{ item.year }}.jpg" alt="Rapport d'activités {{ item.year }}">
+            </a>
+        </div>
+    {%- endfor -%}
+</div>

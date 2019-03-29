@@ -1,0 +1,217 @@
+---
+layout: static-page
+title:  "Le réseau Territoire de Mémoire"
+subtitle: "Le cordon sanitaire éducatif pour résister aux idées liberticides"
+permalink: reseau
+---
+
+
+<div class="reseau-img-generique">
+    <img class="reseau-img-generique__plaque" src="/assets/images/reseau/tm-reseau-img-generique-plaque-2018.png" alt="">
+    <div class="reseau-img-generique__bg">
+        <img class="reseau-img-generique__bg__img" src="/assets/images/reseau/tm-reseau-img-generique-bg.jpg" alt="">
+    </div>
+    <img class="reseau-img-generique__people" src="/assets/images/reseau/tm-reseau-img-generique-people.png" alt="">
+</div>
+
+<section class="page-section top limited">
+    <div class="page-section__content">
+        <div class="page-section__header-icons">
+            <div class="page-section__header-icon left">
+                {%- include_cached pages/pdf-link.html slug="reseau" link="tdlm_brochure_TdeM_2018.pdf" text="brochure réseau Territoire de Mémoire" -%}
+            </div>
+        </div>
+        <div class="blocks">
+            <div class="block">
+                <p class="chapeau">L’éducation à la Résistance et à la Citoyenneté peut s’appuyer sur l’engagement de nombreuses Communes, Villes et Provinces en Wallonie et à Bruxelles. Pour les accompagner dans leurs actions, Les Territoires de la Mémoire proposent un ensemble d’outils et de ressources mises à disposition des membres du réseau Territoire de Mémoire. De l’acte d’engagement à la diffusion d’expositions en passant par des formations citoyennes pour le personnel communal ou pour des publics particuliers, voici une vue d’ensemble des éléments mis à disposition par l’association.</p>
+            </div>
+            <div class="block card card--one">
+                <h3>Contact</h3>
+                <ul class="list--no-style">
+                    <li><a href="mailto:projets@territoires-memoire.be">projets@territoires-memoire.be</a></li>
+                    <li>0032 (0) 4 232 70 08</li> 
+                </ul>
+            </div>
+        </div>
+        <div class="page-tuiles">
+            {%- include_cached pages/page-tuile.html title="Votre commune est-elle Territoire de Mémoire&nbsp;?" url="#votre-commune-est-elle-territoire-de-memoire" imageSlug="reseau" imageFileName="page-reseau-tuile-01.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Pourquoi devenir Territoire de Mémoire&nbsp;?" url="#pourquoi-devenir-territoire-de-memoire" imageSlug="reseau" imageFileName="page-reseau-tuile-02.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Les avantages pour les villes et communes" url="#les-avantages" imageSlug="reseau" imageFileName="page-reseau-tuile-03.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="En Marche, Citoyen !" url="#en-marche-citoyen" imageSlug="reseau" imageFileName="page-reseau-tuile-04.jpg" -%}
+        </div>
+    </div>
+</section>
+
+<section id="votre-commune-est-elle-territoire-de-memoire" class="page-section">
+    <header class="page-section__header">
+        <h2 class="page-section__title">Votre commune est-elle Territoire de Mémoire&nbsp;?</h2>
+    </header>
+    <div id="reseau-map"></div>
+    <div class="page-section__content limited-width">
+        <h3 class="text-centered">Il y a actuellement 
+            <strong id="numberOfCommunes">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 38" width="15"><path d="M26.6 5.4C20.7-.5 11.2-.5 5.4 5.4c-5.9 5.9-5.9 15.4 0 21.2L16 37.2l10.6-10.6c5.9-5.9 5.9-15.3 0-21.2zM15.9 19.6c-2 0-3.6-1.6-3.6-3.6s1.6-3.6 3.6-3.6 3.6 1.6 3.6 3.6c-.1 2-1.7 3.6-3.6 3.6z" fill="#fff"/><path d="M26.6 5.4C20.7-.5 11.2-.5 5.4 5.4c-5.9 5.9-5.9 15.4 0 21.2L16 37.2l10.6-10.6c5.9-5.9 5.9-15.3 0-21.2zM15.9 19.6c-2 0-3.6-1.6-3.6-3.6s1.6-3.6 3.6-3.6 3.6 1.6 3.6 3.6c-.1 2-1.7 3.6-3.6 3.6z" fill="none" stroke="#000" stroke-miterlimit="10"/></svg>
+            </strong> villes et communes dans notre réseau&nbsp;:</h3>
+        <p class="text-centered" id="reseau-filtre">Recherchez&nbsp;: <input type="text" id="reseauInput" placeholder="Filtrez les villes et communes..."></p>
+        <div class="list-reseau">
+            <p class="text-centered" id="add-communes-wrapper">
+                <button class="button button--blue button--big" id="addCommunes">Voir la liste des villes et communes</button>
+            </p>
+            <ul id="list-reseau" class="list list--no-style list--inline"></ul>
+        </div>
+        <div class="partenaires-reseau">
+            <p class="chapeau" >Institution partenaire&nbsp;:</p>
+                <ul class="list list--dashed">
+                    <li>Le Parlement de Wallonie</li>
+                </ul>
+            <p class="chapeau">Provinces partenaires&nbsp;:</p>
+            <ul class="list list--dashed">
+                <li>Province de Hainaut</li>
+                <li>Province de Liège</li>
+                <li>Province de Namur</li>
+                <li>Province du Brabant wallon</li>
+                <li>Province de Luxembourg</li>
+            </ul> 
+        </div>
+    </div>
+</section>
+
+<section id="pourquoi-devenir-territoire-de-memoire" class="page-section">
+    <header class="page-section__header">
+        <div class="page-section__img">
+            <img src="/assets/images/reseau/pourquoi-devenir-territoire-de-memoire.jpg" alt="Pourquoi devenir Territoire de Mémoire&nbsp;?">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">Pourquoi devenir Territoire de Mémoire&nbsp;?</h2>
+        <div class="containers">
+            <div class="container container--half">
+                <p class="page-section__description">Parce qu’il est urgent de résister aux idées liberticides ! Les Territoires de la Mémoire asbl sont un centre d’Éducation à la Résistance et à la Citoyenneté qui s’oppose à tous les extrémismes et à la montée des idées d’extrême droite en particulier.
+                        Si l’Europe et notre pays ne sont pas à l’abri, en Wallonie, l’extrême droite est encore combattue efficacement et le cordon sanitaire est maintenu. Mais une vigilance de tous les instants reste indispensable car les formations et les partis extrémistes modernisent leur communication, dissimulent leurs intentions sous des slogans réducteurs et des simplifications mensongères. Ils pourraient acquérir ainsi une nouvelle respectabilité.
+                </p>
+            </div>
+            <div class="container container--half">
+                <div class="card card--red card--medium-width">
+                    <p class="chapeau no-margin-bottom">
+                        Mandataires, donnez un signal fort et sans ambiguïté à la population en adhérant au réseau Territoire de Mémoire ! Renforcez le cordon sanitaire pour résister aux idées qui menacent nos libertés. C’est la responsabilité de tous ceux qui veulent préserver le vivre ensemble, la paix et les valeurs démocratiques.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="page-section__content">
+        <div class="containers">
+            <div class="container container--half">
+                <div class="card card--reverse card--one">
+                    <h3>Pour résister aux dangers et à la propagation des idées d’extrême droite, il est urgent de&nbsp;:</h3>
+                    <ul class="list list--dashed">
+                        <li>transmettre les valeurs démocratiques aux jeunes générations;</li>
+                        <li>sensibiliser les personnels communaux à l’importance du travail de Mémoire et à la lutte contre toutes les formes d’exclusions;</li>
+                        <li>outiller les acteurs associatifs.</li>
+                    </ul>
+                </div>
+                <h4>Les entités adhérentes s’engagent&nbsp;:</h4>
+                <ul class="list list--dashed">
+                    <li>à sensibiliser aux dangers du racisme, de la xénophobie et de la résurgence du fascisme&nbsp;;</li>
+                    <li>à faire prendre conscience des mécanismes pouvant aboutir aux exclusions&nbsp;;</li>
+                    <li>à favoriser un consensus démocratique et la construction d’une société juste, progressiste et fraternelle.</li>
+                </ul>
+                <h4>L’entité devient&nbsp;:</h4>
+                <ul class="list list--dashed">
+                    <li>un partenaire citoyen pour renforcer le cordon sanitaire éducatif&nbsp;;</li>
+                    <li>Un partenaire pédagogique en favorisant les échanges avec tous.</li>
+                </ul>
+                <h4>Les acteurs de l’éducation&nbsp;:</h4>
+                <ul class="list list--dashed">
+                    <li>un partenaire financier en soutenant l’action de notre association&nbsp;;</li>
+                    <li>un partenaire culturel en disposant de nombreux outils et ressources à votre disposition.</li>
+                </ul>
+            </div>
+            <div class="container container--half container--visible-at-lg">
+                {%- include_cached pages/gallery.html folder="reseau/gallery" album="reseau" -%}
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="les-avantages" class="page-section">
+    <header class="page-section__header">
+        <div class="page-section__img">
+            <img src="/assets/images/reseau/avantages-reseau.jpg" alt="Les avantages du réseau Territoire de Mémoire">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">Les avantages du réseau Territoire de Mémoire</h2>
+        <p class="page-section__description">Le réseau TERRITOIRE DE MÉMOIRE vous offre beaucoup d’avantages. De très nombreux outils sont à votre disposition&nbsp;: transport gratuit des groupes scolaires, animations, formations, dossiers pédagogiques, médiathèque, voyages accompagnés dans les camps nazis,…</p>
+    </header>
+    <div class="page-section__content">
+        <div class="blocks img-blocks">
+            <div class="block">
+                <img src="/assets/images/reseau/avantages-reseau-block-01.jpg" alt="Transport gratuit">
+                <h4>Transport gratuit pour la visite de l'exposition permanente</h4>
+                <p>Nous assurerons gratuitement le transport des classes, issues d'établissements scolaires organisés par votre entité communale, souhaitant visiter l’exposition permanente <a href="/plusjamaisca">Plus jamais ça ! Parcours dans les camps nazis pour résister aujourd’hui</a> (min. 30 personnes - sous réserve de disponibilité). En cas d’une <a href="/assets/pdf/pjc/tdlm-prolongez-la-visite-de-plus-jamais-ca.pdf">visite combinée</a> avec l’un de nos partenaires à Liège, une participation de 3&nbsp;€ par personne sera demandée en plus du tarif d'entrée.</p>
+            </div>
+            <div class="block">
+                <img src="/assets/images/reseau/avantages-reseau-block-02.jpg" alt="Animation pédagogique">
+                <h4>3 abonnements gratuits à la revue Aide-mémoire</h4>
+                <p>Nous fournissons 3 abonnements cessibles à la revue trimestrielle <a href="/aide-memoire">Aide-mémoire</a> (sur remise d’une liste nominative).</p>
+            </div>
+            <div class="block">
+                <img src="/assets/images/reseau/avantages-reseau-block-03.jpg" alt="Exposition gratuite">
+                <h4>20% de réduction sur la location d'une exposition itinérante</h4>
+                <p>Nous accordons 20% de réduction sur la location de l’une des <a href="/eduquer#expositions-itinerantes">expositions itinérantes des Territoires de la Mémoire</a>.</p>
+            </div>
+            <div class="block">
+                <img src="/assets/images/reseau/avantages-reseau-block-04.jpg" alt="Formation du personnel communal">
+                <h4>Formation gratuite du personnel communal</h4>
+                <p>Nous assurerons la formation du personnel communal en matière de lutte contre les discriminations, la xénophobie, le racisme et les idées d'extrême droite (sur demande).</p>
+            </div>
+        </div>
+        <div class="card card--one card--pdf-link card--centered card--no-margin-bottom" style="margin-top:40px;">
+            {%- include_cached pages/pdf-link.html color="white" external="true" external_link="/assets/pdf/reseau/tdlm_brochure_TdeM_2018.pdf#page=10" text="Les avantages complets pour les Villes et Communes" -%}
+        </div>
+    </div>
+</section>
+
+<section id="en-marche-citoyen" class="page-section">
+    <header class="page-section__header">
+        <div class="page-section__img">
+            <img src="/assets/images/reseau/en-marche-citoyen.jpg" alt="En marche, Citoyen&nbsp;!">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+        <h2 class="page-section__title">En Marche, Citoyen&nbsp;!</h2>
+        <div class="containers emc-images">
+            <div class="container container--half">
+                <img src="/assets/images/reseau/en-marche-citoyen-logo.svg" alt="En Marche, Citoyen&nbsp;! - logo">
+            </div>
+            <div class="container container--half">
+                <img src="/assets/images/reseau/en-marche-citoyen-baseline.svg" alt="En Marche, Citoyen&nbsp;! - baseline">
+            </div>
+        </div>
+    </header>
+    <div class="page-section__content">
+        <div class="emc-video-container">
+            <img class="emc-video__decorum" src="/assets/images/reseau/en-marche-citoyen-decorum.svg" alt="">
+            <video class="emc-video" controls poster="/assets/images/reseau/emc-video-bg.png">
+                <source src="/assets/videos/tdlm-en_marche_citoyen_low.mp4" type="video/mp4">Votre navigateur ne supporte pas la lecture de cette vidéo.</video>
+        </div>
+        <div class="containers emc-infos">
+            <div class="container container--half">
+                <h3>Le projet</h3>
+                <p>Les Territoires de la Mémoire ASBL proposent aux communes Territoires de Mémoire de mettre en valeur leur patrimoine local autour de la démocratie, de la citoyenneté et de la mémoire.</p>
+                <p>Sur un parcours de +/- 3 km, des QR codes proposent des questions et réflexions autour des thématiques plus précises que sont la démocratie, l’éducation, la liberté d’expression, la résistance et le travail de mémoire. À travers ces différents thèmes, la balade concilie mémoire et actualité en interrogeant l’implication de chaque citoyen et de chaque citoyenne dans la société.</p>
+                <div class="emc-pdf-links">
+                    {%- include_cached pages/pdf-link.html slug="reseau" link="tdlm-en-marche-citoyen-flyer-haccourt.pdf" text="parcours de Haccourt" -%}
+                    {%- include_cached pages/pdf-link.html slug="reseau" link="tdlm-en-marche-citoyen-flyer-hermalle.pdf" text="parcours de Hermalle" -%}
+                </div>
+            </div>
+            <div class="container container--half">
+                <h3>Mode d’emploi</h3>
+                <p>Sortez vos smartphones, enfilez vos chaussures de randonnée et partez à l’assaut de la mémoire et de votre citoyenneté aujourd’hui&nbsp;!</p>
+                <p>En marche citoyen&nbsp;! est une balade ludique et interactive qui vous emmènera, via les QR codes disséminés sur le parcours, aux pays de la démocratie, de l’éducation, de la liberté d’expression, de la résistance et du travail de mémoire.</p>
+                <p>Vous souhaitez mettre en place une édition locale d’En marche citoyen ! dans votre entité&nbsp;? Prenez contact avec les Territoires de la Mémoire&nbsp;: <a href="mailto:projets@territoires-memoire.be">projets@territoires-memoire.be</a> ou 042 32 70 02</p>
+                <div class="emc-pdf-links">
+                    {%- include_cached pages/pdf-link.html slug="reseau" link="tdlm-en-marche-citoyen-carnet-de-ressources.pdf" text="carnet de ressources" -%}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

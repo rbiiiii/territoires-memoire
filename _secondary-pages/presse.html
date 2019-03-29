@@ -1,0 +1,35 @@
+---
+layout: secondary-page
+title:  "Presse"
+permalink: presse
+class: presse
+---
+
+<h3>Contact</h3>
+
+<ul class="list">
+    <li>Charlotte Collot</li>
+    <li>0032 4 250 99 48</li>
+    <li><a href="mailto:charlottecollot@calliege.be">charlottecollot@calliege.be</a></li>
+</ul>
+
+<h3>Communiqués de presse</h3>
+
+<ul class="list list--dashed list-press">
+    {%- assign communiques = site.communiques-presse | sort: 'date' | reverse -%}
+    {%- for com in communiques -%}
+        <li>
+            <small>({{ com.date | date: "%-d/%-m/%-Y"}})</small><br>
+            <h4>{{ com.title }}</h4>
+            <ul class="list list--inline list--no-style">
+                <li><a href="{{ com.pdf_src }}">Voir le communiqué</a></li>
+                {%- if com.zip_src -%}
+                    - <li><a href="{{ com.zip_src }}">Télécharger les ressources</a></li>
+                {%- endif -%}
+                {%- if com.external_url -%}
+                    - <li><a href="{{ com.external_url }}">Lien externe</a></li>
+                {%- endif -%}
+            </ul>
+        </li>
+    {%- endfor -%}
+</ul>

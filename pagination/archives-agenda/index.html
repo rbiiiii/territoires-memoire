@@ -1,0 +1,19 @@
+---
+layout: category
+title: Archives de l'agenda
+permalink: /archives-agenda/
+pagination:
+  enabled: true
+  collection: agenda
+  permalink: /:num/
+  sort_field: 'date_start'
+  sort_reverse: true
+---
+
+<div class="agenda agenda--archives">
+  <ul class="post-list list--no-style blocks">
+    {% for event in paginator.posts %}
+      <li class="block post-list__item">{%- include posts/event-template.html -%}</li>
+    {% endfor %}
+  </ul>
+</div>

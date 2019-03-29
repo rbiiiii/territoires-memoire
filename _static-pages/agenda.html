@@ -1,0 +1,29 @@
+---
+layout: category
+title: "Agenda"
+permalink: "/agenda/index.html"
+excerpt: none
+---
+
+<div class="agenda">
+  <ul class="post-list list--no-style blocks">
+      {%- assign eventPost = site.agenda | sort: 'date_start' -%}
+      {%- assign curDate = site.time | date: '%Y-%m-%d' -%}
+      
+      {%- for event in eventPost -%}
+        {%- if event.date_stop != '' and event.date_stop != 'Invalid date' -%}
+            {%- assign postDate = event.date_stop | date: '%Y-%m-%d' -%}
+        {%- else -%}
+            {%- assign postDate = event.date_start | date: '%Y-%m-%d' -%}
+        {%- endif -%}
+          {%- if postDate >= curDate -%}
+              <li class="post-list__item">
+                {%- include posts/event-template.html -%}
+              </li>
+          {%- endif -%}
+      {%- endfor -%}
+  </ul>
+  <p class="text-centered">
+    <a href="/archives-agenda" class="button button--blue">Voir les archives de l'agenda</a>
+  </p>
+</div>

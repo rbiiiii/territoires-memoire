@@ -1,0 +1,269 @@
+/**
+ * Page content
+ */
+
+.page-content {
+    margin:$spacing-unit 0 $spacing-unit*4 0;  
+
+    @media screen and (min-width:1024px) {
+        margin-top:$spacing-unit*2;      
+    }
+}
+
+.page-header {
+  @include relative-font-size(1.5);
+  background-color:$bleu-tm;
+  color:white;
+}
+
+.page-title__container {
+    
+    &::after {
+        @extend %after-triangle;
+    }    
+}
+
+.page-title {
+    @include pj-black; 
+    padding:$spacing-unit*0.75 $spacing-unit*4 $spacing-unit $spacing-unit;
+    max-width:$max-width;
+    margin:0 auto;
+    line-height: 1.3;
+    color:white;
+    @include relative-font-size(1.8);
+    font-size:calc(1rem + 2.5vw);
+    min-height: 2em;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+
+    small {
+        font-weight:200;
+        width:100%;    
+    }
+
+    @media screen and (min-width:1024px) {
+        padding-right:$spacing-unit;
+    }
+
+    @media screen and (min-width:1240px) {
+        @include relative-font-size(2.5);
+    }
+}
+
+.page-title__img {
+
+    img {    
+        width:100%;
+        object-fit: cover;
+        object-position: left;  
+        min-height: 170px;
+    }
+}
+
+.page-section {
+    padding-top:$spacing-unit;
+    margin-top:$spacing-unit*5;
+
+    @media screen and (min-width:$max-width) {
+        margin-top:$spacing-unit*9;
+    }
+
+    &.top {
+        padding-top:0;
+        margin-top:0;
+
+        @media screen and (min-width:1024px) {
+            margin-top:$spacing-unit;
+        }
+
+        &.limited {
+            max-width: $large-width + $spacing-unit*2;
+            margin-left: auto;
+            margin-right: auto;    
+        }
+
+        .page-section--top__title {
+            margin-bottom:$spacing-unit*2;
+            text-align: center;    
+        }
+
+        .chapeau + .page-tuiles {
+            margin-top:$spacing-unit*2;  
+        }  
+
+        @media screen and (min-width:1024px) {
+
+            .blocks {
+                margin-bottom:$spacing-unit*2;
+            
+                @supports (display:grid) {
+                    grid: auto-flow / 1fr 315px;
+                }
+            }
+        
+            .block {
+        
+                &.card {
+                    width:100%;
+                    max-width:315px;
+                }
+            }
+        }
+    }
+
+    .wrapper {
+        padding-right: $spacing-unit;
+        padding-left: $spacing-unit;
+    }
+}
+
+.page-section__header {
+    @extend %limited-width--without-padding;
+
+    .card {
+        margin-right:$spacing-unit;    
+        margin-left:$spacing-unit;
+    }
+
+    .card--medium-width {
+
+        @media screen and (min-width:$medium-width) {
+            max-width:$medium-width - $spacing-unit*2;
+            margin-right:auto;    
+            margin-left:auto;    
+        }
+
+        @media screen and (min-width:1024px) {
+            max-width:100%;
+            margin-right:$spacing-unit;    
+        }
+    }
+}
+
+.page-section__img {
+    @extend %limited-width--without-padding;
+    max-width:$max-width - $spacing-unit*2;
+    position:relative;
+    width:100%;
+    border-top: 1px solid $bleu-tm;
+    border-bottom: 1px solid $bleu-tm;
+    margin:0 auto $spacing-unit auto;
+    padding-bottom:12px;
+
+    img {
+        width:100%;
+    }
+}
+
+.page-section__title {
+    @extend %limited-width;
+    margin-top:$spacing-unit/2;
+    color:$bleu-tm;
+    text-align: center;
+    max-width:$large-width;
+    margin-right:auto;
+    margin-left:auto;
+
+    @media screen and (min-width:1024px) {
+        margin-bottom:$spacing-unit*2;    
+    }
+}
+
+.page-section__description {
+    @extend %limited-width;
+    @include relative-font-size(1.2);
+    max-width:$large-width;
+    
+    &:last-of-type {
+        margin-bottom:0;
+    }
+}
+
+.page-section__content {
+    margin-top: $spacing-unit*2;
+    @extend %limited-width;
+
+    &.limited {
+        max-width: $large-width;    
+    }
+}
+
+.page-section__header-icons {
+    margin-right: auto;
+    margin-left: auto;
+    hyphens:auto;
+    display: flex;
+    flex-direction: column;
+    
+    @media screen and (min-width:768px) {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+        margin-bottom:$spacing-unit;
+    }
+
+    .pdf-link {
+        padding:0;    
+    }    
+}
+
+.page-section__header-icon {
+
+    &.left {
+        margin-right:$spacing-unit/2;    
+
+        @media screen and (max-width:767px) {
+            order:2;
+        }
+    }
+
+    &.right {
+        margin-left:$spacing-unit/2;    
+
+        @media screen and (max-width:767px) {
+            margin-bottom:$spacing-unit*2;
+            text-align: center;
+            order:1;
+        }
+    }
+}
+
+.page-footer {
+    margin-bottom:$spacing-unit*4;    
+}
+
+.full {
+    width:100%;    
+}
+
+#am-404 {
+    display:none;
+    margin-top:$spacing-unit*2;
+    transform:scaleY(0);
+    transition:transform 150ms ease-out;
+    margin-right:$spacing-unit;
+    margin-left:$spacing-unit;
+    
+    &.opened {
+        display:block;
+        transform:scaleY(1);
+    }
+
+    p {
+        @include relative-font-size(1.2);
+    }
+}
+
+@import
+    "_pages/association",
+    "_pages/eduquer",
+    "_pages/voyages",
+    "_pages/pjc",
+    "_pages/reseau",
+    "_pages/biblio",
+    "_pages/editions",
+    "_pages/soutiens",
+    "_pages/publications",
+    "_pages/aide-memoire"
+;

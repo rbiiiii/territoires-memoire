@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<div class="aide-memoire-numero">
+
+    <header class="page-header">
+        <div class="page-title__img">
+            <img src="/assets/images/aide-memoire/page-title-aide-memoire.jpg" alt="{{ page.title | escape }}">
+            <div class="page-title__img__am-num"><span>°</span>[N {{ page.num }}]</div>
+        </div>
+    </header>
+
+    <div class="page-content">
+        <section class="page-section top">
+            <div class="page-section__content">
+                <div class="page-section__header-icons">
+                    <div class="page-section__header-icon left">
+                        {%- capture pdf -%}{{ page.pdf_src }}{%- endcapture -%}
+                        {%- include_cached pages/pdf-link.html external="true" external_link=pdf text="Consulter le numéro en PDF" -%}
+                    </div>
+                    <div class="page-section__header-icon right">
+                        {{ page.date_publication }}
+                    </div>
+                </div>
+                <div class="page-section__chapeau chapeau clearfix">
+                    <img class="page-section__chapeau__img" src="{{ page.img_src }}" alt="{{ page.title }}">
+                    {{ content }}
+                </div>
+            </div>
+        </section>
+        <section class="page-section top">
+            <div class="page-section__content">
+                <div class="am-num__articles">
+                    {%- assign posts = site.am-posts | where:'categories', page.slug | sort: "order" -%}
+                    {%- for am in posts -%}
+                        <div class="am-post-item">
+                            <h2 class="am-post-item__title">{%- if am.type == 'editorial' -%}<small>Editorial</small><br>{%- elsif am.type == 'mots' -%}<small>Mots</small><br>{%- endif -%}
+                                <a class="am-post-item__title__link" href="{{ am.url }}">{{ am.title }}</a></h2>
+                            <p class="am-post-item__credits">{{ am.credits }}</p>
+                            <div class="am-post-item__excerpt">{{ am.content | truncate: 280, "&nbsp;[…]" | markdownify }}</div>
+                        </div>  
+                    {%- endfor -%}
+                </div>
+            </div>
+        </section>
+        {%- assign booksFromNowSize = site.books | where:'version', page.num | size -%}
+        {%-  if booksFromNowSize > 0 -%} 
+            <section class="page-section books-slider">
+                <div class="page-section__content">
+                    <h2>La Bibliothèque George Orwell présente</h2>
+                    {%- include_cached pages/books.html version=page.num -%}
+                </div>
+            </section>
+        {%- endif -%}
+    </div>
+
+    <footer class="page-footer">
+        <div class="page-section__content">
+            <p>
+                <a class="button button--blue" href="/aide-memoire">< Retour</a>
+            </p>
+        </div>
+    </footer>
+
+</div>
+

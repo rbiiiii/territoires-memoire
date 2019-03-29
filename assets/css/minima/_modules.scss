@@ -1,0 +1,95 @@
+
+.tm-separateur {
+    width: 52px !important;
+    height: 12px !important;
+    min-height: 12px !important;
+    max-height:12px !important;
+    position: absolute;
+    bottom: -12px;
+    left: 50%;
+    margin-left: -26px;
+}    
+
+.icon-plus-title {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+
+    @media screen and (min-width:400px) {
+        flex-direction: row;
+        text-align: left;    
+    }
+}
+    
+.icon-plus-title__icon {
+    margin-right: auto;
+    margin-left: auto;
+    width:50px;
+    height:50px;
+
+    @media screen and (min-width:400px) {
+        margin-right:$spacing-unit/2;    
+        margin-left:0;
+    }
+}
+
+.fancybox-is-open .fancybox-bg {
+    background:$bleu-tm;
+    opacity: .96;    
+}
+
+.fancybox-button {
+    background:rgba($rouge-tm, 0.6);    
+}
+
+.embedresize {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.embedresize div {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+
+.embedresize iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.intro #intro .embedresize iframe,
+.exit .quizz .embedresize iframe,
+.alreadyplayed #intro .embedresize iframe,
+.identityset #intro .embedresize iframe,
+#notabene .embedresize iframe,
+#message_intro .embedresize iframe,
+.fancybox_body .embedresize iframe,
+#comments .embedresize iframe,
+#description .embedresize iframe,
+.alreadyplayed .embedresize iframe,
+#adserver .embedresize iframe {
+    max-width: none !important;
+}
+    
+@import
+    "_modules/links",
+    "_modules/page-tuiles",
+    "_modules/lists",
+    "_modules/galleries",
+    "_modules/cards",
+    "_modules/grids",
+    "_modules/blocks",
+    "_modules/flex-blocks",
+    "_modules/containers",
+    "_modules/pdf-link",
+    "_modules/pdf-txt-items",
+    "_modules/tables",
+    "_modules/books",
+    "_modules/buttons",
+    "_modules/icons",
+    "_modules/pager"
+;

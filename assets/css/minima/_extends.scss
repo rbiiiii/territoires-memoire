@@ -1,0 +1,39 @@
+.limited-width, %limited-width {
+    width:100%;
+    max-width:$medium-width;
+    margin-right:auto;    
+    margin-left:auto;
+    padding-right:$spacing-unit;
+    padding-left:$spacing-unit;
+
+    @media screen and (min-width:1024px) {
+        max-width:$max-width;    
+    }
+}
+
+.limited-width--without-padding, %limited-width--without-padding {
+    @extend %limited-width;
+    max-width:100%;
+    padding-right:0;
+    padding-left:0;
+
+    @media screen and (min-width:$max-width) {
+        max-width:$max-width;    
+    }
+}
+
+%after-triangle {
+    content:'';
+    display:block;
+    width: 0;
+    height: 0;
+    background-color:white;
+    border-style: solid;
+    border-width: $spacing-unit $spacing-unit/2  0 $spacing-unit/2;
+    border-color: $bleu-tm transparent transparent transparent;
+    margin:0 auto;
+    position: absolute;
+    left: 50%;
+    margin-left: -$spacing-unit/2;
+    background-color:transparent;
+}
