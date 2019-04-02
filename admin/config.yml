@@ -116,7 +116,7 @@ collections:
     label: "Aide-mémoire article"
     folder: "_am-posts"
     create: true
-    slug: "{{year}}{{month}}{{day}}{{hour}}{{minute}}-{{slug}}"
+    slug: "{{minute}}{{hour}}-{{slug}}"
     fields:
       - {label: "Numéro d'Aide-mémoire", name: "categories", widget: "relation", collection: "aide-memoire", searchFields: ["name", "num", "slug"], valueField: "slug" }
       - {label: "Titre", name: "title", widget: "string"}
