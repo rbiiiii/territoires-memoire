@@ -5,7 +5,7 @@ title: 'Littérature, jazz et politique - 10e édition'
 date_start: '2019-04-24'
 date_stop: ''
 hour: 19h
-img_file: /assets/uploads/ljp-site-tm.jpg
+img_file: /assets/uploads/ljp-site-tm.jpg.png
 place: 'Théâtre de Liège - Place du 20-Août, 16 · 4000 Liège'
 address: 'Place du 20-Août, 16 · 4000 Liège'
 price: Entrée libre sur réservation
