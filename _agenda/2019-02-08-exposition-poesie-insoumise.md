@@ -3,7 +3,7 @@ layout: post
 categories: agenda
 title: Exposition - Poésie Insoumise
 date_start: '2019-03-11'
-date_stop: '2019-04-07'
+date_stop: '2019-04-28'
 img_file: /assets/uploads/lapoesie_uhmus_cc_sceau-vitrine.jpg
 place: 'Espace rencontre de la Bibliothèque George Orwell, Cité Miroir'
 address: '22 place Xavier Neujean, 4000 Liège'
@@ -18,6 +18,8 @@ practical: |-
   * <mailto:bibliotheque@territoires-memoire.be>
   * 04 232 70 62
 ---
+> ## L'exposition est prolongée jusqu’au dimanche 28 avril 2019 !
+>
 > _Parole levée, vent debout ou chant intérieur, la poésie manifeste dans la cité une objection radicale et obstinée à tout ce qui diminue l’homme, elle oppose aux vains prestiges du paraître, de l’avoir et du pouvoir, le vœu d’une vie intense et insoumise._
 >
 > _Elle est une insurrection de la conscience contre tout ce qui enjoint, simplifie, limite et décourage. Même rebelle, son principe, disait Julien Gracq, est le "sentiment du oui"._
