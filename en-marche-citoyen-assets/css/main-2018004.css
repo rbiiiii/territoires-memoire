@@ -230,6 +230,9 @@ html {
 .poi__explication p {
     margin:0;
 }
+.poi__explication p + p {
+    margin-top: 1em;
+}
 .show-results .poi__explication {
     height:auto;
     transform:scaleY(1);
@@ -251,6 +254,13 @@ video {
     width: 100%;
     height: 100%;
     border: 0;
+}
+
+.fresque-img {
+    width:100%;
+}
+.fresque_et-toi {
+    text-align: center;
 }
 
 .page-footer {
