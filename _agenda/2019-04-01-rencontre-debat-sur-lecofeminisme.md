@@ -5,7 +5,7 @@ title: Rencontre-débat sur l'écoféminisme
 date_start: '2019-04-18'
 date_stop: ''
 hour: De 17h30 à 20h
-img_file: /assets/uploads/ecofeminisme.jpg
+img_file: /assets/uploads/destroy-patriarchy.png
 place: 'Rue Maghin, 11 - 4000 Liège'
 address: 'Rue Maghin, 11 - 4000 Liège'
 tags:
