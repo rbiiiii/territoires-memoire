@@ -4,6 +4,7 @@ categories: agenda
 title: Rwanda 94. Comprendre l'incompréhensible
 date_start: '2019-04-18'
 date_stop: '2019-05-03'
+img_file: /assets/uploads/rwanda.png
 place: Rue de Liroux 9 à 5030 Gembloux
 address: 'Rue de Liroux 9, 5030 Gembloux'
 price: Entrée libre
