@@ -14,10 +14,6 @@ booking: |-
   * 04 230 70 50
 practical: ''
 ---
-## Attention ! L'exposition ne sera pas accessible ces 22, 23, 24 et 25 mars.
-
-## Rendez-vous le mardi 26 mars dès 9h.
-
 L’exposition _Rwanda 94. Comprendre l’incompréhensible_ propose de retracer l’histoire du Rwanda depuis l’époque précoloniale jusqu’aux lendemains du génocide des Tutsi au Rwanda.
 
 Par la mise en avant de ces repères chronologiques, elle propose différentes clés de compréhension sur la mise en place de ce génocide en particulier mais aussi, plus généralement, sur les mécanismes psychosociaux communs à tout génocide.
