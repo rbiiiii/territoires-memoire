@@ -22,4 +22,4 @@ Autour de thématiques comme l’histoire et la politique, partagez vos découve
 
 Venez découvrir les coups de cœur et les coups de gueule des autres lecteurs et partager les vôtres d’une manière conviviale.
 
-Cette rencontre sera consacrée à la chanson française engagée.
+Cette rencontre sera consacrée à la chanson française engagée. **Amenez-nous vos chansons sur clé USB ou envoyez-les pour le 14 mai** à l'adresse bibliotheque@territoires-memoire.be.
