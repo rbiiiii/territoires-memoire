@@ -4,10 +4,11 @@ categories: agenda
 title: 'Citoyens du Livre #25 - La chanson française engagée '
 date_start: '2019-05-15'
 date_stop: ''
-hour: De 18h à 20h30
+hour: ''
 img_file: /assets/uploads/site-tm-cdl25.jpg
 place: 'Place Xavier-Neujean 22, 4000 Liège'
 address: 'Place Xavier-Neujean 22, 4000 Liège'
+schedule: De 18h à 20h30
 practical: |-
   +32(0) 4 232 70 62
 
