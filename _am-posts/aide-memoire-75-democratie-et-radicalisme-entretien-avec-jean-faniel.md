@@ -1,6 +1,5 @@
 ---
 categories: aide-memoire-75
-location: '{"type":"Point","coordinates":[23.5546875,-2.2845507]}'
 title: 'Démocratie et radicalisme : entretien avec Jean Faniel'
 type: article
 credits: >-
