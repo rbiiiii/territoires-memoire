@@ -5,7 +5,7 @@ type: article
 credits: Par Jean-Louis Rouhart
 order: 9
 ---
-La société internationale « [**Memorial**](http://www.memo.ru/eng/) »,créée en 1989 à Moscou par le célèbre physicien et dissident Andreï Sakhazrov, est une ONG axée sur la défense des droits de l’Homme. Elle est extrêmement active dans le travail de mémoire et dans l’aide juridique et matérielle à apporter aux anciennes victimes des répressions politiques sous le régime soviétique, c’est à dire essentiellement les prisonniers du Goulag (jusqu’en 1956) et tous les détenus ayant été internés pour des raisons politiques ou raciales en URSS jusqu’à la dissolution du régime en 1991.
+La société internationale « [**Memorial**](http://www.memo.ru/eng/) », créée en 1989 à Moscou par le célèbre physicien et dissident Andreï Sakhazrov, est une ONG axée sur la défense des droits de l’Homme. Elle est extrêmement active dans le travail de mémoire et dans l’aide juridique et matérielle à apporter aux anciennes victimes des répressions politiques sous le régime soviétique, c’est à dire essentiellement les prisonniers du Goulag (jusqu’en 1956) et tous les détenus ayant été internés pour des raisons politiques ou raciales en URSS jusqu’à la dissolution du régime en 1991.
 
 ![(cc) Alexeï Kouprianov](/assets/uploads/am75_p.10_rouhart_cc_alexei_kouprianov.jpg)
 
