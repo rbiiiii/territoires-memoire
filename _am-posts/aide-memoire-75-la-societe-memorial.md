@@ -9,7 +9,7 @@ La société internationale « [**Memorial**](http://www.memo.ru/eng/) », cré�
 
 ![(cc) Alexeï Kouprianov](/assets/uploads/am75_p.10_rouhart_cc_alexei_kouprianov.jpg)
 
-<span class="copyright">(cc) Alexeï Kouprianov</span>
+<span class="img-copyright">(cc) Alexeï Kouprianov</span>
 
 C’est à la société « Memorial » que l’on doit, entre autres, l’instauration de la loi de 1991 relative à la réhabilitation des victimes des oppressions politiques en Russie ainsi que la commémoration officielle de ces victimes en Russie le 30 octobre. C’est également à l’initiative de cette société que fut posé, devant la sinistre prison de la place Loubianka à Moscou, un bloc de pierre des îles Solovki pour commémorer la construction des premiers camps correctionnels de travail durant les années vingt.
 

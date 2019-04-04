@@ -33,7 +33,7 @@ Fin 1969, c’est le cas _[Scott 4](https://www.youtube.com/watch?v=BFxN67HIYvA)
 
 ![Affiche du "Septième sceau" de Bergman](/assets/uploads/seventhsealposter.jpg)
 
-<span class="copyright">Affiche du "Septième sceau" de Bergman</span>
+<span class="img-copyright">Affiche du "Septième sceau" de Bergman</span>
 
 Mais parlons du contenu de _Scott 4_. On peut lire sur sa pochette une citation d’Albert Camus et un hommage à Ingmar Bergman ouvre le disque, *[The Seventh Seal](https://www.youtube.com/watch?v=jMUk1R_fKEA)*, qui raconte en moins de cinq minutes le film _Le septième sceau_ ! Il s’agit d’un de ses meilleurs titres, mêlant habilement l’imagerie sonore du western à la Morricone et la musique chorale russe, le tout sur un tempo d’enfer qui évoque une course à l’abîme.
 
