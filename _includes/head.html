@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {%- seo -%}
-  <meta property="og:image" content="{%- if page.img_file -%}{{ site.url }}/{{ page.img_file }}{%- elsif page.img_src -%}{{ site.url }}/{{ page.img_src }}{%- elsif page.title_img -%}{{ site.url }}/assets/images/{{ page.title_img }}{%- else -%}{{ site.url }}/assets/images/tdlm-facebook-image-og-2018.jpg{%- endif -%}" />
+  <meta property="og:image" content="{%- if page.img_file -%}{{ site.url }}{{ page.img_file }}{%- elsif page.img_src -%}{{ site.url }}{{ page.img_src }}{%- elsif page.title_img -%}{{ site.url }}assets/images/{{ page.title_img }}{%- else -%}{{ site.url }}assets/images/tdlm-facebook-image-og-2018.jpg{%- endif -%}" />
   {%- if page.url == "/index.html" -%}
     <meta property="og:type" content="website" />
   {%- else -%}
