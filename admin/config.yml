@@ -55,11 +55,12 @@ collections:
             name: file
             widget: object
             fields:
-              - {label: Nom du fichier, name: file_name, widget: string}
-              - {label: "Ajouter un fichier", name: "file_src", widget: "file"}
+              - {label: Nom du fichier, name: file_name, widget: string, required: false}
+              - {label: "Ajouter un fichier", name: "file_src", widget: "file", required: false}
               - label: "Type de fichier"
                 name: "file_type"
                 widget: "select"
+                required: false
                 options:
                   - { label: "ZIP", value: "ZIP" }
                   - { label: "PDF", value: "PDF" }
