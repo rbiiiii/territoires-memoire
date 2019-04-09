@@ -3,16 +3,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {%- seo -%}
+  {% seo %}
   <meta property="og:image" content="{%- if page.img_file -%}{{ site.url }}{{ page.img_file }}{%- elsif page.img_src -%}{{ site.url }}{{ page.img_src }}{%- elsif page.title_img -%}{{ site.url }}assets/images/{{ page.title_img }}{%- else -%}{{ site.url }}assets/images/tdlm-facebook-image-og-2018.jpg{%- endif -%}" />
-  {%- if page.url == "/index.html" -%}
+  {% if page.url == "/index.html" %}
     <meta property="og:type" content="website" />
-  {%- else -%}
+  {% else %}
     <meta property="og:type" content="article" />
-  {%- endif -%}
+  {% endif %}
   
-  {%- asset main.css -%}
-  {%- asset fonts.css -%}
+  {% asset main.css %}
+  {% asset fonts.css %}
   
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
