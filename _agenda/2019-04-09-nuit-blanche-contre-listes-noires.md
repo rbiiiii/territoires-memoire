@@ -9,16 +9,15 @@ img_file: /assets/uploads/20190511_tdlm_communication_nbcln_visuelweb.png
 place: 'La Cité Miroir Place Xavier Neujean, 22 - 4000 Liège'
 address: 'Place Xavier Neujean, 22 - 4000 Liège'
 entrance: >-
-  Buffet du monde\
+  Buffet du monde
 
-  >Assiette de dégustation (charcuterie, fromage et condiments) + 1 boisson au
+
+  Assiette de dégustation (charcuterie, fromage et condiments) + 1 boisson au
   choix\
 
-  > Pâtes froides aux légumes grillés et parmesan + 1 boisson au choix\
+  Pâtes froides aux légumes grillés et parmesan + 1 boisson au choix\
 
   ► Verre de la Résistance offert
-
-
 
 
   10€ (prix plein)\
@@ -40,6 +39,8 @@ Le 11 mai prochain, à l’approche des élections européennes, fédérales et 
 
 A La Cité Miroir, sous la forme de buffet du monde aux couleurs de la campagne [Triangle Rouge](https://www.trianglerouge.be/) des Territoires de la Mémoire asbl et de la [Nuit blanche contre listes noires](http://www.nbln.be/), venez prendre des forces ou simplement un verre et profiter de la programmation de cette édition 2019.
 
+
+
 **17h30 - Inauguration officielle :**
 
 Verre de la Résistance\
@@ -52,7 +53,7 @@ Menu au choix :\
 Assiette de dégustation (charcuterie, fromage et condiments)\
 Pâtes froides aux légumes grillés et parmesan\
 Buffet réalisé par le [Traiteur Thématique Odette Hanlet](https://www.odettehanlet.com/)\
-__[_Réservation obligatoire_](https://shop.utick.be/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=7F67AC94-AC3E-F85C-91B7-B822F42F8CC8)__
+**[_Réservation obligatoire_](https://shop.utick.be/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=7F67AC94-AC3E-F85C-91B7-B822F42F8CC8)**
 
 **De 17h à 21h :**  [**« Plus jamais ça ! Parcours dans les camps nazis pour résister aujourd’hui »**](https://www.territoires-memoire.be/plusjamaisca)\
 Cette exposition permanente des Territoires de la Mémoire évoque le cheminement des déportés dans les camps nazis. Guidé par le son (voix de Pierre Arditi), les images et les jeux de lumière, le visiteur est amené à découvrir une des pages les plus sombres de notre Histoire : la Seconde Guerre mondiale, la montée du nazisme, les camps de concentration et d’extermination… L'exposition se termine exceptionnellement par l'installation "Le bout du tunnel" évoquant les migrations avec le soutien de Solidaris.
