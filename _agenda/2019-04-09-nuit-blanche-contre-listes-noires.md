@@ -31,9 +31,8 @@ entrance: >-
 
   3€ (scolaire)
 booking: |-
-  reservation@citemiroir.be
-
-  04 230 70 50
+  * <mailto:reservation@citemiroir.be>
+  * 04 230 70 50
 ---
 L’extrême droite nous donne des insomnies. Depuis toujours. Quand certains la disaient disparue pour toujours, nous restions en alerte. Parce qu’elle ne disparaît jamais vraiment. Parce qu’elle évolue. Parce qu’elle mute. Aujourd’hui, elle a pris de nouveaux visages. Elle est de retour en Belgique et en Europe. De manière décomplexée et effrayante.
 
@@ -44,6 +43,7 @@ A La Cité Miroir, sous la forme de buffet du monde aux couleurs de la campagne 
 **PROGRAMME DE LA SOIRÉE**
 
 <div class="card card--one">
+
 **17h30 - Inauguration officielle**
 
 Verre de la Résistance\
