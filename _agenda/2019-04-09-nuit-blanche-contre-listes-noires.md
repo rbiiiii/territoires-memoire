@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: Inauguration officielle et buffet du monde
+title: Nuit blanche contre listes noires - Inauguration et buffet du monde
 date_start: '2019-05-11'
 date_stop: ''
 hour: 17h30
@@ -9,7 +9,7 @@ img_file: /assets/uploads/20190511_tdlm_communication_nbcln_visuelweb.png
 place: 'La Cité Miroir Place Xavier Neujean, 22 - 4000 Liège'
 address: 'Place Xavier Neujean, 22 - 4000 Liège'
 tags:
-  - Nuit blanche contre listes noires
+  - Inauguration officielle
 entrance: >-
   Buffet du monde
 
