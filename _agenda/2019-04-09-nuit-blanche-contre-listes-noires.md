@@ -43,7 +43,8 @@ A La Cité Miroir, sous la forme de buffet du monde aux couleurs de la campagne 
 
 **PROGRAMME DE LA SOIRÉE**
 
-<div class="card card--one">**17h30 - Inauguration officielle :**
+<div class="card card--one">
+**17h30 - Inauguration officielle**
 
 Verre de la Résistance\
 _Entrée libre sans réservation_
@@ -57,6 +58,7 @@ Assiette de dégustation (charcuterie, fromage et condiments)\
 Pâtes froides aux légumes grillés et parmesan\
 Buffet réalisé par le [Traiteur Thématique Odette Hanlet](https://www.odettehanlet.com/)\
 **[_Réservation obligatoire_](https://shop.utick.be/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=7F67AC94-AC3E-F85C-91B7-B822F42F8CC8)**
+
 </div>
 
 **De 17h à 21h :**  [**« Plus jamais ça ! Parcours dans les camps nazis pour résister aujourd’hui »**](https://www.territoires-memoire.be/plusjamaisca)
