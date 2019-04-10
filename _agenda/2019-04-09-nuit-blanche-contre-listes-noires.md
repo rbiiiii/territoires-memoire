@@ -84,3 +84,5 @@ _7€ (hors réduction membres) - réservation obligatoire_
 **Jusque 22h :** [**Découvrez la librairie Stéphane Hessel**](http://www.citemiroir.be/fr/librairie)
 
 La librairie Stéphane Hessel a choisi la littérature, au sens large, comme outil de résistance, en se spécialisant notamment dans les thématiques liées à la transmission de la mémoire, aux extrémismes, à la résistance et à la Seconde Guerre Mondiale. La librairie est gérée par Les Territoires de la Mémoire asbl.
+
+Une programmation de La Cible asbl avec le soutien des associations de La Cité Miroir, Les Territoires de la Mémoire asbl, MNEMA asbl, le Centre d'Action Laïque de la Province de Liège asbl et la participation du Traiteur Thématique Odette Hanlet.
