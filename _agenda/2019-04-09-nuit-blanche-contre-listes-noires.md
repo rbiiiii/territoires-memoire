@@ -31,7 +31,7 @@ entrance: >-
 
   3€ (scolaire)
 booking: |-
-  * [mailto:reservation@citemiroir.be](reservation@citemiroir.be)
+  * [reservation@citemiroir.be](mailto:reservation@citemiroir.be)
   * 04 230 70 50
 ---
 L’extrême droite nous donne des insomnies. Depuis toujours. Quand certains la disaient disparue pour toujours, nous restions en alerte. Parce qu’elle ne disparaît jamais vraiment. Parce qu’elle évolue. Parce qu’elle mute. Aujourd’hui, elle a pris de nouveaux visages. Elle est de retour en Belgique et en Europe. De manière décomplexée et effrayante.
