@@ -43,8 +43,7 @@ A La Cité Miroir, sous la forme de buffet du monde aux couleurs de la campagne 
 
 **PROGRAMME DE LA SOIRÉE**
 
-<div class="card card--one">
-**17h30 - Inauguration officielle :**
+<div class="card card--one">**17h30 - Inauguration officielle :**
 
 Verre de la Résistance\
 _Entrée libre sans réservation_
