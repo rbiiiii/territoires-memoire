@@ -51,7 +51,8 @@
 
     h1 {
         color: $bleu-tm;
-        margin: $spacing-unit 0;  
+        margin: $spacing-unit auto;
+        max-width: $large-width;
 
         .secondary-page & {
             @include relative-font-size(2.4);  
