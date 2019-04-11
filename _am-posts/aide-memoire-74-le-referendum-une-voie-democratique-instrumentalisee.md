@@ -5,7 +5,8 @@ type: article
 credits: Par Gilles Rahier
 order: 3
 ---
-**Démocratie et référendum**
+
+## Démocratie et référendum
 
 Actuellement, la situation politique de l’Union Européenne est très précaire : contestation sociale grandissante ; modèle économique néolibéral critiqué ; tiraillement des partis d’extrême droite qui éclosent dans ses pays membres ; inefficacité partielle d’être un décideur au niveau mondial ; dissensions internes qui empêchent de mener une politique commune constante ; crise de confiance grandissante dans ses institutions ; problèmes économiques dûs à la crise, etc.
 
@@ -17,7 +18,7 @@ Avec l’arrivée contestée du TTIP (_Partenariat transatlantique de commerce e
 
 La consultation populaire est beaucoup plus fréquemment utilisée[\[3]](#footnote-3), n’ayant pas de statut d’imposition légale. Par contre, à travers le référendum, la population impose son choix qui doit obligatoirement être mis en place par les autorités. Cependant, dans les faits, celui-ci est souvent détourné de son but premier, à savoir la souveraineté du peuple sur une question précise. Depuis les années 2000, au niveau européen, plusieurs décisions populaires exprimées par ce moyen ont été estropiées par les États.
 
-**Les référendums sur la Constitution européenne**
+## Les référendums sur la Constitution européenne
 
 Historiquement, au niveau européen, de nombreux référendums nationaux ont servi à appuyer l’établissement de traités : Maastricht en 1992 ; adhésion de la Finlande, Norvège et Suède lors de l’élargissement de 1994, élargissement de 2004, etc. Les réponses populaires appuient alors les accords gouvernementaux et offrent une légitimité accrue aux gouvernements lors de ces prises de décision.
 
@@ -35,13 +36,13 @@ Lors de la ratification de ce traité, après l’approbation par le Conseil de 
 
 Sans aller plus loin que le récent cas grec, on peut voir que finalement le seul système où le citoyen a un droit de vote sur une question spécifique, sans devoir déléguer ses droits, peut être détourné par la classe politique pour obtenir le résultat escompté, comme le remarque le journaliste Nicolas Truong : « Lorsque les citoyens votent négativement sur l’Europe, leurs Parlements sont chargés d’en corriger l’orientation. Lorsqu’ils votent contre, à l’image des Irlandais en 2008, l’Europe les somme de revoter[\[5]](#footnote-5). »
 
-**Le cas du TTIP**
+## Le cas du TTIP
 
 Comme nous l’avons vu, d’une certaine manière, le référendum populaire a été détourné ou oublié pour faciliter l’approbation de certains traités européens. Cependant, l’utilisation du référendum se trouve présente dans la Constitution de nombreux pays appartenant à l’Union Européenne : Bulgarie, Danemark, Irlande, Grèce, Croatie, Lituanie, Pays-Bas, Autriche, France, Pologne, Roumanie, Slovaquie, Hongrie et Royaume Uni[\[6]](#footnote-6). Pour la ratification du TTIP, nous retrouvons deux postures opposées, issues d’une approche idéologique. La Commission européenne aurait préféré que celle-ci ne passe que par le Parlement européen ; mais l’accord étant qualifié de « mixte »[\[7]](#footnote-7), les Parlements nationaux devraient se voir chargés de le ratifier, d’où la possibilité laissée aux États susmentionné d’appeler au vote référendaire pour son approbation.
 
 Actuellement, de nombreux mouvements citoyens et politiques s’opposent à ce traité et appellent à faire pression sur l’Union Européenne pour empêcher sa ratification. La validité populaire du traité, qui est jugé obscur et négocié en secret par ses détracteurs, pourrait peut-être passer par le référendum ou la consultation populaire.
 
-**Instrumentalisé ?**
+## Instrumentalisé ?
 
 L’objectif ici n’est pas de juger si le référendum est une voie démocratique viable ou non, mais de montrer que cet instrument démocratique peut être détourné de son but originel pour devenir un dérivé appelé le « plébiscite », qui sert seulement à instrumentaliser le vote de la population pour appuyer une politique déjà établie. Le référendum est alors utilisé comme moyen pour justifier une décision ou mettre une pression sur les instances internationales, comme dans le cas du référendum grec de cette année, mais sans réel portée politique. Comme le remarque le philosophe italien Giorgio Agamben : « Nous assistons aujourd’hui à la domination écrasante du gouvernement et de l’économie sur une souveraineté populaire qui a été progressivement vidée de tout sens[\[8]](#footnote-8). » Dans la situation actuelle, le référendum est-il encore un instrument réel de décision ou est-il soumis au diktat du monde politico-économique comme moyen de légitimer ses propres décisions ? Chacun aura son avis…
 
