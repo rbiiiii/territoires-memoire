@@ -3,8 +3,8 @@ layout: post
 published: true
 categories: actualites
 title: >-
-  Recrutement d’un-une Délégué-e au service Projets - Contrat « Convention
-  Premier Emploi (CPE) »
+  Recrutement d’un-une Délégué-e au service Projets - Contrat «&nbsp;Convention
+  Premier Emploi (CPE)&nbsp;»
 img_file: /assets/uploads/application-2580867_1280.jpg
 posted_on: '2019-04-11'
 uploaded_files:
