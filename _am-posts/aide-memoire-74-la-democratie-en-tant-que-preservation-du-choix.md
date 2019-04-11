@@ -19,5 +19,5 @@ En juillet dernier et dans le style radical qui est le sien, l’économiste Fr�
 
 Et, en effet, en cette interminable période de crise sociale traitée sans faiblir à grands coups d’austérité et d’autoritarisme économique, le danger est grand de voir la semonce de Jean-Claude Juncker se muer en prophétie auto-réalisatrice qui verrait, un peu partout en Europe, les choix posés contre les traités ratifiés revêtir l’apparence d’un antidémocratisme assumé.        
 
-1. Frédéric L<span style="font-variant: small-caps;">ordon,</span> « La gauche et l’euro : liquider, reconstruire » : <span style="text-decoration: underline;"><span style="color: #003366;"><http://blog.mondediplo.net/2015-07-18-La-gauche-et-l-euro-liquider-reconstruire#nh1></span></span>
+1. Frédéric Lordon, « La gauche et l’euro : liquider, reconstruire » : <http://blog.mondediplo.net/2015-07-18-La-gauche-et-l-euro-liquider-reconstruire#nh1>
 2. _Idem_
