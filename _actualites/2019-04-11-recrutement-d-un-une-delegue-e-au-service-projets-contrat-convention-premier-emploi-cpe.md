@@ -22,37 +22,24 @@ Le service Projets de l’association assure la dynamisation du Réseau Territoi
 
 **Le-la délégué-é aura pour missions :**
 
-\- De soutenir et assurer les suivis des activités du service : événements, partenariats, projets… organisés dans le cadre des missions précitées
-
-\- D’adapter ce soutien aux différents types de publics visés (partenaires mémoriels, pédagogiques, institutionnels…)
+- De soutenir et assurer les suivis des activités du service : événements, partenariats, projets… organisés dans le cadre des missions précitées
+- D’adapter ce soutien aux différents types de publics visés (partenaires mémoriels, pédagogiques, institutionnels…)
 
 **Le - la candidat-e devra impérativement :**
 
-\- Etre capable d’organisation, de rigueur, d’initiative, d’autonomie, dans un cadre institutionnel
-
-\- Avoir une bonne orthographe et des facultés rédactionnelles
-
-\- Faire preuve de rigueur administrative
-
-\- Avoir de réelles capacités relationnelles dans le cadre des partenariats et le goût des contacts
-
-\- Être capable de travailler en équipe
-
-\- Partager et soutenir les valeurs des Territoires de la Mémoire et de la laïcité
-
-\- Le cas échéant, être disponible en soirée et parfois le week-end
-
-\- Posséder un permis de conduire et conduire
-
-\- Maîtriser une autre langue (néerlandais, allemand ou anglais) est un plus
-
-\- Bénéficier d’une expérience en matière de gestion de projets est un atout
-
-\- Connaitre MS Office
-
-\- Être impérativement dans les conditions « Convention Premier Emploi (CPE) » (renseignez-vous auprès du Forem)
-
-\- Et dans ce cadre disposer d’une envie de se former
+- Etre capable d’organisation, de rigueur, d’initiative, d’autonomie, dans un cadre institutionnel
+- Avoir une bonne orthographe et des facultés rédactionnelles
+- Faire preuve de rigueur administrative
+- Avoir de réelles capacités relationnelles dans le cadre des partenariats et le goût des contacts
+- Être capable de travailler en équipe
+- Partager et soutenir les valeurs des Territoires de la Mémoire et de la laïcité
+- Le cas échéant, être disponible en soirée et parfois le week-end
+- Posséder un permis de conduire et conduire
+- Maîtriser une autre langue (néerlandais, allemand ou anglais) est un plus
+- Bénéficier d’une expérience en matière de gestion de projets est un atout
+- Connaitre MS Office
+- Être impérativement dans les conditions « Convention Premier Emploi (CPE) » (renseignez-vous auprès du Forem)
+- Et dans ce cadre disposer d’une envie de se former
 
 **Conditions du contrat**
 
@@ -72,4 +59,4 @@ CV et lettre de motivation sont à compléter en ligne ci-après.
 
 Les candidatures doivent nous parvenir **pour le vendredi 3 mai 2019 à minuit au plus tard**.
 
-<a href="https://docs.google.com/forms/d/1oE4hZ8ciePAKCT2J3sYaZa3M-y4FstweYcCVuDCdrwk/viewform?edit_requested=true" target="_blank" class="button button--blue text-centered">Postuler</a>
+<p class="text-centered"><a href="https://docs.google.com/forms/d/1oE4hZ8ciePAKCT2J3sYaZa3M-y4FstweYcCVuDCdrwk/viewform?edit_requested=true" target="_blank" class="button button--blue">Postuler</a></p>
