@@ -24,13 +24,11 @@ Historiquement, au niveau européen, de nombreux référendums nationaux ont ser
 
 Cependant, le développement du traité constitutionnel européen (Traité de Rome de 2004, transformé et simplifié en 2007 avec le traité de Lisbonne) modifiera profondément les manières de voir cet instrument démocratique. Chaque traité européen doit être ratifié par les états membres, selon les dispositions nationales : dans certains cas l’approbation parlementaire, dans d’autres le référendum populaire. Il doit donc être approuvé par tous les États membres, à l’unanimité, pour qu’il entre en application.
 
-Des 4 référendums organisés lors de la ratification du traité de Rome, deux ont été positif (Espagne, Luxembourg) alors que 54,67 % des électeurs français et 61,6 % des néerlandais ont voté « non », en opposition avec la majorité de leur représentants politiques. Une des grandes interrogations fut la légitimité de ces votes, mais ils obtinrent des taux de participation plus que correct, de 62,8% pour les
+Des 4 référendums organisés lors de la ratification du traité de Rome, deux ont été positif (Espagne, Luxembourg) alors que 54,67 % des électeurs français et 61,6 % des néerlandais ont voté « non », en opposition avec la majorité de leur représentants politiques. Une des grandes interrogations fut la légitimité de ces votes, mais ils obtinrent des taux de participation plus que correct, de 62,8% pour les Pays-Bas à près de 70 % pour la France. En raison de ces refus et donc de l’impossibilité de ratifier le Traité, les instances européennes reformuleront leur Constitution (simplifiée mais fondamentalement semblable) pour la présenter de nouveau, sous le format du traité de Lisbonne.
 
 ![(cc) Trainthh](/assets/uploads/am74_pp.6-7_rahier_cc_trainthh.jpg)
 
 <span class="img-copyright">(cc) Trainthh</span>
-
-Pays-Bas à près de 70 % pour la France. En raison de ces refus et donc de l’impossibilité de ratifier le Traité, les instances européennes reformuleront leur Constitution (simplifiée mais fondamentalement semblable) pour la présenter de nouveau, sous le format du traité de Lisbonne.
 
 Lors de la ratification de ce traité, après l’approbation par le Conseil de l’Europe, seuls les Irlandais furent appelés pour une ratification référendaire. Estimant qu’il ne s’agissait pas d’un traité structurel mais d’un « traité modificatif », le Parlement français opéra une révision constitutionnelle afin de passer outre le référendum populaire. De la même manière, aux Pays-Bas, le parlement ratifie cette fois-ci le traité, sans passer par la consultation populaire. En Angleterre, le référendum promis par l’ancien Premier ministre Tony Blair n’est pas mis en place par son successeur Gordon Brown[[4]](#footnote-4). Lors d’un premier vote, en juin 2008, les Irlandais rejetèrent le traité à 53,4%. Après un an de négociation et avoir obtenu certaines garanties, le gouvernement organise un second référendum en 2009, où le « oui » l’emporte largement.
 
