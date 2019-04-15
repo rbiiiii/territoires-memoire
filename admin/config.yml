@@ -74,9 +74,10 @@ collections:
     fields:
       - {label: "Publié ?", name: "published", widget: "boolean", default: false}
       - {label: "Titre", name: "title", widget: "string" }
-      - {label: "Date", name: "posted_on", widget: "date"}
+      - {label: "Date", name: "posted_on", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Lien", name: "link", widget: "string" }
       - {label: "Image", name: "img_file", widget: "image"}
+      - {label: "Contenu", name: "body", widget: "markdown"}    
 
   - name: "books"
     label: "Livres Aide-mémoire"
