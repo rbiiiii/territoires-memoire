@@ -22,6 +22,7 @@ a.pdf-txt__item__link[href] {
     background: none;
     display:flex;
     flex-direction: column;
+    align-items: flex-start;
 
     @media screen and (min-width:$medium-width) {
         flex-direction: row;
@@ -29,8 +30,12 @@ a.pdf-txt__item__link[href] {
 
     &:hover, &:focus {
         
-        .pdf-txt__item__img {
+        .pdf-txt__item__img-wrapper {
             border-color:$rouge-tm;
+        }
+
+        .pdf-txt__item__img {
+            transform:scale(1.03);
         }
 
         .pdf-txt__item__text__title {
@@ -40,7 +45,7 @@ a.pdf-txt__item__link[href] {
 
     &:active {
         
-        .pdf-txt__item__img {
+        .pdf-txt__item__img-wrapper {
             border-color:$bleu-tm-light;
         }
 
@@ -50,18 +55,23 @@ a.pdf-txt__item__link[href] {
     }    
 }
 
-.pdf-txt__item__img {
-    display:block;
-    flex:0 0 138px;
-    align-self:flex-start;
-    height:auto;
+.pdf-txt__item__img-wrapper {
+    overflow:hidden;
     margin:0 auto $spacing-unit/2 auto;
+    flex:0 0 138px;
     border:3px solid $bleu-tm;
     transition:150ms border-color ease-out;
 
     @media screen and (min-width:$medium-width) {
         margin:0 $spacing-unit 0 0;
     }
+}
+
+.pdf-txt__item__img {
+    display:block;
+    align-self:flex-start;
+    height:auto;
+    transition:transform 150ms ease-out;
 }
 
 .pdf-txt__item__text {

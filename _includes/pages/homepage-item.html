@@ -11,10 +11,9 @@
             <polygon class="st0" points="3.1,2.1 12.7,20.8 21.9,2.1"/>
             <polygon class="homepage-item__triangle--color--fill" points="22.3,1 19.8,1 19.3,2.1 12.7,15.6 5.8,2.1 5.2,1 2.8,1 0.2,1 0,1.1 12.7,26 25,1.1 24.9,1"/>
         </svg>
-        <img 
-        class="homepage-item__img"
-        src="/assets/images/homepage-items/{{ include.imgFileName }}"
-        alt="{{ include.title | escape }}">
+        <div class="homepage-item__img-wrapper">
+            <img class="homepage-item__img" src="/assets/images/homepage-items/{{ include.imgFileName }}" alt="{{ include.title | escape }}">
+        </div>
         <div class="homepage-item__text">
             <h3>{{ include.title }}</h3>
         </div>

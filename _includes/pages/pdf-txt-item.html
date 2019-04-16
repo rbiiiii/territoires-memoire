@@ -6,10 +6,12 @@
                 <a 
                 class="pdf-txt__item__link"
                 href="/assets/pdf/{{ include.folder }}/{{ pdf-txt-item.pdf_src }}"> 
-                    <img 
-                    class="pdf-txt__item__img"
-                    src="/assets/images/{{ include.folder }}/pdf-items/{{ pdf-txt-item.img_src }}" 
-                    alt="{{ pdf-txt-item.title | escape }}">
+                    <div class="pdf-txt__item__img-wrapper">
+                        <img 
+                        class="pdf-txt__item__img"
+                        src="/assets/images/{{ include.folder }}/pdf-items/{{ pdf-txt-item.img_src }}" 
+                        alt="{{ pdf-txt-item.title | escape }}">
+                    </div>
                     <div class="pdf-txt__item__text">
                         <h3 class="pdf-txt__item__text__title">{{ pdf-txt-item.title }}</h3>
                         <p class="pdf-txt__item__text__txt">{{ pdf-txt-item.txt }}</p>
