@@ -30,10 +30,12 @@
         .grid__item {
             width:100%;
             max-width: 240px;
+            margin:0 0 $spacing-unit 0;
 
             @media screen and (min-width:460px) {
                 width:45%;
                 max-width:100%;
+                margin:0 $spacing-unit 0 0;
             }
         }
     }
