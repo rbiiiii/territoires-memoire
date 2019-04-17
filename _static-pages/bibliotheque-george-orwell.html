@@ -105,8 +105,9 @@ class: biblio
         <p class="page-section__description text-centered">Tous nos coups de cœur sont disponibles à la Bibliothèque George Orwell et à la <a href="http://www.citemiroir.be/fr/librairie">Librairie&nbsp;Stéphane&nbsp;Hessel</a></p>
     </header>
     <div class="page-section__content">
-        {%- assign last_am = site.aide-memoire | where: 'published', 'true' | sort: 'num' | reverse  -%}
+        {%- assign last_am = site.aide-memoire | sort: 'num' | reverse -%}
         {%- assign last_am_num = last_am[0].num -%}
+        <h1>{{ last_am_num }}</h1>
         {%- include_cached pages/books.html version=last_am_num heart="true" -%}
         <p class="text-centered">
             <a class="button button--blue" href="/archives-coups-de-coeur-bibliotheque">Consulter les archives des coups&nbsp;de&nbsp;cœur</a>

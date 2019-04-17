@@ -1,5 +1,5 @@
 ---
-published: true
+show: true
 title: Aide-mémoire n°79
 slug: aide-memoire-79
 num: 79

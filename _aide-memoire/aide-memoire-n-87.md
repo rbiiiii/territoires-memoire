@@ -1,5 +1,5 @@
 ---
-published: true
+show: true
 title: Aide-mémoire n°87
 slug: aide-memoire-87
 num: 87

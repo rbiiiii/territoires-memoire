@@ -1,5 +1,5 @@
 ---
-published: true
+show: true
 title: Aide-mémoire n°81
 slug: aide-memoire-81
 num: 81
