@@ -85,7 +85,7 @@ collections:
     create: true
     slug: "{{year}}-_-{{slug}}"
     fields:
-      - {label: "Coup de coeur ?", name: "tag", widget: "select", options: ["", "heart"]}
+      - {label: "Coup de coeur ?", name: "tag", widget: "select", options: ["", "heart"], required: false}
       - {label: "Version de l'AM concerné", name: "version", widget: "number", valueType: "int"}
       - {label: "Auteur(s)", name: "author", widget: "string", required: false}
       - {label: "Information(s) supplémentaire(s)", name: "extra", widget: "string", required: false}

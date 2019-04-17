@@ -1,5 +1,4 @@
 ---
-tag: heart
 version: 88
 author: Enzo Traverso
 title: "La pensée dispersée\_: figures de l’exil juif"
