@@ -204,6 +204,7 @@
     .post__aside__title {
         margin-top:10px;
         text-align: center;
+        line-height:1;
         @include garamond;
         @include relative-font-size(1.8);
 
