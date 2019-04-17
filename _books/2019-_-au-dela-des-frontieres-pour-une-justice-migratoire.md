@@ -1,5 +1,4 @@
 ---
-tag: heart
 version: 88
 author: 'François Gemenne, Pierre Verbeeren'
 title: "Au-delà des frontières\_: pour une justice migratoire"
