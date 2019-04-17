@@ -107,7 +107,6 @@ class: biblio
     <div class="page-section__content">
         {%- assign last_am = site.aide-memoire | sort: 'num' | reverse -%}
         {%- assign last_am_num = last_am[0].num -%}
-        <h1>{{ last_am_num }}</h1>
         {%- include_cached pages/books.html version=last_am_num heart="true" -%}
         <p class="text-centered">
             <a class="button button--blue" href="/archives-coups-de-coeur-bibliotheque">Consulter les archives des coups&nbsp;de&nbsp;cœur</a>
