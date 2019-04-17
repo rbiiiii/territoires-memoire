@@ -19,7 +19,7 @@ Aujourd'hui, les élèves de l'école fondamentale Naniot et ceux de l'Athénée
 
 Cette pièce représente l’aboutissement de trois années d'investissement sur un projet, porté par la mémoire et la citoyenneté qui a débuté en 2017.
 
-« On a (pas) besoin d’un fantôme » est un cri formel porté par la nouvelle génération : nous devons nous souvenir et nous indigner. Tel est notre devoir. Nous ne serons pas manipulés par nos peurs. On n’a vraiment pas besoin d’un fantôme !
+« On a (pas) besoin d’un fantôme » est un cri formel porté par la nouvelle génération&nbsp;: nous devons nous souvenir et nous indigner. Tel est notre devoir. Nous ne serons pas manipulés par nos peurs. On n’a vraiment pas besoin d’un fantôme !
 
 
 
