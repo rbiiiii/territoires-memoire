@@ -1,6 +1,6 @@
 ---
 categories: aide-memoire-74
-title: Le mot de la présidente
+title: Le mot de la présidente (74)
 type: article
 credits: Par Dominique Dauby
 order: 10
