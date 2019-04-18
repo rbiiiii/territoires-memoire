@@ -1,5 +1,5 @@
 ---
-show: false
+show: true
 title: Aide-mémoire n°74
 slug: aide-memoire-74
 num: 74
