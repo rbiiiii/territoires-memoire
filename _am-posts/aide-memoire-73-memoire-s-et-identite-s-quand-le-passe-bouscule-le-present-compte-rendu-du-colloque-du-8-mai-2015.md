@@ -1,11 +1,10 @@
 ---
 categories: aide-memoire-73
 title: >-
-  « Mémoire(s) et identité(s) : Quand le passé bouscule le présent » :
+  «&nbsp;Mémoire(s) et identité(s) : Quand le passé bouscule le présent&nbsp;» :
   compte-rendu du colloque du 8 mai 2015
 type: article
 credits: Par Gaëlle Henrard
-about_the_author: ''
 order: 6
 ---
 Dans un livre intitulé _Les faiseuses d’histoires[[1]](#footnote-1)_, Vinciane Despret et Isabelle Stengers font référence à Virginia Woolf qui, à la veille de la Deuxième Guerre mondiale, a refusé de signer une pétition des intellectuels anglais qui appelaient à se mobiliser contre Hitler au nom de la démocratie et de la liberté : « _Comment_, disait-elle, _pourrais-je signer une pétition pour un pays qui s’approprie les valeurs dont il refuse de reconnaître aux femmes le droit de les exercer ? Puisqu’elles n’ont ni droits, ni liberté, ni égalité, je ne peux pas faire ça, je ne signe pas_ ».
