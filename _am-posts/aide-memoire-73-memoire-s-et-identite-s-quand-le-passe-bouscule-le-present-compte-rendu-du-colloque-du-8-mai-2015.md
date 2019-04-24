@@ -6,9 +6,9 @@ title: >-
 type: article
 credits: Par Gaëlle Henrard
 about_the_author: ''
-order: 5
+order: 6
 ---
-Dans un livre intitulé _Les faiseuses d’histoires\[\*\*[1]\*\*](#footnote-1)_, Vinciane Despret et Isabelle Stengers font référence à Virginia Woolf qui, à la veille de la Deuxième Guerre mondiale, a refusé de signer une pétition des intellectuels anglais qui appelaient à se mobiliser contre Hitler au nom de la démocratie et de la liberté : « _Comment_, disait-elle, _pourrais-je signer une pétition pour un pays qui s’approprie les valeurs dont il refuse de reconnaître aux femmes le droit de les exercer ? Puisqu’elles n’ont ni droits, ni liberté, ni égalité, je ne peux pas faire ça, je ne signe pas_ ».
+Dans un livre intitulé _Les faiseuses d’histoires[[1]](#footnote-1)_, Vinciane Despret et Isabelle Stengers font référence à Virginia Woolf qui, à la veille de la Deuxième Guerre mondiale, a refusé de signer une pétition des intellectuels anglais qui appelaient à se mobiliser contre Hitler au nom de la démocratie et de la liberté : « _Comment_, disait-elle, _pourrais-je signer une pétition pour un pays qui s’approprie les valeurs dont il refuse de reconnaître aux femmes le droit de les exercer ? Puisqu’elles n’ont ni droits, ni liberté, ni égalité, je ne peux pas faire ça, je ne signe pas_ ».
 
 « En janvier 2015, après les attentats de Paris, beaucoup (associations, individus, mouvements, partis) se sont dits “Charlie” au nom de valeurs de démocratie, de liberté d’expression, d’égalité. Et beaucoup aussi, qui ne se reconnaissaient pourtant pas dans les attentats, ont refusé cette identification au nom d’une autre mémoire, d’un autre parcours. Et ce que disaient Vinciane Despret et Isabelle Stengers, c’est qu’il était toujours difficile de mener le combat de la mémoire et en même temps d’essayer de trouver une sérénité pour penser, pour penser de manière constructive et pour continuer d’avancer. (…) Bien sûr, il faut la confiance c’est indispensable. Mais il ne faut jamais oublier que ce monde oblige à lutter, que rien n’y est normal et ne jamais arrêter de penser ensemble, de cultiver l’insoumission, y compris à nos propres évidences, les uns avec les autres, par les autres et grâce aux autres.»
 
