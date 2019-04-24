@@ -56,6 +56,6 @@ Après ce coup, Chostakovitch ne rentrera plus jamais en grâce aux yeux de Stal
 
 Une bande dessinée, disponible à la Bibliothèque George Orwell, retrace de façon romancée l’histoire fameuse de la 7<sup>e</sup> symphonie de Chostakovitch et de ce concert à Leningrad en plein blocus. Chroniquée dans le n° 52 de la revue [**_Aide-mémoire_ d’avril-juin 2010**](/am52), voici ce qui en était dit :
 
-« Mars 1942. Un jeune soldat arrive dans Leningrad assiégée par les armées allemandes, porteur d'une mission secrète délivrée par Staline. Dans sa sacoche, la partition de la 7ème Symphonie que Dimitri Chostakovitch vient d'achever en l'honneur de sa ville d'origine. Sa mission : faire jouer cette symphonie par l'orchestre philharmonique de Leningrad le 9 août 1942, jour fixé par Hitler pour envahir définitivement la ville. Une plongée hallucinante dans la folie humaine, au cœur d'un siège qui dura 900 jours et qui fit 1.800.000 morts.\*\**
+« Mars 1942. Un jeune soldat arrive dans Leningrad assiégée par les armées allemandes, porteur d'une mission secrète délivrée par Staline. Dans sa sacoche, la partition de la 7ème Symphonie que Dimitri Chostakovitch vient d'achever en l'honneur de sa ville d'origine. Sa mission : faire jouer cette symphonie par l'orchestre philharmonique de Leningrad le 9 août 1942, jour fixé par Hitler pour envahir définitivement la ville. Une plongée hallucinante dans la folie humaine, au cœur d'un siège qui dura 900 jours et qui fit 1.800.000 morts. »
 
 **Céka & Borris, _Lutte majeure_, Casterman, coll. « KSTЯ »**
