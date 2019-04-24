@@ -5,7 +5,7 @@ type: article
 credits: Par Raphaël Schraepen
 order: 10
 ---
-Dimitri Chostakovitch a bien failli devenir le héros du dernier film de [**Sergio Leone**](https://fr.wikipedia.org/wiki/Sergio_Leone). En effet, en 1989, ce dernier préparait un immense opus sur le siège de Leningrad qui commença en 1941. Le plan initial était d’une ambition folle, un peu comme celui qui ouvre [**_La soif du mal_ **](https://www.youtube.com/watch?v=Yg8MqjoFvy4)d’Orson Welles. Qu’est-ce à dire ? Un long plan séquence de plusieurs minutes montrant la ville, ses habitants, le siège, devait se terminer par un gros plan sur les mains du compositeur au piano. La mort du réalisateur le 30 avril 1989 gèlera à jamais le projet, trop énorme pour être repris par quelqu’un d’autre.
+Dimitri Chostakovitch a bien failli devenir le héros du dernier film de [**Sergio Leone**](https://fr.wikipedia.org/wiki/Sergio_Leone). En effet, en 1989, ce dernier préparait un immense opus sur le siège de Leningrad qui commença en 1941. Le plan initial était d’une ambition folle, un peu comme celui qui ouvre [**La soif du mal**](https://www.youtube.com/watch?v=Yg8MqjoFvy4)d’Orson Welles. Qu’est-ce à dire ? Un long plan séquence de plusieurs minutes montrant la ville, ses habitants, le siège, devait se terminer par un gros plan sur les mains du compositeur au piano. La mort du réalisateur le 30 avril 1989 gèlera à jamais le projet, trop énorme pour être repris par quelqu’un d’autre.
 
 Mais qui était vraiment Chostakovitch ? Certains mélomanes habitués au Concours Reine Elisabeth connaissent bien son premier concerto pour violon, souvent mis au programme. D’autres se sont familiarisés à ses suites de jazz qui n’ont d’ailleurs de jazz que le nom, ce qui ne les empêche pas d’être assez plaisantes. Sa cinquième symphonie a connu et connait encore un succès certain. Mais il en a composé quinze en tout. Alors, par où commencer ?
 
@@ -52,12 +52,10 @@ Après ce coup, Chostakovitch ne rentrera plus jamais en grâce aux yeux de Stal
 * Symphonie n°8, dirigée par Bernard Haitink (Decca) : [**voir ici**](https://www.youtube.com/watch?v=H1D-MNLNgNo)  
 * Symphonie n°9 (+ symphonie n°5), dirigée par Leonard Bernstein (Sony) : [**voir ici**](https://www.youtube.com/watch?v=AfakIg9E_ao) (symphonie n°9)  
 
-- - -
-
 **Note de la rédaction :**
 
 Une bande dessinée, disponible à la Bibliothèque George Orwell, retrace de façon romancée l’histoire fameuse de la 7<sup>e</sup> symphonie de Chostakovitch et de ce concert à Leningrad en plein blocus. Chroniquée dans le n° 52 de la revue [**_Aide-mémoire_ d’avril-juin 2010**](/am52), voici ce qui en était dit :
 
 « Mars 1942. Un jeune soldat arrive dans Leningrad assiégée par les armées allemandes, porteur d'une mission secrète délivrée par Staline. Dans sa sacoche, la partition de la 7ème Symphonie que Dimitri Chostakovitch vient d'achever en l'honneur de sa ville d'origine. Sa mission : faire jouer cette symphonie par l'orchestre philharmonique de Leningrad le 9 août 1942, jour fixé par Hitler pour envahir définitivement la ville. Une plongée hallucinante dans la folie humaine, au cœur d'un siège qui dura 900 jours et qui fit 1.800.000 morts.\*\**
 
-**Céka & Borris,_Lutte majeure_, Casterman, coll. « KSTЯ »**
+**Céka & Borris, _Lutte majeure_, Casterman, coll. « KSTЯ »**
