@@ -1,0 +1,16 @@
+---
+categories: aide-memoire-73
+title: 'Mémoire '
+type: mots
+credits: Par Henri Deleersnijder
+order: 11
+---
+Le 26 mai dernier, la veille de la panthéonisation de Pierre Brossolette, Geneviève de Gaulle Anthonioz, Germaine Tillion et Jean Zay, l'historien Pierre Nora, auteur d'une série d'ouvrages majeurs intitulée _Les Lieux de mémoire_, accordait une longue interview au quotidien _Le Figaro._ Laquelle se terminait par cet avertissement ô combien interpellant : « L'Alzheimer historique ne vaut pas mieux que l'Alzheimer cérébral. » Si on perd la mémoire, en effet, bonjour les dégâts...
+
+L'équipe des Territoires de la Mémoire est heureusement à l'abri de cette redoutable déperdition. Par ses initiatives renouvelées au sein du Centre d'éducation à la résistance et à la citoyenneté, elle veille à maintenir bien vivantes les traces que les événements du passé ont laissées dans l'esprit d'un individu ou d'un groupe déterminé. De quoi éviter à tout prix le retour de pratiques barbares et autres affrontements meurtriers entre communautés, comme l'histoire plus ou moins récente n'en a fourni hélas que trop d'exemples. Mais la mémoire, justement, constitue-t-elle un efficace garde-fou à ce genre de dérives ?
+
+Telle est une des questions qui a été abordée lors du colloque international «  Mémoire(s) et identité(s) », organisé le 8 mai à la Cité Miroir et symptomatiquement sous-titré « Quand le passé bouscule le présent ». Car on en est là, en nos temps où culte de la mémoire et obsession identitaire forment trop souvent un couple explosif, l'atomisation de notre société contribuant de son côté à intensifier ce pugilat stérile. À l'instar de bon nombre d'indignations hautement sélectives, les souvenirs, de par le reflet subjectif qu'un événement laisse dans l'esprit d'un acteur, portent en soi une dose importante d'individualisation. 
+
+Où est le problème ?, fera-t-on remarquer. Eh bien, il se corse, le problème, lorsque qu'une communauté donnée campe sur les propres blessures de son histoire et fait preuve de cécité voire de manque d'empathie élémentaire, à l'égard d'une de ses homologues ayant pourtant elle aussi été victime d'injustices et de souffrances sans nom. On assiste alors à une déplorable concurrence mémorielle. Traite des Indiens d'Amérique et des Noirs d'Afrique, génocide des Arméniens et des Juifs, massacre des Tutsis, etc., pour se limiter à l'évocation des plus grandes exploitations et mises à mort programmées du passé, le martyrologe a débordé d'horreurs au fil des siècles, et le XX<sup>e</sup> n'y a pas échappé comme on le sait.          
+
+Mais il ne faudrait pas qu'une certaine instrumentalisation du passé empêche l'idéal du vivre-ensemble. Des pêcheurs en eaux troubles s'y entendent qui, comme l'ex-humoriste Dieudonné, excitent les ressentiments de catégories humaines contre d'autres, provoquant et entretenant en l'occurrence une recrudescence d'antisémitisme. Puisque le souvenir entretenu équivaut au meilleur des cas à une protection contre les errements infâmes, mieux vaut donc s'en tenir à l'impérieuse recommandation du philosophe Paul Ricœur : « Les victimes d'Auschwitz sont, par excellence, les délégués auprès de notre mémoire de toutes les victimes de l'Histoire. » Bref, que la mémoire reste un facteur de rassemblement et non de division !
