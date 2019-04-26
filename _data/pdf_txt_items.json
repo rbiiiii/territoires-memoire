@@ -30,23 +30,6 @@
 		]
 	},
 	{
-		"title": "Passeurs de Mémoire",
-		"img_src": "pdf-passeurs_de_memoire.jpg",
-		"pdf_src": "tm-exposition-passeurs_de_memoire.pdf",
-		"txt" : "Passeurs de Mémoire est une exposition multimédia abordant la thématique du travail de ­Mémoire des jeunes générations qui approchent la barbarie nazie et l’horreur des camps de concentration et des centres d’extermination.",
-		"categorie": "expos-itinerantes",
-		"peda": [
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/eduquer/tm-exposition-passeurs_de_memoire-dossier_pedagogique.pdf"
-			},
-			{
-				"title" : "Carnet de visite",
-				"url" : "/assets/pdf/eduquer/tm-exposition-passeurs_de_memoire-carnet_de_visite.pdf"
-			}
-		]
-	},
-	{
 		"title": "People Advisory Explicit Music",
 		"img_src": "pdf-people_advisory_explicit_music.jpg",
 		"pdf_src": "tm-exposition-people_advisory_explicit_music.pdf",
