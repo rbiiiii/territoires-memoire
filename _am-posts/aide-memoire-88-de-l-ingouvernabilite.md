@@ -3,7 +3,7 @@ categories: aide-memoire-88
 title: De l’ingouvernabilité
 type: article
 credits: Par Olivier Starquit
-order: 1
+order: 2
 ---
 Au début des années 70, la démocratie était florissante, avec le quasi plein emploi, le rapport de force était favorable aux travailleurs et les revendications ouvrières, ethniques et écologiques tenaient le haut du pavé : indisciplines ouvrières, grèves, griefs portant autant sur les revendications salariales que sur les formes d’organisation du travail fleurissaient. Les pratiques des multinationales se voyaient remises en cause et l’Etat lui-même faisait l’objet de vives critiques.
 
