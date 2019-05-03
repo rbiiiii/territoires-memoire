@@ -19,9 +19,9 @@ Ajoutée le 9 févr. 2015
 
 Pablo Iglesias explique à ses homologues du groupe parlementaire européen GUE/NGL ([www.guengl.eu](http://www.guengl.eu/)), les piliers constitutifs de l'essor de _Podemos_ en Espagne.
 
-Erratum: au curseur 19min14sec, il faut lire Herbert Marcuse ([http://fr.wikipedia.org/wiki/Herbert_...](http://fr.wikipedia.org/wiki/Herbert_...)) là où est sous-titré Jan Markusse.
+Erratum: au curseur 19min14sec, il faut lire Herbert Marcuse ([https://fr.wikipedia.org/wiki/Herbert_Marcuse](https://fr.wikipedia.org/wiki/Herbert_Marcuse)) là où est sous-titré Jan Markusse.
 
-Vidéo originale: [https://www.youtube.com/watch?v=nYyaU...](https://www.youtube.com/watch?v=nYyaU...)
+Vidéo originale: [https://www.youtube.com/watch?v=nYyaU](https://www.youtube.com/watch?v=nYyaU)
 
 Titre originel : « Gouvernement de chats au pays des souris : discours de Tommy Douglas en 44 et toujours actuel »
 

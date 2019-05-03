@@ -54,7 +54,6 @@ layout: default
         <aside class="post__aside">
             {%- for am in am-num -%}
                 <a class="post__aside__link" href="{{ am.url }}">
-                    <img class="post__aside__img" src="/assets/images/aide-memoire/page-title-aide-memoire.jpg" alt="{{ page.title | escape }}">
                     <img class="post__aside__img" src="{{ am.img_src }}" alt="{{ am.title | escape }}">
                     <h5 class="post__aside__title">{{ am.title }}<br>
                     <small class="post__aside__subtitle">{{ am.date_publication }}</small></h5>
