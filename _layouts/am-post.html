@@ -6,7 +6,7 @@ layout: default
    <div class="post__content-wrapper">
         <div class="post__content">
             <div class="post__header__breadcrumbs">
-              <a href="/aide-memoire">Aide-mémoire</a> > {%- for am in am-num -%}<a href="{{ am.url }}">{{ am.title }}</a>{%- endfor -%}
+              <a href="/aide-memoire">Aide-mémoire</a><span style="font-size: 0.6em;display: inline-block;margin: 0 0.25em;">></span> {%- for am in am-num -%}<a href="{{ am.url }}">{{ am.title }}</a>{%- endfor -%}
             </div>
             <h1 class="post__title">
                 {%- if page.type == 'editorial' -%}<small>Editorial</small><br>{%- elsif page.type == 'mots' -%}<small>Mots</small><br>{%- endif -%}
