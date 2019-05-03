@@ -5,13 +5,14 @@ title: 'La revue Aide-mémoire fait débat #13 - Ingouvernables !'
 date_start: '2019-05-22'
 date_stop: ''
 hour: 19h30
-img_file: /assets/uploads/am13-ingouvernable.jpg
+img_file: >-
+  /assets/uploads/20190522_tdlm_editions_aidememoirefaitdebat13_ingouvernables_bandeau-site.jpg
 place: 'La Cité Miroir - Place Xavier Neujean, 22 4000 Liège'
 address: 'Place Xavier Neujean, 22 4000 Liège'
 schedule: ''
 booking: |-
-  04 230 70 50\
-  reservation@citemiroir.be
+  04 232 70 60\
+  aide-memoire@territoires-memoire.be
 ---
 Alors que le dernier numéro de la revue _Aide-mémoire_ a exploré la question de l’ingouvernabilité, sans doute inspirée par la ténacité des gilets jaunes, nous voici à la veille d’une nouvelle période électorale vers laquelle les regards se tournent inexorablement. Un hasard de calendrier qui, dans le fond, tombe plutôt bien…  
 
