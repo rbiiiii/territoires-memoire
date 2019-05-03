@@ -252,7 +252,7 @@
     }
 
     .footnote-hook__top {
-        display:inline;
+        display:block;
         margin-bottom:$spacing-unit/2;
         left:-$spacing-unit/2;
         text-align:left;
@@ -328,7 +328,9 @@
             margin-top:0.5em;    
             margin-bottom:0.5em;
             width:100%;
-            display:inline;    
+            display: inline-block;
+            font-size: 1rem;
+            line-height: 1.4;
         }
 
         .footnote-hook {
