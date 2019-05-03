@@ -19,3 +19,5 @@ Alors que le dernier numéro de la revue _Aide-mémoire_ a exploré la question 
 Face à un monde des affaires qui s’est employé à se rendre ingouvernable pour mieux gouverner les autres, face à des États de plus en plus soupçonnés de devenir « forts avec les faibles et faibles avec les forts », que reste-t-il de marge de manœuvre à nos représentants pour gouverner ceux qui ne veulent plus l’être ?  Et dans cette espèce de clair-obscur, quels monstres faut-il encore redouter de voir émerger ?
 
 Laissons là les sondages et autres prédictions craintives… et venez en discuter avec nous !
+
+**Avec la participation de plusieurs contributeurs du numéro.**
