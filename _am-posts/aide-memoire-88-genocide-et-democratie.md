@@ -5,95 +5,23 @@ type: article
 credits: par Michel Nejszaten
 order: 6
 ---
-Le sociologue juif polonais Zygmunt Bauman, dont la femme a été incarcérée à Auschwitz et qui a écrit son calvaire dans deux livres, a combattu dans l’armée polonaise communiste, puis il a connu l’antisémitisme dans la Pologne socialiste et est parti en Angleterre. Son livre Modernité et holocauste1 date de quelques années ; à l’époque, il a créé des remous dans les milieux spécialisés. Revenons sur ce texte assez surprenant.
+Le sociologue juif polonais Zygmunt Bauman, dont la femme a été incarcérée à Auschwitz et qui a écrit son calvaire dans deux livres, a combattu dans l’armée polonaise communiste, puis il a connu l’antisémitisme dans la Pologne socialiste et est parti en Angleterre. Son livre Modernité et holocauste[[1]](#footnote-1) date de quelques années ; à l’époque, il a créé des remous dans les milieux spécialisés. Revenons sur ce texte assez surprenant.
 
-Le génocide des Juifs est souvent considéré comme un accident de l’Histoire, dû
-à une série de facteurs improbables et qui n’a aucune possibilité de se
-reproduire. Pour certains, il serait même spécifique aux Juifs, leur
-appartiendrait en quelque sorte et les conditions historiques ayant changé, il
-doit simplement rester dans la mémoire des communautés juives et des proches
-non-juifs : un devoir de vigilance suffirait à empêcher toute récidive. Selon
-Bauman, bien au contraire, le génocide est un produit de la civilisation, il en
-est sa face cachée et rien ne permet de penser qu’il ne se renouvellera pas
-envers l’une ou l’autre minorité.
+Le génocide des Juifs est souvent considéré comme un accident de l’Histoire, dû à une série de facteurs improbables et qui n’a aucune possibilité de se reproduire. Pour certains, il serait même spécifique aux Juifs, leur appartiendrait en quelque sorte et les conditions historiques ayant changé, il doit simplement rester dans la mémoire des communautés juives et des proches non-juifs : un devoir de vigilance suffirait à empêcher toute récidive. Selon Bauman, bien au contraire, le génocide est un produit de la civilisation, il en est sa face cachée et rien ne permet de penser qu’il ne se renouvellera pas envers l’une ou l’autre minorité.
 
-Bauman étudie la logique du génocide pour montrer son implacable
-« rationalité ». Hitler a décidé que l’Allemagne devait être « *Judenfrei *»
-(« sans Juifs »). Tout le reste a découlé selon une logique propre à nos
-sociétés. D’abord, l’émigration des Juifs a été encouragée, avec en 1935
-interdiction de revenir en Allemagne sous peine d’être incarcéré. Les nazis ont
-ensuite recherché un territoire pour les y envoyer. Une partie de l’Union
-soviétique a été envisagée, mais la guerre se poursuivant, le territoire n’était
-pas accessible. Madagascar a aussi été envisagé comme destination pour les
-communautés juives. Tous ces projets sont tombés à l’eau. La solution la plus
-efficace et la moins coûteuse pour le «* Judenfrei* » était l’élimination
-physique des Juifs. Commença alors l’extermination par les *Einsatzgrüppen*2.
-Mais les assassins nazis se trouvaient trop près des victimes quand ils
-fusillaient, l’épreuve devenait trop pénible. L’extermination à l’entrée des
-camps par le gaz a ainsi résolu le problème. Celui qui déversait le gaz ne
-voyait rien, il pouvait assassiner sans observer les morts.
+Bauman étudie la logique du génocide pour montrer son implacable « rationalité ». Hitler a décidé que l’Allemagne devait être *« Judenfrei »* (« sans Juifs »). Tout le reste a découlé selon une logique propre à nos sociétés. D’abord, l’émigration des Juifs a été encouragée, avec en 1935 interdiction de revenir en Allemagne sous peine d’être incarcéré. Les nazis ont ensuite recherché un territoire pour les y envoyer. Une partie de l’Union soviétique a été envisagée, mais la guerre se poursuivant, le territoire n’était pas accessible. Madagascar a aussi été envisagé comme destination pour les communautés juives. Tous ces projets sont tombés à l’eau. La solution la plus efficace et la moins coûteuse pour le *« Judenfrei »* était l’élimination physique des Juifs. Commença alors l’extermination par les *Einsatzgrüppen*[[2]](#footnote-2). Mais les assassins nazis se trouvaient trop près des victimes quand ils fusillaient, l’épreuve devenait trop pénible. L’extermination à l’entrée des camps par le gaz a ainsi résolu le problème. Celui qui déversait le gaz ne voyait rien, il pouvait assassiner sans observer les morts.
 
-Tout le mécanisme du génocide a été mis en branle par des bureaucrates
-obéissants. Des entreprises ont fourni le gaz mortel, des savants l’ont mis au
-point et ont étudié la disposition des lieux. La construction des bâtiments, le
-transport par chemin de fer… tout s’est déroulé normalement, comme pour
-l’acheminement de marchandises dans un local prévu à cet effet. Le docteur
-Mengele a été formé dans une université, des anthropologues universitaires ont
-prétendu que le racisme avait un sens. Les Églises se sont tues en chœur et
-Hitler est resté un catholique… Ce sont bien les institutions à la base des
-sociétés dites démocratiques qui sont à l’origine du génocide et en ont assuré
-l’exécution. Les SS « anormaux », trop excités, auraient été écartés des
-processus et auraient représenté 10% de l’effectif.
+Tout le mécanisme du génocide a été mis en branle par des bureaucrates obéissants. Des entreprises ont fourni le gaz mortel, des savants l’ont mis au point et ont étudié la disposition des lieux. La construction des bâtiments, le transport par chemin de fer… tout s’est déroulé normalement, comme pour l’acheminement de marchandises dans un local prévu à cet effet. Le docteur Mengele a été formé dans une université, des anthropologues universitaires ont prétendu que le racisme avait un sens. Les Églises se sont tues en chœur et Hitler est resté un catholique… Ce sont bien les institutions à la base des sociétés dites démocratiques qui sont à l’origine du génocide et en ont assuré l’exécution. Les SS « anormaux », trop excités, auraient été écartés des processus et auraient représenté 10% de l’effectif.
 
-Bauman compare ce processus au taylorisme, au travail à la chaîne où chaque
-opérateur ne connaît que son secteur et effectue son travail sans se poser de
-questions sur son utilité et sa destination. Si l’on s’en tient aux seuls
-États-Unis, les bombes d’Hiroshima et de Nagasaki étaient déjà des crimes contre
-l’humanité, visant délibérément des civils, ce qui est formellement interdit par
-les conventions internationales.
+Bauman compare ce processus au taylorisme, au travail à la chaîne où chaque opérateur ne connaît que son secteur et effectue son travail sans se poser de questions sur son utilité et sa destination. Si l’on s’en tient aux seuls États-Unis, les bombes d’Hiroshima et de Nagasaki étaient déjà des crimes contre l’humanité, visant délibérément des civils, ce qui est formellement interdit par les conventions internationales.
 
-Récemment, la RTBF a programmé un documentaire sur la CIA qui donne froid dans
-le dos. On lit dans *Le Soir* du 22 août 2018 : « Évoquons les tests à grande
-échelle, comme celui de diffuser un virus bénin dans le métro de New York, à
-l’insu des usagers, pour calculer la vitesse de propagation d’une arme chimique
-ou biologique en cas de guerre virale. Au Guatemala, pays étant alors sous la
-coupe américaine, des centaines de patients, des soldats, des prostituées, des
-détenus et même des enfants vont se voir inoculer la syphilis à des fins
-d’expérience. Les États-Unis ont été condamnés pour ce projet qui a fait 83
-morts. Mais l’agence, comme les autres organismes se livrant à la recherche
-militaire (armée de terre, de l’air, marine, etc.) va aussi faire appel au
-peuple américain pour lui servir de rats de laboratoire. Au sortir de
-l’après-guerre et avec l’émergence de la guerre froide, au cours des années 50,
-60 et 70, des dizaines de milliers de personnes ont servi de cobayes, de manière
-volontaire ou non, dans le but de faire avancer la recherche à des fins
-militaires. Sous prétexte par exemple de l’étude du cerveau humain, des milliers
-de personnes se sont prêtées ou ont été soumises à des traitements à base de
-drogues. Le vrai but des scientifiques financés par la CIA : transformer ces
-cobayes à leur insu en robots humains, leur faire subir un lavage de cerveau,
-leur effacer la mémoire et les remodeler en véritables armes humaines. […]
-Notamment [Gina] n’arrive pas à se sortir de la tête la vision d’autres patients
-harnachés et enfermés dans des tubes et soumis à un matraquage psychologique,
-écoutant pendant des heures des ordres répétitifs enregistrés et diffusés à des
-puissances variables. Pour faciliter l’admission de ces traitements spéciaux de
-lavage de cerveau, les chercheurs ont eu recours à pas moins de 125 substances
-chimiques différentes. La plus célèbre des drogues utilisées fut le LSD… »
+Récemment, la RTBF a programmé un documentaire sur la CIA qui donne froid dans le dos. On lit dans Le Soir du 22 août 2018 : « Évoquons les tests à grande échelle, comme celui de diffuser un virus bénin dans le métro de New York, à l’insu des usagers, pour calculer la vitesse de propagation d’une arme chimique ou biologique en cas de guerre virale. Au Guatemala, pays étant alors sous la coupe américaine, des centaines de patients, des soldats, des prostituées, des détenus et même des enfants vont se voir inoculer la syphilis à des fins d’expérience. Les États-Unis ont été condamnés pour ce projet qui a fait 83 morts. Mais l’agence, comme les autres organismes se livrant à la recherche militaire (armée de terre, de l’air, marine, etc.) va aussi faire appel au peuple américain pour lui servir de rats de laboratoire. Au sortir de l’après-guerre et avec l’émergence de la guerre froide, au cours des années 50, 60 et 70, des dizaines de milliers de personnes ont servi de cobayes, de manière volontaire ou non, dans le but de faire avancer la recherche à des fins militaires. Sous prétexte par exemple de l’étude du cerveau humain, des milliers de personnes se sont prêtées ou ont été soumises à des traitements à base de drogues. Le vrai but des scientifiques financés par la CIA : transformer ces cobayes à leur insu en robots humains, leur faire subir un lavage de cerveau, leur effacer la mémoire et les remodeler en véritables armes humaines. […] Notamment [Gina] n’arrive pas à se sortir de la tête la vision d’autres patients harnachés et enfermés dans des tubes et soumis à un matraquage psychologique, écoutant pendant des heures des ordres répétitifs enregistrés et diffusés à des puissances variables. Pour faciliter l’admission de ces traitements spéciaux de lavage de cerveau, les chercheurs ont eu recours à pas moins de 125 substances chimiques différentes. La plus célèbre des drogues utilisées fut le LSD… »
 
-Bauman prend encore l’exemple d’ouvriers d’une usine d’armement qui se
-réjouissent d’un sursis accordé à leur entreprise sans se préoccuper de l’usage
-des armes qu’ils produisent, ou les personnes qui sont satisfaites d’une baisse
-des prix de la nourriture, alors que la famine sévit en Éthiopie. Selon lui, il
-faut trois conditions pour qu’un génocide se mette en place : la violence
-autorisée par l’État ; la banalisation des actions violentes par le biais des
-règlements ; la déshumanisation des victimes.
+Bauman prend encore l’exemple d’ouvriers d’une usine d’armement qui se réjouissent d’un sursis accordé à leur entreprise sans se préoccuper de l’usage des armes qu’ils produisent, ou les personnes qui sont satisfaites d’une baisse des prix de la nourriture, alors que la famine sévit en Éthiopie. Selon lui, il faut trois conditions pour qu’un génocide se mette en place : la violence autorisée par l’État ; la banalisation des actions violentes par le biais des règlements ; la déshumanisation des victimes.
 
-Lorsqu’on admet la chasse aux réfugiés sous prétexte d’appréhender des passeurs,
-lorsqu’on trouve normal d’expulser les réfugiés avec leur famille – femme et
-enfants –, lorsqu’on les laisse se noyer dans la mer Méditerranée ou dans
-l’océan en refusant qu’on se porte à leur secours, on n’est pas loin des trois
-conditions nécessaires pour un génocide. Puisqu’il s’agit là de la face cachée
-des démocraties occidentales, le mot démocratie perd son sens ; nous ne vivons
-pas en démocratie, nous sommes sans cesse à la merci de tendances génocidaires,
-nous ou les populations des pays du Sud ravagés par les multinationales.
+Lorsqu’on admet la chasse aux réfugiés sous prétexte d’appréhender des passeurs, lorsqu’on trouve normal d’expulser les réfugiés avec leur famille – femme et enfants –, lorsqu’on les laisse se noyer dans la mer Méditerranée ou dans l’océan en refusant qu’on se porte à leur secours, on n’est pas loin des trois conditions nécessaires pour un génocide. Puisqu’il s’agit là de la face cachée des démocraties occidentales, le mot démocratie perd son sens ; nous ne vivons pas en démocratie, nous sommes sans cesse à la merci de tendances génocidaires, nous ou les populations des pays du Sud ravagés par les multinationales.
 
-Bauman prône le pluralisme et l’autogestion pour réellement vivre en démocratie.
-Il faudra certainement plus que cela.
+Bauman prône le pluralisme et l’autogestion pour réellement vivre en démocratie. Il faudra certainement plus que cela.
+
+1. Zygmunt Bauman, Modernité et Holocauste, Bruxelles, Complexe, 2008. Il fut édité une première fois en 2002, par les éditions parisiennes La Fabrique (Ndlr).
+2. « Les Einsatzgruppen  (groupes d‘intervention) étaient des unités de police politique militarisées du IIIe Reich [chargées] de l’assassinat systématique des opposants réels ou imaginaires au régime nazi et en particulier des Juifs. […] De 1940 à 1943, les Einsatzgruppen assassinèrent plus d’un million de personnes, essentiellement des Juifs et, à partir du 22 juin 1941, des prisonniers de guerre soviétiques. Leur action fut la première phase de la Shoah, dans un premier temps les fusillades […] et dans un deuxième temps les camions à gaz itinérants, avant la mise en place des camps d’extermination. » (Wikipédia)
