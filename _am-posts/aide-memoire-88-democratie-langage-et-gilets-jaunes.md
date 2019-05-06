@@ -5,10 +5,7 @@ type: article
 credits: 'Entretien avec Franck Lepage, par Julien Paulus'
 order: 3
 ---
-Dans la perspective de sa venue à la Cité Miroir, le 24 avril 2019,
-entretien avec Franck Lepage, ex-prophète salarié de l’Administration
-devenu clown-consultant et troubadour ardent de l’éducation populaire.
-Tutoiement de rigueur !
+Dans la perspective de sa venue à la Cité Miroir, le 24 avril 2019, entretien avec Franck Lepage, ex-prophète salarié de l’Administration devenu clown-consultant et troubadour ardent de l’éducation populaire. Tutoiement de rigueur !
 
 **Julien Paulus** : On peut dire que tu es le créateur d'un format original que tu as appelé « conférence gesticulée » et qui rencontre de plus en plus de succès. Mais qu'est-ce qu'une conférence gesticulée au juste ? D'où est-ce venu ?
 
