@@ -266,6 +266,7 @@ $(document).ready(function() {
     function showAnchors(target) {
         
         target.mouseenter(function() {
+            console.log("test footnotes mouseenter");
             var anchorVisibilityTimer = setTimeout(closeOpenedAnchors, 1500);
             closeOpenedAnchors();
             clearTimeout(anchorVisibilityTimer);
