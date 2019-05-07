@@ -19,7 +19,7 @@ self.onactivate = function() {
 }
 
 self.onfetch = function(event) {
-    event.respondWidth(
+    event.respondWith(
         caches.match(event.request)
         .then(function(response) {
             if (response) {
