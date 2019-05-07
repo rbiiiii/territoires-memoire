@@ -46,6 +46,14 @@
   categorie: Éditions et Études
   categorie_slug: editions-etudes
 
+- nom: Stéphanie Reynders
+  titre: Coordinatrice des ressources financières
+  tel: 04 232 70 06
+  email: stephaniereynders@territoires-memoire.be
+  photo: stephanie_reynders.jpg
+  categorie: Gestion des ressources financières
+  categorie_slug: gestion-ressources-financieres
+
 - nom: Mara Giontarelli
   titre: Déléguée, librairie et ressources financières
   tel: 04 250 99 59
@@ -70,13 +78,6 @@
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
 
-- nom: Stéphanie Reynders
-  titre: Déléguée ressources financières
-  tel: 04 232 70 06
-  email: stephaniereynders@territoires-memoire.be
-  photo: stephanie_reynders.jpg
-  categorie: Gestion des ressources financières
-  categorie_slug: gestion-ressources-financieres
 
 - nom: Loïc Vander Heyden
   titre: Délégué ressources financières
