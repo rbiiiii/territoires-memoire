@@ -54,4 +54,10 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script defer src="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 <script defer src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-{%- asset main.js !type -%}
+{% asset main.js !type %}
+
+<script>
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register("sw.js");
+  }
+</script>
