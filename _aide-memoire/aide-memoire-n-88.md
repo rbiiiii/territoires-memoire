@@ -1,6 +1,5 @@
 ---
-published: true
-show: false
+show: true
 title: Aide-mémoire n°88
 slug: aide-memoire-88
 num: 88

@@ -104,7 +104,7 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Publié ?", name: "published", widget: "boolean", default: false}
+      - {label: "Publié ?", name: "show", widget: "boolean", default: false}
       - {label: "Titre", name: "title", widget: "string", default: "Aide-mémoire n°85"}
       - {label: "chemin URL", name: "slug", widget: "string", default: "aide-memoire-85"}
       - {label: "Numéro", name: "num", widget: "number", valueType: "int"}
