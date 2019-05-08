@@ -1,32 +1,47 @@
-self.oninstall = function() {
-    caches.open('tmSw')
-    .then(function(cache) {
-        cache.addAll([
-            '/',
-            'index.html'
-        ])
-        .then(function() {
-            console.log('cached !');
+self.addEventListener('install', event => {
+    event.waitUntil(
+        caches.open('tmSw')
+        .then( cache => {
+            return cache.addAll([
+                '/',
+                'index.html',
+                '/association/',
+                '/plusjamaisca/',
+                '/reseau/',
+                '/bibliotheque/',
+                '/eduquer/',
+                '/dossiers/',
+                '/voyages/',
+                '/editions/',
+                '/aide-memoire/',
+                '/actualites/',
+                '/agenda/',
+                '/soutiens/'
+            ])
+            .then(function() {
+                console.log('cached !');
+            })
+            .catch(function(err) {
+                console.log('err ', err);
+            })
         })
-        .catch(function(err) {
-            console.log('err ', err);
-        })
-    })
-}
+    );
+});
 
-self.onactivate = function() {
+self.addEventListener('activate', function() {
     console.log('activated');
-}
+});
 
-self.onfetch = function(event) {
+self.addEventListener('fetch', event => {
     event.respondWith(
         caches.match(event.request)
         .then(function(response) {
             if (response) {
+                console.log("response");
                 return response;
-            } else {
-                return fetch(event.request);
             }
+            console.log("no response");
+            return fetch(event.request);
         })
     )
-}
+});

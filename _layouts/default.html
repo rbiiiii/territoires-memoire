@@ -6,6 +6,9 @@
   {% assign thisPageClass = page.layout %}
 
   <body id="top" class="{{ thisPageClass }}">
+    <div id="disconnected" style="display:none;background: red;padding: 0.3em 0.5em;color: white;position: fixed;width: 100%;z-index: 10;text-align: center;">
+      <p style="margin:0;">Aucun accès à Internet. Vous naviguez à présent hors connexion, vous n'aurez accès qu'à une partie limitée de notre site web.</p>
+    </div>
 
     {%- include_cached header.html -%}
 
@@ -76,6 +79,17 @@
     $(document).ready(function(){var e=navigator.userAgent.match(/(iPhone|iPod|iPad|Android|webOS|BlackBerry|IEMobile|Opera Mini)/i),o=$(window).width();sourceFile=null,$("video#homepage-intro__video source").each(function(){sourceFile=e||o<1360?$(this).attr("data-low-src"):$(this).attr("data-src"),$(this).attr("src",sourceFile);var i=this.parentElement;console.log("video ready"),i.load(),console.log("video loading..."),i.play()})});
     </script>
     {%- endif -%}
+
+    <script>
+      // SERVICE WORKER    
+      if (navigator.serviceWorker) {
+        navigator.serviceWorker.register("/sw.js");
+      }
+      window.addEventListener("offline", function(e) {
+        const disconnected = document.getElementById('disconnected');
+        disconnected.style.display = "block";
+      });
+    </script>
 
   </body>
 
