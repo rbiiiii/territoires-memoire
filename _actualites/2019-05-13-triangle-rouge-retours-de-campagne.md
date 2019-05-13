@@ -6,7 +6,6 @@ title: 'Triangle Rouge : retours de campagne !'
 img_file: /assets/uploads/tr-retoursdecampagne.jpg
 posted_on: '2019-05-13'
 uploaded_files:
-  - file: {}
   - file:
       file_src: /assets/uploads/brochure-activites-tr-site.pdf
 ---
