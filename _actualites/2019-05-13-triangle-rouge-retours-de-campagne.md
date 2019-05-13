@@ -1,6 +1,6 @@
 ---
 layout: post
-show: true
+published: true
 categories: actualites
 title: 'Triangle Rouge : retours de campagne !'
 img_file: /assets/uploads/tr-retoursdecampagne.jpg

@@ -78,7 +78,7 @@ layout: default
         {%- for focus in publishedFocus limit:2 -%}
           <div class="homepage-focus-item block">
             <a class="homepage-focus-item__link" href="{{ focus.link }}">
-              <img class="homepage-focus-item__img" src="{{ focus.img_file }}" alt="{{ focus.title }}">
+              <img loading="lazy" class="homepage-focus-item__img" src="{{ focus.img_file }}" alt="{{ focus.title }}">
               <div class="homepage-focus-item__txt">
                 <h3>{{ focus.title }}</h3>
                 {{ focus.content | markdowify }}

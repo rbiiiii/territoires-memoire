@@ -1,6 +1,6 @@
 ---
 layout: post
-show: true
+published: true
 categories: actualites
 title: Une table ronde sur l'éco-féminisme !
 img_file: /assets/uploads/eco-feminisme.jpg

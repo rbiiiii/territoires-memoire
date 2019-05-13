@@ -40,7 +40,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Publié ?", name: "show", widget: "boolean", default: false}
+      - {label: "Publié ?", name: "published", widget: "boolean", default: false}
       - {label: "Catégorie", name: "categories", widget: "hidden", default: "actualites"}
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Image", name: "img_file", widget: "image", required: false}
