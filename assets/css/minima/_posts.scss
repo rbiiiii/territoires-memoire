@@ -154,6 +154,14 @@ li.post__meta__item {
     text-align: center;
 }
 
+.post__files {
+    margin:$spacing-unit*2 auto;
+
+    .pdf-link:not(:first-of-type) {
+        margin-top: $spacing-unit;
+    }
+}
+
 .post__aside, #map {
     margin:$spacing-unit*2 auto;
     width:100%;

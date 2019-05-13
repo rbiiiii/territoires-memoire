@@ -155,7 +155,7 @@ layout: default
 
       {%- assign up_files = page.uploaded_files -%}
       {%- if up_files != 0 -%}
-        <div class="blocks">
+        <div class="post__files">
           {%- for item in up_files -%}
             {%- if item.file.file_type == 'ZIP' -%}
                   <div class="pdf-link">
