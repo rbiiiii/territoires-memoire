@@ -1,6 +1,6 @@
 ---
 published: true
-title: 'Triangle Rouge : retours de campagne !'
+title: 'Triangle Rouge : retours de campagne'
 posted_on: '2019-05-13'
 link: >-
   https://www.territoires-memoire.be/actualites/2019/05/triangle-rouge-retours-de-campagne/
