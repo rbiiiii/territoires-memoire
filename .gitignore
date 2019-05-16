@@ -5,3 +5,4 @@ _site
 node_modules
 .env
 Thumbs.db
+npm-debug.log
