@@ -1,7 +1,7 @@
 ---
 version: 88
 author: 'Jean Somers, Olivia Chaumont (préf.)'
-title: 'Dis, c’est quoi la franc-maçon- nerie ?'
+title: 'Dis, c’est quoi la franc-maçonnerie ?'
 editor: Renaissance du Livre
 col: ''
 year: '2018'
