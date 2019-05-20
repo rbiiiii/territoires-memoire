@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Voyage annuel
 posted_on: '2019-04-29'
 link: 'https://www.territoires-memoire.be/voyages#voyage-annuel'
