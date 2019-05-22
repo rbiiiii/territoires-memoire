@@ -13,7 +13,7 @@
             {% endif %}
                     <div class="pdf-txt__item__text book__content">
                         <h3 class="pdf-txt__item__text__title book__title">
-                            {% if include.heart %}<span class="mini-heart">♡</span>{% endif %}
+                            {% if book.tag == "heart" %}<span class="mini-heart">♡</span>{% endif %}
                             {% if book.author %}{{ book.author }}, {% endif %}{% if book.extra %}{{ book.extra }}a, {% endif %}{% if book.title %}<em>{{ book.title }}</em>, {% endif %}{% if book.editor %}{{ book.editor }}, {% endif %}{% if book.col %}{{ book.col }}, {% endif %}{% if book.year %}{{ book.year }}{% endif %}{% if book.price != '' %}, {{ book.price }}{% endif %}
                         </h3>
                         <div class="book__body">
@@ -22,7 +22,7 @@
                                 class="pdf-txt__item__img book__img"
                                 src="{{ book.img_src }}" 
                                 alt="{{ book.title }}">
-                                {% if include.heart %}
+                                {% if book.tag == "heart" %}
                                     <div class="book__img__heart-wrapper">
                                         <img class="book__img__heart" src="/assets/images/icons/tm-icon-heart.svg" alt="{{ book.title | escape }}">
                                     </div>
