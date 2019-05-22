@@ -9,7 +9,7 @@ Si le terme de « démocratie » semble particulièrement galvaudé dans la bouc
 
 **Un entretien avec Jacques Dubois, docteur en Philosophie et Lettres, professeur émérite de l’Université de Liège et spécialiste de la sociologie des institutions culturelles.**
 
-**Gaëlle Henrard :** Dans l’ouvrage que vous avez co-dirigé avec Nancy Delhalle et Jean-Marie Klinkenberg, _Le tournant des années 1970. Liège en effervescence_[\[1]](#footnote-1), il est question de « génie du lieu » et de « génie du temps ». Pourriez-vous nous parler de quelques-uns des ingrédients qui ont participé à cette « effervescence » ?
+**Gaëlle Henrard :** Dans l’ouvrage que vous avez co-dirigé avec Nancy Delhalle et Jean-Marie Klinkenberg, _Le tournant des années 1970. Liège en effervescence_[[1]](#footnote-1), il est question de « génie du lieu » et de « génie du temps ». Pourriez-vous nous parler de quelques-uns des ingrédients qui ont participé à cette « effervescence » ?
 
 **Jacques Dubois :** Les auteurs de l’ouvrage et moi-même l’avons peut-être surestimée par une sorte de fierté locale. L’effervescence fut commune aux pays occidentaux : la décennie a été intense un peu partout, surplombée par mai 68 qui avait été à l’origine d’un fameux tohu-bohu. Mais les Liégeois qui ont écrit ce livre étaient tout de même en droit de penser qu’il s’en était passé plus dans leur ville que dans bien d’autres de même taille.
 
