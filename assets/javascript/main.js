@@ -190,6 +190,7 @@ $( document ).ready(function() {
     msg += '<p class="zero-event__text">Aucun événement n’est programmé pour l’instant…</p>';
     msg += '<p class="zero-event__text">Mais le parcours <em>Plus jamais ça&nbsp;!</em> vous ouvre toujours ses portes&nbsp;!</p>';
     msg += '<p class="zero-event__button"><a class="button button--blue" href="/plusjamaisca/">Plus jamais ça&nbsp;!</a></p>';
+    msg += '<p class="text-centered view-all-agenda"><a href="/agenda" class="button button--blue">Voir l\'agenda complet</a></p>';
     msg += '</div>';
 
     if (postsListItemsLength == 0) {
