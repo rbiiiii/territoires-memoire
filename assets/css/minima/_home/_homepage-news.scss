@@ -128,7 +128,7 @@
     }
 }
 
-.zero-event-container {
+.home .zero-event-container {
     
     @media screen and (min-width:1024px) {
         margin-top:198px;    
@@ -149,7 +149,8 @@
     text-align: center;    
 }
 
-.zero-event__button {
+p.zero-event__button {
     margin-top:$spacing-unit;
+    margin-bottom:$spacing-unit;
     text-align: center;    
 }
