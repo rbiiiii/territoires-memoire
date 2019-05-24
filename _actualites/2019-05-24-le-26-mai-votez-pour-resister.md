@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: 'Le 26 mai, votez pour résister !'
-img_file: /assets/uploads/le26mai_votez.jpg
+img_file: /assets/uploads/votez_1240x480.jpg
 posted_on: '2019-05-24'
 uploaded_files:
   - file: {}
