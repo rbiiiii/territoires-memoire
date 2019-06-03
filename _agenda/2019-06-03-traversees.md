@@ -4,7 +4,8 @@ categories: agenda
 title: Traversées
 date_start: '2019-06-24'
 date_stop: '2019-09-01'
-img_file: /assets/uploads/20190624_tdlm_centredoc_expo_traversee_site.jpg
+img_file: >-
+  /assets/uploads/20190624_tdlm_centredoc_expo_traversee_visuel_agenda_site_territoires.jpg
 place: >-
   Bibliothèque George Orwell - La Cité Miroir - Place Xavier Neujean 22 4000
   Liège
