@@ -175,6 +175,14 @@
   categorie: Projets
   categorie_slug: projets
 
+- nom: Coline Rouche
+  titre: Déléguée
+  tel: 04 232 70 02
+  email: colinerouche@territoires-memoire.be
+  photo: coline_rouche.jpg
+  categorie: Projets
+  categorie_slug: projets
+
 - nom: Michel Recloux
   titre: Coordinateur
   tel: 04 232 70 62
