@@ -14,6 +14,14 @@
   categorie: Direction
   categorie_slug: direction
 
+- nom: Jean-Paul Gimenne
+  titre: Directeur adjoint
+  tel: 04 232 70 47 / 0497 49 55 77
+  email: jeanpaulgimenne@territoires-memoire.be
+  photo: jean-paul_gimenne.jpg
+  categorie: Direction adjointe - services financiers
+  categorie_slug: direction-adjointe-finances
+
 - nom: Régine Fassotte
   titre: Déléguée
   tel: 04 232 70 69
