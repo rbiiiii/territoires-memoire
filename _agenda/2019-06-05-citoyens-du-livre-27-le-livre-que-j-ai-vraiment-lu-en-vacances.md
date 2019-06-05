@@ -6,7 +6,7 @@ date_start: '2019-09-18'
 date_stop: ''
 hour: 18h
 img_file: /assets/uploads/site-citoyens27.jpg
-place: Place Xavier Neujean 22 4000 Liège
+place: La Cité Miroir - Place Xavier Neujean 22 4000 Liège
 address: Place Xavier Neujean 22 4000 Liège
 tags:
   - Rencontre
