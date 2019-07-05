@@ -20,8 +20,9 @@ On trouvera par ailleurs des billets d’opinion de Mateo Alaluf sur les gilets 
 Bref, une revue qui s’avère complète et costaude et dont l’existence dénote sans doute d’une funeste nécessité en ces temps qui sont les nôtres.
 
 <div class="card card--two" style="border-radius:15px;border:3px solid; padding:0.5em 1em">
-<h3>Disponible à la Cité Miroir :</h3>
-<ul>
-<li>Consultation libre à la Bibliothèque George Orwell des Territoires de la Mémoire</li>
-<li>En vente à la librairie Stéphane Hessel (5€ : prix librairie et de soutien ; 3€ prix militant ; 200€ : prix gros salaires).</li>
-</ul>
+  <h3>Disponible à la Cité Miroir :</h3>
+  <ul>
+    <li>Consultation libre à la Bibliothèque George Orwell des Territoires de la Mémoire</li>
+    <li>En vente à la librairie Stéphane Hessel (5€ : prix librairie et de soutien ; 3€ prix militant ; 200€ : prix gros salaires).</li>
+  </ul>
+</div>
