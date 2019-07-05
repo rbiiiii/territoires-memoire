@@ -291,8 +291,8 @@ li.post__meta__item {
         @include relative-font-size(0.8);
         margin-bottom:$spacing-unit*2;
 
-        @media screen and (min-width:768px) {
-            max-width:calc(50% - 20px);    
+        @media screen and (min-width:1024px) {
+            max-width:33.3%;    
         }
 
         &.prev {
