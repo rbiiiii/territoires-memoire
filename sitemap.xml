@@ -94,7 +94,8 @@ sitemap:
         </url>
         {% endunless %}
     {% endfor %}
-    {% for post in site.aide-memoire %}
+    {% assign amNums = site.aide-memoire | where:'show', 'true' %}
+    {% for post in amNums %}
         {% unless post.published == false %}
         <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
