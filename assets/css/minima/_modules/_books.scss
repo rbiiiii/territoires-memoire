@@ -6,8 +6,18 @@ a.book__link {
 
     &:hover, &:focus {
 
+        .book__img {
+            transform: none !important;
+        }
+
+        .book__img-wrapper {
+            border:2px solid $rouge-tm;
+            transform:none;
+        }
+
         .book__img__heart-wrapper {
             opacity:1;
+            border:2px solid $rouge-tm;
         }
     }
 }
