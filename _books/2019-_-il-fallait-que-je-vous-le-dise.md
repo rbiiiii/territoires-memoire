@@ -2,10 +2,10 @@
 tag: heart
 version: 89
 author: Aude Mermilliod
-title: 'Il fallait que je vous le dise,'
+title: Il fallait que je vous le dise
 editor: Casterman
 year: '2019'
-price: 'Exemple: 20 €'
+price: 22 €
 link: >-
   https://www.casterman.com/Bande-dessinee/Catalogue/albums/il-fallait-que-je-vous-le-dise
 img_src: /assets/uploads/ilfallaitquejevousledise.jpg
