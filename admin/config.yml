@@ -80,7 +80,7 @@ collections:
       - {label: "Contenu", name: "body", widget: "markdown"}    
 
   - name: "books"
-    label: "Livres Aide-mémoire"
+    label: "Aide-mémoire - livres"
     folder: "_books"
     create: true
     slug: "{{year}}-_-{{slug}}"
@@ -99,7 +99,7 @@ collections:
       - {label: "Description", name: "body", widget: "markdown"}
 
   - name: "aide-memoire"
-    label: "Aide-mémoire numéro"
+    label: "Aide-mémoire - numéros"
     folder: "_aide-memoire"
     create: true
     slug: "{{slug}}"
@@ -115,7 +115,7 @@ collections:
       - {label: "Description", name: "body", widget: "markdown"}
 
   - name: "am-posts"
-    label: "Aide-mémoire article"
+    label: "Aide-mémoire - articles"
     folder: "_am-posts"
     create: true
     slug: "{{categories}}-{{slug}}"
