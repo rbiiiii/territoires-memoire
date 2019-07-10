@@ -13,7 +13,7 @@ layout: default
                 {{ page.title }}
             </h1>
             <h4 class="post__credits">{{ page.credits }}</h4>
-            {%- if page.about_the_author -%}
+            {%- if page.about_the_author != "" -%}
               <h4 class="post__credits about-the-author">{{ page.about_the_author | markdownify }}</h4>
             {%- endif -%}
             {{ content }}
