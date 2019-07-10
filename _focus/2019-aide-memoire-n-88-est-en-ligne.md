@@ -1,8 +1,8 @@
 ---
 published: true
-title: Aide-mémoire n°88 est en ligne !
-posted_on: '2019-05-20'
-link: 'https://www.territoires-memoire.be/aide-memoire-88/'
-img_file: /assets/uploads/am88_banniere.jpg
+title: Aide-mémoire n°89 est en ligne !
+posted_on: '2019-07-09'
+link: 'https://www.territoires-memoire.be/aide-memoire-89'
+img_file: /assets/uploads/aide-memoire-89-focus.jpg
 ---
-Ce numéro interroge le concept d’ingouvernabilité et sa pertinence dans le champ politique contemporain. Retrouvez les plumes d’Olivier Starquit et de Julien Dohet ainsi qu’un entretien avec Franck Lepage, prophète de l’éducation populaire.
+Le Vlaams Belang devient la deuxième formation politique du pays en termes de suffrage, derrière les nationalistes de la N-VA. Décryptage des derniers résultats électoraux de l’extrême droite belge.
