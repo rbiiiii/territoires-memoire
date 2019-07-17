@@ -8,7 +8,7 @@ hour: 19h30
 img_file: >-
   /assets/uploads/20190522_tdlm_editions_aidememoirefaitdebat14_visuel-agenda.jpg
 place: >-
-  Bibliothèque George Orwell à La Cité Miroir Place Xavier Neujean 22, 4000
+  Bibliothèque George Orwell à La Cité Miroir - Place Xavier Neujean 22, 4000
   Liège (2e étage)
 address: Place Xavier Neujean 22 4000 Liège
 tags:
