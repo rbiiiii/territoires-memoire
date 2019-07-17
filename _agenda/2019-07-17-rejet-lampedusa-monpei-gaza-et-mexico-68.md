@@ -12,11 +12,12 @@ address: Place Xavier Neujean 22 4000 Liège
 tags:
   - exposition
 schedule: >-
-  L'exposition est accessible :\
+  L'exposition est accessible :
 
-  - du lundi au vendredi de 9 h à 18 h\
 
-  - le samedi de 10 h à 18 h
+  * du lundi au vendredi de 9 h à 18 h
+
+  * le samedi de 10 h à 18 h
 
 
   Au-delà des horaires standards, ouverture en soirée en fonction des activités
