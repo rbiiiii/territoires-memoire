@@ -13,7 +13,7 @@ tags:
 
 25 ans apr&egrave;s, une programmation &agrave; Li&egrave;ge pour comprendre l’incompr&eacute;hensible.
 
-<a href="https://www.territoires-memoire.be/assets/a-1994-2019_programme.pdf" class="button button--blue">Programme complet (PDF)</a>
+<a href="https://www.territoires-memoire.be/assets/uploads/Le-genocide-des-Tutsi-au-Rwanda-1994-2019_programme.pdf" class="button button--blue">Programme complet (PDF)</a>
 
 <br>&nbsp;
 
