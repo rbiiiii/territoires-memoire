@@ -52,10 +52,6 @@ a.grid__item__link {
     &:hover {  
         border-color: $rouge-tm;
 
-        .grid__item__img {
-            transform:scale(1.03);
-        }
-
         .grid__item__text {
             background-color:$rouge-tm;    
         }
