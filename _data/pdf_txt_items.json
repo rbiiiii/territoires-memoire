@@ -101,7 +101,13 @@
 		"img_src": "pdf-rwanda_94.jpg",
 		"pdf_src": "tm-exposition-rwanda_94.pdf",
 		"txt": "L’exposition propose de retracer l’histoire du Rwanda depuis l’époque précoloniale jusqu’aux lendemains du génocide des Tutsi au Rwanda. Les repères chronologiques mis à disposition visent à acquérir différentes clés de compréhension sur la mise en place de ce génocide.",
-		"categorie": "expos-itinerantes"
+		"categorie": "expos-itinerantes",
+		"peda": [
+			{
+				"title" : "Carnet de visite",
+				"url" : "/assets/pdf/eduquer/tm-exposition-rwanda_94-carnet.pdf"
+			}
+		]
 	},
 	{
 		"title": "Le coffret Résiste !",
