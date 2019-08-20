@@ -7,7 +7,7 @@ type: article
 credits: Par Jean-Louis Rouhart
 order: 12
 ---
-La question de savoir si le camp de concentration de Buchenwald a été libéré par les troupes américaines ou s’est auto-libéré sans l’intervention de celles-ci a suscité et suscite encore de nos jours la polémique1.
+La question de savoir si le camp de concentration de Buchenwald a été libéré par les troupes américaines ou s’est auto-libéré sans l’intervention de celles-ci a suscité et suscite encore de nos jours la polémique[1](#footnote-1).
 
 Pendant de nombreuses années, la thèse qui a prévalu, surtout dans l’ancienne République Démocratique Allemande (RDA), fut celle de l’auto-libération du camp par les prisonniers politiques communistes. Fortement résumée, cette version était la suivante : à l’approche des premiers éléments blindés américains, l’après-midi du 11 avril 1945, des groupes de combat auraient pris d’assaut la « tour », c’est-à-dire le grand portail d’entrée du camp, et conquis les miradors en se saisissant des gardiens SS. Après quoi, des prisonniers auraient poursuivi les SS qui s’étaient enfuis dans les bois environnants, jusqu’à ce que, deux jours plus tard, des unités de l’armée de Patton prennent la direction du camp. Selon cette version, les troupes américaines n’auraient pas libéré le camp de Buchenwald, ce seraient les prisonniers politiques eux-mêmes qui auraient préparé délibérément, puis déclenché et exécuté la révolte armée. Le camp se serait libéré lui-même.
 
