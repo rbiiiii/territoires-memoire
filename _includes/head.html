@@ -11,8 +11,8 @@
     <meta property="og:type" content="article" />
   {% endif %}
   
-  {% asset main.css %}
-  {% asset fonts.css %}
+  <link rel="stylesheet" type="text/css" href="/assets/main.css?ver=20190823" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/fonts.css" />
   
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
@@ -43,7 +43,7 @@
   <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
    integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
    crossorigin=""></script>
-  {%- asset leaflet.ajax.min.js !type -%}
+  <script src="/assets/javascript/leaflet.ajax.min.js"
   {%- endif -%}
 
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

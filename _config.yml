@@ -77,30 +77,8 @@ defaults:
 future: true
 
 plugins:
- - jekyll-assets
  - jekyll-paginate-v2
  - jekyll-include-cache
-
-# Assets pipeline 
-assets:
-  compression: true
-  gzip: true
-  plugins:
-    img:
-      optim:
-        {}
-  autoprefixer:
-    browsers:
-    - "last 2 versions"
-    - "IE > 9"
-  sources:
-    - assets
-    - assets/css
-    - assets/images
-    - assets/javascript
-    - assets/uploads
-    - assets/videos
-    - assets/webf
 
 # Pagination plugin config
 pagination:

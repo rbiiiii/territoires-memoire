@@ -114,8 +114,17 @@
     z-index:100 !important;    
 }
 
-.leaflet-control-attribution {
+.leaflet-pane {
+    z-index:99 !important;
+}
 
+.leaflet-control-attribution {
+    display:none;
+
+    @media screen and (min-width:460px) {
+        display:block;
+    }
+    
     a {
 
         &:hover {
