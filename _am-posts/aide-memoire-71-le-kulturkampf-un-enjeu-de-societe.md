@@ -10,7 +10,7 @@ order: 2
 
 Le Kulturkampf recouvre en réalité l’opposition entre une posture moderniste, progressiste et une vision traditionnaliste, prônant un retour aux sources de la germanité. Comme la lutte de Bismarck contre Rome et le parti ultramontain peut rappeler l’antique Querelle des Investitures tout en introduisant, dans le droit impérial, une relation moderne entre l’Église et l’État, ainsi le débat culturel qui se développe en Allemagne à partir de 1880, porté notamment par les Néoromantiques, reflète l’opposition entre un univers spirituel « naturel », organique, « typiquement » germanique (deutsche Geist), et une vision matérialiste, technique et cosmopolite du progrès. La naissance des mouvements Völkisch et, dans un registre plus muséal, des Heimatmuseum, s’inscrit dans ce contexte, marqué aussi par le développement d’un antisémitisme assez radical dans toutes les couches de la population, en Allemagne comme partout en Europe. Le mouvement Völkisch est essentiellement antisémite[1](#footnote-1), promoteur de la pureté de la race germanique, héritière des mythiques Aryens et que vient corrompre le Juif. 
 
-\## Les années vingt
+## Les années vingt
 
 Après la lourdeur de l’époque wilhelmienne où Guillaume II veut rivaliser avec les monarchies bourgeoises de Londres, Paris et Vienne, on assiste à une explosion de la vie culturelle allemande dès le début des années vingt, marquées par le théâtre de Bertolt Brecht et de Thomas Mann, par l’école du Bauhaus, par le cinéma de Fritz Lang, par les mouvements picturaux d’avant-garde, par l’École de Düsseldorf… Mais la République de Weimar est parcourue de courants contradictoires. Violemment contradictoires dès l’origine, avec l’élimination du Spartakusbund en novembre 1918, l’assassinat de Kurt Eisner en février 1919, les meurtres de la Ste-Vehme, les putschs manqués de Kapp (1920) ou d’Hitler (1923). À la violence extrême de la Première Guerre mondiale succède une violence latente, marquée de « petites » éruptions, mais le feu couve, attisé par les exigences démesurées du Traité de Versailles puis par la grande crise économique de 1929.
 
@@ -28,7 +28,7 @@ De nombreux musées allemands sont ouverts à la modernité et acquièrent des �
 
 Le Museum Folkwang à Essen naît en 1923 de l’intégration d’une importante collection privée de Hagen[10](#footnote-10) aux collections du musée municipal. Le Dr. Ernst Gosebruch a entamé, dès son arrivée à la direction des musées de la ville en 1909, une politique d’ouverture à l’art moderne. En 1912, il achète un tableau de Van Gogh (Barques sur le Rhône, 1888). Au début des années trente, le Folkwangmuseum est le principal musée pour l’art moderne en Allemagne. En 1933, le Kampfbund für deutsche Kultur réclame le licenciement de Gosebruch, ce qui est refusé par le Conseil de la fondation qui gère le musée. Cependant, à la fin de l’année, Ernst Gosebruch démissionne, épuisé par ce climat tendu. Il est remplacé par le comte Dr. Klaus von Baudissin, imposé par les nazis. Celui-ci s’empresse de vendre, en 1936, un tableau de Wassily Kandinski, Improvisation, une des œuvres majeures de la collection. L’arrivée au pouvoir du NSDAP, au début des années trente, bouleverse en effet très rapidement la vie culturelle allemande et singulièrement les musées, soumis à des pressions incessantes et acharnées.
 
-\## Les années trente
+## Les années trente
 
 On situe généralement la prise de pouvoir par les nazis au 30 janvier 1933, lorsqu’Adolf Hitler est nommé chancelier. Cependant, le NSDAP participe au gouvernement dans certains länder dès 1930. En Thuringe, Wilhelm Frick est ministre de l’Intérieur et de la Culture. Il désigne l’architecte Paul Schultze-Naumburg, membre de la Deutschen Kunstgesellschaft, comme directeur de l’enseignement artistique du land. En novembre 1930, les deux compères forcent Wilhelm Köhler, le directeur du musée de Weimar, à décrocher les œuvres modernes des cimaises et à les ranger en réserve. À Zwickau, en Saxe, l’activisme du Kampfbund für deutsche Kultur conduit à l’expulsion de Hildebrand Gurlitt de son poste de directeur du musée, au motif qu’il a rassemblé dans son musée une collection bolchévique[11](#footnote-11).              
 
@@ -65,9 +65,9 @@ Les tableaux détruits ou vendus par les nazis représentent, de manière symbol
 11. Andreas Hüneke, art. cit., p. 4.
 12. Gesetz zur Wiederherstellung des Berufsbeamtentums vom 7 April 1933 (Reichsgesetzblatt, 1933, T. I, S. 253).
 13. Alfred Barr, Hitler et les neuf muses (présenté et traduit par Patrice Cotensin), Paris, L’Echoppe, 2005. Un des articles est paru en 1934 ; les autres, refusés par la presse, seulement en 1945.
-14.Andreas Hüneke, art. cit., p. 3.
-15. Christoph Zuschlag, « Die Dresdner Austellung “Entartete Kunst” 1933 bis 1937 », Dresdner Hefte, H. 77, 2004, pp. 17-25.
-16. Idem, p. 22 : photo de l’affiche, d’esthétique moderniste, signée Hans Vierthaler.
-17. Hélène Duccini, « Un outil de propagande aux mains des nazis », Médiamorphoses, n° 9, 2003, pp. 63-69.
-18. Wolfgang Willrich, Säuberung des Kunsttempels. Eine kunstpolitische Kampfschrift zur Gesundung deutscher Kunst im Geiste nordischer Art, ?, 1937 ; cité d’après Freie Universität Berlin, Fachbereich Geschichts- und Kulturwissenschaften, Datenbank “Entartete Kunst”, s.v. Beschlagnahme \[en ligne].
-19. Gesetz über Einziehung von Erzeugnissen entarteter Kunst, vom 31. Mai 1938 (Deutsches Reichsgesetzblatt, J. 1938, T. I, s. 612).
+    14.Andreas Hüneke, art. cit., p. 3.
+14. Christoph Zuschlag, « Die Dresdner Austellung “Entartete Kunst” 1933 bis 1937 », Dresdner Hefte, H. 77, 2004, pp. 17-25.
+15. Idem, p. 22 : photo de l’affiche, d’esthétique moderniste, signée Hans Vierthaler.
+16. Hélène Duccini, « Un outil de propagande aux mains des nazis », Médiamorphoses, n° 9, 2003, pp. 63-69.
+17. Wolfgang Willrich, Säuberung des Kunsttempels. Eine kunstpolitische Kampfschrift zur Gesundung deutscher Kunst im Geiste nordischer Art, ?, 1937 ; cité d’après Freie Universität Berlin, Fachbereich Geschichts- und Kulturwissenschaften, Datenbank “Entartete Kunst”, s.v. Beschlagnahme \[en ligne].
+18. Gesetz über Einziehung von Erzeugnissen entarteter Kunst, vom 31. Mai 1938 (Deutsches Reichsgesetzblatt, J. 1938, T. I, s. 612).
