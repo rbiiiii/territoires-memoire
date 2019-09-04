@@ -49,3 +49,5 @@ order: 8
 
 <div style="float:left;width:75%;margin-bottom:60px;"><h3>Bibliographie commentée Art et Pouvoir par la Librairie Stéphane Hessel et la Bibliothèque George Orwell</h3>
 <p>Vous y trouverez de nombreuses ressources reliées par ce dénominateur commun : l’art comme instrument de domination mais aussi l’art comme levier d’émancipation ! Essais, romans, beaux-livres, ce recueil de références est téléchargeable sur le site des Territoires de la Mémoire (http://www.territoires-memoire.be/se-documenter/bibliotheque/bibliographies).</p></div>
+
+<div class="clear:both">&nbsp;</div>
