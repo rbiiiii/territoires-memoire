@@ -33,7 +33,7 @@ Outre des références plus ou moins connues et le fait de recueillir ainsi un c
 
 Une fois de plus, à travers un ouvrage qui peut sembler anodin, nous avons pu démontrer que la pensée d’extrême droite est une pensée cohérente qui s’appuie sur un imaginaire et un référentiel loin d’être anodin, comme l’attestent les vingt-quatre références à des chroniques précédentes, et qu’il s’agit de connaître pour pouvoir réagir à certains propos comme ceux tenus par un participant membre de Nation lors de la dernière Foire du livre politique de Liège.
 
-1. Notre titre est repris d’un passage de l’introduction du livre que nous analysons : Bergeron, Francis, Dictionnaire du collectionneur politiquement incorrect. 2e éd. Revue, corrigée et augmentée, Coulommiers, Dualpha, coll. « Politiquement incorrect », 2006, 286 p.
+* Notre titre est repris d’un passage de l’introduction du livre que nous analysons : Bergeron, Francis, Dictionnaire du collectionneur politiquement incorrect. 2e éd. Revue, corrigée et augmentée, Coulommiers, Dualpha, coll. « Politiquement incorrect », 2006, 286 p.
 2. « Le livre : une arme idéologique » in Aide-mémoire n°70 d’octobre-novembre-décembre 2014,
 3. p. 12
 4. Tendance incarnée par Jean-Pierre Stirbois qui rejoindra le FN en 1977 et qui a aujourd’hui pour leader Serge Ayoub, un habitué des rassemblements avec Nation.
