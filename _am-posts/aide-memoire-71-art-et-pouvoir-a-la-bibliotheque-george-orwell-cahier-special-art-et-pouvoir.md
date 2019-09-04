@@ -8,7 +8,7 @@ credits: Par Jérôme Delnooz
 about_the_author: bibliothécaire
 order: 8
 ---
-<img style="float:left;margin:0 10px 10px 0" alt="">
+<img src="/assets/uploads/artivisme-art-action-politique-et-resistance-culturelle.jpg" style="float:left;margin:0 10px 10px 0" alt="">
 <div style="float:left;clear:left;">
 <h3>Stéphanie Lemoine et Samira Ouardi, Artivisme, Alternatives, 2010, 192 p.</h3>
 <p>L’artivisme est l’art engagé et engageant, il cherche à mobiliser le spectateur, à lui faire prendre position. C’est l’art insurrectionnel des zapatistes, l’art festif des collectifs décidés à réenchanter la vie, c’est l’art utopiste des hackers du Net, c’est la résistance esthétique à la publicité, à la privatisation de l’espace public… Artivisme dresse un état des lieux des pratiques contemporaines d’art radical. Voir aussi l’article d’Olivier Starquit, L’art et le pouvoir : les munitions culturelles (p.10)</p>
@@ -34,7 +34,7 @@ musée au dessus de tous soupconsAndré Gob, Des musées au-dessus de tout soup�
 
 Les musées et les guerres, les musées en guerre, victimes mais aussi parfois collaborateurs, profiteurs des guerres. Une analyse et une histoire des musées qui s’enrichissent sur le dos des peuples. Spoliations et trafics en tout genre. 
 
-urvaterDanièle de Temmerman, André Jacqmain, Emile Langui, [et al.], Urvater : histoire d’une collection, Stichting kunstboek, 2013, 45 €
+urvaterDanièle de Temmerman, André Jacqmain, Emile Langui, \[et al.], Urvater : histoire d’une collection, Stichting kunstboek, 2013, 45 €
 
 À la sortie de la guerre, Bertie Urvater – un grand diamantaire anversois – et sa femme Gigi souhaitent participer à la dynamique de reconstruction, mais à travers le mécénat de l’art. Le couple se met à fréquenter de nombreux artistes, notamment des peintres surréalistes tels que Man Ray, Magritte, Matta... Dans les années 1950, ils deviennent ainsi des acteurs majeurs du monde de l’art contemporain – cet art déconsidéré par les nazis – et constituent une ambitieuse collection de tableaux modernes.
 
