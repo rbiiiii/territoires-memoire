@@ -27,7 +27,7 @@ order: 8
 
 <img src="/assets/uploads/signes_de_la_collaboration_et_de_resistance_ecole_sup_art_de.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
-<div style="float:left;width:75%;margin-bottom:60px;"><h3>École Supérieur des Arts Décoratifs (Strasbourg), Signes de la Collaboration et de la Résistance, Autrement, 2002, 173 p.</h3><p>En France, Vichy organise une propagande similaire à celle des nazis. La Résistance ne pouvait pas laisser faire. Livre richement illustré de tracts et contre-tracts, de tags en forme de V, d’affiches pétainistes... La guerre se gagne aussi par les images.</p>
+<div style="float:left;width:75%;margin-bottom:60px;"><h3>École Supérieur des Arts Décoratifs (Strasbourg), Signes de la Collaboration et de la Résistance, Autrement, 2002, 173 p.</h3><p>En France, Vichy organise une propagande similaire à celle des nazis. La Résistance ne pouvait pas laisser faire. Livre richement illustré de tracts et contre-tracts, de tags en forme de V, d’affiches pétainistes... La guerre se gagne aussi par les images.</p></div>
 
 <img src="/assets/uploads/musee_au_dessus_de_tous_soupcons.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
@@ -48,6 +48,6 @@ order: 8
 <img src="/assets/uploads/bibliographie_artetpouvoir.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
 <div style="float:left;width:75%;margin-bottom:60px;"><h3>Bibliographie commentée Art et Pouvoir par la Librairie Stéphane Hessel et la Bibliothèque George Orwell</h3>
-<p>Vous y trouverez de nombreuses ressources reliées par ce dénominateur commun : l’art comme instrument de domination mais aussi l’art comme levier d’émancipation ! Essais, romans, beaux-livres, ce recueil de références est téléchargeable sur le site des Territoires de la Mémoire (http://www.territoires-memoire.be/se-documenter/bibliotheque/bibliographies).</p></div>
+<p>Vous y trouverez de nombreuses ressources reliées par ce dénominateur commun : l’art comme instrument de domination mais aussi l’art comme levier d’émancipation !</p></div>
 
 <div class="clear:both">&nbsp;</div>
