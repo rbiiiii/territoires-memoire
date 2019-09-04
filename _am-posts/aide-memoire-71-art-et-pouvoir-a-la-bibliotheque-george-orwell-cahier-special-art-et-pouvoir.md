@@ -8,8 +8,8 @@ credits: Par Jérôme Delnooz
 about_the_author: bibliothécaire
 order: 8
 ---
-<img src="/assets/uploads/artivisme-art-action-politique-et-resistance-culturelle.jpg" style="float:left;margin:0 10px 10px 0" alt="">
-<div style="float:left;clear:left;">
+<img src="/assets/uploads/artivisme-art-action-politique-et-resistance-culturelle.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
+<div style="float:left;width:75%;">
 <h3>Stéphanie Lemoine et Samira Ouardi, Artivisme, Alternatives, 2010, 192 p.</h3>
 <p>L’artivisme est l’art engagé et engageant, il cherche à mobiliser le spectateur, à lui faire prendre position. C’est l’art insurrectionnel des zapatistes, l’art festif des collectifs décidés à réenchanter la vie, c’est l’art utopiste des hackers du Net, c’est la résistance esthétique à la publicité, à la privatisation de l’espace public… Artivisme dresse un état des lieux des pratiques contemporaines d’art radical. Voir aussi l’article d’Olivier Starquit, L’art et le pouvoir : les munitions culturelles (p.10)</p>
 
