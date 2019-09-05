@@ -18,7 +18,7 @@ Depuis le XVIIIe siècle, les musées d’histoire représenteront le discours o
 
 Avec l’arrivée de la postmodernité, il devient clair que l’Histoire présentée dans les musées n’a pas une portée objective et qu’elle transforme ceux-ci en lieux de violence symbolique. Peu à peu, faisant de la transmission historique un fait purement subjectif, l’approche postmoderne détruit par là même l’idée d’un musée présentant une histoire figée, terminée, exaltant la mémoire collective nationale. L’évolution de la connaissance scientifique remodèle en effet notre vision du passé, et par la même, notre interprétation de celui-ci, cependant « un musée historique, à la différence d’une livre d’histoire, ne peut pas se réécrire plusieurs fois pour nous offrir de nouvelles données sur les modes dominants de penser et de regarder l’histoire à différents moments[2](#footnote-2) ». Comme le remarque André Desvallées, il est illusoire d’y présenter l’Histoire d’un seul point de vue mais le développement de l’esprit critique doit se centrer sur la présentation de visions opposées, créant un pluralisme des regards[3](#footnote-3).
 
-Cette vision et manière de faire excluront pendant longtemps les voix et les récits des personnes qui ont vécu ces évènements, cachant ainsi une réalité historique présente et ressentie par ses acteurs originaux. Comme le dit Morales, « il faut réfléchir sur les espaces de subalternité de l’histoire et sa viabilité dans les représentations hégémoniques. Des thèmes comme les femmes, les marginaux, l’homosexualité, les minorités ethniques, les migrations, etc., deviennent chaque fois plus urgents de penser dans les muséographies historiques [\[4]](#footnote-4) ».
+Cette vision et manière de faire excluront pendant longtemps les voix et les récits des personnes qui ont vécu ces évènements, cachant ainsi une réalité historique présente et ressentie par ses acteurs originaux. Comme le dit Morales, « il faut réfléchir sur les espaces de subalternité de l’histoire et sa viabilité dans les représentations hégémoniques. Des thèmes comme les femmes, les marginaux, l’homosexualité, les minorités ethniques, les migrations, etc., deviennent chaque fois plus urgents de penser dans les muséographies historiques \[[4]](#footnote-4) ».
 
 ## Les moyens muséographiques de l’exposition de la mémoire subalterne : l’usage du témoignage
 
@@ -74,9 +74,9 @@ Alors que certains évènements traumatisants ont été fortement traités par l
 
 De même, comme contrepoint de l’histoire collective traditionnelle, les témoignages permettent de présenter plusieurs points de vue d’un même évènement, créant ce pluralisme des regards que propose André Desvallées. Au lieu de présenter une histoire classique du colonialisme, une exposition pourrait présenter les témoignages des colonisés et des colonisateurs, chacun ayant sa propre version de l’Histoire ; un musée ethnographique pourrait laisser une place aux témoignages de son sujet d’étude, de ses mythes, de ses croyances ; la migration ne serait-elle pas mieux comprise quand un migrant qui traverse la méditerranée, dans un bateau vétuste avec 200 autres personnes dont la moitié meurt en chemin, nous raconte les raisons de son départ et pourquoi il risque sa vie ? Les témoignages peuvent être à la fois utilisés pour revisiter le passé, le réinterpréter et en compléter notre connaissance mais surtout influencer le présent.
 
-1. Ethnicité, nation, musée en situation post-coloniale, 1999, Ethnologie française XXIX : 333-336.
-2. Morales, Luis, La « crisis » de los museos de Historia, XXIX Rencontre annuelle de l’ICOFOM , p.5.
-3. Desvallées, André, Mémoire, Histoire, Muséologie et Vérités historiques, XXIX Rencontre annuelle de l’ICOFOM.
-4. Morales, op.cit., p.6.
-5. Rusconi, Norma, El objeto museal y la diversidad cultural, ICOFON-LAM, Argentina, p. 5.
-6. Pour une étude approfondie de l’usage du témoignage en muséographie, voir le livre de Linda Idjéraoui-Ravez, Le témoignage exposé. Du document à l'objet médiatique, Paris, L’Harmattan, 2012.
+1. _Ethnicité, nation, musée en situation post-coloniale_, 1999, Ethnologie française XXIX : 333-336.
+2. Morales, Luis, _La « crisis » de los museos de Historia_, XXIX Rencontre annuelle de l’ICOFOM , p.5.
+3. Desvallées, André, _Mémoire, Histoire, Muséologie et Vérités historiques_, XXIX Rencontre annuelle de l’ICOFOM.
+4. Morales, _op.cit._, p.6.
+5. Rusconi, Norma, _El objeto museal y la diversidad cultural_, ICOFON-LAM, Argentina, p. 5.
+6. Pour une étude approfondie de l’usage du témoignage en muséographie, voir le livre de Linda Idjéraoui-Ravez, _Le témoignage exposé. Du document à l'objet médiatique_, Paris, L’Harmattan, 2012.
