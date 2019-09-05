@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: 'Démocratie ou Barbarie : appels à projets'
 img_file: /assets/uploads/dob.jpg
