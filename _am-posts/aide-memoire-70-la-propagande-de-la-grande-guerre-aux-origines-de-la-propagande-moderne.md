@@ -7,7 +7,7 @@ order: 2
 ---
 Il n’est pas exagéré d’affirmer que tous les thèmes de l’actuelle propagande remontent à la Première Guerre mondiale. Peu après ce conflit, Arthur Ponsonby confie dans un livre – que je considère comme la « Bible » de la propagande guerrière[1](#footnote-1) – ses observations à propos des mensonges construits dans la « fabrique du consentement » pour faire adhérer l’opinion publique à la guerre. Avec cette œuvre, il fournit la meilleure description possible des principes de base de la propagande de guerre.
 
-![](/assets/uploads/am70_p.1.jpg)
+![](/assets/uploads/am70_p.1.jpg "(cc) mlrx")
 
 <span class="img-copyright">(cc) mlrx</span>
 
