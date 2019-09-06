@@ -32,7 +32,7 @@ layout: default
     {%- endif -%}
   </header>
 
-  <div class="page-content {%- unless page.fullwidth -%}limited-width{% endunless %}">
+  <div class="page-content {% if page.fullwidth != true %}limited-width{% endif %}">
     {{ content }}
   </div>
 
