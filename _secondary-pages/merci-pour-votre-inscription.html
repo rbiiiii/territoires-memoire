@@ -1,0 +1,34 @@
+---
+layout: secondary-page
+title:  "Merci pour votre inscription&nbsp;!"
+permalink: /merci-pour-votre-inscription/
+class: newsletter-merci
+fullwidth: true
+sitemap:
+  exclude: 'yes'
+---
+
+<section class="page-section top">
+    <div class="page-section__content limited">
+        <p class="text-centered chapeau" style="margin-bottom:20px;">✔ Inscription enregistrée</p>
+        <p class="chapeau">Vous recevrez désormais la lettre d’information mensuelle des Territoires de la Mémoire. Si vous désirez également recevoir plus d’informations sur les activités de La Cité Miroir, n’hésitez pas à vous abonner à leurs listes d’envoi :</p>
+        <p class="text-centered chapeau" style="margin:20px auto 40px auto;"><a class="button button--blue" style="max-width: none;" href="https://my.sendinblue.com/users/subscribe/js_id/2j4af/id/7"><small style="font-size:75%;">Abonnement aux listes de contact Cité&nbsp;Miroir</small></a></p>
+    </div>
+    <div class="page-section homepage-items">
+      <p class="chapeau page-section__content limited" style="margin-bottom:20px;">Découvrez ou redécouvrez également les offres et services que vous propose l’association :</p>
+      <ul class="homepage-items__list homepage-items__list--big list list--no-style">
+        {%- include_cached pages/homepage-item.html title="L'exposition permanente" imgFileName="homepage-item-pjc.jpg" link="plusjamaisca" type="big" -%}
+        {%- include_cached pages/homepage-item.html title="Le réseau Territoire de Mémoire" imgFileName="homepage-item-reseau.jpg" link="reseau" type="big" -%}
+        {%- include_cached pages/homepage-item.html title="Triangle Rouge" imgFileName="homepage-item-tr.jpg" external_link="http://www.trianglerouge.be" type="big" -%}
+      </ul>
+      <ul class="homepage-items__list homepage-items__list--small list list--no-style">
+        {%- include_cached pages/homepage-item.html title="La revue Aide-mémoire" imgFileName="homepage-item-aide-memoire.jpg" link="aide-memoire" type="small" -%}
+        {%- include_cached pages/homepage-item.html title="La Bibliothèque George Orwell" imgFileName="homepage-item-bgo.jpg" link="bibliotheque" type="small" -%}
+        {%- include_cached pages/homepage-item.html title="Voyages et journées pour la Mémoire" imgFileName="homepage-item-voyages.jpg" link="voyages" type="small" -%}
+        {%- include_cached pages/homepage-item.html title="Éduquer à la Résistance et à la Citoyenneté" imgFileName="homepage-item-eduquer.jpg" link="eduquer" type="small" -%}
+        {%- include_cached pages/homepage-item.html title="Des dossiers pour comprendre" imgFileName="homepage-item-dossiers.jpg" link="dossiers" type="small" -%}
+        {%- include_cached pages/homepage-item.html title="Les éditions des Territoires de la Mémoire" imgFileName="homepage-item-editions.jpg" link="editions" type="small" -%}
+      </ul>
+    </div>
+    
+</section>

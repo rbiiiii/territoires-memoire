@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="page page--secondary {{ page.class }}">
 
-  <header class="post__header limited-width {%- if page.img_file -%}{%- else -%}post__header--no-img{%- endif -%}">
+  <header class="post__header {%- if page.img_file -%}{%- else -%}post__header--no-img{%- endif -%}">
     {%- if page.breadcrumb_parent_title -%}
       <p class="post_breadcrumbs">
         <a href="/{{ page.breadcrumb_parent_src }}">{{ page.breadcrumb_parent_title }}</a>
@@ -32,7 +32,7 @@ layout: default
     {%- endif -%}
   </header>
 
-  <div class="page-content limited-width">
+  <div class="page-content {%- unless page.fullwidth -%}limited-width{% endunless %}">
     {{ content }}
   </div>
 
