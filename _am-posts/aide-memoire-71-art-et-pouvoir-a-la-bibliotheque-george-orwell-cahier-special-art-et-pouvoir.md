@@ -43,7 +43,7 @@ order: 8
 
 <img src="/assets/uploads/platini_lire_sevader_resister.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
-<div style="float:left;width:75%;margin-bottom:60px;"><h3>Vincent Platini, <em>Lire, s’évader, résister : essai sur la culture de masse sous le III<sup>e</sup> Reich<em>, La Découverte, 2014, 25€</h3><p>Si la culture « élitiste », de la « haute », a été mise au pas, il n’en est pas de même pour la culture populaire qui, quelle que soit l’époque, est toujours considérée comme sans intérêt et donc peu surveillée. Elle fut alors un espace de liberté où au travers de romans de gare, de science-fiction, de polars ou de l’humour, la résistance et la critique codée du régime purent toucher en masse le peuple allemand.</p></div>
+<div style="float:left;width:75%;margin-bottom:60px;"><h3>Vincent Platini, <em>Lire, s’évader, résister : essai sur la culture de masse sous le III<sup>e</sup> Reich</em>, La Découverte, 2014, 25€</h3><p>Si la culture « élitiste », de la « haute », a été mise au pas, il n’en est pas de même pour la culture populaire qui, quelle que soit l’époque, est toujours considérée comme sans intérêt et donc peu surveillée. Elle fut alors un espace de liberté où au travers de romans de gare, de science-fiction, de polars ou de l’humour, la résistance et la critique codée du régime purent toucher en masse le peuple allemand.</p></div>
 
 <img src="/assets/uploads/bibliographie_artetpouvoir.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
