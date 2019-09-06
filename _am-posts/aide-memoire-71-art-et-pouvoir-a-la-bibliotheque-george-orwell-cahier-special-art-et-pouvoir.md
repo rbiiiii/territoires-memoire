@@ -23,7 +23,7 @@ order: 8
 
 <img src="/assets/uploads/petit_nazi.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
-<div style="float:left;width:75%;margin-bottom:60px;"><h3>Pascal Ory, <em>Le petit nazi illustré : vie et survie du Téméraire (1943-1944)</em>, Nautilus, 2002.</h3><p>Façonner idéologiquement un public encore malléable. Tel était le but du Téméraire, un illustré destiné à la « jeunesse moderne » française mais également un véritable instrument de propagande au service de l’occupant nazi et du régime de Vichy. Images d’archive à l’appui, Pascal Ory revient sur cette entreprise de manipulation des esprits.</p></div>
+<div style="float:left;width:75%;margin-bottom:60px;"><h3>Pascal Ory, <em>Le petit nazi illustré : vie et survie du Téméraire (1943-1944)</em>, Nautilus, 2002. ❤️</h3><p>Façonner idéologiquement un public encore malléable. Tel était le but du Téméraire, un illustré destiné à la « jeunesse moderne » française mais également un véritable instrument de propagande au service de l’occupant nazi et du régime de Vichy. Images d’archive à l’appui, Pascal Ory revient sur cette entreprise de manipulation des esprits.</p></div>
 
 <img src="/assets/uploads/signes_de_la_collaboration_et_de_resistance_ecole_sup_art_de.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
