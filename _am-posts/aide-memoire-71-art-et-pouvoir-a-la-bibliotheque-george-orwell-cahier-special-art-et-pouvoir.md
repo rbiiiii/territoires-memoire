@@ -14,7 +14,7 @@ order: 8
 
 <img src="/assets/uploads/vente_de_lucerne.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
-<div style="float:left;width:75%;margin-bottom:60px;"><h3>Thomas Schlesser, L’art face à la censure, Beaux Arts Édition, 2011.</h3><p>En retraçant l’évolution historique de la censure, Schlesser nous démontre que l’iconographie a toujours été une de ses cibles privilégiées. Face à ce phénomène liberticide, l’auteur met aussi en évidence les tentatives de transgression effectuées par de nombreux artistes. Un parcours illustré (et commenté) au sein de l’interdit, de la Renaissance à nos jours.</p></div>
+<div style="float:left;width:75%;margin-bottom:60px;"><h3>Thomas Schlesser, _L’art face à la censure_, Beaux Arts Édition, 2011.</h3><p>En retraçant l’évolution historique de la censure, Schlesser nous démontre que l’iconographie a toujours été une de ses cibles privilégiées. Face à ce phénomène liberticide, l’auteur met aussi en évidence les tentatives de transgression effectuées par de nombreux artistes. Un parcours illustré (et commenté) au sein de l’interdit, de la Renaissance à nos jours.</p></div>
 
 <img src="/assets/uploads/40695_troisieme_reich_et_la_musique_musee_de_la_musique.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
@@ -35,7 +35,7 @@ order: 8
 
 <img src="/assets/uploads/urvater.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
-<div style="float:left;width:75%;margin-bottom:60px;"><h3>Danièle de Temmerman, André Jacqmain, Emile Langui, \\[et al.], Urvater : histoire d’une collection, Stichting kunstboek, 2013, 45 €</h3><p>À la sortie de la guerre, Bertie Urvater – un grand diamantaire anversois – et sa femme Gigi souhaitent participer à la dynamique de reconstruction, mais à travers le mécénat de l’art. Le couple se met à fréquenter de nombreux artistes, notamment des peintres surréalistes tels que Man Ray, Magritte, Matta... Dans les années 1950, ils deviennent ainsi des acteurs majeurs du monde de l’art contemporain – cet art déconsidéré par les nazis – et constituent une ambitieuse collection de tableaux modernes.</p></div>
+<div style="float:left;width:75%;margin-bottom:60px;"><h3>Danièle de Temmerman, André Jacqmain, Emile Langui, \\\[et al.], Urvater : histoire d’une collection, Stichting kunstboek, 2013, 45 €</h3><p>À la sortie de la guerre, Bertie Urvater – un grand diamantaire anversois – et sa femme Gigi souhaitent participer à la dynamique de reconstruction, mais à travers le mécénat de l’art. Le couple se met à fréquenter de nombreux artistes, notamment des peintres surréalistes tels que Man Ray, Magritte, Matta... Dans les années 1950, ils deviennent ainsi des acteurs majeurs du monde de l’art contemporain – cet art déconsidéré par les nazis – et constituent une ambitieuse collection de tableaux modernes.</p></div>
 
 <img src="/assets/uploads/vente_de_lucerne.jpg" style="float:left;margin:0 5% 10px 0;width: 20%;" alt="">
 
