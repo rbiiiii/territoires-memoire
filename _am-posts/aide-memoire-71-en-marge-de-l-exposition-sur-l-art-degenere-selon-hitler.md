@@ -5,7 +5,7 @@ type: article
 credits: Par Jean-Louis Rouhart
 order: 14
 ---
-Nous avons relevé des extraits d’un discours tenu par Adolf Hitler lors des Assises Culturelles de la Journée Nationale du Parti (Kulturtagung des Reichsparteitages) qui se sont déroulées à Nuremberg en 1935[1](#footnote-1). Ce discours illustre la position des nazis par rapport à ce qu’ils désignaient sous l’appellation d’« art dégénéré » (« entartete Kunst »).
+Nous avons relevé des extraits d’un discours tenu par Adolf Hitler lors des Assises Culturelles de la Journée Nationale du Parti (_Kulturtagung des Reichsparteitages_) qui se sont déroulées à Nuremberg en 1935[1](#footnote-1). Ce discours illustre la position des nazis par rapport à ce qu’ils désignaient sous l’appellation d’« art dégénéré » (_« entartete Kunst »_).
 
 En voici les extraits :
 
@@ -25,5 +25,5 @@ Comme on le voit, le critique d’art, soumis à l’interdiction de critiquer, 
 
 Nous pensons que ces extraits de discours illustrent bien la volonté arbitraire des nouveaux maîtres de l’Allemagne en 1933 de dénigrer les grands mouvements artistiques internationaux et d’instaurer un «  Ordre Nouveau »  dans le monde culturel allemand.
 
-1. Extraits d’un discours cité dans Erika et Helmuth KERN, « Entartet ? Kunst und Musik in der Zeit des Nationalsozialismus » in Thema Kunst, Leipzig, Ernst Klett Verlag, 1997, p. 6. Traduit de l’allemand par l’auteur.
+1. Extraits d’un discours cité dans Erika et Helmuth KERN, « Entartet ? Kunst und Musik in der Zeit des Nationalsozialismus » in _Thema Kunst_, Leipzig, Ernst Klett Verlag, 1997, p. 6. Traduit de l’allemand par l’auteur.
 2. Extraits reproduits dans le dossier cité ci-dessus. Traduction de l’auteur.
