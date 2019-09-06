@@ -19,4 +19,4 @@ Elle le fut, la littérature, entre 1940 et 1945, quand le peuple de l'ombre pui
 
 Briser le silence qui appelle à la soumission, telle est l'une des missions les plus nobles de l'écrit. Pas besoin de beaucoup de mots pour cela. Au XVIII<sup>e</sup> siècle, la huguenote Marie Durand, du pays des Camisards, n'en grava qu'un seul dans la pierre de la tour de Constance à Aigues-Mortes où elle fut enfermée pendant 38 ans : « Résister ». Un seul donc, mais qui va droit au cœur !
 
-1. Expression reprise dans Au nom de la Liberté. Poèmes de la Résistance, présentation et dossier-jeu par Anne Bervas-Leroux, Paris, GF Flammarion, 2000, p. 38. Les lignes qui précèdent et une partie de celles qui suivent s'inspirent de ce guide, publié dans la collection « Étonnants Classiques ».
+1. Expression reprise dans Au nom de la Liberté. _Poèmes de la Résistance_, présentation et dossier-jeu par Anne Bervas-Leroux, Paris, GF Flammarion, 2000, p. 38. Les lignes qui précèdent et une partie de celles qui suivent s'inspirent de ce guide, publié dans la collection « Étonnants Classiques ».
