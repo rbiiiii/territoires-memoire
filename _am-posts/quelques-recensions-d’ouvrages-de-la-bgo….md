@@ -13,7 +13,7 @@ order: 6
 
 
 
-Rosa la rouge est une véritable plongée, en bande-dessinée, dans l’histoire souvent mé/mal connue de Rosa Luxembourg, l’une des grandes figures politiques du XXe siècle. En retraçant les grandes étapes de la vie et du parcours intellectuel de Rosa Luxembourg, Kate Evans nous donne également à voir la réalité d’une époque marquée par la guerre et l’essor du communisme et de l’internationalisme. Une bande-dessinée intelligente, sensible et richement référencée (sources photographiques, nombreuses citations et ressources en fin d’ouvrage).
+Rosa la rouge est une véritable plongée, en bande-dessinée, dans l’histoire souvent mé/mal connue de Rosa Luxembourg, l’une des grandes figures politiques du XX<sup>e</sup> siècle. En retraçant les grandes étapes de la vie et du parcours intellectuel de Rosa Luxembourg, Kate Evans nous donne également à voir la réalité d’une époque marquée par la guerre et l’essor du communisme et de l’internationalisme. Une bande-dessinée intelligente, sensible et richement référencée (sources photographiques, nombreuses citations et ressources en fin d’ouvrage).
 
 
 

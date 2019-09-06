@@ -36,7 +36,7 @@ Mais le plus intéressant est de constater qu’au fil de la discussion, la paro
 Comme on a pu le voir, le discours essentialise les choses, les naturalise pour les figer dans une permanence visant à rendre incompatibles deux mondes qui seraient totalement opposés. Et Robert d’être particulièrement limpide : « Quand une vache naît dans une écurie, ça n’en fait pas un cheval. Donc, quand un Algérien naît en France, ça n’en fait pas un Français[19](#footnote-19) ! »
 
 1. En Belgique francophone cette tendance est incarnée par Nation. Voir « Identitaire ou nationaliste : en un mot Fasciste ! » in _Aide-mémoire_ n°88 avril-juin 2019, p. 11.
-2. CASSEN, Pierre ; TASIN, Christine ; ROBERT, Fabrice, _Apéro saucisson-pinard. Coulisses et enjeux d’un rassemblement qui a secoué la France : Entretiens menés par André Bercoff_, Suisse, Xenia, 2012.
+2. CASSEN, Pierre ; TASIN, Christine ; ROBERT, Fabrice, _Apéro saucisson-pinard. Coulisses et enjeux d’un rassemblement qui a secoué la France : Entretiens menés par André Bercoff_, Suisse, X<sup>e</sup>nia, 2012.
 3. P. 63. NDLR : acronyme issu de la juxtaposition de UMP (Union pour un Mouvement Populaire, créé en 2002 autour de Jacques Chirac) et de PS (Parti Socialiste) et destiné à souligner la prétendue équivalence entre ces deux grands partis français, ainsi que leur caractère prétendument interchangeable.
 4. P. 53.
 5. P. 115.

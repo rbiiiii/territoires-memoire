@@ -19,7 +19,7 @@ practical: |-
 ---
 Le thème de cette rencontre tournera autour des sorcières. 
 
-Il n’est pas trop question d’Halloween mais plutôt de ces femmes torturées, exécutées parce qu’elles étaient libres. Au XXIe siècle, où sont-elles ces sorcières, ces femmes émancipées ? Dans quel format (film, littérature …) se cachent-elles ?
+Il n’est pas trop question d’Halloween mais plutôt de ces femmes torturées, exécutées parce qu’elles étaient libres. Au XXI<sup>e</sup> siècle, où sont-elles ces sorcières, ces femmes émancipées ? Dans quel format (film, littérature …) se cachent-elles ?
 
 Venez nous raconter vos histoires féministes préférées.
 

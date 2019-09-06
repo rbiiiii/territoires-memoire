@@ -37,14 +37,14 @@ Au vu de ce qui précède, les communs, dans leur version la plus engagée, semb
 1. Jean Lojkine, _La révolution informationnelle et les nouveaux mouvements sociaux_, Le bord de l'eau, coll. « L’économie encastrée », 2016, p. 119-121.
 2. Cédric Durand, « Ne lisons pas les communs avec les clés du passé. Entretien avec Benjamin Coriat », in Contretemps, 15 janvier 2016, \[en ligne, consulté le 5/12/2017] : [https://www.contretemps.eu/ne-lisons-pas-les-communs-avec-les-cles-du-passe-entretien-avec-benjamin-coriat/
    ](https://www.contretemps.eu/ne-lisons-pas-les-communs-avec-les-cles-du-passe-entretien-avec-benjamin-coriat/)
-3. VECAM (coord.), _Les biens communs de la connaissance : produire collectivement, partager et diffuser les connaissances au XXIe siècle_, C&F édition, 2011, p. 26-27.
+3. VECAM (coord.), _Les biens communs de la connaissance : produire collectivement, partager et diffuser les connaissances au XXI<sup>e</sup> siècle_, C&F édition, 2011, p. 26-27.
 4. Dans cette optique, le paradigme des communs s’ancre dans une dynamique de changement de société sans prise du pouvoir.
 5. Jean Lojkine, _op. cit._, p. 127.
 6. Alain Ambrosi, Frédéric Sultan, « Communs et éducation populaire, partage d’expérience et perspectives », in \[en ligne, consulté le 5/12/2017] : [http://vecam.org/archives/article1282.html
    ](http://vecam.org/archives/article1282.html)
 7. Jean Lojkine, _op. cit._, p. 19.
 8. Voir Chantal Mouffe, _L’illusion du consensus_, Albin Michel, 2016.
-9. Pierre Dardot, Cristian Laval, _Commun : essai sur la révolution au XXIe siècle_, La Découverte, 2014, p. 14.
+9. Pierre Dardot, Cristian Laval, _Commun : essai sur la révolution au XXI<sup>e</sup> siècle_, La Découverte, 2014, p. 14.
 10. David Graeber, _Comme si nous étions déjà libres_, Lux, coll. « Instinct de liberté », 2014, p. 14.
 11. Etienne Verhaegen, « La révolution des ‘’communs’’ », in _Politique_, n°90, mai-juin 2015, p. 44.
 12. Francis Dupuis-Déri différencie l’anarchisme et l’anarchie, associant un à la théorie et l’autre à la pratique, mais insistant sur l’importance des aller-retour entre les deux. Voir Thomas Dupuis-Déri, Francis Dupuis-Déri, _L’anarchie expliquée à mon père_, Lux, coll. « Instinct de liberté », 2014, p. 30.

@@ -3,7 +3,7 @@ tag: heart
 version: 83
 author: ' Jean-Michel Lafleur et Abdeslam Marfouk'
 title: >-
-  Pourquoi l’immigration ? : 21 questions que se posent les Belges sur les  migrations internationales au XXIe siècle
+  Pourquoi l’immigration ? : 21 questions que se posent les Belges sur les  migrations internationales au XXI<sup>e</sup> siècle
 editor: Academia
 collection: coll. « Carrefours »
 year: '2017'

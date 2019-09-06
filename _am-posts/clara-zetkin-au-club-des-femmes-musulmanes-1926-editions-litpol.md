@@ -5,7 +5,7 @@ type: article
 credits: J.P.
 order: 6
 ---
-Le journaliste bruxellois Erik Rydberg inaugure les éditions LitPol par la réédition d’un petit texte d’une figure incontournable, quoiqu’oubliée, du mouvement de libération des femmes au XXe siècle : Clara Zetkin.
+Le journaliste bruxellois Erik Rydberg inaugure les éditions LitPol par la réédition d’un petit texte d’une figure incontournable, quoiqu’oubliée, du mouvement de libération des femmes au XX<sup>e</sup> siècle : Clara Zetkin.
 
 
 

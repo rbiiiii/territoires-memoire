@@ -70,6 +70,6 @@ De ce fait, et malgré une perte de légitimité à différents niveaux, le conc
 6. ROUSSEAU Jean-Jacques, _Du contrat social_, Paris, Flammarion, 1966, p. 134.
 7. ELIAS Norbert, _La société des individus_, Paris, Fayard, 1991, p. 208.
 8. GAUCHET Marcel, _La démocratie d’une crise à l’autre_, Nantes, Cécile Defaut, 2007, p. 40.
-9. LEFORT Claude, _Essais sur le politique ; XIXe – XXe siècles,_ Paris, Seuil, 2001, p. 28.
+9. LEFORT Claude, _Essais sur le politique ; XIX<sup>e</sup> – XX<sup>e</sup> siècles,_ Paris, Seuil, 2001, p. 28.
 10. ROSANVALLON Pierre, _La légitimité démocratie : impartialité, réflexivité, proximité,_ Paris, Seuil, 2008, p. 14.
 11. VAN REYBROUCK David, _Contre les élections_, Arles, Actes Sud, 2013, p. 190.

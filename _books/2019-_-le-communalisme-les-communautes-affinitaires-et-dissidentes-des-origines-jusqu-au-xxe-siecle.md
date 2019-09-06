@@ -1,7 +1,7 @@
 ---
 version: 89
 author: 'Kenneth Rexroth, Hervé Denès et Philippe Mortimer (trad.)'
-title: "Le communalisme\_: les communautés affinitaires et dissidentes, des origines jusqu’au XXe siècle,"
+title: "Le communalisme\_: les communautés affinitaires et dissidentes, des origines jusqu’au XX<sup>e</sup> siècle,"
 editor: L’Insomniaque
 year: '2019'
 price: 18 €

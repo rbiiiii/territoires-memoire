@@ -56,6 +56,6 @@ Héritier bâtard du sit-in, du hacking et du street art, le flashmob (le vrai, 
 
 Alors, le flashmob ? Une vague chorégraphie de masse au son du plus petit commun dénominateur ? Une flash-mode infantilisante de la com’ d’entreprise ? Une joviale pantalonnade de quelques hurluberlus égarés ? Ou peut-être un modèle d’insubordination ? Moi, pour ce que j’en dis…
 
-1. Jo Letarte, _« Évolution de la critique libertaire du travail entre le XIXe siècle et le XXe siècle »_, Mémoire de Sociologie, Université de Laval, Québec, 2009.
+1. Jo Letarte, _« Évolution de la critique libertaire du travail entre le XIX<sup>e</sup> siècle et le XX<sup>e</sup> siècle »_, Mémoire de Sociologie, Université de Laval, Québec, 2009.
 2. Du nom du théoricien de la communication canadien Marshall McLuhan et sa célèbre formule : _« The media is the message »_ (Ndlr).
 3. Toutes mes excuses à M. Pokora.

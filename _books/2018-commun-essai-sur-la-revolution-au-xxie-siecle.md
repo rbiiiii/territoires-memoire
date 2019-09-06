@@ -2,7 +2,7 @@
 tag: heart
 version: 87
 author: Pierre Dardot et Christian Laval
-title: 'Commun : essai sur la révolution au XXIe siècle'
+title: 'Commun : essai sur la révolution au XXI<sup>e</sup> siècle'
 editor: La Découverte
 year: '2014'
 price: ''

@@ -8,7 +8,7 @@ order: 8
 Avez-vous déjà entendu parler  de  Marthe  Gautier ? Jocelyn Bell ? Henriette Leavit ? Lise Meitner ou encore Rosalind Franklin ? Toutes ces femmes ont un point commun : scientifiques de premier plan, leurs noms ont été oubliés, leurs contributions minimisées et/ou leurs découvertes récupérées ou injustement attribuées à leurs homologues
  masculins.
 
-Ce phénomène d’invisibilisation a été conceptualisé en 1993 par l’historienne des sciences Margaret Rossiter sous le nom d’« effet Matilda » en référence à Matilda Joslyn Gage. Féministe et abolitionniste américaine du XIXe siècle, Matilda Joslyn Gage dénonce la récupération des pensées et des découvertes des femmes par les hommes. Alors que l’« effet Mathieu » désigne le maintien d’une certaine domination par des chercheurs et universités reconnues sur le reste du monde scientifique, l’« effet Matilda » montre que cet effet est décuplé lorsque de l’autre côté de l’échiquier se trouvent des scientifiques femmes. L’« effet Mathieu » lui-même est souvent uniquement attribué au sociologue des sciences Robert K. Merton alors même que ce dernier cite amplement dans son article une thèse développée par… son épouse, la sociologue des sciences Harriet Zuckerman.
+Ce phénomène d’invisibilisation a été conceptualisé en 1993 par l’historienne des sciences Margaret Rossiter sous le nom d’« effet Matilda » en référence à Matilda Joslyn Gage. Féministe et abolitionniste américaine du XIX<sup>e</sup> siècle, Matilda Joslyn Gage dénonce la récupération des pensées et des découvertes des femmes par les hommes. Alors que l’« effet Mathieu » désigne le maintien d’une certaine domination par des chercheurs et universités reconnues sur le reste du monde scientifique, l’« effet Matilda » montre que cet effet est décuplé lorsque de l’autre côté de l’échiquier se trouvent des scientifiques femmes. L’« effet Mathieu » lui-même est souvent uniquement attribué au sociologue des sciences Robert K. Merton alors même que ce dernier cite amplement dans son article une thèse développée par… son épouse, la sociologue des sciences Harriet Zuckerman.
 
 Ce phénomène d’invisibilisation direct ou par la postérité concerne les femmes dans tous les domaines (littéraire, sportif, musical, etc). Cette mise au placard est perceptible aussi bien dans les salles de cours, dans les musées que dans l’espace public. À Liège, on ne compte ainsi que 10 rues portant des noms de femmes (n’étant pas des saintes). Qu’on pense également à la Passerelle « Théroigne de Méricourt », figure majeure du féminisme et de la Révolution française, rebaptisée de son surnom « La Belle Liégeoise ». Une nouvelle fois, le nom de la femme disparaît.
 
@@ -27,13 +27,20 @@ Ainsi, tant que l’on ne changera pas notre façon de raconter l’Histoire et 
 ### À découvrir :
 
 * _Histoires du soir pour ﬁlles rebelles_ d’Elena Favilli, éditions Arènes, 2017 (dès 5 ans)
-* _L’effet Matilda_ de Ellie Irving aux éditions Castelmore, 2018 (dès 8 ans) – un dossier pédagogique à destination des enseignant-e-s est à disposition gratuitement sur le site de l’éditeur
+* _L’effet Matilda_ de Ellie Irving aux éditions Castelmore, 2018
+ (dès 8 ans) – un dossier pédagogique à destination des enseignant-e-s est à disposition gratuitement sur le site de l’éditeur
 * _Ni vues ni connues_ du Collectif Georgette Sand, aux éditions Hugo Doc, 2017
-* _Culottées t1 et t2_ de Pénélope Bagieu, aux éditions Gallimard Jeunesse, 2016 et 2017
-* _Dures à cuire t1 : 50 femmes hors du commun qui ont marqué l’histoire et Dur-e-s à cuire, Tome 2 : 50 athlètes hors du commun qui ont marqué le sport_ de Till Lukat, aux éditions Cambourakis, 2016 et 2017.
+* _Culottées t1 et t2_ de Pénélope Bagieu, aux éditions Gallimard
+ Jeunesse, 2016 et 2017
+* _Dures à cuire t1 : 50 femmes hors du commun qui ont marqué l’histoire et Dur-e-s à cuire, Tome 2 : 50 athlètes hors du commun qui ont marqué le sport_ de Till Lukat, aux éditions
+ Cambourakis, 2016 et 2017.
 * _Les femmes ou les silences de l’histoire_ de Michelle Perrot, aux éditions Flammarion, 2012.
-* _La place des femmes dans l’histoire : Une histoire mixte_ de Geneviève Dermenjian et Irène Jami, aux éditions Belin, 2010.
+* _La place des femmes dans l’histoire : Une histoire mixte_ de
+ Geneviève Dermenjian et Irène Jami, aux éditions Belin, 2010.
 
-1. [https://cafebabel.com/fr/article/ni-vues-ni-connues-quand- lhistoire-oublie-ses-femmes-5ae00bf8f723b35a145e81df/](https://cafebabel.com/fr/article/ni-vues-ni-connues-quand-lhistoire-oublie-ses-femmes-5ae00bf8f723b35a145e81df/)
-2. [https://fr.wikipedia.org/wiki/Projet:Les_sans_pagEs](https://fr.wikipedia.org/wiki/Projet:Les_sans_pagEs)
-3. [https://www.erudit.org/fr/revues/haf/2013-v67-n2-haf01612/1027650ar/](https://www.erudit.org/fr/revues/haf/2013-v67-n2-haf01612/1027650ar/)
+1. [https://cafebabel.com/fr/article/ni-vues-ni-connues-quand- lhistoire-oublie-ses-femmes-5ae00bf8f723b35a145e81df/
+](https://cafebabel.com/fr/article/ni-vues-ni-connues-quand-lhistoire-oublie-ses-femmes-5ae00bf8f723b35a145e81df/)
+2. [https://fr.wikipedia.org/wiki/Projet:Les_sans_pagEs
+](https://fr.wikipedia.org/wiki/Projet:Les_sans_pagEs)
+3. [https://www.erudit.org/fr/revues/haf/2013-v67-n2-haf01612/1027650ar/
+](https://www.erudit.org/fr/revues/haf/2013-v67-n2-haf01612/1027650ar/)
