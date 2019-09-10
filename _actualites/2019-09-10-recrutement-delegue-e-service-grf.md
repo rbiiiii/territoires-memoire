@@ -66,7 +66,7 @@ Les personnes retenues suite à cette épreuve écrite seront invitées à parti
 
 ## Comment postuler ?
 
-Seul le présent dossier fait office de candidature : CV et lettre de motivation sont à compléter en ligne ci-après.
+CV et lettre de motivation sont à compléter en ligne, seul le formulaire disponible via le lien ci-dessous fait office de candidature.
 
 Les candidatures doivent nous parvenir pour le **lundi 23/09/2019 à minuit au plus tard**.
 
