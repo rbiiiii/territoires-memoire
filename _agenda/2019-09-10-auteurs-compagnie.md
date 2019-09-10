@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: Auteurs & compagnie
+title: Auteurs & compagnie - Se rêver rescapé
 date_start: '2019-11-07'
 date_stop: ''
 hour: 18h
