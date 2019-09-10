@@ -23,7 +23,7 @@ practical: |-
 ---
 Rencontre avec Coralie Vankerkhoven animée par Vincent Engel (sous réserve) autour de son livre _Se rêver rescapé : Essai sur des faussaires de la Shoah_ (ed. EME, 2018).
 
-Plus d’un demi-siècle après la fin de la ­Seconde Guerre mondiale, parurent deux témoignages de rescapés de la Shoah, ­Fragments de ­Benjamin Wilkomirski et ­Survivre avec les loups de Misha Defonseca. Deux faux qui sont les miroirs de l’usage contemporain de la mémoire des camps, du témoin et de la propension à la victimisation médiatisée. Néanmoins, au-delà d’une dénonciation d’un scandale, quelle lecture autre permet l’apport de Jacques Lacan ? En quoi les deux livres restent-ils des témoignages ?
+Plus d’un demi-siècle après la fin de la ­Seconde Guerre mondiale, parurent deux témoignages de rescapés de la Shoah, _­Fragments_ de ­Benjamin Wilkomirski et ­_Survivre avec les loups_ de Misha Defonseca. Deux faux qui sont les miroirs de l’usage contemporain de la mémoire des camps, du témoin et de la propension à la victimisation médiatisée. Néanmoins, au-delà d’une dénonciation d’un scandale, quelle lecture autre permet l’apport de Jacques Lacan ? En quoi les deux livres restent-ils des témoignages ?
 
 Ces deux livres « sont une façon de dire, une élucubration particulière face à ce tragique… Il ne s’agit pas de donner du sens mais de remettre la cause de l’énonciation au cœur d’une lecture non raisonnable »
 
