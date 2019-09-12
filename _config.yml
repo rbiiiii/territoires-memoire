@@ -58,6 +58,9 @@ collections:
   enlien:
     output: true
     permalink: /en-lien/:title/
+  emploi:
+    output: true
+    permalink: /emploi/:title/
 
 # Default values for collections
 defaults:

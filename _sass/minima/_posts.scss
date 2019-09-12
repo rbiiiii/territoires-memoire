@@ -54,8 +54,8 @@
         margin: $spacing-unit auto;
         max-width: $large-width;
 
-        .secondary-page & {
-            @include relative-font-size(2.4);  
+        .secondary-page &, .emploi & {
+            @include relative-font-size(2);  
         }
     }
 }
@@ -108,7 +108,7 @@ li.post__meta__item {
 
 .post__content { 
 
-    .actualites & {
+    .actualites &, .emploi & {
         padding:0 $spacing-unit;
         max-width:720px;
         margin-right:auto;

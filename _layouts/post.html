@@ -1,23 +1,22 @@
 ---
 layout: default
 ---
-<article class="post {% if page.path contains '_agenda' %}agenda{% else %}actualites{% endif %} ">
+<article class="post {% if page.path contains '_agenda' %}agenda{% elsif page.path contains '_actualites' %}actualites{% else %}emploi{% endif %} ">
 
   <header class="post__header">
     <div class="post__header__img">
-      <img src="{{ page.img_file }}" alt="{{ page.title }}">
+      <img src="{%- if page.path contains '_emploi' -%}/assets/uploads/application-2580867_1280.jpg{%- else -%}{{ page.img_file }}{%- endif -%}" alt="{{ page.title }}">
       <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
       {%- if page.path contains '_agenda' -%}
-        <div class="post__header__tag">
-          <span class="post__header__tag__text">
-            {{ page.tags | first }}
-          </span>
-        </div>
+      <div class="post__header__tag">
+        <span class="post__header__tag__text">
+          {{ page.tags | first }}
+        </span>
+      </div>
       {%- endif -%}
-      
     </div>
     <div class="post__title">
-      <h1>{{ page.title }}</h1>
+      <h1>{{ page.title }}{%- if page.path contains '_emploi' -%}<br><small>{{ page.subtitle }}</small>{%- endif -%}</h1>
     </div>
     {%- if page.path contains '_agenda' -%}
       <div class="post__meta card card--one">
@@ -152,6 +151,12 @@ layout: default
   {%- else -%}
     <div class="post__content">
       {{ content }}
+
+      {% if page.path contains "_emploi" %}
+        <p class="text-centered">
+          <a href="{{ page.emploi_url }}" target="_blank" class="button button--blue">Postuler</a>
+        </p>
+      {% endif %}
 
       {%- assign up_files = page.uploaded_files -%}
       {%- if up_files != 0 -%}

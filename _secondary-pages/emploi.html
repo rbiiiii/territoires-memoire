@@ -1,0 +1,30 @@
+---
+layout: secondary-page
+title:  "Emploi"
+permalink: emploi
+class: emploi
+excerpt: none
+---
+
+{% assign emploi = site.emploi | sort: 'posted_on' | published: 'true' | reverse %}
+{% assign emploiSize = emploi.size %}
+{% assign today = site.time | date: '%Y-%m-%d' %}
+
+{% if emploiSize > 0 %}
+    <ul class="list list--no-style list-emploi">
+    {%- for item in emploi -%}
+        {% assign end_of_life = item.end_of_life | date: '%Y-%m-%d' %}
+        {%- if end_of_life >= today -%}
+            <li>
+                <p>Offre publiée le {{ item.posted_on | date: "%-d/%-m/%-Y"}}</p>
+                <a href="{{ item.url }}"><h3>{{ item.title }}</h3></a>
+                {%- if item.subtitle -%}<h4>{{ item.subtitle }}</h4>{%- endif -%}
+            </li>
+        {%- endif -%}
+    {%- endfor -%}
+    </ul>
+{% else %}
+<p>En fonction des besoins, l'association "les Territoires de la Mémoire" ouvre ponctuellement ses portes à de nouveaux collaborateurs & nouvelles collaboratrices. Envie de nous rejoindre l'association et de l'enrichir de vos compétences ? Retrouvez les offres d'emploi dans cette catégorie et n'hésitez pas à nous communiquer vos candidatures spontanées en envoyant votre CV et une lettre de motivation à <a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></p>
+<p>Désolé, il n'y a aucune offre d'emploi pour le moment.</p>
+{% endif %}
+
