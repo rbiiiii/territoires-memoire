@@ -21,6 +21,7 @@ exports.handler = async (event, context, callback) => {
     
     try {
         let payload = JSON.parse(event.body).payload
+        console.log(payload)
         let content = `
             <p><strong>De</strong> : ${payload.data.firstname} ${payload.data.name} (<a href="mailto:${payload.data.email}">${payload.data.email}</a>)<br />envoyé à ${getCurrentTime()}</p>
             <h1>Formulaire de demande de réservation PJC!</h1>
