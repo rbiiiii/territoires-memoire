@@ -115,6 +115,17 @@
      }
 }
 
+.pjc-booking__languages {
+    display:flex;
+    justify-content: center;
+    margin-bottom:$spacing-unit*2;
+
+    a.button {
+        font-size: 0.9rem;
+        margin:0 $spacing-unit/2;
+    }
+}
+
 .mr-hyde {
     display:none;
 }
