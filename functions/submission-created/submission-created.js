@@ -11,7 +11,7 @@ exports.handler = async (event, context, callback) => {
             return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
         }
     
-        let hours = new Date().getHours()
+        let hours = new Date().getHours() + 2
         let minutes = new Date().getMinutes()
         let seconds = new Date().getSeconds()
         let currentTime = pad(hours, 2) + ':' + pad(minutes, 2) + ':' + pad(seconds, 2)
@@ -68,10 +68,6 @@ exports.handler = async (event, context, callback) => {
 
     sgMail.send(msg)
 
-        return {
-            statusCode: 200,
-            body: JSON.stringify({ message: `Hello at ${getCurrentTime()}` })
-        };
     } catch (err) {
         return { statusCode: 500, body: err.toString() };
     }
