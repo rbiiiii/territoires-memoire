@@ -1,0 +1,131 @@
+---
+layout: secondary-page
+title:  "Aanvraagformulier reservering"
+img_file: "pjc/page-title-plus_jamais_ca.jpg"
+permalink: /reservering-pjc/
+breadcrumb_parent_title: De permanente tentoonstelling
+breadcrumb_parent_src: plusjamaisca
+class: pjc-booking
+---
+
+<section class="page-section top">
+    <div class="page-section__content .limited-width--without-padding">
+        <h3 class="text-centered">Taal van het formulier</h3>
+        <div class="pjc-booking__languages">
+            <a class="button button--blue" href="/reservation-pjc">FR</a>
+            <a class="button button--blue" href="/reservering-pjc">NL</a>
+        </div>
+        <p>Met dit formulier kunt u ons alle informatie sturen die u nodig hebt om een of meer bezoeken aan de tentoonstelling te boeken. We nemen zo snel mogelijk contact met je op om de reservering te bevestigen of je een alternatief te bieden als de tentoonstelling vol is.</p>
+        <form id="pjc-booking__form" action="/reservering-pjc-dank-u/" method="POST" name="Contact Form" netlify-honeypot="mr-hyde-input" data-netlify-recaptcha="true" data-netlify="true">
+            <input type="hidden" value="Formulaire envoyé en néerlandais">
+            <h3>Contactgegevens van de contactpersoon</h3>
+            <p class="mr-hyde">
+                <label>Niet voltooien als je niet menselijk bent: <input name="mr-hyde-input" /></label>
+            </p>
+            <p>
+                Mevrouw&nbsp;<input type="radio" name="sexe" value="Mevrouw" checked="checked">
+                Meneer&nbsp;<input type="radio" name="sexe" value="Meneer">
+                Anders&nbsp;<input type="radio" name="sexe" value="Anders">
+            </p>
+            <p>
+                <label for="firstname">Voornaam <span class="required-field">*</span></label><br>	
+                <input type="text" id="firstname" name="firstname" required>
+            </p>
+            <p>
+                <label for="name">Achternaam <span class="required-field">*</span></label><br>	
+                <input type="text" id="name" name="name" required>
+            </p>
+            <p>
+                <label for="tel">Telefoon <span class="required-field">*</span></label><br>	
+                <input type="tel" id="tel" name="tel" required>
+            </p>
+            <p>
+                <label for="email">Email <span class="required-field">*</span></label><br>
+                <input type="email" id="email" name="email" required>
+            </p>
+            <p>
+                <label for="address">Adres</label><br>
+                <textarea id="address" name="address" row="2"></textarea>
+            </p>
+            <p>
+                <label for="cp">Postcode</label><br>	
+                <input type="text" id="cp" name="cp">
+            </p>
+            <p>
+                <label for="localite">Plaats</label><br>	
+                <input type="text" id="localite" name="localite">
+            </p>
+            <h3 id="group-dropdown-btn">Als het een groep is</h3>
+            <p id="group-dropdown-more">[...]</p>
+            <div id="group-dropdown" style="display:none">
+                <p>
+                    <label for="scolaire">School ?</label><br>
+                    Ja&nbsp;<input type="radio" name="scolaire" value="Ja">
+                    Nee&nbsp;<input type="radio" name="scolaire" value="Nee">
+                </p>
+                <p>
+                    <label for="groupName">Naam (school, organisatie, ...)</label><br>	
+                    <input type="text" id="groupName" name="groupName">
+                </p>
+                <p>
+                    <label for="groupAddress">Adres</label><br>
+                    <textarea id="groupAddress" name="groupAddress" row="2"></textarea>
+                </p>
+                <p>
+                    <label for="groupCp">Postcode</label><br>	
+                    <input type="text" id="groupCp" name="groupCp">
+                </p>
+                <p>
+                    <label for="groupLocalite">Plaats</label><br>	
+                    <input type="text" id="groupLocalite" name="groupLocalite">
+                </p>
+            </div>
+            <h3>Het bezoek</h3>
+            <p style="line-height:1.25">Max. 20 personen per bezoek (25 als < 15 jaar). De groep wordt indien nodig gesplitst (vertrek elke 30 minuten).</p>
+            <p>
+                <label for="nbr1114">Aantal deelnemers tussen 11 en 14 jaar <span class="required-field">*</span></label><br>	
+                <input type="number" id="nbr1114" name="nbr1114" max="20" value="0" min="0" required>
+            </p>
+            <p>
+                <label for="nbr15">Aantal senioren (65 jaar en ouder) <span class="required-field">*</span></label><br>	
+                <input type="number" id="nbr15" name="nbr15" max="20" value="0" min="0" required>
+            </p>
+            <p>
+                <label for="nbrSeniors">Aantal begeleidende personen</label><br>	
+                <input type="number" id="nbrSeniors" name="nbrSeniors" max="20" value="0" min="0">
+            </p>
+            <p>
+                <label for="nbrAccompanists">Aantal begeleider <span class="required-field">*</span></label><br>	
+                <input type="number" id="nbrAccompanists" name="nbrAccompanists" value="0" min="0" required>
+            </p>
+            <p>
+                <label for="dates">Gewenste datum <span class="required-field">*</span></label><br>	
+                <input type="text" id="dates" name="dates" required>
+            </p>
+            <p>
+                <label for="schedule"><a href="http://www.citemiroir.be/nl/vaste-tentoonstellingen/plus-jamais-ca" target="_blank">Tijdsblok</a> <span class="required-field">*</span></label><br>
+                Morgen <input type="checkbox" name="schedule" value="Morgen" checked="checked" required>
+                Namiddag <input type="checkbox" name="schedule" value="Namiddag">
+            </p>
+            <p>
+                <label for="language">Taal van het bezoek <span class="required-field">*</span></label><br>
+                NL <input type="radio" name="language" value="NL" checked="checked" required>
+                FR <input type="radio" name="language" value="FR">
+            </p>
+            <p>
+                <label for="otherInfos">Andere nuttige informatie om met ons te communiceren</label><br>
+                <textarea id="otherInfos" name="otherInfos" row="4"></textarea>
+            </p>
+            <h3>Betalingsvoorwaarden <small>(<a target="_blank" href="http://www.citemiroir.be/nl/vaste-tentoonstellingen/plus-jamais-ca">tarieven</a>)</small></h3>
+            <p>Betaling ter plaatse voor het bezoek, contant of per kaart.</p>
+            <p>
+                <div data-netlify-recaptcha="true"></div>
+            </p>
+            <p>
+                <input class="button button--blue" id="submit-form" type="submit" value="Sturen">
+            </p>
+        </form>
+    </div>
+</section>
+
+<script src="/assets/javascript/reservation-pjc.js"></script>
