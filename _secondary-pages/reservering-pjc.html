@@ -17,15 +17,15 @@ class: pjc-booking
         </div>
         <p>Met dit formulier kunt u ons alle informatie sturen die u nodig hebt om een of meer bezoeken aan de tentoonstelling te boeken. We nemen zo snel mogelijk contact met je op om de reservering te bevestigen of je een alternatief te bieden als de tentoonstelling vol is.</p>
         <form id="pjc-booking__form" action="/reservering-pjc-dank-u/" method="POST" name="Contact Form" netlify-honeypot="mr-hyde-input" data-netlify-recaptcha="true" data-netlify="true">
-            <input type="hidden" value="Formulaire envoyé en néerlandais">
+            <input type="hidden" name="form-lang" value="Formulaire envoyé en néerlandais">
             <h3>Contactgegevens van de contactpersoon</h3>
             <p class="mr-hyde">
                 <label>Niet voltooien als je niet menselijk bent: <input name="mr-hyde-input" /></label>
             </p>
             <p>
-                Mevrouw&nbsp;<input type="radio" name="sexe" value="Mevrouw" checked="checked">
-                Meneer&nbsp;<input type="radio" name="sexe" value="Meneer">
-                Anders&nbsp;<input type="radio" name="sexe" value="Anders">
+                Mevrouw&nbsp;<input type="radio" name="sexe" value="Madame" checked="checked">
+                Meneer&nbsp;<input type="radio" name="sexe" value="Monsieur">
+                Anders&nbsp;<input type="radio" name="sexe" value="Autre">
             </p>
             <p>
                 <label for="firstname">Voornaam <span class="required-field">*</span></label><br>	
@@ -60,8 +60,8 @@ class: pjc-booking
             <div id="group-dropdown" style="display:none">
                 <p>
                     <label for="scolaire">School ?</label><br>
-                    Ja&nbsp;<input type="radio" name="scolaire" value="Ja">
-                    Nee&nbsp;<input type="radio" name="scolaire" value="Nee">
+                    Ja&nbsp;<input type="radio" name="scolaire" value="Oui">
+                    Nee&nbsp;<input type="radio" name="scolaire" value="Non">
                 </p>
                 <p>
                     <label for="groupName">Naam (school, organisatie, ...)</label><br>	
@@ -104,8 +104,8 @@ class: pjc-booking
             </p>
             <p>
                 <label for="schedule"><a href="http://www.citemiroir.be/nl/vaste-tentoonstellingen/plus-jamais-ca" target="_blank">Tijdsblok</a> <span class="required-field">*</span></label><br>
-                Morgen <input type="checkbox" name="schedule" value="Morgen" checked="checked" required>
-                Namiddag <input type="checkbox" name="schedule" value="Namiddag">
+                Morgen <input type="checkbox" name="schedule" value="Matin" checked="checked" required>
+                Namiddag <input type="checkbox" name="schedule" value="Après-midi">
             </p>
             <p>
                 <label for="language">Taal van het bezoek <span class="required-field">*</span></label><br>

@@ -10,11 +10,17 @@ class: pjc-booking
 
 <section class="page-section top">
     <div class="page-section__content .limited-width--without-padding">
+        <h3 class="text-centered">Langue du formulaire</h3>
+        <!-- <div class="pjc-booking__languages">
+            <a class="button button--blue" href="/reservering-pjc">NL</a>
+            <a class="button button--blue" href="/reservation-pjc">FR</a>
+        </div> -->
+        <input type="hidden" name="form-lang" value="Formulaire envoyé en français">
         <p>Ce formulaire vous permet de nous communiquer toutes les informations utiles pour réserver une ou plusieurs visites de l’exposition. Nous vous contacterons dans les plus brefs délais pour vous confirmer la réservation ou vous proposer une alternative si l’exposition affiche complet.</p>
         <form id="pjc-booking__form" action="/reservation-pjc-merci/" method="post" name="Contact Form" netlify-honeypot="mr-hyde-input" data-netlify-recaptcha="true" data-netlify="true">
-            <h3>Coordonnées de la personne de contact</h3>
+            <h3 id="">Coordonnées de la personne de contact</h3>
             <p class="mr-hyde">
-                <label>Ne pas remplir si vous n'êtes pas humains: <input name="mr-hyde-input" /></label>
+                <label>Ne pas remplir si vous n'êtes pas humain: <input name="mr-hyde-input" /></label>
             </p>
             <p>
                 Madame&nbsp;<input type="radio" name="sexe" value="Madame" checked="checked">
@@ -122,20 +128,4 @@ class: pjc-booking
     </div>
 </section>
 
-<script>
-var groupDropDown = document.getElementById("group-dropdown");
-var groupDropDownBtn = document.getElementById("group-dropdown-btn");
-var groupDropDownMore = document.getElementById("group-dropdown-more");
-
-function toggleGroup() {
-    if (groupDropDown.style.display === "none") {
-        groupDropDown.style.display = "block";
-        groupDropDownMore.style.display = "none";
-    } else {
-        groupDropDown.style.display = "none";
-        groupDropDownMore.style.display = "block";
-    }
-}
-
-groupDropDownBtn.addEventListener('click', toggleGroup);
-</script>
+<script src="/assets/javascript/reservation-pjc.js"></script>
