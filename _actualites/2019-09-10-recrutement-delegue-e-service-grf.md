@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: >-
-  L’asbl « Les Territoires de la Mémoire », Centre d’Éducation à la Résistance et à la Citoyenneté, organise le recrutement d’un-une Délégué-e chargé-e des expositions (relations publiques, promotion) sous contrat mi-temps à durée indéterminée (Maribel)
+  Recrutement d’un-une Délégué-e chargé-e des expositions (relations publiques, promotion) sous contrat mi-temps à durée indéterminée (Maribel)
 img_file: /assets/uploads/application-2580867_1280.jpg
 posted_on: '2019-09-10'
 ---
