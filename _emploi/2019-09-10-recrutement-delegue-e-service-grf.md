@@ -1,6 +1,5 @@
 ---
 layout: post
-published: true
 title: >-
   Délégué-e chargé-e des expositions (relations publiques, promotion)
 subtitle: mi-temps à durée indéterminée (Maribel)

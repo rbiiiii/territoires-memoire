@@ -11,7 +11,7 @@ excerpt: none
 {% assign today = site.time | date: '%Y-%m-%d' %}
 
 {% if emploiSize > 0 %}
-    <ul class="list list--no-style list-emploi">
+    <ul class="list list--no-style list-emploi" style="max-width: 720px; margin-right:auto;margin-left:auto;">
     {%- for item in emploi -%}
         {% assign end_of_life = item.end_of_life | date: '%Y-%m-%d' %}
         {%- if end_of_life >= today -%}
@@ -20,11 +20,16 @@ excerpt: none
                 <a href="{{ item.url }}"><h3>{{ item.title }}</h3></a>
                 {%- if item.subtitle -%}<h4>{{ item.subtitle }}</h4>{%- endif -%}
             </li>
+        {%- else -%}
+            <li>
+                <p>Désolé, il n'y a aucune offre d'emploi pour le moment.</p>
+                <p>En fonction des besoins, l'association ouvre ponctuellement ses portes à de nouveaux collaborateurs & nouvelles collaboratrices. Envie de nous rejoindre l'association et de l'enrichir de vos compétences ? Retrouvez les offres d'emploi dans cette catégorie et n'hésitez pas à nous communiquer vos candidatures spontanées en envoyant votre CV et une lettre de motivation à <a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></p>
+            </li>
         {%- endif -%}
     {%- endfor -%}
     </ul>
 {% else %}
-<p>En fonction des besoins, l'association "les Territoires de la Mémoire" ouvre ponctuellement ses portes à de nouveaux collaborateurs & nouvelles collaboratrices. Envie de nous rejoindre l'association et de l'enrichir de vos compétences ? Retrouvez les offres d'emploi dans cette catégorie et n'hésitez pas à nous communiquer vos candidatures spontanées en envoyant votre CV et une lettre de motivation à <a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></p>
 <p>Désolé, il n'y a aucune offre d'emploi pour le moment.</p>
+<p>En fonction des besoins, l'association ouvre ponctuellement ses portes à de nouveaux collaborateurs & nouvelles collaboratrices. Envie de nous rejoindre l'association et de l'enrichir de vos compétences ? Retrouvez les offres d'emploi dans cette catégorie et n'hésitez pas à nous communiquer vos candidatures spontanées en envoyant votre CV et une lettre de motivation à <a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></p>
 {% endif %}
 
