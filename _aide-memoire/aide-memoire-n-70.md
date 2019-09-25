@@ -1,6 +1,5 @@
 ---
-draft: true
-show: false
+show: true
 title: Aide-mémoire n°70
 slug: aide-memoire-70
 num: 70
