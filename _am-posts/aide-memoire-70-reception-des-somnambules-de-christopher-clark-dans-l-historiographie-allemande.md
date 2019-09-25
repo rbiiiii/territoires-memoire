@@ -17,9 +17,11 @@ Ceux-ci louent certes l’originalité de la démarche[2](#footnote-2), le trava
 
 Au-delà de la question de la responsabilité morale dans le déclenchement des hostilités – nous laissons ici de côté les atrocités commises durant cette guerre – , nous pensons, comme l’historien Andreas Kilb[6](#footnote-6), que les évènements décrits dans l’ouvrage mettent en exergue non seulement l’action destructrice des hommes qui tentent de s’accrocher à leur couronne et à un pouvoir suranné mais aussi les conséquences dramatiques que représente l’extension sans limite de conflits régionaux, en 1914 comme de nos jours.
 
+* * *
+
 1. _Die Schlafwandler_, _Wie Europa in den Ersten Weltkrieg zog._ Aus dem Englischen von Norbert Juraschitz. München, DVA, 2013\. Version française : Christopher Clark, _Les somnambules. Été 1914 : Comment l'Europe a marché vers la guerre_ [_The Sleepwalkers : How Europe Went to War in 1914_], Paris, Flammarion, 2013.
 2. Par exemple Holger Afflerbach,« Schafwandelnd in die Schlacht », _Spiegel_, n° 39 du 24 septembre 2012, p. 50-51.
 3. Volker Ullrich, « Zündschnur und Pulverfass. Das Buch des britischen Historikers Christopher Clark "Die Schlafwandler" ruft neue Debatten über die Schuld am Ausbruch des Ersten Weltkriegs hervor. Müssen wir das Bild von der deutschen Hauptverantwortung für den Krieg revidieren? », in _Die Zeit_ 38/2013 du 17 septembre 2013.
-4. Gerd Krumeich, « Schlafwandelnd in die Urkatastrophe? Zu Christopher Clarks Bestseller »_,_ geschichte für heute – _Zeitschrift für historisch-politische Bildung_, 2/2014\. Également sous [lernen-als-der-geschichte.de/Lernen-und-Lehren/content/11685](http://lernen-aus-der-geschichte.de/Lernen-und-Lehren/content/11685).
+4. Gerd Krumeich, « Schlafwandelnd in die Urkatastrophe? Zu Christopher Clarks Bestseller », geschichte für heute – _Zeitschrift für historisch-politische Bildung_, 2/2014\. Également sous [lernen-als-der-geschichte.de/Lernen-und-Lehren/content/11685](http://lernen-aus-der-geschichte.de/Lernen-und-Lehren/content/11685).
 5. Stefan Reinecke, « Eine Katastrophe ohne Autor »_,_ _Die Tageszeitung_, 4 septembre 2013.
 6. Andreas Kilb_,_ « Ausbruch des Ersten Krieges. Die Selbstzerstörung Europas », _Frankfurter Allgemeine Zeitung_, 9 septembre 2013.
