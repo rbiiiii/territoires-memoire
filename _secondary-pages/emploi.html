@@ -6,30 +6,32 @@ class: emploi
 excerpt: none
 ---
 
-{% assign emploi = site.emploi | sort: 'posted_on' | published: 'true' | reverse %}
-{% assign emploiSize = emploi.size %}
-{% assign today = site.time | date: '%Y-%m-%d' %}
 
-{% if emploiSize > 0 %}
-    <ul class="list list--no-style list-emploi" style="max-width: 720px; margin-right:auto;margin-left:auto;">
-    {%- for item in emploi -%}
-        {% assign end_of_life = item.end_of_life | date: '%Y-%m-%d' %}
-        {%- if end_of_life >= today -%}
+{% assign today = site.time | date: '%Y-%m-%d' %}
+{% assign patterns = "" | split: "," %}
+
+{% for page in site.emploi %}
+    {% if page.posted_on >= today and page.end_of_life >= today %}
+        {% assign patterns = patterns | push:page %}
+    {% endif %}
+{% endfor %}
+
+{% assign sortedPages = patterns | sort:"posted_on" | reverse %}
+{% assign emploiSize = sortedPages.size %}
+
+<div style="max-width: 720px; margin-right:auto;margin-left:auto;">
+    {% if emploiSize > 0 %}
+        <ul class="list list--no-style list-emploi">
+        {%- for item in sortedPages -%}
             <li>
                 <p>Offre publiée le {{ item.posted_on | date: "%-d/%-m/%-Y"}}</p>
                 <a href="{{ item.url }}"><h3>{{ item.title }}</h3></a>
                 {%- if item.subtitle -%}<h4>{{ item.subtitle }}</h4>{%- endif -%}
             </li>
-        {%- else -%}
-            <li>
-                <p>Désolé, il n'y a aucune offre d'emploi pour le moment.</p>
-                <p>En fonction des besoins, l'association ouvre ponctuellement ses portes à de nouveaux collaborateurs & nouvelles collaboratrices. Envie de nous rejoindre l'association et de l'enrichir de vos compétences ? Retrouvez les offres d'emploi dans cette catégorie et n'hésitez pas à nous communiquer vos candidatures spontanées en envoyant votre CV et une lettre de motivation à <a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></p>
-            </li>
-        {%- endif -%}
-    {%- endfor -%}
-    </ul>
-{% else %}
-<p>Désolé, il n'y a aucune offre d'emploi pour le moment.</p>
-<p>En fonction des besoins, l'association ouvre ponctuellement ses portes à de nouveaux collaborateurs & nouvelles collaboratrices. Envie de nous rejoindre l'association et de l'enrichir de vos compétences ? Retrouvez les offres d'emploi dans cette catégorie et n'hésitez pas à nous communiquer vos candidatures spontanées en envoyant votre CV et une lettre de motivation à <a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></p>
-{% endif %}
-
+        {%- endfor -%}
+        </ul>
+    {% else %}
+    <p>Désolé, il n'y a aucune offre d'emploi pour le moment.</p>
+    <p>En fonction des besoins, l'association ouvre ponctuellement ses portes à de nouveaux collaborateurs & nouvelles collaboratrices. Envie de nous rejoindre l'association et de l'enrichir de vos compétences ? Retrouvez les offres d'emploi dans cette catégorie et n'hésitez pas à nous communiquer vos candidatures spontanées en envoyant votre CV et une lettre de motivation à <a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></p>
+    {% endif %}
+</div>
