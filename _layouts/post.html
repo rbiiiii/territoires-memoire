@@ -233,9 +233,13 @@ layout: default
   </div>
 
   <footer class="post__navigation">
-    <script>
-        document.write('<a class="button button--blue" href="' + document.referrer + '">Retour</a>');
-    </script>
+    {% if page.emploi_url %}
+      <a class="button button--blue" href="/emploi">Retour</a>
+    {% else %}
+      <script>
+          document.write('<a class="button button--blue" href="' + document.referrer + '">Retour</a>');
+      </script>
+    {% endif %}
   </footer>
 
   <script>
