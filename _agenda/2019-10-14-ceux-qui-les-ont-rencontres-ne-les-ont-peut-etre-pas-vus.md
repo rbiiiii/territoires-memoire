@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Ceux qui les ont rencontrés ne les ont peut-être pas vus
-date_start: '2019-11-11'
+date_start: '2019-11-12'
 date_stop: '2019-11-26'
 img_file: /assets/uploads/20191111_tdlm_centredoc_ceux-qui-l-ont-recontre.jpg
 place: >-
