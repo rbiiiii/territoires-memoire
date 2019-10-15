@@ -6,7 +6,7 @@ date_start: '2019-11-07'
 date_stop: ''
 hour: 18h
 img_file: >-
-  /assets/uploads/21090624_tdlm_centredoc_auteur-et-compagnie_site_territoires-de-la-memoire.jpg
+  /assets/uploads/21090624_tdlm_centredoc_auteur-et-compagnie_se-rever-rescape_agenda-territoires.jpg
 place: >-
   Bibliothèque George Orwell  des Territoires de la Mémoire, à La Cité Miroir, 
   22 place Xavier Neujean, 4000 Liège (2e étage)
