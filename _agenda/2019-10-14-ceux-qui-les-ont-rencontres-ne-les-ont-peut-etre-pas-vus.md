@@ -14,6 +14,10 @@ tags:
   - Exposition
 entrance: ''
 booking: ''
+practical: |-
+  Renseignements  :\
+  bibliotheque@territoires-memoire.be\
+  04 232 70 62
 ---
 Exposition des portraits photographiques de la troupe du Nimis Groupe réalisés par Laurence Vray.
 
@@ -28,6 +32,12 @@ Deux séances d’ateliers d’écriture animées par l’Ami Terrien sont organ
 Les samedi 16 et 23 novembre de 10h à 13h.
 
 Gratuit, 12 places, 16 ans minimum, une entrée au spectacle du Nimis Groupe offerte aux participant.e.s
+
+Inscription indispensable pour le mercredi 13 novembre.
+
+Renseignements et inscriptions :\
+Bibliothèque George Orwell,\
+bibliotheque@territoires-memoire.be - 04 232 70 62
 
 \------
 
