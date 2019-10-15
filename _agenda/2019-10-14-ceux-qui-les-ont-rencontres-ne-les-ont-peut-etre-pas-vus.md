@@ -27,7 +27,7 @@ Dans le cadre du cycle événements _Corps migrants – récits et présences_ d
 
 \------
 
-Deux séances d’ateliers d’écriture animées par l’Ami Terrien sont organisées sur le thème de l’accueil des migrants, avec le Centre d’Action Laïque de la Province de Liège.
+Deux séances d’ateliers d’écriture animées par l’[Ami Terrien](https://www.facebook.com/amiterrienliege/) sont organisées sur le thème de l’accueil des migrants, avec le Centre d’Action Laïque de la Province de Liège.
 
 Les samedi 16 et 23 novembre de 10h à 13h.
 
