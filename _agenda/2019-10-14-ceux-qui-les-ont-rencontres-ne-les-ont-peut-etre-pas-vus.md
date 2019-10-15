@@ -17,7 +17,7 @@ booking: ''
 ---
 Exposition des portraits photographiques de la troupe du Nimis Groupe réalisés par Laurence Vray.
 
-Qui sont-ils ? Que font-ils ? Que pensent-ils ? Cette exposition vous invite à rencontrer et à voir ces acteurs, actrices, régisseurs et autres travailleurs de l’ombre du spectacle et à découvrir leur vision de leur engagement dans la pièce Ceux que j’ai rencontrés ne m’ont peut-être pas vu.
+Qui sont-ils ? Que font-ils ? Que pensent-ils ? Cette exposition vous invite à rencontrer et à voir ces acteurs, actrices, régisseurs et autres travailleurs de l’ombre du spectacle et à découvrir leur vision de leur engagement dans la pièce _Ceux que j’ai rencontrés ne m’ont peut-être pas vu_.
 
 Dans le cadre du cycle événements _Corps migrants – récits et présences_ de l’ULiège.
 
