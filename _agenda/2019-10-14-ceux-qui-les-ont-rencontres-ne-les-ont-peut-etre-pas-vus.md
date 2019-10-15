@@ -19,29 +19,24 @@ Exposition des portraits photographiques de la troupe du Nimis Groupe réalisés
 
 Qui sont-ils ? Que font-ils ? Que pensent-ils ? Cette exposition vous invite à rencontrer et à voir ces acteurs, actrices, régisseurs et autres travailleurs de l’ombre du spectacle et à découvrir leur vision de leur engagement dans la pièce Ceux que j’ai rencontrés ne m’ont peut-être pas vu.
 
-Dans le cadre du cycle événements _Corps migrants – récits et présences_ de l’ULiège
+Dans le cadre du cycle événements _Corps migrants – récits et présences_ de l’ULiège.
 
 \------
 
 Deux séances d’ateliers d’écriture animées par l’Ami Terrien sont organisées sur le thème de l’accueil des migrants, avec le Centre d’Action Laïque de la Province de Liège.
 
-Les samedi 16 et 23 novembre de 10 h à 13 h
+Les samedi 16 et 23 novembre de 10h à 13h.
 
-Gratuit, 12 places, 16 ans minimum, une entrée au spectacle du Nimis Groupe offerte aux participant.e.s
-
-\------
-
-Dévernissage rencontre autour du livre sur le Nimis Groupe le 26 novembre 2019 dès 18 h 30 à la librairie Livre aux Trésors, suivie du dévernissage de l’exposition et du verre de l’amitié à la Bibliothèque George Orwell.
+Gratuit, 12 places, 16 ans minimum, une entrée au spectacle du Nimis Groupe offerte aux participant.e.s
 
 \------
 
-Représentations de la pièce _Ceux que j’ai rencontrés ne m’ont peut-être pas vu_ du Nimis Groupe le jeudi 28 et le vendredi 29 novembre à 20 h 30 au Manège-Fonck. Infos et réservations sur nimisgroupe.com 
+Dévernissage-rencontre autour du livre sur le Nimis Groupe le 26 novembre 2019 dès 18h30 à la librairie Livre aux Trésors, suivi du dévernissage de l’exposition et du verre de l’amitié à la Bibliothèque George Orwell avec des lectures des ateliers d’écriture et des extraits du livre de Bernadette Mouvet, _Être avec eux : journal d’une hébergeuse de migrants_ (ed. du Cerisier, 2019) lus par Anne-Marie Loop.
 
+\------
 
-
-
-
-
+Représentations de la pièce _Ceux que j’ai rencontrés ne m’ont peut-être pas vu_ du Nimis Groupe le jeudi 28 et le vendredi 29 novembre à 20h30 au Manège-Fonck. 
+Infos et réservations sur nimisgroupe.com 
 
 _Une coopération Nimis Groupe, CC Chiroux, Les Territoires de la Mémoire, Festival de Liège, Arsenic2, ULiège, Livre aux Trésors et le Centre d’Action Laïque de la Province de Liège._ 
 
