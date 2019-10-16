@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: Les Vacances de Jules
+title: Les Vacances de Jules à Mons
 date_start: '2019-12-11'
 date_stop: ''
 hour: 14h
