@@ -21,9 +21,11 @@ sections:
   match: "**/*"
 - type: directory
   path: _am-posts
-  label: Am posts
+  label: Articles Aide-mémoire
   create: all
   match: "**/*"
+  templates:
+  - articles-aide-memoire
 - type: directory
   path: _books
   label: Books
