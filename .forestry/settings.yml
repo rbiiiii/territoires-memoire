@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: directory
@@ -21,9 +21,11 @@ sections:
   match: "**/*"
 - type: directory
   path: _am-posts
-  label: Am posts
+  label: Articles Aide-mémoire
   create: all
   match: "**/*"
+  templates:
+  - articles-aide-memoire
 - type: directory
   path: _books
   label: Books
@@ -58,20 +60,23 @@ sections:
   create: all
   match: "**/*"
 upload_dir: assets/uploads
-public_path: "/assets/uploads"
+public_path: https://www.territoires-memoire.be/assets/uploads
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
+instant_preview: true
 build:
-  preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
-  publish_command: bundle exec jekyll build -d _site
   preview_env:
   - JEKYLL_ENV=staging
-  publish_env:
-  - JEKYLL_ENV=production
+  - GIT_LFS_SKIP_SMUDGE=1
   preview_output_directory: _site
-  output_directory: _site
-  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
-    --port 8080 --host 0.0.0.0 -d _site
+  install_dependencies_command: bundle install --path vendor/bundle
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
+    --port 8080 --host 0.0.0.0 -d _site
+  publish_command: bundle exec jekyll build -d _site
+  publish_env:
+  - JEKYLL_ENV=production
+  output_directory: _site
+  preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site

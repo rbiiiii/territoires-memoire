@@ -54,4 +54,4 @@ _Avec le soutien de l’opération Champs des Possibles._
 
 __
 
-_D’octobre à novembre, L’ULiège organise un cycle de rencontres, conférences, événements et un colloque international intitulé « Corps migrants: récits et présences »  corpsmigrants.uliege.be_
+_D’octobre à novembre, L’ULiège organise un cycle de rencontres, conférences, événements et un colloque international intitulé « Corps migrants: récits et présences »_  [_corpsmigrants.uliege.be_](http://web.philo.ulg.ac.be/corpsmigrants/)__
