@@ -120,7 +120,7 @@ collections:
     create: true
     slug: "{{categories}}-{{slug}}"
     fields:
-      - {label: "Numéro d'Aide-mémoire", name: "categories", widget: "relation", collection: "aide-memoire", searchFields: ["slug"], valueField: "slug", optionsLength: "100" }
+      - {label: "Numéro d'Aide-mémoire", name: "categories", widget: "relation", collection: "aide-memoire", searchFields: ["slug"], valueField: "slug", optionsLength: 5 }
       - {label: "Titre", name: "title", widget: "string"}
       - {label: "Type de contenu", name: "type", widget: "select", options: ["article", "editorial", "mots"]}
       - {label: "Crédits", name: "credits", widget: "string", default: "Par Julien Paulus par ex."}
