@@ -1,22 +1,51 @@
 ---
 label: Articles Aide-mémoire
 hide_body: false
+display_field: title
 fields:
-- type: text
-  name: categories
-  label: categories
+- name: categories
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: aide-memoire
+      file: 
+      path: 
+  label: Numéro
 - type: text
   name: title
-  label: title
-- type: text
-  name: type
-  label: type
+  label: Titre de l'article
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - editorial
+    - article
+    - mots
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type de contenu
 - type: text
   name: credits
-  label: credits
-- type: text
-  name: about_the_author
-  label: about_the_author
+  label: Crédits
+  description: 'Ex: Par Julien Paulus'
+- name: about_the_author
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: A propos de l'auteur
 - type: number
   name: order
-  label: order
+  label: Ordre d'apparition
