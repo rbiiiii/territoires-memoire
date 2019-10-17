@@ -1,0 +1,22 @@
+---
+label: Articles Aide-mémoire
+hide_body: false
+fields:
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: title
+  label: title
+- type: text
+  name: type
+  label: type
+- type: text
+  name: credits
+  label: credits
+- type: text
+  name: about_the_author
+  label: about_the_author
+- type: number
+  name: order
+  label: order
