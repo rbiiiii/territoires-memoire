@@ -23,7 +23,6 @@ gem "uglifier"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-    gem 'jekyll-assets'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-include-cache'
     gem 'jekyll-commonmark'
@@ -31,7 +30,6 @@ end
 
 # jekyll-assets 
 gem "autoprefixer-rails"
-gem "image_optim"
 
 # speed up Liquid parsing
 gem "liquid-c"
