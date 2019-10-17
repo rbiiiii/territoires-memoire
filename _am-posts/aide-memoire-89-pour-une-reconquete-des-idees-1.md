@@ -18,6 +18,11 @@ Nous avons donc là deux visions pessimistes de l’Europe qui dépeignent pourt
 
 Faut-il préciser que la création récente, au sein de la Commission européenne, d’un poste de commissaire chargé de la « protection du mode de vie européen » n’est pas faite pour nous rassurer ?  
 
-1. À l’heure où nous rédigeons ces lignes, aucun accord n’est intervenu entre l’UE et le Premier ministre britannique Boris Johnson qui reste prêt au « no deal » quoi qu’il en coûte.
-2. Ainsi, l’exemple de la France où des condamnations pour « délit de solidarité » furent prononcées.
-3. Chiffre provisoire et susceptible d’évoluer quelque peu si les députés britanniques, majoritairement hostiles, quittaient le Parlement en cas de « Brexit ».
+1. À l’heure où nous rédigeons ces lignes, aucun accord n’est intervenu entre
+l’UE et le Premier ministre britannique Boris Johnson qui reste prêt au « no
+deal » quoi qu’il en coûte.
+2. Ainsi, l’exemple de la France où des condamnations pour « délit de
+solidarité » furent prononcées.
+3. Chiffre provisoire et susceptible d’évoluer quelque peu si les députés
+britanniques, majoritairement hostiles, quittaient le Parlement en cas de
+« Brexit ».
