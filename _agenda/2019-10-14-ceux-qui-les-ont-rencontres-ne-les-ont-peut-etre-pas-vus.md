@@ -51,3 +51,7 @@ Infos et réservations sur nimisgroupe.com
 _Une coopération Nimis Groupe, CC Chiroux, Les Territoires de la Mémoire, Festival de Liège, Arsenic2, ULiège, Livre aux Trésors et le Centre d’Action Laïque de la Province de Liège._ 
 
 _Avec le soutien de l’opération Champs des Possibles._
+
+__
+
+_D’octobre à novembre, L’ULiège organise un cycle de rencontres, conférences, événements et un colloque international intitulé « Corps migrants: récits et présences »  corpsmigrants.uliege.be_
