@@ -32,7 +32,7 @@ layout: default
             <div class="page-section__content">
                 <div class="am-num__articles">
                     {% assign page_path = page.path %}
-                    {%- assign posts = site.am-posts | where:"numero", page_path | sort: "order" -%}
+                    {%- assign posts = site.aide-memoire | where:"categories", page_path | sort: "order" -%}
                     {%- for am in posts -%}
                         <div class="am-post-item">
                             <h2 class="am-post-item__title">{%- if am.type == 'editorial' -%}<small>Editorial</small><br>{%- elsif am.type == 'mots' -%}<small>Mots</small><br>{%- endif -%}

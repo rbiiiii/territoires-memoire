@@ -2,11 +2,12 @@
 layout: default
 ---
 <article class="post am-article">
-  {%- assign am-num = site.aide-memoire | where:'path', page.numero | sort: 'order' -%}
+  {% assign page_cat = page.categories[0] %}
+  {%- assign am_num = site.aide-memoire-numeros | where:"path", page_cat | sort: "order" -%}
    <div class="post__content-wrapper">
         <div class="post__content">
             <div class="post__header__breadcrumbs">
-              <a href="/aide-memoire">Aide-mémoire</a><span style="font-size: 0.6em;display: inline-block;margin: 0 0.25em;">></span> {%- for am in am-num -%}<a href="{{ am.url }}">{{ am.title }}</a>{%- endfor -%}
+              <a href="/aide-memoire">Aide-mémoire</a><span style="font-size: 0.6em;display: inline-block;margin: 0 0.25em;">></span> {%- for am in am_num -%}<a href="{{ am.url }}">{{ am.title }}</a>{%- endfor -%}
             </div>
             <h1 class="post__title">
                 {%- if page.type == 'editorial' -%}<small>Editorial</small><br>{%- elsif page.type == 'mots' -%}<small>Mots</small><br>{%- endif -%}
@@ -52,7 +53,7 @@ layout: default
           </div>
         </div>
         <aside class="post__aside">
-            {%- for am in am-num -%}
+            {%- for am in am_num -%}
                 <a class="post__aside__link" href="{{ am.url }}">
                     <img class="post__aside__img" src="{{ am.img_src }}" alt="{{ am.title | escape }}">
                     <h5 class="post__aside__title">{{ am.title }}<br>
@@ -63,7 +64,7 @@ layout: default
    </div>
 
   <footer class="post__navigation">
-  {%- assign posts = site.am-posts | where: "categories", page.categories[0] | sort: 'order'  -%}
+  {%- assign posts = site.aide-memoire | where: "categories", page.categories[0] | sort: 'order'  -%}
 
   {%- for post in posts -%}
     {%- if post.url == page.url -%}

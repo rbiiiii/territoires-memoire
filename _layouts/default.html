@@ -20,7 +20,7 @@
 
     {%- include_cached footer.html -%}
 
-    {%- if page.path contains '_am-posts' or page.path contains '_aide-memoire' -%}
+    {%- if page.path contains '_aide-memoire' or page.path contains '_aide-memoire' -%}
       <script>
         $(function() {
           var fonts = 'https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,500i,600,600i';
@@ -50,7 +50,7 @@
     <script src="/assets/javascript/search-am.js"></script>    
     <script>
     // SEARCH AM
-    var sI=document.getElementById("am-search-input"),amR=document.getElementById("am-results-container");amSearch({searchInput:sI,resultsContainer:amR,json:"/assets/json/search-am.json",searchResultTemplate:'<div class="am-result"><a class="am-result__link" href="{url}"><h4 class="am-result__title">{title}</h4></a><div><a href="/{categories}">{categories}</a> | {credits}</div></div>'});
+    var sI=document.getElementById("am-search-input"),amR=document.getElementById("am-results-container");amSearch({searchInput:sI,resultsContainer:amR,json:"/assets/json/search-am.json",searchResultTemplate:'<div class="am-result"><a class="am-result__link" href="{url}"><h4 class="am-result__title">{title}</h4></a><div><a href="/{num}">{num}</a> | {credits}</div></div>'});
     </script> 
     {%- endif -%}
     <script>

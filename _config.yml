@@ -45,12 +45,11 @@ collections:
     layout: secondary-page
   books:
     output: false
-  aide-memoire:
+  aide-memoire-numeros:
     output: true
     permalink: /:title/
-  am-posts:
+  aide-memoire:
     output: true
-    permalink: /:categories/:title/
   communiques-presse:
     output: false
   tags:
@@ -66,12 +65,12 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: aide-memoire
+    type: aide-memoire-numeros
   values:
     layout: am-num
 - scope:
     path: ''
-    type: am-posts
+    type: aide-memoire
   values:
     layout: am-post
 
