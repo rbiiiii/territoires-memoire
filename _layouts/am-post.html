@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="post am-article">
-  {%- assign am-num = site.aide-memoire | where:'slug', page.categories[0] | sort: 'order' -%}
+  {%- assign am-num = site.aide-memoire | where:'path', page.numero | sort: 'order' -%}
    <div class="post__content-wrapper">
         <div class="post__content">
             <div class="post__header__breadcrumbs">
