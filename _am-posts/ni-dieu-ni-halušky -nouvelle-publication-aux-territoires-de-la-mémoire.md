@@ -9,7 +9,7 @@ order: 3
 ---
 Ce mois d’octobre voit la parution, dans la collection « Libres Écrits », du troisième livre de Jean-François Füeg aux éditions des Territoires de la Mémoire. Fidèle à son habitude, l’auteur plonge dans son histoire familiale pour en exhumer des questionnements à la portée plus vaste. Dans Ni Dieu, ni halušky, le concept de « stress identitaire » est interrogé. Comment appréhender son identité quand celle-ci s’est forgée par la dissimulation, le refoulement voire le mensonge ? Peut-on apprendre à connaître et à accepter l’Autre si on ne se connaît pas et ne s’accepte pas d’abord soi-même ? Voici les questions que, parmi d’autres, ce remarquable ouvrage laisse à notre appréciation.
 
-![Couverture du livre de Jean-François Füeg : Ni Dieu, ni halušky](https://www.territoires-memoire.be/assets/uploads/ni-dieu-ni-halusky.jpg "Jean-François Füeg, Ni Dieu, ni halušky, Liège, Territoires de la Mémoire, 2019, 9€ ")
+[![Couverture du livre de Jean-François Füeg : Ni Dieu, ni halušky](https://www.territoires-memoire.be/assets/uploads/ni-dieu-ni-halusky.jpg "Jean-François Füeg, Ni Dieu, ni halušky, Liège, Territoires de la Mémoire, 2019, 9€ ")](https://boutique.territoires-memoire.be/fr/nos-livres/47-ni-dieu-ni-halusky.html)
 
 {{% imgcopyright %}}<span class="img-copyright">Jean-François Füeg, _Ni Dieu, ni halušky_, Liège, Territoires de la Mémoire, 2019, 9€</span>{{% /imgcopyright %}}
 
