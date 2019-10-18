@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: Le Mot du Président (84)
 type: article
 credits: Par Jérôme Jamin

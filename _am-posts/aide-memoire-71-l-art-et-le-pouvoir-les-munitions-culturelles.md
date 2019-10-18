@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: 'L’art et le pouvoir : les munitions culturelles'
 type: article
 credits: Par Olivier Starquit

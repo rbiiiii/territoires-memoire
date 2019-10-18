@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-79
+numero: _aide-memoire/aide-memoire-n-79.md
 title: 'Le mot de la présidente : Un secrétaire d''État affirme...'
 type: article
 credits: Par Dominique Dauby

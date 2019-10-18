@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: 'Éditorial : Radicalisme de droite, un antisystème bien ordonné'
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef'

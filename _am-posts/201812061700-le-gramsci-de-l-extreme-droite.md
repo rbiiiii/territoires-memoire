@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-78
+numero: _aide-memoire/aide-memoire-n-78.md
 title: Le Gramsci de l’extrême droite
 type: article
 credits: Une chronique de Julien Dohet

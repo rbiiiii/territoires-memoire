@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-72
+numero: _aide-memoire/aide-memoire-n-72.md
 title: 'Du 7 janvier 2015 au « Oui, mais… » : une opinion personnelle…'
 type: article
 credits: Par Manuel Dony

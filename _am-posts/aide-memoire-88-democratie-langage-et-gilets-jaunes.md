@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-88
+numero: _aide-memoire/aide-memoire-n-88.md
 title: 'Démocratie, langage et Gilets jaunes'
 type: article
 credits: 'Entretien avec Franck Lepage, par Julien Paulus'

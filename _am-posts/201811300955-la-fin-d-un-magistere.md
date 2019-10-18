@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-80
+numero: _aide-memoire/aide-memoire-n-80.md
 title: La fin d’un magistère
 type: article
 credits: Par Olivier Starquit

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: 'Démocratie et radicalisme : entretien avec Jean Faniel'
 type: article
 credits: >-

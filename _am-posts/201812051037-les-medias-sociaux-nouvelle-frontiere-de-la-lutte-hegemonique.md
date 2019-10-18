@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-79
+numero: _aide-memoire/aide-memoire-n-79.md
 title: 'Les Médias sociaux, nouvelle frontière de la lutte hégémonique ?'
 type: article
 credits: Par Olivier Starquit

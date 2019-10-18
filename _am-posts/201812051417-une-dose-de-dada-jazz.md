@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-79
+numero: _aide-memoire/aide-memoire-n-79.md
 title: Une dose de Dada jazz?
 type: article
 credits: Par Raphaël Schraepen

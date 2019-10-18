@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-87
+numero: _aide-memoire/aide-memoire-n-87.md
 title: Du devoir de mémoire … au travail de mémoire
 type: article
 credits: 'Par Philippe Marchal, Directeur adjoint des Territoires de la Mémoire.'

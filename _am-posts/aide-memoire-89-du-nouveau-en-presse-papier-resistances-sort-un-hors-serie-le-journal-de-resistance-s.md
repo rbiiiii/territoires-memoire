@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-89
+numero: _aide-memoire/aide-memoire-n-89.md
 title: >-
   Du nouveau en presse papier : RésistanceS sort un hors-série, LE JOURNAL de
   résistance[s]

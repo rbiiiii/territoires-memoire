@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: >-
   Dernier génocide des Kurdes yézidis de Shengal (Sinjar) : la monstruosité de
   Daech à l’état extrême

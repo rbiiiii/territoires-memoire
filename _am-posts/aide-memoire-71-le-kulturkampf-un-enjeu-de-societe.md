@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: 'Le Kulturkampf, un enjeu de société'
 type: article
 credits: Par André Gob

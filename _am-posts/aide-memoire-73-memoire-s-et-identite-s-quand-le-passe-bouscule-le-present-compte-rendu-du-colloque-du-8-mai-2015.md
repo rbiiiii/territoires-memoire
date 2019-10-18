@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: >-
   «&nbsp;Mémoire(s) et identité(s) : Quand le passé bouscule le présent&nbsp;» :
   compte-rendu du colloque du 8 mai 2015

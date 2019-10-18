@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: 'Attentats de Bruxelles, que dit et propose l''extrême droite ?'
 type: article
 credits: 'Par Manuel Abramowicz, membre de la rédaction de RésistanceS.be'

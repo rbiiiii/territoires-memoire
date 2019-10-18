@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-74
+numero: _aide-memoire/aide-memoire-n-74.md
 title: 'Méta-démocratie galopante, l’expérimentation grecque... après SYRIZA'
 type: article
 credits: Par Panagiótis Grigoríou

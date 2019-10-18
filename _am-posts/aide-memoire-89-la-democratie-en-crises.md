@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-89
+numero: _aide-memoire/aide-memoire-n-89.md
 title: La démocratie en crises
 type: article
 credits: Par Olivier Starquit

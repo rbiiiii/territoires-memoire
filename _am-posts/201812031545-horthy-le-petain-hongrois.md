@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-80
+numero: _aide-memoire/aide-memoire-n-80.md
 title: 'Horthy : le Pétain hongrois'
 type: article
 credits: Une chronique de Julien Dohet

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-86
+numero: _aide-memoire/aide-memoire-n-86.md
 title: >-
   Mémorandum de l’association Les Territoires de  la  Mémoire dans la
   perspective des élections communales et provinciales 2018 et dans le cadre

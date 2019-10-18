@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-82
+numero: _aide-memoire/aide-memoire-n-82.md
 title: >-
   Expériences et mises en pratique du « rêve égalitaire » en Espagne, d’hier à
   aujourd’hui

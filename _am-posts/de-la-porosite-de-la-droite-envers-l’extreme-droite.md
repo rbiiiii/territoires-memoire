@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: De la porosité de la droite envers l’extrême droite
 type: article
 credits: Une chronique de Julien Dohet

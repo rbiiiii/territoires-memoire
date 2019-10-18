@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: Comment les Juifs de Belgique ont affronté le nazisme
 type: article
 credits: Par Jérôme Delnooz

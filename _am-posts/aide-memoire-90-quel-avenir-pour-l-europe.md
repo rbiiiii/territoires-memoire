@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-90
+numero: _aide-memoire/aide-memoire-n-90.md
 title: Quel avenir pour l’Europe ?
 type: editorial
 credits: Par Julien Paulus

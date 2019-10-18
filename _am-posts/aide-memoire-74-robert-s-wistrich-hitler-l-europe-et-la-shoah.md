@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-74
+numero: _aide-memoire/aide-memoire-n-74.md
 title: 'Robert S. Wistrich : Hitler, l’Europe et la Shoah'
 type: article
 credits: Par Jean-Louis Rouhart

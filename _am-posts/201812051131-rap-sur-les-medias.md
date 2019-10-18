@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-79
+numero: _aide-memoire/aide-memoire-n-79.md
 title: Rap sur les médias
 type: article
 credits: Par Ak-Flow (Maison des Jeunes de Saint-Nicolas)

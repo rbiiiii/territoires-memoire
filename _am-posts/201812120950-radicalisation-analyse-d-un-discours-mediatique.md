@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: '« Radicalisation » : analyse d’un discours médiatique'
 type: article
 credits: Par Clara Kerstenne

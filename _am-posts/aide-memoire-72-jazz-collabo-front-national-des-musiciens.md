@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-72
+numero: _aide-memoire/aide-memoire-n-72.md
 title: Jazz collabo – Front national des musiciens
 type: article
 credits: Par Raphaël Schraepen

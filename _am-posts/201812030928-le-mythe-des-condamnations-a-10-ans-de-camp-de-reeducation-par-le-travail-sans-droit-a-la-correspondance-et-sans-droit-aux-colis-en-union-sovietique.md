@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-80
+numero: _aide-memoire/aide-memoire-n-80.md
 title: >-
   Le mythe des condamnations « à 10 ans de camp de rééducation par le travail
   sans droit à la correspondance et sans droit aux colis » en Union soviétique

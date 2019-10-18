@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: À propos d’une exposition à Berlin sur Luther et le national-socialisme
 type: article
 credits: Par Jean-Louis Rouhart

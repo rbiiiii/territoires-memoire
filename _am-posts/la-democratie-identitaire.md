@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: La démocratie identitaire
 type: article
 credits: 'Par François Debras, Maître de Conférences (Université de Liège)'

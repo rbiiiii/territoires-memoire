@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: Le nazisme ne se résume pas à Mein Kampf
 type: article
 credits: Une chronique de Julien Dohet

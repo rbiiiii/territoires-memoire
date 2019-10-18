@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-82
+numero: _aide-memoire/aide-memoire-n-82.md
 title: Téléchargements (in)contrôlables
 type: article
 credits: Par Michel Recloux

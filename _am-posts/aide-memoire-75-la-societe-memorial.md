@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: La société « Memorial »
 type: article
 credits: Par Jean-Louis Rouhart

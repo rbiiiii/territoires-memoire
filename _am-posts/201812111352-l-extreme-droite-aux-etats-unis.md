@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: L’extrême droite aux États-Unis
 type: article
 credits: Entretien avec Chip Berlet par Jérôme Jamin

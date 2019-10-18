@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-86
+numero: _aide-memoire/aide-memoire-n-86.md
 title: 'Résistance, guérilla et héroïsme'
 type: article
 credits: Entretien avec Benjamin Hennot

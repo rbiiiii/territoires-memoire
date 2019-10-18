@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-74
+numero: _aide-memoire/aide-memoire-n-74.md
 title: 'Le référendum : une voie démocratique instrumentalisée ?'
 type: article
 credits: Par Gilles Rahier

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-80
+numero: _aide-memoire/aide-memoire-n-80.md
 title: Des journalistes coupables ?
 type: article
 credits: Par Clara Kerstenne

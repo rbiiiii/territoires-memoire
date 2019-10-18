@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-85
+numero: _aide-memoire/aide-memoire-n-85.md
 title: La vision complotiste de l'extrême droite
 type: article
 credits: Une chronique de Julien Dohet

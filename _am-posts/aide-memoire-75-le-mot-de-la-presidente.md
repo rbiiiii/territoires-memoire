@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: Le mot de la présidente (75)
 type: article
 credits: Par Dominique Dauby

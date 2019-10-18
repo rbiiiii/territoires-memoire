@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-89
+numero: _aide-memoire/aide-memoire-n-89.md
 title: "L’extrême droite aux élections du 26 mai 2019\_: toujours ce paradoxe belge…"
 type: article
 credits: Par Benjamin Biard et Jean Faniel

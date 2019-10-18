@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: '« Aide-mémoire fait débat #2 » : radicalismes religieux ?'
 type: mots
 credits: Par la rédaction

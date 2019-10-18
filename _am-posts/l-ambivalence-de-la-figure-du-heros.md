@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-86
+numero: _aide-memoire/aide-memoire-n-86.md
 title: L'ambivalence de la figure du héros
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef'

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: La disparition de Josef Mengele
 type: article
 credits: Par Jean-Paul Bonjean

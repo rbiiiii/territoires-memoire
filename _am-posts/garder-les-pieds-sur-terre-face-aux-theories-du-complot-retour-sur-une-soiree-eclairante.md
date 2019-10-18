@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: >-
   Garder les pieds sur terre face aux théories du complot : retour sur une
   soirée éclairante

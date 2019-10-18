@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-86
+numero: _aide-memoire/aide-memoire-n-86.md
 title: C'èst todi lès p'tits qu'on språtche ! (2ème partie)
 type: article
 credits: Par Jenifer Devresse

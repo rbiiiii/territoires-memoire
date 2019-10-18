@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: Aventures du Général Francoquin au pays des Frères Cyclopus
 type: article
 credits: Par Jean-Paul Bonjean

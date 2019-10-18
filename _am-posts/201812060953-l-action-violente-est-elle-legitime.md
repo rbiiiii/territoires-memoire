@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-78
+numero: _aide-memoire/aide-memoire-n-78.md
 title: L'action violente est elle légitime ?
 type: article
 credits: Par Gilles Rahier

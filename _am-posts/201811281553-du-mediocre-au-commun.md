@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: Du médiocre au commun
 type: article
 credits: Par Olivier Starquit

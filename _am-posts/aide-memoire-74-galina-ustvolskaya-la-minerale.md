@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-74
+numero: _aide-memoire/aide-memoire-n-74.md
 title: 'Galina Ustvolskaya, la minérale'
 type: article
 credits: Par Raphaël Schraepen

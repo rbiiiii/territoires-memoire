@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-89
+numero: _aide-memoire/aide-memoire-n-89.md
 title: "Parti Populaire\_: classifié à l’extrême droite"
 type: article
 credits: La rédaction

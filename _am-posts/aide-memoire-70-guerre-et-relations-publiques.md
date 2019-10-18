@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-70
+numero: _aide-memoire/aide-memoire-n-70.md
 title: Guerre et relations publiques
 type: editorial
 credits: Par Julien Paulus

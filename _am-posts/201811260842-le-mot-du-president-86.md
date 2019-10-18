@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-86
+numero: _aide-memoire/aide-memoire-n-86.md
 title: Le Mot du Président (86)
 type: article
 credits: Par Jérôme Jamin

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-89
+numero: _aide-memoire/aide-memoire-n-89.md
 title: Le mot du président (89)
 type: article
 credits: Par Jérôme Jamin

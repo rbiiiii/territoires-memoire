@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-89
+numero: _aide-memoire/aide-memoire-n-89.md
 title: Voltaire comme alibi à la rupture du cordon sanitaire
 type: article
 credits: Une chronique de Julien Dohet

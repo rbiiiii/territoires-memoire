@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-83
+numero: _aide-memoire/aide-memoire-n-83.md
 title: 'Femmes et résistances : « De l’ombre à la lumière »'
 type: article
 credits: Par Julie Ricard

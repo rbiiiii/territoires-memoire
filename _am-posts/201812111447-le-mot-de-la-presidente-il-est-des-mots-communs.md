@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: 'Le mot de la présidente : Il est des mots communs..'
 type: article
 credits: Par Dominique Dauby

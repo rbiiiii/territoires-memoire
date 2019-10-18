@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: Quelques recensions supplémentaires d’ouvrages de la BGO…
 type: article
 credits: Par Julie Ricard

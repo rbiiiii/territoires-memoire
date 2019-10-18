@@ -1,5 +1,5 @@
 ---
-categories: _aide-memoire/aide-memoire-n-90.md
+numero: _aide-memoire/aide-memoire-n-90.md
 type: article
 title: 'Ni Dieu, ni halušky : nouvelle publication aux Territoires de la Mémoire'
 credits: Par la rédaction
@@ -11,7 +11,7 @@ Ce mois d’octobre voit la parution, dans la collection « Libres Écrits »,
 
 [![Couverture du livre de Jean-François Füeg : Ni Dieu, ni halušky](https://www.territoires-memoire.be/assets/uploads/ni-dieu-ni-halusky.jpg "Jean-François Füeg, Ni Dieu, ni halušky, Liège, Territoires de la Mémoire, 2019, 9€ ")](https://boutique.territoires-memoire.be/fr/nos-livres/47-ni-dieu-ni-halusky.html)
 
-{{% imgcopyright %}}<span class="img-copyright">Jean-François Füeg, _Ni Dieu, ni halušky_, Liège, Territoires de la Mémoire, 2019, 9€</span>{{% /imgcopyright %}}
+<span class="img-copyright">Jean-François Füeg, _Ni Dieu, ni halušky_, Liège, Territoires de la Mémoire, 2019, 9€</span>
 
 « À force d’avancer masqué, on finit par douter de sa propre existence. Ma mère avait louvoyé toute sa vie, en évitant soigneusement de révéler ses origines. Elle avait dû ruser, adopter consciencieusement les comportements et les usages du groupe qu’elle avait intégré. Elle avançait dans l’existence comme si le chemin était semé d’embûches, comme si elle s’attendait à ce qu’un ennemi en embuscade lui tombe sur le dos à tout moment, afin de désigner aux yeux de tous, la fille du boucher slovaque.
 

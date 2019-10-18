@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-74
+numero: _aide-memoire/aide-memoire-n-74.md
 title: La démocratie en tant que préservation du choix
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef'

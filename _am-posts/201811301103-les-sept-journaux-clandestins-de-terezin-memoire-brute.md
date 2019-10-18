@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-80
+numero: _aide-memoire/aide-memoire-n-80.md
 title: Les sept journaux clandestins de Terezin (Mémoire brute)
 type: article
 credits: Par Raphaël Schraepen
@@ -103,6 +103,7 @@ J'aimerais terminer en citant Petr Ginz qui évoque le logement du sculpteur ave
 
  
 
-1. Voir Joža Karas, _La Musique à Terezin – 1941-1945_, Paris, Gallimard, 1993, pp.172-177.
+1. 
+Voir Joža Karas, _La Musique à Terezin – 1941-1945_, Paris, Gallimard, 1993, pp.172-177.
 2. Petr Ginz (et Chava Pressburger), _Journal (1941-1942)_, Paris, Seuil, 2010.
 3. Hanuš Hachenburg, _On a besoin d'un fantôme_, Strasbourg, Rodéo d'âme, 2015.

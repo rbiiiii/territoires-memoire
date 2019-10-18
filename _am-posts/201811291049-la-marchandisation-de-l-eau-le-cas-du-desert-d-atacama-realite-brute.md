@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: 'La marchandisation de l''eau : le cas du désert d''Atacama (Réalité brute)'
 type: article
 credits: 'Par Gilles Rahier '

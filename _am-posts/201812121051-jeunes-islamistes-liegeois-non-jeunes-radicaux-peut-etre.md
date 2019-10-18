@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: '« Jeunes islamistes liégeois », non ! « Jeunes radicaux », peut-être !'
 type: article
 credits: 'Un récit de rencontres, par Gaëlle Henrard'

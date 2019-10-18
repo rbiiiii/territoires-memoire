@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: 'Radicalisme et extrême droite : entretien avec Nicolas Lebourg'
 type: article
 credits: Par Gaëlle Henrard

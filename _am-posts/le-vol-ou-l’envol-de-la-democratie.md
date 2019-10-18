@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-83
+numero: _aide-memoire/aide-memoire-n-83.md
 title: Le vol ou l’envol de la démocratie ?
 type: article
 credits: Par Olivier Starquit

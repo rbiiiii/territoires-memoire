@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: L’Histoire comme démystification (éditorial)
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef'

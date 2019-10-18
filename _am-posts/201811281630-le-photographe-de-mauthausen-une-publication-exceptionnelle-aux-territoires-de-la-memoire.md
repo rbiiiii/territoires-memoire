@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: >-
   Le photographe de Mauthausen : une publication exceptionnelle aux Territoires
   de la Mémoire

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: 'Le mot de la présidente : Mars 2016… et après ?'
 type: article
 credits: Par Dominique Dauby

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-80
+numero: _aide-memoire/aide-memoire-n-80.md
 title: 'Médias : un écosystème en péril (éditorial)'
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef   '
@@ -37,4 +37,5 @@ Le 15 mars 1944, à la veille de la Libération, le Conseil National de la Rési
 
 
 
-1. [https://comptoir.org/2017/01/20/aude-lancelin-la-presse-actuelle-est-soumise-a-un-management-par-la-terreur-assume/](https://comptoir.org/2017/01/20/aude-lancelin-la-presse-actuelle-est-soumise-a-un-management-par-la-terreur-assume/)
+1. [https://comptoir.org/2017/01/20/aude-lancelin-la-presse-actuelle-est-soumise-a-un-management-par-la-terreur-assume/
+](https://comptoir.org/2017/01/20/aude-lancelin-la-presse-actuelle-est-soumise-a-un-management-par-la-terreur-assume/)

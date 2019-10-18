@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: 'La réflexion, par-delà toute violence (Éditorial)'
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef'

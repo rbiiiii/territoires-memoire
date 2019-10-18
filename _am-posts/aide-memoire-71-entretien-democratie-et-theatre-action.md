@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: 'Entretien : démocratie et théâtre-action'
 type: article
 credits: Entretien avec Claire Vienne

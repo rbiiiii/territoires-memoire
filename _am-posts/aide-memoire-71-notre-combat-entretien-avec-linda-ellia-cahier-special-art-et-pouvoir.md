@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: 'Notre combat : entretien avec Linda Ellia (cahier spécial "Art et Pouvoir")'
 type: article
 credits: 'Entretien de Linda Ellia, Jessy Zeitoun et Antonia Aimini par Gaëlle Henrard'

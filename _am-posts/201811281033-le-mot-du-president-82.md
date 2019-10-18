@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-82
+numero: _aide-memoire/aide-memoire-n-82.md
 title: Le Mot du Président (82)
 type: article
 credits: Par Jérôme Jamin

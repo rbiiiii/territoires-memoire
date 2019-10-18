@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-82
+numero: _aide-memoire/aide-memoire-n-82.md
 title: 'Wilhelm Brasse : le photographe d’Auschwitz'
 type: article
 credits: Par Jean-Louis Rouhart

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-70
+numero: _aide-memoire/aide-memoire-n-70.md
 title: 'La propagande de la Grande Guerre : aux origines de la propagande moderne'
 type: article
 credits: Par Anne Morelli (ULB)

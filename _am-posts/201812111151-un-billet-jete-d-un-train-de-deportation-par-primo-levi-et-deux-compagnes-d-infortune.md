@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: >-
   Un billet jeté d’un train de déportation par Primo Levi et deux compagnes
   d’infortune
@@ -21,9 +21,11 @@ Le texte figurant sur ce billet, ramassé en gare de Bolzano le 23 février 1944
 
 
 
-«_Bolzano, 23 \[...]_
+«_Bolzano, 23 \[...]
+_
 
-_Cara Bianca, tutti in viaggio alla maniera classica – salute \[a] tutti – A voi la fiaccola. Ciao. Bianca, ti vogliamo bene_
+_Cara Bianca, tutti in viaggio alla maniera classica – salute \[a] tutti – A voi la fiaccola. Ciao. Bianca, ti vogliamo bene
+_
 
 _Primo, Vanda, Luciana_ ».
 
@@ -46,7 +48,8 @@ Si l’on se réfère aux écrits de Primo Levi, le voyage de Fossoli à Auschwi
 
 
 1. Voir le dossier réalisé par MNEMA accompagnant l’exposition ainsi que le site consacré à la biographie de Primo Levi   (<http://www.memorialdelashoah.org/upload/minisites/voyages/f-m-s/medias/06_cr02_Jaunay02/biographie.html>, consulté le 15 mai 2016.
-2. [www.iltempoinsorte.it/maestro_en.html](http://www.iltempoinsorte.it/maestro_en.html)
+2. [www.iltempoinsorte.it/maestro_en.html
+](http://www.iltempoinsorte.it/maestro_en.html)
 3. Primo Levi, _Rapport sur Auschwitz_, Paris, Kimé, 2005, p. 52.
 4. _Idem_, p.100.
 5. Primo Levi, _Si c’est un homme_, Paris, Robert Laffont, 1996, p. 15.

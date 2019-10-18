@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-80
+numero: _aide-memoire/aide-memoire-n-80.md
 title: L'argent de l'ombre
 type: article
 credits: Par Christian Poelmans

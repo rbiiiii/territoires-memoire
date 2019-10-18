@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-86
+numero: _aide-memoire/aide-memoire-n-86.md
 title: Un portrait de Friedl Brandeis
 type: article
 credits: Par Raphaël Schraepen

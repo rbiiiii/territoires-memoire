@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: 'Influencer sans contraindre: le cas du décret-mémoire'
 type: article
 credits: Par Jérôme Nossent

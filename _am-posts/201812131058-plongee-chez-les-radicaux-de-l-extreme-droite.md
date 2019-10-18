@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: Plongée chez les radicaux de l’extrême droite
 type: article
 credits: Une chronique de Julien Dohet

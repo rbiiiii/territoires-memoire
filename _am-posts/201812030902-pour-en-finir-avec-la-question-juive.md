@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-80
+numero: _aide-memoire/aide-memoire-n-80.md
 title: Pour en finir avec la question juive
 type: mots
 credits: Par Philippe Glesener

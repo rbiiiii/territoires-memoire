@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: 'Histoire, mémoire et politique : l’Espagne et la « mémoire historique » '
 type: article
 credits: 'Par Maite Molina Mármol[1]'

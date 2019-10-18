@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: 'L’extrême droite est-elle soluble dans la démocratie ? '
 type: editorial
 credits: 'Par Julien, rédacteur en chef'

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: Travail de mémoire ou retour du refoulé ?
 type: article
 credits: Par Julien Paulus

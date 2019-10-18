@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: 'Art et pouvoir : Théâtre-action et mouvements sociaux'
 type: article
 credits: Par Gaëlle Henrard

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-79
+numero: _aide-memoire/aide-memoire-n-79.md
 title: 'Médias et réception par les classes populaires : entretien avec Vincent Goulet'
 type: article
 credits: Entretien avec Vincent Goulet par Gaëlle Henrard

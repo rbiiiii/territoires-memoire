@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-88
+numero: _aide-memoire/aide-memoire-n-88.md
 title: "Identitaire ou nationaliste\_: en un mot Fasciste\_!"
 type: article
 credits: Une chronique de Julien Dohet

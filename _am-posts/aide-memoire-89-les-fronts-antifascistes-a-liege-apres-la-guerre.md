@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-89
+numero: _aide-memoire/aide-memoire-n-89.md
 title: Les fronts antifascistes à Liège après la guerre
 type: article
 credits: Par Julien Dohet

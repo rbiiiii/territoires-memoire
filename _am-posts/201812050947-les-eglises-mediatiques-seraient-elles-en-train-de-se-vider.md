@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-79
+numero: _aide-memoire/aide-memoire-n-79.md
 title: Les églises médiatiques seraient-elles en train de se vider?
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef'

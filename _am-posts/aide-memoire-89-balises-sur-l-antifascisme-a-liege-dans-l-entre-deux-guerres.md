@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-89
+numero: _aide-memoire/aide-memoire-n-89.md
 title: Balises sur l’antifascisme à Liège dans l’entre-deux guerres
 type: article
 credits: Par Julien Dohet

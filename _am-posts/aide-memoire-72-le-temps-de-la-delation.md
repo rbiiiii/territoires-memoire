@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-72
+numero: _aide-memoire/aide-memoire-n-72.md
 title: Le temps de la délation
 type: article
 credits: Une chronique de Julien Dohet

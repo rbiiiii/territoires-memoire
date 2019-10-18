@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-85
+numero: _aide-memoire/aide-memoire-n-85.md
 title: 'Clara Zetkin : Au club des femmes musulmanes, [1926], éditions LitPol'
 type: article
 credits: J.P.

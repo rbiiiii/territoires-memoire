@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-87
+numero: _aide-memoire/aide-memoire-n-87.md
 title: Retour sur 18 ans et 70 chroniques sur l'idéologie d'extrême droite
 type: article
 credits: Entretien avec Julien Dohet

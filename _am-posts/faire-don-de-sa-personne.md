@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-86
+numero: _aide-memoire/aide-memoire-n-86.md
 title: Faire don de sa personne
 type: article
 credits: Une chronique de Julien Dohet

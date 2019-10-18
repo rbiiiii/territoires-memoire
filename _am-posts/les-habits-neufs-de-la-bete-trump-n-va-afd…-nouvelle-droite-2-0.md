@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: 'Les habits neufs de la bête : Trump, N-VA, AfD… nouvelle droite 2.0'
 type: article
 credits: Par Olivier Starquit

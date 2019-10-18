@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: 'Radicalisme, retour aux racines ou retour sur soi'
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef'

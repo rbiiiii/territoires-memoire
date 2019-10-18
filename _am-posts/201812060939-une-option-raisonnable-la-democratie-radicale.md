@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-78
+numero: _aide-memoire/aide-memoire-n-78.md
 title: 'Une option raisonnable : la démocratie radicale…'
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef'

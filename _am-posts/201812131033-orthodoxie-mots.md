@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: Orthodoxie (Mots)
 type: mots
 credits: Par Henri Deleersnijder

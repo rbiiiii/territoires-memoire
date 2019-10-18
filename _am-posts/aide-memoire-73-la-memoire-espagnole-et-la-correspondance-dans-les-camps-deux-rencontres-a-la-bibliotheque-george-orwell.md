@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: >-
   La mémoire espagnole et la correspondance dans les camps : deux rencontres à
   la Bibliothèque George Orwell

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-87
+numero: _aide-memoire/aide-memoire-n-87.md
 title: Un anniversaire... dans la lucidité
 type: editorial
 credits: 'Par Julien Paulus, Rédacteur en chef'

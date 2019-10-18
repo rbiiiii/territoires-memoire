@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-82
+numero: _aide-memoire/aide-memoire-n-82.md
 title: 'Antimarxiste et antidémocratique, bref d’extrême droite'
 type: article
 credits: Une chronique de Julien Dohet

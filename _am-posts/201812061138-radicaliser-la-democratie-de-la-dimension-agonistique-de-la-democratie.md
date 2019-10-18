@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-78
+numero: _aide-memoire/aide-memoire-n-78.md
 title: 'Radicaliser la démocratie : de la dimension agonistique de la démocratie'
 type: article
 credits: Par Olivier Starquit

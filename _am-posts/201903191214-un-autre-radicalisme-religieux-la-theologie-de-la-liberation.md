@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: 'Un « autre » radicalisme religieux : la théologie de la libération'
 type: article
 credits: Par Gilles Rahier

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: Réalités d’aujourd’hui et mémoire de demain
 type: editorial
 credits: Par Julien Paulus

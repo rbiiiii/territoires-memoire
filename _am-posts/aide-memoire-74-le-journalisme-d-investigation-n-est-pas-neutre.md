@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-74
+numero: _aide-memoire/aide-memoire-n-74.md
 title: Le journalisme d’investigation n’est pas neutre
 type: article
 credits: Une chronique de Julien Dohet

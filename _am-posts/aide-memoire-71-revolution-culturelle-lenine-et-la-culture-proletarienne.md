@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: 'Révolution culturelle : Lénine et la culture prolétarienne'
 type: article
 credits: 'Par Julien Paulus[1]'

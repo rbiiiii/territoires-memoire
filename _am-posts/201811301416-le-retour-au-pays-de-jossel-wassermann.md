@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-80
+numero: _aide-memoire/aide-memoire-n-80.md
 title: Le retour au pays de Jossel Wassermann
 type: article
 credits: Par Jean-Paul Bonjean

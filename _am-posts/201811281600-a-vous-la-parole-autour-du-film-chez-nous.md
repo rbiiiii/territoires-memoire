@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: « À vous la parole ! » autour du film « Chez Nous »
 type: article
 credits: Par Delphine Daniels et Julie Ricard

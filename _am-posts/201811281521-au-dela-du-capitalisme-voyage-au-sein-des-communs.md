@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: 'Au-delà du capitalisme : voyage au sein des communs'
 type: article
 credits: Par Jérôme Delnooz

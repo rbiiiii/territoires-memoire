@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-79
+numero: _aide-memoire/aide-memoire-n-79.md
 title: Le triangle vert et autres découvertes dans le monde virtuel
 type: article
 credits: Par Julien Dohet

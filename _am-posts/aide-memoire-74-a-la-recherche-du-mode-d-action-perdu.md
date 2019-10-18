@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-74
+numero: _aide-memoire/aide-memoire-n-74.md
 title: ' À la recherche du mode d’action perdu '
 type: article
 credits: Par Olivier Starquit

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-72
+numero: _aide-memoire/aide-memoire-n-72.md
 title: 'Critique et légitimité des démocraties occidentales contemporaines '
 type: article
 credits: Par François Debras

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-78
+numero: _aide-memoire/aide-memoire-n-78.md
 title: 'Démocratie radicale : entretien avec Audric Vitiello'
 type: article
 credits: Par Gaëlle Henrard

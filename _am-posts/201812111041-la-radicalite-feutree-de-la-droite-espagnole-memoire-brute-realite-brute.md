@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: La radicalité feutrée de la droite espagnole (Mémoire brute / Réalité brute)
 type: article
 credits: Par Ángeles Muñoz et Maite Molina Mármol

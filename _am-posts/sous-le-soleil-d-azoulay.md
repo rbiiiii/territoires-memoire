@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: Sous le soleil d'Azoulay
 type: article
 credits: Par Raphaël Schraepen

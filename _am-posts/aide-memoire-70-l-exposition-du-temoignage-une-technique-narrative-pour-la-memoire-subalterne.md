@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-70
+numero: _aide-memoire/aide-memoire-n-70.md
 title: 'L’exposition du témoignage, une technique narrative pour la mémoire subalterne'
 type: article
 credits: Par Gilles Rahier et Nicolas Richard

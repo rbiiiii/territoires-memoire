@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-87
+numero: _aide-memoire/aide-memoire-n-87.md
 title: >-
   Entretien avec Jacques Smits, directeur des Territoires de la Mémoire, à
   l'occasion des 25 ans de notre association

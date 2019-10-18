@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: 'Scott Walker : du crooner dérangeant au guerrier sonore (2e partie)'
 type: article
 credits: Par Raphaël Schraepen
@@ -55,7 +55,8 @@ La chanson Brando de 2014 fait un curieux écho au _Blanket Roll Blues_ de 1984.
 
 
 
-**Quelques disques :**
+**Quelques disques :
+**
 
 * _‘Till The Band Comes In_ (1970)
 * _The Walker Brothers : Nite Flites_ (1978)

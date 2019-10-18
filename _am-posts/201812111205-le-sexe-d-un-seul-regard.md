@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: Le sexe d’un seul regard
 type: article
 credits: Par Jean-Paul Bonjean

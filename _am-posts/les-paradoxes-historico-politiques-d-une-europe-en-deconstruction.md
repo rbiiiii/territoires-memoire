@@ -1,5 +1,5 @@
 ---
-categories: _aide-memoire/aide-memoire-n-90.md
+numero: _aide-memoire/aide-memoire-n-90.md
 type: article
 title: Les paradoxes historico-politiques d’une Europe en déconstruction
 credits: Par Geoffrey Grandjean

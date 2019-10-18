@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-83
+numero: _aide-memoire/aide-memoire-n-83.md
 title: La troisième voie phalangiste
 type: article
 credits: Une chronique de Julien Dohet

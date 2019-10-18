@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-83
+numero: _aide-memoire/aide-memoire-n-83.md
 title: 'Au-delà du capitalisme : voyage au sein des communs (3e partie)'
 type: article
 credits: Par Jérôme Delnooz

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: 'Scott Walker : du crooner dérangeant au guerrier sonore (1ère partie)'
 type: article
 credits: Par Raphaël Schraepen

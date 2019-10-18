@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: 'Emilio Lussu, La Chaîne - L’évasion de Lipari'
 type: article
 credits: Par Jean-Paul Bonjean

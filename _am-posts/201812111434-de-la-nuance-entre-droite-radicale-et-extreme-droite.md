@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: De la nuance entre droite radicale et extrême droite
 type: article
 credits: Une chronique de Julien Dohet

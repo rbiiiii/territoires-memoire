@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-78
+numero: _aide-memoire/aide-memoire-n-78.md
 title: 'Johnny cash : la ballade de l’homme en noir'
 type: article
 credits: Par Raphaël Schraepen

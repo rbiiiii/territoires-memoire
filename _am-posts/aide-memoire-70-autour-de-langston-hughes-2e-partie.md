@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-70
+numero: _aide-memoire/aide-memoire-n-70.md
 title: Autour de Langston Hughes (2e partie)
 type: article
 credits: Par Raphaël Schraepen

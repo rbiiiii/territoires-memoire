@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: 'Le commun : un cadre pour sortir du cadre ?'
 type: article
 credits: Par Olivier Starquit

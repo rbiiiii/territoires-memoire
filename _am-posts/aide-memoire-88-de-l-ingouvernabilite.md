@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-88
+numero: _aide-memoire/aide-memoire-n-88.md
 title: De l’ingouvernabilité
 type: article
 credits: Par Olivier Starquit

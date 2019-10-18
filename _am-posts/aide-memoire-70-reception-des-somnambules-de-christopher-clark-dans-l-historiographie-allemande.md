@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-70
+numero: _aide-memoire/aide-memoire-n-70.md
 title: >-
   Réception des Somnambules de Christopher Clark dans l’historiographie
   allemande

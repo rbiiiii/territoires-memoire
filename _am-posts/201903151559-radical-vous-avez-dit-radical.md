@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: 'Radical, vous avez dit radical ?'
 type: article
 credits: Par Olivier Starquit

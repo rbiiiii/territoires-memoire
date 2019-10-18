@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: Chute et ascension de Robert Wyatt
 type: article
 credits: Par Raphaël Schraepen

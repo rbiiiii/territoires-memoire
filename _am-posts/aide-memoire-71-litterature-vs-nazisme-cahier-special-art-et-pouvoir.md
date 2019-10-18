@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: Littérature vs nazisme (cahier spécial "Art et Pouvoir")
 type: article
 credits: Par Henri Deleersnijder

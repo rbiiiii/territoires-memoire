@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: 'De la radicalité de la démocratie : conflit et agonistique'
 type: article
 credits: Par Gaëlle Henrard

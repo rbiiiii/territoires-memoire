@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-79
+numero: _aide-memoire/aide-memoire-n-79.md
 title: >-
   Sans prétention. Information et engagement : des Youtubeurs à l’assaut de la
   gazette de papa

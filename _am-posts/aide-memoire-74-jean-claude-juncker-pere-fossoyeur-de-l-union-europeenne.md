@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-74
+numero: _aide-memoire/aide-memoire-n-74.md
 title: 'Jean-Claude Juncker, père-fossoyeur de l’Union Européenne'
 type: article
 credits: Par Steve Bottacin

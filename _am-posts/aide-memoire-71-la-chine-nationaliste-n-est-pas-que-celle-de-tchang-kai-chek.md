@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: La Chine nationaliste n’est pas que celle de Tchang Kaï-Chek*
 type: article
 credits: Une chronique de Julien Dohet

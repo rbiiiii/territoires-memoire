@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: « L’histoire est incomplète sans le témoignage des perdants »
 type: article
 credits: Une chronique de Julien Dohet

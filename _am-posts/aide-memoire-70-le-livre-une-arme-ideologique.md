@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-70
+numero: _aide-memoire/aide-memoire-n-70.md
 title: 'Le livre : une arme idéologique'
 type: article
 credits: Une chronique de Julien Dohet

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: Un « On est chez nous » d’exclusion
 type: article
 credits: Une chronique de Julien Dohet

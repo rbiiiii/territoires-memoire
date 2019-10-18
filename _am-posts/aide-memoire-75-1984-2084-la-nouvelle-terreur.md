@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-75
+numero: _aide-memoire/aide-memoire-n-75.md
 title: '1984-2084 : la nouvelle terreur'
 type: article
 credits: Par Jean-Paul Bonjean

@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-71
+numero: _aide-memoire/aide-memoire-n-71.md
 title: En marge de l’exposition sur l’« Art dégénéré selon Hitler »…
 type: article
 credits: Par Jean-Louis Rouhart

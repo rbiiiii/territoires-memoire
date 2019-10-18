@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: >-
   « Aide-mémoire fait débat » : petit compte-rendu des deux premières rencontres
   sur le radicalisme

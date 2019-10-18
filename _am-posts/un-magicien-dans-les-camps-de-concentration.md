@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-84
+numero: _aide-memoire/aide-memoire-n-84.md
 title: Un magicien dans les camps de concentration
 type: article
 credits: Par Jean-Louis Rouhart

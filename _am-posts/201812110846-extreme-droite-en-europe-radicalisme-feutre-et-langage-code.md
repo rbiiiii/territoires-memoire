@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-77
+numero: _aide-memoire/aide-memoire-n-77.md
 title: 'Extrême droite en Europe : radicalisme feutré et langage codé'
 type: article
 credits: 'Par Jérôme Jamin, chargé de cours à l’Université de Liège'

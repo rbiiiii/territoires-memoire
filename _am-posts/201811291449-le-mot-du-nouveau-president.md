@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-81
+numero: _aide-memoire/aide-memoire-n-81.md
 title: ' Le mot du (nouveau) Président '
 type: article
 credits: Par Jérôme Jamin

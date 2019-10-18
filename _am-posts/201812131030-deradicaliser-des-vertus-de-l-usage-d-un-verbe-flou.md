@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: 'Déradicaliser : des vertus de l’usage d’un verbe flou'
 type: article
 credits: Par Olivier Starquit

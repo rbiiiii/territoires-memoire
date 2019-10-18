@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-83
+numero: _aide-memoire/aide-memoire-n-83.md
 title: Défaites vos idées toutes faites sur l’anarchisme (entretien)
 type: article
 credits: Entretien avec Renaud Garcia

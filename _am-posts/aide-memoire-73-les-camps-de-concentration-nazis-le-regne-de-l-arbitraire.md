@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-73
+numero: _aide-memoire/aide-memoire-n-73.md
 title: 'Les camps de concentration nazis : le règne de l’arbitraire ?'
 type: article
 credits: Par Jean-Louis Rouhart

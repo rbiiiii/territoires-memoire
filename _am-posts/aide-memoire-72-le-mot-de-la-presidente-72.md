@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-72
+numero: _aide-memoire/aide-memoire-n-72.md
 title: Le mot de la présidente (72)
 type: article
 credits: Par Dominique Dauby

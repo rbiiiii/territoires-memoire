@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-76
+numero: _aide-memoire/aide-memoire-n-76.md
 title: 'Décloisonner et mettre en parallèle : un entretien avec Marco Martiniello'
 type: article
 credits: Par Gaëlle Henrard

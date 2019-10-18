@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-82
+numero: _aide-memoire/aide-memoire-n-82.md
 title: 'Propriété, usages et perspectives (éditorial)'
 type: editorial
 credits: 'Par Julien Paulus, rédacteur en chef '

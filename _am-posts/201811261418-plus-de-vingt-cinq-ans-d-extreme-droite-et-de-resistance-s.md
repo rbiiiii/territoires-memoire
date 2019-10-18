@@ -1,5 +1,5 @@
 ---
-categories: aide-memoire-87
+numero: _aide-memoire/aide-memoire-n-87.md
 title: Plus de vingt-cinq ans d’extrême droite et de résistance(s)
 type: article
 credits: Par Manuel Abramowicz
@@ -46,10 +46,12 @@ L’extrême droite belge – fortement blessée par des reflux électoraux succ
 En Flandre, un retournement de situation s’est produit en faveur du _Vlaams Belang_ qui a bénéficié d’une résurrection de son électorat composé des déçus de la politique gouvernementale du parti de Bart De Wever. Malgré l’intervention prononcée dans cette campagne électorale des ténors du courant interne d’extrême droite actif au sein de la N-VA.  Si l’offre politique a disparu ou a changé de couleur, la demande d’extrême droite reste, ici et là, toujours relativement présente en Flandre et en Wallonie.
 
 1. Sur le GRECE, son développement en France et en Belgique, voir : « La conspiration métapolitique des intellectuels néo-droitiers », article de Manuel Abramowicz dans _Les Cahiers du Libre examen_, revue du Cercle d’étude des étudiants de l’Université Libre de Bruxelles (ULB), mars 1991, pp. 22-28 et « La nouvelle culture : un autre visage de l’extrême droite », article de Manuel Abramowicz publié dans _Rue des Usines_, revue de la Fondation Jacques Gueux, Bruxelles, n°24-25, hiver 1994-1995, pp. 112-124.
-2. Voir le dossier du journal _RésistanceS.be_ « Les ‘’années de plomb’’ en Belgique » : [www.resistances.be/tueurs0.html](http://www.resistances.be/tueurs0.html)
+2. Voir le dossier du journal _RésistanceS.be_ « Les ‘’années de plomb’’ en Belgique » : [www.resistances.be/tueurs0.html
+](http://www.resistances.be/tueurs0.html)
 3. Sur l’histoire du négationnisme en Belgique depuis la fin de la Seconde Guerre mondiale, voir : « Les prédateurs de la Mémoire », troisième partie du livre _Antisémitisme et extrême droite en Belgique. De 1945 à nos jours_, de Manuel Abramowicz publié en 1993 aux éditions bruxelloises EVO.
 4. Sur l’histoire, la  composition,  l’émergence  du  _Vlaams Blok_ et  le cordon sanitaire contre lui, il faut notamment lire l’ouvrage  du journaliste flamand antifasciste Hugo Gijsels _Open je ogen vooraleer het Blok ze sluit_, édité en néerlandais en 1994 chez Kritak, puis traduit en français aux éditions bruxelloise Luc Pire.
 5. Sur le Front national, voir les livres _L’Affront national. Le nouveau visage de l’extrême droite en Belgique_ de Gwenaël Breës (avec la collaboration du journaliste Alexandre Vick et une préface de l’historien Maxime Steinberg), édité chez EPO en 1992, et _Les rats noirs. L’extrême droite en Belgique francophone_ de Manuel Abramowicz, publié aux éditions Luc Pire en 1996.
 6. _Les barbares. Les immigrés et le racisme dans la politique belge_, ouvrage collectif écrit par des membres des rédactions des journaux antifascistes_ CelsiuS_ et _Halt_, publié en 1988 aux éditions EPO, Anvers, p. 115.
 7. À ce sujet, il faut lire « Contre les gauches, une droite pure et dure », contribution de Manuel Abramowicz à l’ouvrage collectif dirigé par Jérôme Jamin et Jacques Ch. Lemaire _L’imaginaire d’extrême droite_, La Pensée et les Hommes, éditions Espace de libertés, 2008.
-8. À propos de ces journaux sur et contre l’extrême droite, voir : « La presse antifasciste, l’exemple du  mensuel  _Article.31_,  ancêtre de _CelsiuS_ et de _RésistanceS.be_ », interview de Jacques Leloup, journaliste-fondateur d’Article.31, publiée sur le blog de RésistanceS.be, le journal de l’Observatoire belge de l’extrême droite, le 10 juillet 2016. En ligne : <http://resistances-infos.blogspot.com/2016/07/la-presse-antifasciste-lexemple-du_34.html>
+8. À propos de ces journaux sur et contre l’extrême droite, voir :
+ « La presse antifasciste, l’exemple du  mensuel  _Article.31_,  ancêtre de _CelsiuS_ et de _RésistanceS.be_ », interview de Jacques Leloup, journaliste-fondateur d’Article.31, publiée sur le blog de RésistanceS.be, le journal de l’Observatoire belge de l’extrême droite, le 10 juillet 2016. En ligne : <http://resistances-infos.blogspot.com/2016/07/la-presse-antifasciste-lexemple-du_34.html>
