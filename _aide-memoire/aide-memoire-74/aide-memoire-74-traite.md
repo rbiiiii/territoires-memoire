@@ -1,0 +1,18 @@
+---
+categories: _aide-memoire-numeros/aide-memoire-n-74.md
+title: Traité
+type: mots
+credits: Par Henri Deleersnijder
+order: 7
+---
+Tout comme la Terre, l'Histoire est une grande mangeuse d'hommes. Voilà des siècles et des siècles qu'elle est scandée de guerres meurtrières et de différends divers entrecoupés de périodes de répit, généralement introduites par la signature entre belligérants de traités de paix. Mais la haine a toujours soif, surtout lorsqu'elle est titillée par l'un ou l'autre intérêt économique, et les accords conclus entraînant de nouvelles relations pacifiques se transforment souvent au bout d'un temps en « chiffons de papier ». On sait que cette expression a été employée, début août 1914, par le chancelier allemand Theobald von Bethmann Hollweg pour qualifier le Traité des XXIV articles de 1839 par lequel la Prusse – ainsi que les autres grandes puissances de l'époque – garantissait la neutralité perpétuelle de la Belgique.
+
+On pourrait évidemment évoquer d'autres contrats du passé, solennellement signés entre des pays, et qui furent littéralement _maltraités_. L'ennui, c'est que ce sont les peuples qui paient en général les pots cassés de ces clashs diplomatiques, débouchant si fréquemment sur des conflits armés. Parfois même, avec des résultats certes moins dramatiques en l'occurrence, les citoyens se sentent floués après avoir été consultés par voie référendaire : ce fut le cas en France et aux Pays-Bas en 2005 à propos du Traité constitutionnel européen qu'ils avaient rejeté. Qu'à cela ne tienne, deux ans plus tard était signé le traité de Lisbonne (simplification du premier) qui entrera en vigueur en 2009. De telles entourloupes juridiques n'ont pas manqué d'ébranler la confiance, déjà bien entamée, de bon nombre de populations de l'Union européenne (UE) qui sentent confusément que trop de décisions prises en haut lieu leur échappent, et ce en dépit de leur droit d'élire leurs députés au Parlement de Strasbourg.
+
+![](/assets/uploads/traite_negriere.jpg)
+
+Que dire alors du projet de grand marché transatlantique (GMT) ? Ce traité de libre-échange entre l'UE et les États-Unis, répondant au nom de Partenariat transatlantique de commerce et d'investissement (PTCI/TAFTA), se négocie depuis juillet 2013 loin du radar des médias. Ces pourparlers de l'ombre, où s'activent des lobbyings industriels et financiers, pourraient aboutir à un effilochage de nos règles sociales et environnementales, le droit des actionnaires des multinationales pouvant même prévaloir sur les lois des États. Place donc au commerce sans entraves ! « L'apparente technicité du sujet masque l'importance des enjeux : si ces projets devaient aboutir, la vie quotidienne de plus d'un milliard d'individus s'en trouverait bouleversée », avertit le n° 141 de « Manière de voir » (juin-juillet 2015) du _Monde diplomatique,_ intitulé « [**TAFTA, CETA, TISA... Libre-échange, la déferlante**](http://www.monde-diplomatique.fr/mav/141/) ».
+
+Car, à condition de prendre du champ, que constate-t-on ? Ceci, en priorité : il fut un temps où, sous l'Ancien Régime, le despotisme éclairé voulait faire le bonheur des peuples sans eux. Et si aujourd'hui, en notre train-train de vie soumis aux aléas et autres exigences d'un capitalisme délesté de toute régulation protectrice des plus faibles, c'était un économisme (soi-disant) éclairé qui s'ingéniait à rendre les individus – réduits à de simples consommateurs – heureux, forcément heureux... Redoutable illusion.
+
+D'ailleurs, un des premiers sens du verbe « traiter », issu du latin _tactare_, est « traîner violemment ». À méditer, à coup sûr.

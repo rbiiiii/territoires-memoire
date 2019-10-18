@@ -1,0 +1,70 @@
+---
+categories: _aide-memoire-numeros/aide-memoire-n-84.md
+title: La démocratie identitaire
+type: article
+credits: 'Par François Debras, Maître de Conférences (Université de Liège)'
+order: 2
+---
+![](/assets/uploads/am-84-la-democratie-identitaire.jpg)
+
+
+
+Depuis de nombreuses années, les observateurs de la vie politique se posent la question de savoir si l’extrême droite est oui ou non démocratique. Historiquement, ces deux ensembles – extrême droite et démocratie – sont étudiés comme porteurs de valeurs diamétralement opposées. Liberticide, inégalitaire, autoritaire… ces éléments constitutifs de l’extrême droite justifieraient sa mise à l’écart des accords de gouvernement et des débats politiques et médiatiques.
+
+## La guerre des mots
+
+Pourtant, depuis les années 70, entre l’extrême droite et la démocratie, entre le « noir » et le « blanc », s’est créée une « zone grise[[1]](#footnote-1) ». Cet espace politique flou regrouperait un ensemble de partis politiques hétérogènes au niveau de l’idéologie prônée, du programme défendu ou encore des discours véhiculés. Présentant un « nouveau visage », ces formations politiques « dédiabolisées[[2]](#footnote-2) » n’entretiendraient plus de rapports explicites avec le nazisme et le fascisme historiques. Finis les costumes militaires, finies les parades dans les rues, finie l’évocation d’une hiérarchie des races. Bien sûr, la législation en vigueur dans bon nombre d’États européens les en empêche. Mais, outre cela, il est désormais question de lutte contre les « élites » et pour le « peuple », de droit d’association, de droit à la différence, d’égalité homme-femme, de laïcité, de référendum… autant de sujets qui jettent le trouble sur l’historique et systématique opposition qui existait entre l’extrême droite et la démocratie. Le Front national en France (FN) et le Parti de la liberté d’Autriche (FPÖ), deux partis que nous avons décidé d’investiguer dans le cadre de cet article, illustrent cette « transformation ».
+
+Les frontières entre l’extrême droite et la démocratie, entre le « noir » et le « blanc », le « mal » et le « bien » se complexifieraient–elles ? L’extrême droite serait-elle devenue plus « acceptable » ?
+
+Pour répondre à notre interrogation, l’extrême droite est-elle (aujourd’hui) démocratique ou non, il conviendrait, dans un premier temps, de définir les deux notions et, dans un second temps, d’évaluer leur degré de compatibilité. Or une telle analyse semble impossible tant les définitions sont infinies, variant selon les cultures, les époques et les individus. La démocratie est-elle une forme de gouvernement ou de société, voire une activité citoyenne ou le tout à la fois ? Les prismes d’analyse sont multiples et conditionnent les définitions. De plus, l’étude de l’extrême droite se confond souvent avec la lutte contre celle-ci[[3]](#footnote-3). Recherche scientifique et engagement moral s’entrechoquent. Nous devons nous garder de confondre « ce qui est » avec « ce que nous pensons être ». L’extrême droite ne peut se résumer à une antithèse de nos propres croyances politiques[[4]](#footnote-4). Dès lors, la question du caractère démocratique ou non de l’extrême droite n’aurait objectivement aucun sens.
+
+Mais la montée électorale des partis tels que le FN et le FPÖ ainsi que la présence de ce dernier au sein du gouvernement fédéral autrichien, nous invitent à nous poser une seconde question : comment l’extrême droite définit-elle la démocratie ?
+
+## Souveraineté et unité
+
+Les partis d’extrême droite que nous avons cités mobilisent une rhétorique qui divise le monde en deux entités opposées : les « élites » et le « peuple »[[5]](#footnote-5). Selon eux, les élites confisquent la souveraineté populaire. Elles n’agissent pas au nom de l’intérêt général mais bien de leurs intérêts privés. La démocratie est ainsi détournée de son fonctionnement. À l’inverse, le peuple, majoritaire (et donc détenteur de la vérité), homogène et travailleur, produit de la richesse. Il est honnête, courageux et légitime. Selon Herbert Kickl, ancien secrétaire du FPÖ et actuel ministre fédéral de l’Intérieur, alors que les représentants des partis de droite et de gauche ne s’intéressent qu’à leur carrière politique, le FPÖ est « le seul qui représente les Autrichiens dans ses politiques[[6]](#footnote-6) ».
+
+De manière générale, ce type de discours n’affiche pas ouvertement une hostilité envers la démocratie, il considère plutôt que celle-ci est un leurre. La demande d’une « vraie » démocratie qui se passerait de tout intermédiaire entre la volonté populaire et son action est au cœur des discours des deux partis d’extrême droite. Les revendications en faveur du référendum sont récurrentes car, comme le déclare Marine Le Pen, « en démocratie, je crois que le peuple a toujours raison[[7]](#footnote-7) ». Mais, dans sa vision radicale, ce projet s’oppose aux logiques de compromis et de débat. Les « agents intermédiaires » (partis, syndicats, associations…) sont considérés comme néfastes et corrompant la volonté populaire. L’action directe devient un maître mot.
+
+Si le peuple se définit par opposition aux élites, il est également appréhendé au travers de certaines valeurs (amour de la patrie, histoire de la nation, promotion des traditions…). Le peuple, a priori composé d’individus avec des intérêts divers, est ici unifié. Selon Heinz-Christian Strache, président du FPÖ et vice-chancelier, l’Autriche a besoin d’une « unité sociale pour stabiliser le pays[[8]](#footnote-8) ». L’unité d’un peuple représente sa force, sa volonté d’être libre et souverain et les valeurs qui forgent cette unité sont non négociables. Ainsi, le multiculturalisme perturbe la séparation entre un « nous » composant la nation et un « eux » extérieur (les musulmans et les immigrés étant actuellement les cibles principales).
+
+Face au « communautarisme » selon Marine Le Pen ou face aux « sociétés parallèles » selon le jargon de Heinz-Christian Strache, la nation unifiée serait la seule réponse. L’intégration devient une obligation. Selon ces deux présidents de parti, l’« altérité » laisse entendre qu’il existe différents modes de vie nationaux, différentes valeurs nationales et que les traditions et les lois sont optionnelles, négociables ou discutables en fonction des individus, ce qu’ils contestent fermement. En ce sens, le FN et le FPÖ proposent de mettre à l’agenda les questions de « préférence nationale » et de « contrôle des frontières ». Les « étrangers » doivent être bannis de la société ou, du moins, rendus invisibles et la logique « une terre, un peuple » demeure[[9]](#footnote-9).
+
+## Identité
+
+Les notions de souveraineté et d’unité sont intimement liées à la question de l’identité. Le Front national et le Parti de la liberté prônent une forme de « nationalisme holiste », de « théorie exclusive de l’État providence » dont la redistribution des richesses dépendrait de l’appartenance ou non à l’identité nationale, véritable « matrice idéologique de l’extrême droite moderne[[10]](#footnote-10) ».
+
+Nous rappelons que l’identité est avant tout un signifiant vide pouvant se remplir de sens et de valeurs à défendre en fonction des contextes. Dans les discours du FN et du FPÖ, la langue, les traditions, les coutumes et l’histoire nationale jouent un rôle prépondérant. Mais l’identité se définit également au travers de l’identité de l’« autre ». Derrière l’« autre », il y aurait la crainte d’un « vol », d’une perte de nous-même. Les musulmans et les immigrés remettent en cause ce qui nous rassemble, nous unit et donc nous définit. Cette logique d’identité négative insiste sur la frontière et la mise à l’écart.
+
+Au sein d’une telle rhétorique prônant une politique identitaire restrictive et exclusive, la société multiculturelle, les revendications minoritaires, la diversité religieuse, sociale ou culturelle sont à bannir ou à éradiquer[[11]](#footnote-11). Ce « nouveau racisme » ou « racisme voilé » n’est plus structuré autour d’une hiérarchie des races mais d’une dichotomie assimilable/inassimilable. En ce sens, le programme du FPÖ déclare : « les groupes de migrants de confession islamique refusent de s’intégrer : la violence, les mariages forcés, les crimes d’honneur, l’oppression des femmes, le manque de démocratie – ces valeurs sont clairement incompatibles avec nos valeurs européennes et chrétiennes (…)[[12]](#footnote-12). »
+
+Pour le FN ou le FPÖ, ce positionnement n’est nullement en contradiction avec la notion de démocratie telle qu’ils la définissent. Bien au contraire, la démocratie est considérée comme un « principe fondamental » et « sacré » qu’il faudrait protéger[[13]](#footnote-13). Comme l’écrivait déjà Paul Hainsworth, leur conception traduit une vision « restrictive de la société, de la citoyenneté et de la démocratie, considérées comme intimement liées à une communauté homogène d’un point de vue culturel, sinon ethnique »[[14]](#footnote-14). La redistribution des richesses et des services est limitée aux membres de la communauté nationale, tout comme certains droits sociaux ou politiques sont attribués en fonction de l’appartenance ou non à l’identité nationale. Ainsi, pour l’extrême droite, la démocratie est limitée à la communauté nationale et culturelle.
+
+Selon le FN et le FPÖ, la démocratie se définit principalement comme 1) un gouvernement du peuple par le peuple et pour le peuple ; 2) une société prônant des valeurs de liberté, d’égalité et de laïcité. Or ce gouvernement du peuple serait limité aux citoyens possédant une même identité nationale qui permettrait de jouir du droit de vote, des aides sociales, d’allocations, de revenus complémentaires… Nous pourrions désigner cette vision spécifique de la démocratie sous l’appellation de « démocratie identitaire ».
+
+La démocratie identitaire est opposée à toute division du peuple, toujours homogène et unanime. Le débat est écarté au profit d’une action directe émanant du peuple, source de légitimité. Si certains auteurs qualifient ce modèle de « démocratie unitaire »[[15]](#footnote-15), nous proposons d’aller plus loin au vu de l’importance accordée à la question de l’identité et au rejet de la diversité. En effet, la « démocratie identitaire » traduit un important repli et une profonde hostilité envers tout individu qui ne partage pas la même représentation du destin collectif national. Opposée au multiculturalisme, la démocratie identitaire est le gouvernement d’un peuple homogène dont les membres sont limités par leur appartenance à une communauté définie en fonction de différents facteurs (traditions, coutumes, histoire nationale, langue…) servant d’éléments à la fois d’identification et d’exclusion : « nous » et les « autres », l’« assimilable » et le « non-assimilable ».
+
+La démocratie identitaire est-elle un oxymore comme l’est une « obscure clarté » ou un « silence assourdissant » ? Est-ce un pur produit cosmétique servant à élargir l’électorat « traditionnel » de l’extrême droite, le résultat d’un long processus de « dédiabolisation » ? La question demeure. Ainsi, si nous ne pouvons répondre objectivement à la question actuelle de l’opposition ou non entre l’extrême droite et la démocratie sans être confronté sans cesse à des contre-exemples, nous pouvons cependant tenter d’étudier la définition de la démocratie telle que proposée par l’extrême droite, analyser sa rhétorique et dégager ses enjeux idéologiques. Une fois cet exercice réalisé, il convient ensuite à tout un chacun de se demander s’il accepterait ou non de vivre dans une telle démocratie…
+
+
+
+ 
+
+
+
+1.  JAMIN Jérôme, _L’extrême droite en Europe_, Bruylant, 2016, p.4.
+2.  Deleersnijder Henri, _Démocraties en péril. L’Europe face aux dérives du national-populisme_, Renaissance du Livre, 2014, p. 39.
+3.  À l’instar de l’association des Territoires de la Mémoire, centre d’éducation à la Résistance et à la Citoyenneté s’engageant contre les partis et mouvements d’extrême droite tout en proposant différentes ressources (ouvrages, dossiers et publications) de qualité sur l’étude de nombreux phénomènes politiques dont l’extrémisme.  
+4.  MUDDE Cas, « The War of Words Defining the Extreme Right Party Family », in _Western Europan Politics_, n°19, 1996, pp.228.
+5.  Le discours est qualifié de populiste. Le populisme n’est pas propre à un courant politique particulier, il se greffe sur des idéologies (libéralisme, socialisme…). Il est un discours sur la société pouvant être de droite ou de gauche, d’extrême droite ou d’extrême gauche (cf. JAMIN Jérôme, _L’imaginaire du complot ; discours d’extrême droite en France et aux Etats-Unis_, Amsterdam University Press, 2009.
+6.  KICKL Herbert, « FPÖ is einzige Volkspartei Österreichs », [http://www.fpoe.at](http://www.fpoe.at/) (8 août 2017).
+7.  France 2, « L’entretien politique (28 mars 2017) », [http://www.frontnational.com](http://www.frontnational.com/) (29 mars 2017).
+8.  Radio Niederösterreich, « Strache : Integration ist für mich eine Bringschuld », [http://fpoe.at](http://fpoe.at/) (8 août 2017).
+9. Camus Jean-Yves, « Droites extrêmes, droites radicales en Europe : continuités et mutation », in Jamin Jérôme (dir.), _L’extrême droite en Europe_, op. cit., p. 16.
+10. FERRIE Christian, « Du principe identitaire », _Revue Lignes_, n°45, 2014, p.57.
+11. BETZ Hans-Georg, _La droite populiste en Europe ; Extrême et démocratie_, Autrement, 2004, p.14.
+12. FPÖ, « Null Toleranz gegen Islamismus und Unterdrückung von Frauen », [http://www.fpoe.at](http://www.fpoe.at/) (8 août 2018).
+13. Front National, « Notre projet : programme politique du Front national », [http://www.frontnational.com](http://www.frontnational.com/) (7 septembre 2015).
+14. HAINSWORTH Paul (ed.), _The Politics of the Extreme Right_, Pinter, 2000, p.10.
+15. Le concept est notamment avancé par Benjamin Barber pour désigner une forme de démocratie refusant le conflit et recherchant l’ordre, l’homogénéité, le consensus (cf. BARBER Benjamin, _Démocratie forte_, Desclée de Brouwer, 1997).
