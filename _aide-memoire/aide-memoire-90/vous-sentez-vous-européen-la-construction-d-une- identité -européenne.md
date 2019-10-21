@@ -5,7 +5,6 @@ title: Vous sentez-vous européen ? La construction d’une « identité » eu
 credits: Par Gilles Rahier et Nicolas Bruwier
 about_the_author: ''
 order: 5
-published: false
 
 ---
 « Pourquoi nos pays ont-ils décidé de créer cette communauté de l’Entente ? Pour la paix. Mais au-delà de la paix ? Pour la prospérité. Et au-delà de la prospérité ? Est-ce pour faire leurs, à nouveau, les vieux démons des nations : la compétition et le désir de domination ? (...) Le passé nous montre que nous n’avons que très rarement été capables d’inventer un autre projet que celui de la domination. Et pourtant, la construction européenne n’aura de sens que si elle est l’occasion d’inventer un nouveau but civilisationnel. »[1](#footnote-1)
