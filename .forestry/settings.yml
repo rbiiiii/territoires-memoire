@@ -15,12 +15,12 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _aide-memoire
-  label: Aide memoire
+  path: _aide-memoire-numeros
+  label: Numéros Aide memoire
   create: all
   match: "**/*"
 - type: directory
-  path: _am-posts
+  path: _aide-memoire
   label: Articles Aide-mémoire
   create: all
   match: "**/*"
