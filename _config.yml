@@ -102,6 +102,6 @@ webrick:
 include: ["_headers", "_redirects"]
 
 # Excludes
-exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", ".forestry", "admin"]
+exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/", ".forestry"]
 
 lsi : false
