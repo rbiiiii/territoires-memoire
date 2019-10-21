@@ -3,7 +3,7 @@ label: Articles Aide-mémoire
 hide_body: false
 display_field: title
 fields:
-- name: numero
+- name: categories
   type: select
   default: []
   config:
