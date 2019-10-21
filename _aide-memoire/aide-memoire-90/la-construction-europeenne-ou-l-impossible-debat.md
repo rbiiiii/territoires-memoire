@@ -1,5 +1,5 @@
 ---
-numero: _aide-memoire-numeros/aide-memoire-n-90.md
+categories: _aide-memoire-numeros/aide-memoire-n-90.md
 type: article
 title: La construction européenne ou l’impossible débat
 credits: Par Olivier Starquit
