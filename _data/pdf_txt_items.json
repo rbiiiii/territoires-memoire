@@ -135,7 +135,13 @@
 		"img_src": "pdf-outils-les_vacances_de_jules.jpg",
 		"pdf_src": "tm-outils-les_vacances_de_jules.pdf",
 		"txt" : "Ce spectacle de marionnettes destiné à un jeune public (5 à 8 ans) propose une découverte de la citoyenneté, un éveil au respect de l’autre et une initiation à la tolérance.",
-		"categorie": "outils-pedagogiques"
+		"categorie": "outils-pedagogiques",
+		"peda": [
+			{
+				"title" : "Dossier pédagogique",
+				"url" : "/assets/pdf/eduquer/tm-outils-vacances_de_jules-dossier_pedagogique.pdf"
+			}
+		]
 	},
 	{
 		"title": "Résiste !",
