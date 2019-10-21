@@ -49,3 +49,5 @@ fields:
 - type: number
   name: order
   label: Ordre d'apparition
+pages:
+- _aide-memoire/aide-memoire-90/la-construction-européenne-ou-l-impossible-débat.md
