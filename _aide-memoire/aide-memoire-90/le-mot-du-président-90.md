@@ -1,0 +1,19 @@
+---
+categories: _aide-memoire-numeros/aide-memoire-n-90.md
+type: article
+title: Le mot du Président (90)
+credits: Par Jérôme Jamin
+about_the_author: ''
+order: 10
+
+---
+Pour beaucoup de personnalités marquées à l’extrême droite, « Bruxelles » est une capitale lointaine, cosmopolite et multiculturelle où « sévissent » les « bureaucrates apatrides »,  
+ « pro-immigration », souvent « corrompus », à la solde du capitalisme et du marché, « contre les peuples, contre les nations, contre les identités ». Et plus ces personnalités sont à distance, plus l’image qu’ils proposent à leurs militants est loufoque et extravagante : le Premier ministre hongrois Viktor Orbán parle d’une ville « islamisée » sous le « contrôle du lobby de l’immigration et de George Soros… ». Certes, on a parfois un peu peur de ce qu’on ne connaît pas, et il faut comprendre qu’avec une telle concentration du pouvoir, cette ville devient vite un fantasme pour celui qui doit parcourir 1000 ou 2000 kilomètres avant d’arriver au rond-point Schuman dans le quartier européen. Washington subit le même sort dans l’esprit de beaucoup d’Américains issus de l’Utah, du Wyoming ou du Nebraska : « un repère de “mondialistes déracinés” sans âme, sans cœur, sans identité ».
+
+![Photo de Jérôme Jamin](https://www.territoires-memoire.be/assets/uploads/am-84-jerome-jamin.jpg)
+
+Pour Les Territoires de la Mémoire, ses membres et ses militants en Belgique francophone, Bruxelles, c’est l’affaire de 10 à 120 minutes maximum de déplacement, nous avons un accès géographique direct au cœur des institutions et de toutes les structures publiques ou privées qui pèsent sur elles, notamment les lobbies en tout genre, dont certains instituts politiques qui se battent pour préserver le caractère démocratique de l’Union, mais aussi l’État de droit au sein des États-membres.
+
+Ce qui précède prend aujourd’hui une tournure d’autant plus particulière que notre ancien Premier ministre Charles Michel a été nommé le 2 juillet Président du Conseil européen (il succède à Donald Tusk), et qu’un autre ancien ministre belge (Didier Reynders) a été désigné le 10 septembre Commissaire européen en charge de la Justice, c’est-à-dire notamment du contrôle du respect par les États-membres des principes fondamentaux qui régissent l’Union européenne, notamment au niveau de l’État de droit. Ces deux fonctions sont capitales par rapport au chemin que prendra l’Union dans les cinq ans.
+
+Paradoxalement, on ne profite pas de cette proximité pour renforcer l’agenda progressiste, rien n’indique que le monde intellectuel, journalistique, associatif ou politique belge francophone profite davantage de cette position stratégique que d’autres villes ou régions. Et avec l’apparition de régimes hybrides semi-démocratiques comme la Hongrie ou la Pologne, il y a sans doute une opportunité à saisir. Viktor Orbán n’est pas simplement le champion d’une Europe blanche et chrétienne et un modèle pour de nombreux partis d’extrême droite en Europe (dont la Ligue de Matteo Salvini en Italie), il est l’artisan d’une politique de l’immigration zéro au sens littéral, pas un migrant sur le territoire ! Il sait se tourner vers Vladimir Poutine quand Bruxelles lui reproche sa mainmise sur les médias et la mise au pas de la magistrature qui aujourd’hui – factuellement – n’est plus indépendante. Il apprécie Recep Tayyip Erdoğan pour son leadership et ses méthodes autoritaires, et par-dessus tout, il rêve de déplacer le centre de gravité culturel et idéologique de l’Union européenne vers l’Europe centrale. À ses yeux, les nations « islamisées » victimes du « grand remplacement » (France, Belgique, Royaume-Uni, etc.) doivent regarder vers la Hongrie et la Pologne pour se régénérer et renouer avec l’Europe chrétienne ! L’Europe éternelle !
