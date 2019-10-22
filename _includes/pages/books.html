@@ -28,7 +28,7 @@
                                     </div>
                                 {% endif %}
                             </div>
-                            <div class="pdf-txt__item__text__txt">{{ book.content }}</div>
+                            <div class="pdf-txt__item__text__txt">{{ book.content | markdownify}}</div>
                         </div>
                     </div>
             {% if book.link %}        
