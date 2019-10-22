@@ -4,7 +4,7 @@ categories: agenda
 title: Les Carnets de Peter
 date_start: '2020-04-26'
 date_stop: '2020-04-28'
-img_file: /assets/uploads/1er-choix-a-recadrer.jpg
+img_file: /assets/uploads/carnetsdepeter_sitetm.jpg
 place: 'La Cité Miroir. Place Xavier-Neujean 22, 4000 Liège'
 address: 'place Xavier-Neujean 22, 4000 Liège'
 price: 8€/7€/3€
