@@ -10,7 +10,7 @@ address: 'Pl. Xavier-Neujean 22, 4000 Liège'
 tags:
   - foire
 schedule: de 11h à 21h
-entrance: Entrée gratuite
+entrance: ''
 practical: '<http://lafoiredulivre.net/>'
 ---
 ### Le 15/11 de 13h-14h : Débat « ’’Stress identitaire’’: équilibre précaire entre fabrique et héritage »
