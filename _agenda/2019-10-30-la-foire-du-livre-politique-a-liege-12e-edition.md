@@ -13,7 +13,7 @@ schedule: de 11h à 21h
 entrance: Entrée gratuite
 practical: '<http://lafoiredulivre.net/>'
 ---
-## Le 15/11 de 13h-14h : Débat « ’’Stress identitaire’’: équilibre précaire entre fabrique et héritage »
+### Le 15/11 de 13h-14h : Débat « ’’Stress identitaire’’: équilibre précaire entre fabrique et héritage »
 
 Organisé par les Territoires de la Mémoire
 
@@ -21,7 +21,7 @@ Avec _Jean-François Füeg_, historien, auteur de Ni Dieu, ni halušky, aux édi
 
 L’identité est un champ aux dimensions infinies dans lequel se déploient l’individu et la communauté, le singulier et l’universel. Mais quelles sont les parts de construction et de déterminisme qui interviennent dans l’édification de tout individu et dans le rapport que celui-ci entretiendra avec l’Autre, ainsi qu’avec lui-même ? L’identité se confond-elle nécessairement avec les origines ? Auteur et historien, Jean-François Füeg interroge la notion de « stress identitaire » dans son dernier ouvrage : Ni Dieu, ni halušky. Comment appréhender son identité quand celle-ci s’est forgée par la dissimulation, le refoulement voire le mensonge ? Peut-on apprendre à connaître et à accepter l’Autre si on ne se connaît pas et ne s’accepte pas d’abord soi-même ? Voici les questions que, parmi d’autres, ce remarquable ouvrage laisse à notre appréciation.
 
-## Le 16/11 de 13h30 à 14h15 : Débat « Comment lutter contre l’extrême droite et le racisme sur les réseaux sociaux »
+### Le 16/11 de 13h30 à 14h15 : Débat « Comment lutter contre l’extrême droite et le racisme sur les réseaux sociaux »
 
 Organisé par Le Journal de RésistanceS (ASBL RésistanceS) et le MRAX (Mouvement contre le Racisme, l'Antisémitisme et la Xénophobie)
 
