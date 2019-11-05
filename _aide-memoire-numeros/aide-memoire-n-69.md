@@ -1,5 +1,5 @@
 ---
-show: false
+show: true
 title: Aide-mémoire n°69
 slug: aide-memoire-69
 num: 69
