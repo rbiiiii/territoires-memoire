@@ -1,0 +1,28 @@
+---
+categories: _aide-memoire-numeros/aide-memoire-n-69.md
+type: article
+title: 'Sonia Combe : Une vie contre une autre'
+credits: Par Jean-Louis Rouhart
+about_the_author: ''
+order: 13
+
+---
+On ne peut que saluer la démarche de Sonia Combe qui, dans cet essai, analyse l’échange de victime en tant que modalité de survie dans le camp de Buchenwald et réexamine le rôle de la résistance antifasciste (communiste) dans ce camp. Ce faisant, elle bouleverse nombre d’idées reçues sur les détenus politiques et va au-delà du manichéisme traditionnel qui a figé la recherche dans l’ancienne RDA et orienté les discours des historiens de la nouvelle Allemagne réunifiée.
+
+![](https://www.territoires-memoire.be/assets/uploads/9782213672120-X.jpg)
+
+Concernant les échanges de victimes, l’auteure rappelle que les échanges de prisonniers avec des concentrationnaires morts ou presque morts, effectués à partir de 1942 par des détenus en fonction (Kapos) communistes dans les centres administratifs principaux du camp, faisaient partie du registre d’actions dont disposaient les détenus pour leur survie. Si des personnalités telles que Jorge Semprun, Imre Kertész, Elie Wiesel et Stéphane Hessel (entre autres) ont survécu, c’est grâce à cette mesure. Les remplacements des noms sur les listes des prisonniers destinés à des « transports » et donc voués à la mort, pratiqués par ces mêmes détenus en fonction, étaient également une pratique courante et relevaient, contrairement à ce que d’aucuns ont pu affirmer, tant d’une solidarité ethnique entre prisonniers d’une même nationalité que d’une solidarité politique intervenant entre des détenus d’une même obédience.
+
+Sonia Combe fait également remarquer que, d’après les témoignages de nombreux survivants, la résistance antifasciste n’a pas sauvé que des communistes à Buchenwald. D’autres catégories de détenus, notamment des Juifs, adultes et enfants, leur doivent la vie, comme le montre le récit du petit Stefan Jerzy Zweig dans le roman _Nu parmi les loups_ et la version cinématographique du même nom. Cette histoire, qui a contribué à façonner le mythe fondateur de la nation est-allemande, est certes très édulcorée mais néanmoins révélatrice dans la mesure où elle montre que certains individus ont pu survivre grâce à l’existence d’un réseau organisé de personnes partageant les mêmes opinions (communistes)[1](#footnote-1).
+
+Sonia Combe mentionne également les raisons pour lesquelles la pratique des échanges des victimes, présente dans les études et les témoignages recueillis directement après la libération du camp, a été occultée par la suite pendant des années. Elle évoque ainsi le sentiment de culpabilité, inclus dans le syndrome des survivants, qu’ont développé certains bénéficiaires des échanges, les empêchant d’évoquer publiquement certains traumatismes et d’en faire partager le souvenir. Elle fait part également de la longue méfiance des historiens à l’égard des sources testimoniales orales et écrites et de leur réticence à parler de l’« indicible », en fait de la « zone grise » et des formes de collaboration avec les autorités du camp mises en exergue par Primo Levi. À la lumière d’archives rendues accessibles en 2007, elle montre en outre que des communistes est-allemands, venus de l’extérieur, ont eu intérêt à dissimuler des documents compromettants à charge de certains résistants antifascistes du camp, devenus entretemps leurs adversaires politiques. Il s’agissait pour eux non pas, comme on serait tenté de le croire, de couvrir les actes répréhensibles que les Kapos communistes auraient éventuellement commis, mais d’empêcher la divulgation des mesures répressives prises à l’encontre de ces Kapos lors des procès ayant suivi la libération des camps.
+
+Par ailleurs, Sonia Combe prend ses distances par rapport aux historiens ouest-allemands qui tendent à discréditer les Kapos communistes et à sous-estimer leur rôle lors de la libération du camp de Buchenwald. Elle montre ainsi que les anciens résistants communistes, élevés à la dignité de héros dans les publications officielles de la RDA, puis descendus brutalement de leur piédestal après la Réunification de l’Allemagne, avaient leurs qualités et leurs faiblesses ; elle constate toutefois que la plupart du temps, leurs actions sont jugées positives dans les documents testimoniaux oraux et écrits. Par ailleurs, elle considère que les antifascistes, s’ils n’ont pas libéré le camp de Buchenwald par eux-mêmes, ont correctement apprécié la situation en avril 45 en ne déclenchant pas une insurrection prématurée.
+
+Mettant en balance les mythes est-allemand et ouest-allemand, Sonia Combe fait observer que c’est l’Allemagne de l’Ouest qui a produit les mythes les plus contraires à la vérité historique, en l’occurrence les mythes de la _Wehrmacht_ et de la diplomatie du _Reich_ prétendument étrangères au génocide des Juifs.
+
+Enfin, elle nous rappelle que l’histoire est un constant _work in progress,_ que selon la période et les enjeux du moment, l’interprétation d’un même fait peut conclure à l’établissement de vérités quasi antagoniques. C’est pourquoi il conviendrait, selon elle, de dépasser le stade par trop réducteur du postcommunisme qui s’est développé après la Réunification et de reprendre la recherche sur l’antifascisme en la replaçant dans le cadre plus général de la lutte collective européenne contre le nazisme.
+
+**Sonia Combe, _Une vie contre une autre.Échange de victime et modalités de survie dans le camp de Buchenwald_, Paris, Fayard, 2014**
+
+1. À ce sujet, voir notre article : « Bill Niven : The Buchenwald Child. Truth, Fiction and Propaganda » in _Aide-mémoire_ 63, octobre-décembre 2013.
