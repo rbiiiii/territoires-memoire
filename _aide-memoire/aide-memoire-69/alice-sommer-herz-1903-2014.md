@@ -13,7 +13,7 @@ Qui peut prétendre jouer, pour le plaisir, une œuvre de Chopin à la veille de
 
 Son mari mourut du typhus à Dachau. Elle survécut, ainsi que son jeune fils Raphaël qui devint un violoncelliste réputé. Elle dut interrompre sa carrière de concertiste et devint un des témoins les plus actifs de la Shoah. Elle eut la douleur de perdre son fils en 2001, mais continua de témoigner et de répondre aux interviews pratiquement jusqu’à sa mort le 23 février 2014.
 
-« Je suis juive, mais Beethoven est ma religion. »
+« Je suis juive, mais Beethoven est ma religion_._ »
 
 À voir :
 
