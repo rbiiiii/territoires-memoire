@@ -49,4 +49,4 @@ Où trouver des enregistrements de Florence Price ? Il faut d’abord prendre so
 
 Si l’on excepte des compilations de différents artistes chantant des _negro spirituals_ ou des _art songs_ à la qualité variable, c’est à peu près tout. Mais il n’est pas interdit de se promener sur le site _Youtube_ ! On y trouve entre autres une très belle interprétation de sa _Sonate pour piano_ par Karen Walwyn, ainsi que des extraits d’un concert basé sur les compositrices noires, avec notamment la fascinante chanteuse Yolanda Rhodes.
 
-1. Voir notre article : « Scott Joplin contre l’obscurité » in _Aide-mémoire_ n°61 (juillet-septembre 2012).
+1. Voir notre article : « Scott Joplin contre l’obscurité » in _Aide-mémoire_ n°61 (juillet-septembre 2012)_._
