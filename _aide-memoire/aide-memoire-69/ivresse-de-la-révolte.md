@@ -17,6 +17,6 @@ En contrepoint aux émeutes, la deuxième partie poursuit le chant des pavés au
 
 La fuite du Président prend alors des accents introspectifs nourris de frustration entre la mère et l’enfant pour cheminer mélancoliquement vers une nostalgie qui occulte l’impuissance d’agir ici et maintenant.
 
-Un livre fort, un livre exigeant, un livre toute en force contenue.
+Un livre fort, un livre exigeant, un livre toute en force contenue_._
 
 **Loïc Merle, _L’esprit de l’ivresse_, Actes Sud, 2013, 22 €**
