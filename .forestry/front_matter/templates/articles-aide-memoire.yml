@@ -50,6 +50,7 @@ fields:
   name: order
   label: Ordre d'apparition
 pages:
+- _aide-memoire/aide-memoire-69/fascism-inc.md
 - _aide-memoire/aide-memoire-69/ivresse-de-la-révolte.md
 - _aide-memoire/aide-memoire-69/alice-sommer-herz-1903-2014.md
 - _aide-memoire/aide-memoire-69/autour-de-langston-hughes-1ère-partie.md
