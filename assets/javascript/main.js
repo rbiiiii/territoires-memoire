@@ -72,37 +72,6 @@ $(document).on('keyup', function(event) {
     }
 });
 
-
-// HOMEPAGE VIDEO CONTROLS
-
-var homeVideo = $('#homepage-intro__video'),
-homeVideoContainer = $('.homepage-intro__video-container'),
-statusIndicator = $('.homepage-intro__video__status-indicator'),
-videoStatus = true;
-
-homeVideoContainer.on('click', checkVideoStatus);
-
-function checkVideoStatus() {
-    if (videoStatus) {
-        pauseVideo();
-    } else {
-        playVideo();
-    }
-}
-
-function pauseVideo() {
-    homeVideo.get(0).pause();
-    statusIndicator.addClass('visible');
-    videoStatus = false;
-}
-
-function playVideo() {
-    homeVideo.get(0).play();
-    statusIndicator.removeClass('visible');
-    videoStatus = true;
-}
-
-
 // SLIDERS
 
 $( document ).ready(function() {

@@ -11,58 +11,6 @@ layout: default
       </div>
     </div>
 
-    <script src="https://apis.google.com/js/platform.js"></script>
-
-    <script>
-      // Load the IFrame Player API code asynchronously.
-      var tag = document.createElement('script');
-      tag.src = "https://www.youtube.com/player_api";
-      var firstScriptTag = document.getElementsByTagName('script')[0];
-      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-  
-      var playerHeader;
-  
-      function onYouTubeIframeAPIReady() {
-        playerHeader = new YT.Player('headerVideo', {
-          height: '360',
-          width: '640',
-          videoId: 'AJ2javyp910',
-          playerVars: {
-            autoplay: 1, // Auto-play the video on load
-            controls: 0, // Show pause/play buttons in player
-            showinfo: 0, // Hide the video title
-            modestbranding: 1, // Hide the Youtube Logo
-            loop: 1, // Run the video in a loop
-            cc_load_policy: 0, // Hide closed captions
-            iv_load_policy: 3, // Hide the Video Annotations
-            autohide: 0, // Hide video controls when playing
-            playlist : 'AJ2javyp910'
-          },
-          events: {
-            'onReady': function (e) {
-              e.target.mute();
-              e.target.playVideo();
-            },
-            'onStateChange': function(e) {
-              if (e.data === YT.PlayerState.ENDED) {
-                player.playVideo(); 
-              }
-              }
-          }
-        });
-  
-        
-        
-      }
-  
-    </script>
-
-
-
-
-
-
-
     <div class="card card--one">
       <p class="page-section__description">
         Les Territoires de la Mémoire sont un centre d'Éducation à la Résistance et à la Citoyenneté. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l'association développe diverses initiatives pour transmettre le passé et encourager l'implication de tous dans la construction d'une société démocratique garante des libertés fondamentales. 
