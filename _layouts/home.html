@@ -6,14 +6,63 @@ layout: default
 
   <section class="page-section homepage-intro">
     <div class="homepage-intro__video-container">
-      <video id="homepage-intro__video" autoplay muted loop>
-        <source src="" data-low-src="/assets/videos/tdlm_site_intro-video_low.mp4" data-src="/assets/videos/tdlm_site_intro-video.mp4" type="video/mp4">
-        Votre navigateur ne supporte pas la vidéo d'introduction de notre site.
-      </video>
-      <div class="homepage-intro__video__status-indicator">
-        <span>&#9612;&#9612;</span>
+      <div>
+        <iframe id="headerVideo" allowfullscreen="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/AJ2javyp910?autoplay=1&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;loop=1&amp;cc_load_policy=0&amp;iv_load_policy=3&amp;autohide=0&amp;playlist=AJ2javyp910&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.territoires-memoire.be&amp;widgetid=2" width="640" height="360" frameborder="0"></iframe>
       </div>
     </div>
+
+    <script src="https://apis.google.com/js/platform.js"></script>
+
+    <script>
+      // Load the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/player_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+  
+      var playerHeader;
+  
+      function onYouTubeIframeAPIReady() {
+        playerHeader = new YT.Player('headerVideo', {
+          height: '360',
+          width: '640',
+          videoId: 'AJ2javyp910',
+          playerVars: {
+            autoplay: 1, // Auto-play the video on load
+            controls: 0, // Show pause/play buttons in player
+            showinfo: 0, // Hide the video title
+            modestbranding: 1, // Hide the Youtube Logo
+            loop: 1, // Run the video in a loop
+            cc_load_policy: 0, // Hide closed captions
+            iv_load_policy: 3, // Hide the Video Annotations
+            autohide: 0, // Hide video controls when playing
+            playlist : 'AJ2javyp910'
+          },
+          events: {
+            'onReady': function (e) {
+              e.target.mute();
+              e.target.playVideo();
+            },
+            'onStateChange': function(e) {
+              if (e.data === YT.PlayerState.ENDED) {
+                player.playVideo(); 
+              }
+              }
+          }
+        });
+  
+        
+        
+      }
+  
+    </script>
+
+
+
+
+
+
+
     <div class="card card--one">
       <p class="page-section__description">
         Les Territoires de la Mémoire sont un centre d'Éducation à la Résistance et à la Citoyenneté. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l'association développe diverses initiatives pour transmettre le passé et encourager l'implication de tous dans la construction d'une société démocratique garante des libertés fondamentales. 

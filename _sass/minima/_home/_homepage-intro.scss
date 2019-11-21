@@ -60,41 +60,21 @@
     overflow:hidden;
     background:black;
     position:relative;
-}
 
-#homepage-intro__video {
-    width: 100%;
-    height: auto;
-    background:black;
-}
-
-.homepage-intro__video__status-indicator {
-    position:absolute;
-    background:none;
-    border:none;
-    color:white;
-    text-shadow:1px 1px $bleu-tm-light;
-    font-size:25px;
-    z-index:5;
-    opacity:0;
-    transform:scale(0);
-    transform-origin: 50% 50%;
-    transition:70ms opacity ease-out, 70ms transform ease-out;
-
-    &:hover, &:focus {
-        cursor:pointer;    
-        content:"&#9654;";
+    div {
+        position: relative;
+        height: 0;
+        padding-bottom: 56.25%;
+        width: 100%;
+        height: 100%;
     }
-
-    &.visible {
-        opacity:1;
-        transform:scale(1);    
-    }
-
-    span {
-        width:50px;
-        display:inline-block;
-        text-align: center; 
+    
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
     }
 }
 
