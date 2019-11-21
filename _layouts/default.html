@@ -73,45 +73,83 @@
       })();
     </script>
     {%- if thisPageClass == "home" -%}
-      <script src="https://apis.google.com/js/platform.js"></script>
       <script>
-        // Load the IFrame Player API code asynchronously.
-        var tag = document.createElement('script');
-        tag.src = "https://www.youtube.com/player_api";
-        var firstScriptTag = document.getElementsByTagName('script')[0];
-        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+        // SHOW / HIDE VIDEO 
 
-        var playerHeader;
+        var viewportWidth;
+        var headerVideo = document.getElementById("headerVideo");
 
-        function onYouTubeIframeAPIReady() {
-          playerHeader = new YT.Player('headerVideo', {
-            height: '360',
-            width: '640',
-            videoId: 'AJ2javyp910',
-            playerVars: {
-              autoplay: 1, // Auto-play the video on load
-              controls: 0, // Show pause/play buttons in player
-              showinfo: 0, // Hide the video title
-              modestbranding: 1, // Hide the Youtube Logo
-              loop: 1, // Run the video in a loop
-              cc_load_policy: 0, // Hide closed captions
-              iv_load_policy: 3, // Hide the Video Annotations
-              autohide: 0, // Hide video controls when playing
-              playlist : 'AJ2javyp910'
-            },
-            events: {
-              'onReady': function (e) {
-                e.target.mute();
-                e.target.playVideo();
-              },
-              'onStateChange': function(e) {
-                if (e.data === YT.PlayerState.ENDED) {
-                  player.playVideo(); 
-                }
-                }
-            }
-          });
+        var setViewportWidth = function () {
+          viewportWidth = window.innerWidth || document.documentElement.clientWidth;
         }
+
+        var logWidth = function () {
+          
+          if (viewportWidth > 767) {
+            // load google API
+            var ggApi = document.createElement('script');
+            ggApi.src = "https://apis.google.com/js/platform.js";
+            document.body.append(ggApi);
+
+            // Load the IFrame Player API code asynchronously.
+            var tag = document.createElement('script');
+            tag.src = "https://www.youtube.com/player_api";
+            var firstScriptTag = document.getElementsByTagName('script')[0];
+            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+            
+            // Show video
+            headerVideo.src = 'https://www.youtube-nocookie.com/embed/AJ2javyp910?autoplay=1&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;loop=1&amp;cc_load_policy=0&amp;iv_load_policy=3&amp;autohide=0&amp;playlist=AJ2javyp910&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.territoires-memoire.be&amp;widgetid=2';
+            headerVideo.style.display = "block";
+
+            var playerHeader;
+
+            function onYouTubeIframeAPIReady() {
+
+              playerHeader = new YT.Player('headerVideo', {
+                height: '360',
+                width: '640',
+                videoId: 'AJ2javyp910',
+                playerVars: {
+                  autoplay: 1, // Auto-play the video on load
+                  controls: 0, // Show pause/play buttons in player
+                  showinfo: 0, // Hide the video title
+                  modestbranding: 1, // Hide the Youtube Logo
+                  loop: 1, // Run the video in a loop
+                  cc_load_policy: 0, // Hide closed captions
+                  iv_load_policy: 3, // Hide the Video Annotations
+                  autohide: 0, // Hide video controls when playing
+                  playlist : 'AJ2javyp910'
+                },
+                events: {
+                  'onReady': function (e) {
+                    e.target.mute();
+                    e.target.playVideo();
+                  },
+                  'onStateChange': function(e) {
+                    if (e.data === YT.PlayerState.ENDED) {
+                      player.playVideo(); 
+                    }
+                  }
+                }
+              });
+
+              playerHeader.playVideo();
+            }
+          } else {
+            // Hide video
+            headerVideo.style.display = "none";
+          }
+        }
+
+        // Set our initial width and log it
+        setViewportWidth();
+        logWidth();
+
+        // On resize events, recalculate and log
+        window.addEventListener('resize', function () {
+          setViewportWidth();
+          logWidth();
+        }, false);
       </script>
     {%- endif -%}
 

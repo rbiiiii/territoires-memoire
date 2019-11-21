@@ -60,6 +60,8 @@
     overflow:hidden;
     background:black;
     position:relative;
+    background:#000 url('./images/tm-header-video-bg.jpg') no-repeat left top;
+    background-size: contain;
 
     div {
         position: relative;
@@ -68,7 +70,7 @@
         width: 100%;
         height: 100%;
     }
-    
+
     iframe {
         position: absolute;
         top: 0;
