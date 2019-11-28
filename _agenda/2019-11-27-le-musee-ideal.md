@@ -16,7 +16,7 @@ Cette œuvre réalisée tout au long de l’année 2019 par un des artistes phar
 
 En excluant toute forme de stigmatisation liée au handicap mental, la notion d’arts situés rend pleinement justice à la richesse et à la diversité des œuvres. Attentive au respect de la dignité et de l’égalité, Les Territoires de la Mémoire ont décidé de soutenir l’ouverture du Trinkhall en accueillant _Le Musée idéal_ à La Cité Miroir. 
 
-Cette exposition accompagne le colloque [Penser les arts situés](http://www.citemiroir.be/fr/activite/penser-les-arts-situes) qui se tient à l’Université de Liège et à la Cité miroir, du 4 au 6 décembre 2019.
+Cette exposition accompagne le colloque [Penser les arts situés](http://www.citemiroir.be/fr/activite/penser-les-arts-situes) qui se tient à l’Université de Liège et à La Cité Miroir, du 4 au 6 décembre 2019.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
