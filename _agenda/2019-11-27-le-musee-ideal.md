@@ -20,7 +20,7 @@ Cette exposition accompagne le colloque [Penser les arts situés](http://www.ci
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
-Vernissage le mari 4 décembre à La Cité Miroir – Espace Fransisco Ferrer et Bibliothèque Georges Orwell.
+Vernissage le mardi 4 décembre à La Cité Miroir – Espace Fransisco Ferrer et Bibliothèque Georges Orwell.
 
 •  18h : Accueil et mot d’introduction par Carl Havelange
 
