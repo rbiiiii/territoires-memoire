@@ -12,6 +12,7 @@ openTrigger = $('#site-nav__open-trigger'),
 closeTrigger = $('#site-nav__close-trigger');
 
 function openMenu() {
+    body.addClass('overflow');
     openTrigger.attr("aria-expanded","true");
     shadowUp.css('display','none');
     shadowDown.css('display','block');
@@ -19,7 +20,6 @@ function openMenu() {
     body.addClass('nav-opened');
     setTimeout(
         function() {
-            body.addClass('overflow');
             closeTrigger.addClass('down');
         }, 300);
 }
