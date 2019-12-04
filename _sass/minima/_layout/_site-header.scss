@@ -221,6 +221,7 @@ body.nav-opened {
     overflow-x:hidden;
     overflow-y:auto;
     transform:translateX(200vw);
+    transition:transform 350ms ease-out;
 
     @media screen and (min-width:1240px) {
       display:flex;
@@ -237,7 +238,6 @@ body.nav-opened {
     }
 
     .nav-opened & {
-      transition:transform 350ms ease-out;
       transform:translateX(0);
     }
 }

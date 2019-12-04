@@ -13,7 +13,6 @@ closeTrigger = $('#site-nav__close-trigger');
 
 function openMenu() {
     openTrigger.attr("aria-expanded","true");
-    menuList.css('transition','transform 350ms ease-out');
     shadowUp.css('display','none');
     shadowDown.css('display','block');
     menuItemLink.attr('tabindex', '0');
@@ -28,13 +27,8 @@ function openMenu() {
 function closeMenu() {
     openTrigger.attr("aria-expanded","false");
     closeTrigger.removeClass('down');
-    menuList.css('transition','transform 350ms ease-out');
     menuItemLink.attr('tabindex', '-1');
     body.removeClass('nav-opened overflow');
-    setTimeout(
-        function() {
-            menuList.css('transition','none');
-        }, 350);
 }
     
 
