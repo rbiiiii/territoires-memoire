@@ -16,7 +16,6 @@ function openMenu() {
     menuList.css('transition','transform 350ms ease-out');
     shadowUp.css('display','none');
     shadowDown.css('display','block');
-    animatedEL.css('transform','translate(10px, 10px)');
     menuItemLink.attr('tabindex', '0');
     body.addClass('nav-opened');
     setTimeout(
@@ -49,8 +48,8 @@ $(window).bind('scroll', function () {
     }
 });
 
-openTrigger.on('mousedown touchstart', openMenu);
-closeTrigger.on('mousedown touchstart', closeMenu);
+openTrigger.on('click', openMenu);
+closeTrigger.on('click', closeMenu);
 
 openTrigger.keyup(function(event) {
     if (event.keyCode === 13) {
