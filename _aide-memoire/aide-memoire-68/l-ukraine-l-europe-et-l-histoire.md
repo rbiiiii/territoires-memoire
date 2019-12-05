@@ -2,7 +2,7 @@
 categories: _aide-memoire-numeros/aide-memoire-n-68.md
 type: editorial
 title: L'Ukraine, l'Europe et l'Histoire...
-credits: Julien Paulus
+credits: Par Julien Paulus
 about_the_author: Rédacteur en chef
 order: 1
 
