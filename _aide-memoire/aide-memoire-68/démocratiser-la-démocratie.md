@@ -1,0 +1,34 @@
+---
+categories: _aide-memoire-numeros/aide-memoire-n-68.md
+type: article
+title: Démocratiser la démocratie
+credits: Par Olivier Starquit
+about_the_author: ''
+order: 9
+
+---
+David Graeber, membre éminent du mouvement _Occupy Wall Street_, anthropologue anarchiste états-unien est l’auteur de _Dette, 5000 ans d’histoire_ (un véritable best-seller paru en 2013 aux éditions Les Liens qui libèrent) dans lequel il soutient que le troc est un mythe et qu’au commencement n’était pas le verbe mais la dette. Pour lui, la dette fonctionnait et fonctionne comme outil pour créer du lien social et que partant, toute dette (publique) ne doit pas nécessairement être honorée. Cette brève présentation n’est pas nécessairement inutile dans ce cadre quand on voit comment la dette obère la démocratie. Par ailleurs, ce même David Graeber publie un petit opus anthropologique consacré à la démocratie et à l’idéal démocratique[\[1\]](#footnote-1).
+
+![](https://www.territoires-memoire.be/assets/uploads/AM68_p.10_Starquit2.jpg)
+
+Pour lui, anarchisme et démocratie devraient être des notions peu ou prou identiques : ainsi, l’auteur voit dans la piraterie « un mode de décision hautement démocratique \[comprenant une\] forme d’autogouvernement face à l’absence complète de tout État[\[2\]](#footnote-2) ». Il poursuit en affirmant que toute tentative visant à greffer les idéaux du gouvernement direct du peuple sur l’appareil coercitif de l’État a toujours été un échec. Voyant, tout comme David Van Reybrouck[\[3\]](#footnote-3), une sorte d’usurpation et de tromperie dans l’usage du terme démocratie pour désigner une aristocratie représentative et rappelant en passant que pour Cornelius Castoriadis, le terme représentation désignait les représentants du peuple devant le roi, Graeber souligne que ce n’est que lorsque le terme de démocratie « put être presque totalement transformé de manière à incorporer le principe de la représentation qu’il a été réhabilité aux yeux des théoriciens politiques de bonne naissance et a pris le sens qu’il a aujourd’hui »[\[4\]](#footnote-4).
+
+L’ouvrage s’évertue donc à étudier les liens entre anarchisme et démocratie en opérant un distinguo entre les conceptions dominantes de la démocratie et les pratiques démocratiques à l’aide de nombreux exemples insolites permettant de rompre avec un certain européocentrisme : ainsi, il faut par exemple cesser de penser la démocratie comme étant une conception occidentale. En somme, l’ouvrage questionne la vulgate traditionnelle sur la démocratie la présentant comme issue du monde occidental et comme n’ayant jamais connu le moindre glissement de sens. Partant, pour l’auteur, l’idéal démocratique reste plausible et pertinent à l’occasion de ce qu’il nomme des moments de refondation démocratique lorsque les intellectuels et les hommes politiques « interrogent leur propre tradition pour en extraire des exemples de pratiques démocratiques présentes ou passées afin de démontrer qu’elle contient des germes précieux de démocratie[\[5\]](#footnote-5). » Un regard décoiffant et interpellant nous rappelant que rien ne doit jamais être pris pour argent comptant.
+
+Paul Ariès, politologue français, rédacteur de quelques journaux militants (citons _Le Sarkophage_ et les _Z-indignés_), se penche lui aussi sur la crise de la démocratie et développe dans son dernier livre un éloge de la démocratie participative[\[6\]](#footnote-6). Mais lorsqu’il parle de démocratie participative, ce n’est pas pour évoquer cet alibi invoqué et récupéré à peu de frais par les professionnels de la politique afin de changer pour que rien ne change. Pour Paul Ariès, la puissance de l’égalité politique constitue le fondement de la démocratie, et pour lui, la meilleure réponse est le recours à la démocratie participative, qui permet de retrouver la « force de l’instituant face à l’institué, de ce qui s’invente face à ce qui meurt[\[7\]](#footnote-7) », contre la gouvernance qui est le gouvernement des organisations, par et pour les organisations. « Remettant en cause tout ce qui éloigne les citoyens de la politique, tout en rappelant la nécessité d'une représentation, Paul Ariès défend le caractère indépassable de la démocratie participative. Il recense et analyse toutes les tentatives allant en ce sens, nous démontrant que le grand enjeu de notre époque est de permettre à « chacun de _prendre part_, d'_apporter sa part_ et de _recevoir sa part._ Il incite à s'inspirer des formes démocratiques déjà mises en place dans certaines villes et à en inventer de nouvelles, afin de faire de la politique à partir du quotidien, de rendre à l'oralité sa dimension fondamentale, d'inciter chacun à l'engagement.[\[8\]](#footnote-8) » Ce qui permettrait de passer d’une culture victimaire, dirigée contre plus faible que soi (chasse aux chômeurs, expulsion des demandeurs d’asile) à une culture visant à augmenter la puissance d’agir de chacun. À l’heure où des élections se profilent à l’horizon, force est de constater que « l’idéal type de la démocratie à la sauce libérale, la non-participation ou le déplacement de la sphère publique à la sphère privée[\[9\]](#footnote-9) » semblent en effet constituer les _leitmotiv_ d’une campagne morne et insipide où le _storytelling_ règne en maître (ne vivons-nous pas une époque _pandastique_ ?). Idéal qui se voit confirmé par les balivernes relatives à la prétendue fin de la politique couronnée par la création de gouvernements de technocrates ou d’union nationale.
+
+![](https://www.territoires-memoire.be/assets/uploads/AM68_p.10_Starquit1.jpg)
+
+Pour l’auteur, la démocratie participative serait l’équivalent dans le domaine politique de l’économie du don (donner-recevoir-rendre). Toutefois, pour permettre au plus grand nombre d’y prendre part, l’auteur affirme, citant Jacques Julliard, que « pour que la politique devienne quelque chose pour tous, il faudrait qu’elle cesse d’être tout pour quelques–uns ».
+
+Un livre intéressant qui aurait mérité un vrai travail éditorial pour éviter de nombreuses redites.
+
+1. David Graeber, _La démocratie aux marges_, Paris, éditions du Bord de l’eau, 2014
+2. _Idem_, p. 80
+3. Voir notre article : « Élections ou tirage au sort ? Aristocratie ou démocratie ? » in _Aide-mémoire_ n°67, janvier-mars 2014.
+4. David Graeber, _op. cit._, p. 54
+5. _Idem_, p. 23
+6. Paul Ariès, _Nos rêves ne tiennent pas dans les urnes. Éloge de la démocratie participative_, Paris, Editions Max Milo, 2014
+7. _Idem_, p. 16
+8. Gilles Alfonsi, « démocratiser la démocratie », [http://www.cerisesenligne.fr/article/?id=4229](http://www.cerisesenligne.fr/article/?id=4229 "http://www.cerisesenligne.fr/article/?id=4229")
+9. Paul Ariès, _op. cit_., p. 33
