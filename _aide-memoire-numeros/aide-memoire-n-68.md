@@ -1,5 +1,5 @@
 ---
-show: false
+show: true
 title: Aide-mémoire n°68
 slug: aide-memoire-68
 num: 68
