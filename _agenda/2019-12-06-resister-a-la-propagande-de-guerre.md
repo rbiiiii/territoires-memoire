@@ -16,7 +16,7 @@ practical: sandra.leuwer@warheritage.be
 ---
 Connaître les principes récurrents de la « propagande de guerre », c’est pouvoir la décoder, la décrypter et être en mesure de lui résister. L’analyse  de discours et d’images du passé (proche ou plus lointain dans le temps) doit donner  aux jeunes, plus que jamais confrontés aujourd’hui aux pièges de la désinformation, les outils nécessaires pour les déjouer et y apporter une réponse critique.
 
-Pour répondre à cette nécessité, la cellule Démocratie ou barbarie de la Fédération Wallonie-Bruxelles, en collaboration avec le War Heritage Institute (WHI)  a conçu  une  programmation sur le thème « Résister à la propagande de guerre » comprenant une journée d’étude et la présentation d’une nouvelle exposition.
+Pour répondre à cette nécessité, la cellule Démocratie ou barbarie de la Fédération Wallonie-Bruxelles, en collaboration avec le [War Heritage Institute](https://www.warheritage.be/fr) (WHI)  a conçu  une  programmation sur le thème « Résister à la propagande de guerre » comprenant une journée d’étude et la présentation d’une nouvelle exposition.
 
 Résister à la propagande de guerre : une journée d’étude
 
