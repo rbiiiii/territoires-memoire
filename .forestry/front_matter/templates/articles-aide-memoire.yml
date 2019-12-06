@@ -50,6 +50,7 @@ fields:
   name: order
   label: Ordre d'apparition
 pages:
+- _aide-memoire/aide-memoire-68/récupération.md
 - _aide-memoire/aide-memoire-68/art-et-démocratie-rencontre-avec-joe-g-pinelli.md
 - _aide-memoire/aide-memoire-68/la-censure-une-histoire-des-réalités.md
 - _aide-memoire/aide-memoire-68/leçons-meurtrières.md
