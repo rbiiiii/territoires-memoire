@@ -40,7 +40,7 @@ L'animateur-trice est chargé-e en priorité de l'animation de l'exposition perm
 
 **Conditions du contrat**
 
-La personne retenue sera engagée à **temps plein** (38h/sem. – horaire variable) sous **contrat à durée déterminée d’un an**. Possibilité de renouvellement du contrat à durée déterminée. Le début du contrat est estimé au **01/02/2019**. Le montant de la rémunération mensuelle brute liée à cette fonction est de **2160,74 €**. Un bilan d’évolution aura lieu après 3 mois et 6 mois sur base de l’analyse de poste remise à l’entrée en fonction.
+La personne retenue sera engagée à **temps plein** (38h/sem. – horaire variable) sous **contrat à durée déterminée d’un an**. Possibilité de renouvellement du contrat à durée déterminée. Le début du contrat est estimé au **01/02/2020**. Le montant de la rémunération mensuelle brute liée à cette fonction est de **2160,74 €**. Un bilan d’évolution aura lieu après 3 mois et 6 mois sur base de l’analyse de poste remise à l’entrée en fonction.
 
 ## Informations sur la procédure
 
