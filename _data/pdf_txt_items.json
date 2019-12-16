@@ -110,6 +110,13 @@
 		]
 	},
 	{
+		"title": "Poésie insoumise",
+		"img_src": "pdf-poesie_insoumise.jpg",
+		"pdf_src": "tm-exposition-poesie_insoumise.pdf",
+		"txt": "Cette exposition propose un regard sur la poésie, le poème, le poétique dans leur caractère insoumis, en tant que possibles outils de lutte, de refus, de pas de côté, de proposition alternative.",
+		"categorie": "expos-itinerantes"
+	},
+	{
 		"title": "Le coffret Résiste !",
 		"img_src": "pdf-outils-coffret_resiste.jpg",
 		"pdf_src": "tm-outils-coffret_resiste.pdf",
