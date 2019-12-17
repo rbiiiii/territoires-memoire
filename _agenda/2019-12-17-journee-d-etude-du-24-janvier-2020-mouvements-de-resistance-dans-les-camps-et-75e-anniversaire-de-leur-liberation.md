@@ -13,7 +13,7 @@ tags:
 ---
 Le 27 janvier est la Journée internationale de commémoration en mémoire des victimes de la Shoah.
 
-Cette année, Démocratie ou barbarie vous propose une journée de réflexion consacrée aux « Mouvements de résistance dans les camps et 75ème anniversaire de leur libération.» qui aura lieu le 24 janvier 2020.
+Cette année, Démocratie ou barbarie vous propose une journée de réflexion consacrée aux « Mouvements de résistance dans les camps et 75e anniversaire de leur libération» qui aura lieu le 24 janvier 2020.
 
 Nous aborderons non seulement la libération d’Auschwitz sous forme de film mais aussi la libération des deux lieux symboliques (Le fort de Breendonk et la caserne Dossin) en Belgique. Les différentes révoltes dans les camps de Sobibór, Treblinka, Auschwitz-Birkenau et dans le ghetto de Varsovie seront également abordées. Finalement, la résistance dans le camp de Buchenwald ainsi que la libération du camp par celle-ci fera l’objet du dernier volet.
 
