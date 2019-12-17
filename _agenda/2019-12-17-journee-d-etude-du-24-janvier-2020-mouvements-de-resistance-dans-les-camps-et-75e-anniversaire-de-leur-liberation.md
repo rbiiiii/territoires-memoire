@@ -1,9 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: >-
-  Journée d’étude du 24 janvier 2020 Mouvements de résistance dans les camps et
-  75e anniversaire de leur libération
+title: Mouvements de résistance dans les camps et 75e anniversaire de leur libération
 date_start: '2020-01-24'
 date_stop: ''
 hour: 9h
