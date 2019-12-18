@@ -21,7 +21,7 @@ Ainsi, les associations d’éducation permanente des adultes travaillent à dé
 
 Actuellement, quelque 280 asbl – parmi lesquelles Les Territoires de la Mémoire asbl - sont reconnues dans le cadre du décret de 2003, et occupent environ 2 300 travailleurs équivalent temps plein.
 
-## Outils pédagogiques, services et centres de documentation des associations
+## Outils pédagogiques, services et centres de documentation des associations 
 
 24 associations d'Education permanente sont reconnues dans l'axe 3,1° du décret d'Education permanente de 2003. Elles proposent des services, des outils pédagogiques et des centres de documentation qui sont accessibles via un catalogue «&nbsp;virtuel&nbsp;» des productions de ces opérateurs.
 
