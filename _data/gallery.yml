@@ -58,32 +58,32 @@
   position: right
   gallery: journees-pour-la-memoire
 
-- src: voyage-annuel-2019-gallery-01.jpg
+- src: voyage-annuel-2020-gallery-01.jpg
   type: vertical
   position: left
   gallery: voyage-annuel
 
-- src: voyage-annuel-2019-gallery-02.jpg
+- src: voyage-annuel-2020-gallery-02.jpg
   type: horizontal
   position: right
   gallery: voyage-annuel
 
-- src: voyage-annuel-2019-gallery-03.jpg
+- src: voyage-annuel-2020-gallery-03.jpg
   type: horizontal
   position: right
   gallery: voyage-annuel
 
-- src: voyage-annuel-2019-gallery-04.jpg
+- src: voyage-annuel-2020-gallery-04.jpg
   type: horizontal
   position: left
   gallery: voyage-annuel
 
-- src: voyage-annuel-2019-gallery-05.jpg
+- src: voyage-annuel-2020-gallery-05.jpg
   type: horizontal
   position: left
   gallery: voyage-annuel
 
-- src: voyage-annuel-2019-gallery-06.jpg
+- src: voyage-annuel-2020-gallery-06.jpg
   type: vertical
   position: right
   gallery: voyage-annuel
