@@ -4,7 +4,7 @@ categories: agenda
 title: Poésie insoumise à Mouscron
 date_start: '2020-02-02'
 date_stop: '2020-02-14'
-img_file: assets/uploads/lapoesie_uhmus_cc_sceau-vitrine.jpg
+img_file: assets/uploads/poesie-insoumise_illu-generique_focustm.jpg
 place: 'Maison de la Laïcité de Mouscron - Rue du Val, 1  7700 Mouscron'
 address: 'Rue du Val, 1, 7700 Mouscron'
 price: Entrée libre
