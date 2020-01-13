@@ -18,9 +18,11 @@ Depuis lors, la politique pénale n’a cessé de se faire plus répressive : du
 
 <div class="card card--two">
 
-**La plus grande colonie pénitentiaire du monde aux mains du privé**  
-1980-2013 : la population carcérale des USA augmente de 800&nbsp;%.  
-En 2019 :
+**La plus grande colonie pénitentiaire du monde aux mains du privé**
+
+**1980-2013** : la population carcérale des USA augmente de 800&nbsp;%.  
+
+**En 2019** :  
 
 * **1 % des citoyen**s en âge d’être incarcérés se retrouvent derrière les barreaux
 * **11.4 % d’enfants noirs** américains ont un parent en prison, contre 1.8 % d’enfants blancs
@@ -61,7 +63,8 @@ Aux USA, les prisons privées figurent parmi les plus gros donateurs aux électi
 
 <div class="card card--two">
 
-**Évaluer les prisons privées ?**  
+**Évaluer les prisons privées ?**
+
 Aux USA, le _Freedom of Information Act_ ne s’applique pas aux prisons privées. Celles-ci ne sont soumises ni à la transparence ni à l’ouverture aux enquêtes publiques, sans qu’il y ait de recours légal possible. Voilà qui rend la tâche d’évaluation plutôt délicate. Quant aux études scientifiques, on peut s’interroger sur leur validité quand on sait que de nombreuses universités possèdent des actions dans les compagnies carcérales privées.
 
 </div>
@@ -104,7 +107,8 @@ Le prisonnier n’est pas seulement un esclave, c’est aussi _« un consommateu
 
 <div class="card card--two">
 
-**Migrants : un plan d’investissement qui a le vent en poupe !**  
+**Migrants : un plan d’investissement qui a le vent en poupe !**
+
 La pénalisation de la migration en fait un secteur d’investissement privilégié, doté d’un gros potentiel de croissance. 73 % des migrants (recensés) détenus par le Service de contrôle de l’immigration et des douanes (ICE) sont au mains d’entreprises privées. Une augmentation de 442% depuis 2002 ! Le président Trump réclame actuellement 15.000 lits privés supplémentaires pour accueillir les migrants, et la construction d’un nouveau centre de détention par GEO Group au sud du Texas. Une manne de main-d’œuvre particulièrement docile, prête à l’emploi. Le secteur est par ailleurs soutenu par des aides publiques plutôt dodues4 qui devraient suffire à assurer le confort des administrateurs.
 
 </div>
