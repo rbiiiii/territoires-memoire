@@ -8,9 +8,9 @@ about_the_author: ''
 order: 5
 
 ---
-Avec seulement 5% de la population mondiale, les États-Unis détiennent à eux seuls un quart des prisonniers de la planète. Un record à faire pâlir d’envie la Chine, qui compte un ratio cinq fois moins élevé de détenus par rapport à sa population. La genèse de cette massification de l’enfermement se confond avec celle de la privatisation du secteur carcéral depuis les années ‘80. Malheureusement, les problèmes posés par cette industrialisation de la punition sont loin d’être une simple question de principe ressassée par quelques puristes bougons1.
+Avec seulement 5% de la population mondiale, les États-Unis détiennent à eux seuls un quart des prisonniers de la planète. Un record à faire pâlir d’envie la Chine, qui compte un ratio cinq fois moins élevé de détenus par rapport à sa population. La genèse de cette massification de l’enfermement se confond avec celle de la privatisation du secteur carcéral depuis les années ‘80. Malheureusement, les problèmes posés par cette industrialisation de la punition sont loin d’être une simple question de principe ressassée par quelques puristes bougons[1](#footnote-1).
 
-La promesse était pour le moins alléchante. À l’heure où la _War on Drugs_ faisait rage sous Reagan, les prisons publiques se trouvaient bien incapables d’absorber l’explosion du nombre de détenus liée au formidable durcissement des lois pénales2. Plus de 2 millions de personnes allaient bientôt se retrouver derrière les barreaux. La solution s’est imposée comme une évidence : le privé pourrait faire mieux, plus vite, moins cher. En 1984, la première prison privée ouvrait ses portes au Texas.
+La promesse était pour le moins alléchante. À l’heure où la _War on Drugs_ faisait rage sous Reagan, les prisons publiques se trouvaient bien incapables d’absorber l’explosion du nombre de détenus liée au formidable durcissement des lois pénales[2](#footnote-2). Plus de 2 millions de personnes allaient bientôt se retrouver derrière les barreaux. La solution s’est imposée comme une évidence : le privé pourrait faire mieux, plus vite, moins cher. En 1984, la première prison privée ouvrait ses portes au Texas.
 
 ![](https://www.territoires-memoire.be/assets/uploads/AM91_p.4-5_Alcatraz.jpg)
 
@@ -19,7 +19,7 @@ Depuis lors, la politique pénale n’a cessé de se faire plus répressive : du
 <div class="card card--two">
 
 **La plus grande colonie pénitentiaire du monde aux mains du privé**  
-1980-2013 : la population carcérale des USA augmente de 800&nbsp;%.  
+1980-2013 : la population carcérale des USA augmente de 800 %.  
 En 2019 :
 
 * **1 % des citoyen**s en âge d’être incarcérés se retrouvent derrière les barreaux
@@ -68,7 +68,7 @@ Aux USA, le _Freedom of Information Act_ ne s’applique pas aux prisons privée
 
 ## Le meilleur service…
 
-Mais concrètement, qu’est-ce que ça donne ? La « qualité » des services carcéraux privés, on en a plein de témoignages. On pense notamment à l’enquête du magazine d’investigation _Mother Jones_ en 2016, où un journaliste infiltré comme surveillant dans la prison privée de Winn en Louisiane (détenue par CCA) a pu décrire les conditions abominables imposées aux prisonniers comme aux gardiens, _« luttant pour la survie comme des soldats pris dans une guerre à laquelle ils ne croient pas_3 _»_. Intéressant aussi, le rapport du ministère de la Justice sous Obama : problèmes de sécurité, de discipline, de santé (y compris des cas de gangrène), violence, contrebande, détecteurs de métaux non utilisés, prisonniers qui servent de gardes du corps officieux, chances de réinsertion quasi nulles…
+Mais concrètement, qu’est-ce que ça donne ? La « qualité » des services carcéraux privés, on en a plein de témoignages. On pense notamment à l’enquête du magazine d’investigation _Mother Jones_ en 2016, où un journaliste infiltré comme surveillant dans la prison privée de Winn en Louisiane (détenue par CCA) a pu décrire les conditions abominables imposées aux prisonniers comme aux gardiens, « _luttant pour la survie comme des soldats pris dans une guerre à laquelle ils ne croient pas_[3](#footnote-3) _»_. Intéressant aussi, le rapport du ministère de la Justice sous Obama : problèmes de sécurité, de discipline, de santé (y compris des cas de gangrène), violence, contrebande, détecteurs de métaux non utilisés, prisonniers qui servent de gardes du corps officieux, chances de réinsertion quasi nulles…
 
 Les comparaisons chiffrées entre prisons privées et publiques de _The Sentencing Project_ sont particulièrement édifiantes : les établissements privés enregistrent beaucoup plus d’émeutes, plus de morts, deux fois plus d’agressions, plus d’évasions, plus d’usage de la discipline, moins de sécurité pour le personnel… Quant au taux de récidive, il est dans le meilleur des cas équivalent, et va parfois jusqu’à doubler. La palme revient aux centres de détention pour migrants, y compris ceux dédiés aux enfants. Mauvais traitements, conditions sanitaires déplorables et même abus sexuels sur mineurs font régulièrement les gros titres de l’actu.
 
@@ -105,7 +105,7 @@ Le prisonnier n’est pas seulement un esclave, c’est aussi _« un consommateu
 <div class="card card--two">
 
 **Migrants : un plan d’investissement qui a le vent en poupe !**  
-La pénalisation de la migration en fait un secteur d’investissement privilégié, doté d’un gros potentiel de croissance. 73 % des migrants (recensés) détenus par le Service de contrôle de l’immigration et des douanes (ICE) sont au mains d’entreprises privées. Une augmentation de 442% depuis 2002 ! Le président Trump réclame actuellement 15.000 lits privés supplémentaires pour accueillir les migrants, et la construction d’un nouveau centre de détention par GEO Group au sud du Texas. Une manne de main-d’œuvre particulièrement docile, prête à l’emploi. Le secteur est par ailleurs soutenu par des aides publiques plutôt dodues4 qui devraient suffire à assurer le confort des administrateurs.
+La pénalisation de la migration en fait un secteur d’investissement privilégié, doté d’un gros potentiel de croissance. 73 % des migrants (recensés) détenus par le Service de contrôle de l’immigration et des douanes (ICE) sont au mains d’entreprises privées. Une augmentation de 442% depuis 2002 ! Le président Trump réclame actuellement 15.000 lits privés supplémentaires pour accueillir les migrants, et la construction d’un nouveau centre de détention par GEO Group au sud du Texas. Une manne de main-d’œuvre particulièrement docile, prête à l’emploi. Le secteur est par ailleurs soutenu par des aides publiques plutôt dodues[4](#footnote-4) qui devraient suffire à assurer le confort des administrateurs.
 
 </div>
 
