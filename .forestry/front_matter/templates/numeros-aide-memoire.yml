@@ -14,6 +14,9 @@ fields:
 - type: number
   name: num
   label: num
+  config:
+    min: '0'
+  hidden: false
 - type: text
   name: date_publication
   label: date_publication
