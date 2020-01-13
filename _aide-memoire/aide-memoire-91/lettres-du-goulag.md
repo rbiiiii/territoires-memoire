@@ -9,7 +9,7 @@ order: 4
 ---
 Dans la perspective de la parution prochaine, aux éditions des Territoires de la Mémoire, de son nouvel ouvrage _Lettres du Goulag_, rencontre avec Jean-Louis Rouhart, déjà auteur, en 2015, d’une impressionnante étude consacrée à la correspondance illégale dans les camps de concentration nazis.
 
-**Deborah Colombini** : Votre ouvrage à paraître s’intitule : _Lettres du Goulag. Correspondance de détenus dans les lieux d’incarcération et d’internement du Goulag._ Que signifie en fait le terme « Goulag » ?
+**Deborah Colombini** : Votre ouvrage à paraître s’intitule : _Lettres du Goulag. Correspondance de détenus dans les lieux d’incarcération et d’internement du Goulag._ Que signifie en fait le terme « Goulag&nbsp;»&nbsp;?
 
 **Jean-Louis Rouhart** : Le terme « Goulag » est effectivement l’acronyme de mots russes qui signifient « Direction Générale (ou Administration centrale) des Camps et des Colonies de Redressement par le Travail ». La dénomination apparaît le 10 juillet 1934, date à laquelle est instituée par un décret une administration centrale unique des camps et des colonies de travail pénitentiaire, intitulée « Goulag ». L’acronyme, qui désignait au départ une division administrative du Commissariat du peuple à l’Intérieur (le NKVD) a fini par qualifier une administration gérant un immense réseau regroupant des camps, des prisons, des colonies de travail pénitentiaire, des villages d’exil et d’autres lieux de détention encore.
 
@@ -23,8 +23,7 @@ Dans la perspective de la parution prochaine, aux éditions des Territoires de l
 
 **Deborah Colombini** : Vous êtes également l’auteur d’un ouvrage consacré à la correspondance dans les camps nazis (_Lettres de l’ombre. Correspondance dans les camps de concentration nazis_, Liège, Les Territoires de la Mémoire, 2015), avez-vous pu établir des analogies en matière de correspondance entre les mondes concentrationnaires nazi et soviétique ?
 
-**Jean-Louis Rouhart** : Oui, chaque fois que cela été possible, j’ai comparé la correspondance, en particulier la correspondance illégale, dans les deux types de camps. C’est ainsi que l’on peut faire des analogies entre les lettres clandestines et les lettres cryptées qui sont sorties illégalement des camps, les lettres illustrées, les billets jetés des trains menant aux camps de concentration et d’extermination nazis (les  
-« Trains de la mort ») et les messages sortis des convois menant les détenus vers les camps du Goulag. À la rigueur, on peut même faire un rapprochement entre les lettres issues des prisons politiques préventives du Goulag et les lettres émanant des camps d’internement et de transit situés en France et aux Pays-Bas qui ont alimenté les trains de déportation vers l’Est.
+**Jean-Louis Rouhart** : Oui, chaque fois que cela été possible, j’ai comparé la correspondance, en particulier la correspondance illégale, dans les deux types de camps. C’est ainsi que l’on peut faire des analogies entre les lettres clandestines et les lettres cryptées qui sont sorties illégalement des camps, les lettres illustrées, les billets jetés des trains menant aux camps de concentration et d’extermination nazis (les « Trains de la mort ») et les messages sortis des convois menant les détenus vers les camps du Goulag. À la rigueur, on peut même faire un rapprochement entre les lettres issues des prisons politiques préventives du Goulag et les lettres émanant des camps d’internement et de transit situés en France et aux Pays-Bas qui ont alimenté les trains de déportation vers l’Est.
 
 **Deborah Colombini** : Vous relevez et passez en revue un certain nombre de lettres provenant de différents lieux d’incarcération et d’internement du Goulag. Pouvez-vous nous en dire davantage ?
 
