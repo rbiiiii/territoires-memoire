@@ -1,0 +1,28 @@
+---
+label: Numéros Aide-mémoire
+hide_body: false
+fields:
+- type: boolean
+  name: show
+  label: show
+- type: text
+  name: title
+  label: title
+- type: text
+  name: slug
+  label: slug
+- type: number
+  name: num
+  label: num
+- type: text
+  name: date_publication
+  label: date_publication
+- type: file
+  name: couv_src
+  label: couv_src
+- type: file
+  name: img_src
+  label: img_src
+- type: file
+  name: pdf_src
+  label: pdf_src
