@@ -29,3 +29,5 @@ fields:
 - type: file
   name: pdf_src
   label: pdf_src
+pages:
+- _aide-memoire-numeros/aide-memoire-n-91.md
