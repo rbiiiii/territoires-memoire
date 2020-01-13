@@ -19,7 +19,7 @@ Depuis lors, la politique pénale n’a cessé de se faire plus répressive : du
 <div class="card card--two">
 
 **La plus grande colonie pénitentiaire du monde aux mains du privé**  
-1980-2013 : la population carcérale des USA augmente de 800 %.  
+1980-2013 : la population carcérale des USA augmente de 800&nbsp;%.  
 En 2019 :
 
 * **1 % des citoyen**s en âge d’être incarcérés se retrouvent derrière les barreaux
