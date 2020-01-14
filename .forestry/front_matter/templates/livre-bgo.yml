@@ -1,0 +1,61 @@
+---
+label: Livre BGO
+hide_body: false
+fields:
+- name: tag
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - non
+    - " heart"
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Coup de coeur ?
+- type: number
+  name: version
+  label: Version de l'AM
+- type: text
+  name: author
+  label: Auteur(s)
+  config:
+    required: true
+- name: extra
+  type: text
+  config:
+    required: true
+  label: Informations supplémentaires
+- type: text
+  name: title
+  label: Titre
+  config:
+    required: true
+- type: text
+  name: editor
+  label: Edition
+  config:
+    required: true
+- name: col
+  type: text
+  config:
+    required: true
+  label: Collection
+- type: text
+  name: year
+  label: Année de publication
+- type: text
+  name: price
+  label: Prix
+  description: 'Ex: 20 €'
+- type: text
+  name: link
+  label: Lien vers le site de l'éditeur
+- type: file
+  name: img_src
+  label: Image de couverture
+pages:
+- _books/2020-_-les-crocodiles-sont-toujours-la-temoignages-d-agressions-et-de-harcelement-sexistes-et-sexuels.md
