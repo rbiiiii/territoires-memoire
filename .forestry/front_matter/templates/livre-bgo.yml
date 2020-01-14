@@ -57,3 +57,5 @@ fields:
 - type: file
   name: img_src
   label: Image de couverture
+pages:
+- _books/2020-_-les-crocodiles-sont-toujours-la-temoignages-d-agressions-et-de-harcelement-sexistes-et-sexuels.md
