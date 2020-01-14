@@ -18,25 +18,42 @@ fields:
   label: Coup de coeur ?
 - type: number
   name: version
-  label: version
+  label: Version de l'AM
 - type: text
   name: author
-  label: author
+  label: Auteur(s)
+  config:
+    required: true
+- name: extra
+  type: text
+  config:
+    required: true
+  label: Informations supplémentaires
 - type: text
   name: title
-  label: title
+  label: Titre
+  config:
+    required: true
 - type: text
   name: editor
-  label: editor
+  label: Edition
+  config:
+    required: true
+- name: col
+  type: text
+  config:
+    required: true
+  label: Collection
 - type: text
   name: year
-  label: year
+  label: Année de publication
 - type: text
   name: price
-  label: price
+  label: Prix
+  description: 'Ex: 20 €'
 - type: text
   name: link
-  label: link
+  label: Lien vers le site de l'éditeur
 - type: file
   name: img_src
-  label: img_src
+  label: Image de couverture
