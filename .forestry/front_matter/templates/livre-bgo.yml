@@ -19,34 +19,38 @@ fields:
 - type: number
   name: version
   label: Version de l'AM
+  config:
+    required: true
 - type: text
   name: author
   label: Auteur(s)
   config:
-    required: true
+    required: false
 - name: extra
   type: text
   config:
-    required: true
+    required: false
   label: Informations supplémentaires
 - type: text
   name: title
   label: Titre
   config:
-    required: true
+    required: false
 - type: text
   name: editor
   label: Edition
   config:
-    required: true
+    required: false
 - name: col
   type: text
   config:
-    required: true
+    required: false
   label: Collection
 - type: text
   name: year
   label: Année de publication
+  config:
+    required: false
 - type: text
   name: price
   label: Prix
