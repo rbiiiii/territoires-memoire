@@ -2,7 +2,6 @@
 tag: heart
 version: 91
 author: Park Kun-Woong
-extra: ''
 title: 'Traité comme une bête : compte rendu des 22 jours de captivité de Kim Keun-Tae'
 editor: La Boîte à Bulles
 col: ''
