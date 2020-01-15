@@ -1,5 +1,5 @@
 ---
-tag: " heart"
+tag: heart
 version: 91
 author: Park Kun-Woong
 extra: ''
