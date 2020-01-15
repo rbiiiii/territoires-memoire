@@ -8,8 +8,7 @@ fields:
   config:
     required: false
     options:
-    - non
-    - " heart"
+    - heart
     source:
       type: simple
       section: 
