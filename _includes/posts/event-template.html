@@ -3,7 +3,7 @@
     <a class="post__link without-background" href="{{ event.url }}">
       <header class="post__header">
         <div class="post__header__img">
-          <img src="{{ event.img_file }}" alt="{{ event.title | escape }}">
+          <img src="{{.site.url}}/{{ event.img_file }}" alt="{{ event.title | escape }}">
           {%- if reverse == "yes" -%}
             {%- include_cached pages/separateur-reverse.html -%}
           {%- else -%}
