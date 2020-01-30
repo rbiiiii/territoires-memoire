@@ -11,6 +11,10 @@ address: 'Place Xavier Neujean 22, 4000 Liège '
 price: Gratuit
 tags:
   - Aide-mémoire fait débat
+practical: |-
+  04 232 70 60
+
+  aide-memoire@territoires-memoire.be
 ---
 Question à 1000 points : quel est le point commun entre le système carcéral du Goulag et celui des États-Unis d’Amérique ?
 
