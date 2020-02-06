@@ -20,7 +20,7 @@ schedule: |-
   <!--EndFragment-->
 practical: "Visite animée pour les groupes le lundi à 15 h et le vendredi à 13 h et à 15 h / Durée\_: 1 h / Gratuit / 15 personnes max / à partir de 15 ans / Réservation\_: bibliotheque@territoires-memoire.be, 04\_232\_70\_62"
 ---
-Michèle Lepeer, née le 11 février 1954 à Bruxelles, Michèle Lepeer vit et travaille en France. Elle réussit à nous montrer les violences extrêmes du monde tout en nous faisant ressentir son empathie pour les victimes. Ses toiles ne sont pas sombres, les couleurs et la délicatesse du touché apaisent le propos. Les bourreaux, quant à eux, font l’objet d’installations ironiques, *le rire étant la politesse du désespoir*.
+Michèle Lepeer, née le 11 février 1954 à Bruxelles. Elle vit et travaille en France. Elle réussit à nous montrer les violences extrêmes du monde tout en nous faisant ressentir son empathie pour les victimes. Ses toiles ne sont pas sombres, les couleurs et la délicatesse du touché apaisent le propos. Les bourreaux, quant à eux, font l’objet d’installations ironiques, *le rire étant la politesse du désespoir*.
 
 « L’art ne reproduit pas le visible. Il rend visible. » *Paul Klee*
 
