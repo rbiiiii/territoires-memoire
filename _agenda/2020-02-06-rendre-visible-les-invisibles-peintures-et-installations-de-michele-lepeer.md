@@ -1,10 +1,10 @@
 ---
 layout: post
 categories: agenda
-title: Rendre visible les invisibles - Peintures et installations de Michèle Lepeer
+title: Rendre visibles les invisibles - Peintures et installations de Michèle Lepeer
 date_start: '2020-03-06'
 date_stop: '2020-04-19'
-img_file: assets/uploads/ExpoLepeer_SiteTM.jpg
+img_file: assets/uploads/micelelepeer.jpg
 place: La Cité Miroir - Espace rencontre
 address: Place Xavier Neujean 22 - 4000 Liège
 price: Gratuit
