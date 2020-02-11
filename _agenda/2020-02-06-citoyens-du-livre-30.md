@@ -19,7 +19,7 @@ practical: >-
   [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)
   - 04 232 70 62
 ---
-Nous commencerons par une visite-animée de l’exposition de peintures et installations de Michèle Lepeer, [« Rendre visible les invisibles »](https://www.territoires-memoire.be/agenda/2020/02/rendre-visible-les-invisibles-peintures-et-installations-de-michele-lepeer/) dans l’Espace rencontre de la Bibliothèque George Orwell.
+Nous commencerons par une visite-animée de l’exposition de peintures et installations de Michèle Lepeer, [« Rendre visibles les invisibles »](https://www.territoires-memoire.be/agenda/2020/02/rendre-visible-les-invisibles-peintures-et-installations-de-michele-lepeer/) dans l’Espace rencontre de la Bibliothèque George Orwell.
 
 « Une artiste, qu’elle soit peintre, poète, romancière, musicienne, auteure de théâtre, danseuse ou réalisatrice peut ressentir un besoin irrépressible de dénoncer l’injustice, de résister, de faire réfléchir, avec les outils qui sont les siens. Il semble que je fasse partie de cette espèce-là.
 
