@@ -23,9 +23,18 @@
 .pjc-preparation {
     margin-top:$spacing-unit*2;
 
-    .grid {
+    .grid.pdf {
         display:flex;
         flex-wrap: wrap;
+        display:grid;
+        grid-template-columns: 1fr;
+        justify-content:center;
+        width:100%;
+
+        @media screen and (min-width:400px) {
+            grid-template-columns: 1fr 1fr;
+            justify-content:flex-start;
+        }
 
         .grid__item {
             width:100%;
@@ -34,8 +43,13 @@
 
             @media screen and (min-width:460px) {
                 width:45%;
-                max-width:100%;
                 margin:0 $spacing-unit 0 0;
+                max-width:100%;
+            }
+
+            @supports (display:grid) {
+                width:100%;
+                margin:0;
             }
         }
     }

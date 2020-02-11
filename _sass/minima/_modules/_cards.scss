@@ -135,6 +135,22 @@
     }
 }
 
+.card--with-icon {
+    display: flex;
+
+    .card__icon {
+        width: $spacing-unit*3;
+        min-width: $spacing-unit*2;
+        margin-right: $spacing-unit;
+        padding-top: $spacing-unit/4;
+
+        svg {
+            width:100%;
+            height:auto;
+        }
+    }
+}
+
 .card--centered {
     margin-right:auto;    
     margin-left:auto;

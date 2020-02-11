@@ -98,7 +98,7 @@
                 margin-bottom:$spacing-unit*2;
             
                 @supports (display:grid) {
-                    grid: auto-flow / 1fr 315px;
+                    grid: auto-flow / 1fr 370px;
                 }
             }
         
@@ -106,7 +106,7 @@
         
                 &.card {
                     width:100%;
-                    max-width:315px;
+                    max-width:370px;
                 }
             }
         }
