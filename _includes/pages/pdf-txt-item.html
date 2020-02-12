@@ -1,8 +1,9 @@
 {%- capture slug -%}{{ include.slug }}{%- endcapture -%}
 <div class="pdf-txt {{ slug }}">
-    {%- for pdf-txt-item in site.data.pdf_txt_items -%}
-        {%- if pdf-txt-item.categorie == slug -%}
-            <div class="pdf-txt__item">
+    {%- assign items = site.data.pdf_txt_items | where: 'categorie', slug -%}
+    {%- for pdf-txt-item in items -%}
+        <div class="pdf-txt__item">
+            {%- if pdf-txt-item.pdf_src != null -%}
                 <a 
                 class="pdf-txt__item__link"
                 href="/assets/pdf/{{ include.folder }}/{{ pdf-txt-item.pdf_src }}"> 
@@ -17,17 +18,30 @@
                         <p class="pdf-txt__item__text__txt">{{ pdf-txt-item.txt }}</p>
                     </div>
                 </a>
-                {%- assign peda-list = pdf-txt-item.peda -%}
-                {%- if peda-list != '' -%}
-                    <ul class="list list--no-style list--inline list--peda">
-                        {%- for peda-item in peda-list -%}
-                            <li>
-                                <small><a class="button button--blue" href="{{ peda-item.url }}">{{ peda-item.title }}</a></small>
-                            </li>
-                        {%- endfor -%}
-                    </ul>
-                {%- endif -%}
-            </div>
-        {%- endif -%}
+            {%- else -%}
+                <div class="pdf-txt__item__link">
+                    <div class="pdf-txt__item__img-wrapper">
+                        <img 
+                        class="pdf-txt__item__img"
+                        src="/assets/images/{{ include.folder }}/pdf-items/{{ pdf-txt-item.img_src }}" 
+                        alt="{{ pdf-txt-item.title | escape }}">
+                    </div>
+                    <div class="pdf-txt__item__text">
+                        <h3 class="pdf-txt__item__text__title">{{ pdf-txt-item.title }}</h3>
+                        <p class="pdf-txt__item__text__txt">{{ pdf-txt-item.txt }}</p>
+                    </div>
+                </div>    
+            {%- endif -%}
+            {%- assign peda-list = pdf-txt-item.peda -%}
+            {%- if peda-list != '' -%}
+                <ul class="list list--no-style list--inline list--peda">
+                    {%- for peda-item in peda-list -%}
+                        <li>
+                            <small><a class="button button--blue" href="{{ peda-item.url }}">{{ peda-item.title }}</a></small>
+                        </li>
+                    {%- endfor -%}
+                </ul>
+            {%- endif -%}
+        </div>
     {%- endfor -%}
 </div>

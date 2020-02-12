@@ -123,10 +123,9 @@
 		]
 	},
 	{
-		"title": "Le coffret Résiste !",
-		"img_src": "pdf-outils-coffret_resiste.jpg",
-		"pdf_src": "tm-outils-coffret_resiste.pdf",
-		"txt" : "Résiste ! est un coffret pédagogique pour apprendre aux jeunes à défendre la démocratie. Le coffret contient des propositions concrètes pour aborder cette thématique complexe.",
+		"title": "Le jeu Résiste !",
+		"img_src": "pdf-outils-jeu_resiste.jpg",
+		"txt" : "Résiste ! est un jeu de tuiles dont le but est de mettre à jour l’ordinateur central et ainsi le libérer du contrôle de Technomania. Pour atteindre cet objectif, il faut relever des épreuves et rassembler les quatre pièces d’un puzzle. Une fois celui-ci complété, la mise à jour peut être lancée et faire de l’ordinateur central un outil au service de toutes et tous&nbsp;!",
 		"categorie": "outils-pedagogiques"
 	},
 	{

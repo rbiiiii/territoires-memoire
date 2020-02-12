@@ -108,11 +108,18 @@
     }
 }
 
+.donate-seven {
+
+    h3 {
+        margin-bottom:$spacing-unit;
+    }
+}
+
 ul.donate-seven__list {
     margin:$spacing-unit 0 $spacing-unit 0;
 
     @media screen and (min-width:600px) {
-        margin:$spacing-unit 0 $spacing-unit $spacing-unit;
+        margin:$spacing-unit 0 $spacing-unit 0;
     }
 }
 
@@ -132,8 +139,8 @@ li.donate-seven__item {
     margin-right: $spacing-unit;
     display: flex;
     margin-bottom: auto;
-    line-height: 0.8em;
-    @include relative-font-size(3);
+    line-height: 1.2em;
+    @include relative-font-size(2.4);
     @include pj-black;
 }
 

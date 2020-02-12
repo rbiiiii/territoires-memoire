@@ -5,11 +5,26 @@ title_img: "voyages/page-title-voyages.jpg"
 permalink: voyages
 ---
 
-<section class="page-section top limited">
+<section class="page-section top">
     <div class="page-section__content">
-            <p class="chapeau">Les Territoires de la Mémoire accompagnent les associations, écoles et institutions désireuses d'organiser des journées et des voyages d’étude dans des lieux de Mémoire qui ont servi la barbarie nazie. Ces voyages permettent de bénéficier de l'expertise de l'association sur les thématiques abordées ainsi qu’un encadrement pédagogique de qualité tout au long du voyage.</p>
+        <div class="containers">
+            <div class="container container--half odd">
+                <p class="chapeau">Les Territoires de la Mémoire accompagnent les associations, écoles, groupes de particuliers et institutions désireux d’organiser des journées et des voyages d’étude dans des lieux de Mémoire, en Belgique et en Europe, qui ont servi la barbarie nazie. Ces voyages permettent de bénéficier de l’expertise de l’association sur les thématiques abordées ainsi que d’un encadrement pédagogique de qualité tout au long du voyage.</p>
+                <div class="card card--one">
+                    <h3>KL pour <em>Konzentrationslager</em></h3>
+                    <p>Dans le cadre des voyages pour la mémoire, les Territoires de la Mémoire préfèrent l’utilisation de l’abréviation KL pour « Konzentrationslager ». C’est la traduction de « camps de concentration » en allemand et c’est le terme que les témoins et les spécialistes ont pris l’habitude d’utiliser pour qualifier ces lieux chargés d’histoire.</p>
+                </div>
+            </div>
+            <div class="container container--half even">
+                <div class="card card--one card--reverse card--thin">
+                    <h3>Cultiver le travail de mémoire</h3>
+                    <p>La connaissance du passé constitue une pierre angulaire pour la compréhension du présent et la construction du futur. Il importe donc de fournir aux jeunes générations les instruments qui leur permettront d’appréhender, d’analyser, de comprendre les événements du passé. Cela afin de les aider à mesurer leur impact sur la société dans laquelle ils vivent pour favoriser la réflexion critique, le développement d’une citoyenneté responsable et la promotion des valeurs démocratiques.</p>
+                    <p>C’est le sens de la visite des lieux de mémoire dans le cadre d’un travail de mémoire. Ces visites permettent d’appréhender les faits et les traces historiques. L’encadrement des Territoires de la Mémoire facilite la compréhension des mécanismes mis en œuvre et les parallèles avec le présent.</p>
+                </div>
+            </div>
+        </div>
         <div class="page-tuiles">
-            {%- include_cached pages/page-tuile.html title="Voyages pour la Mémoire en Europe" url="#voyages-pour-la-memoire" imageSlug ="voyages" imageFileName="page-voyages-tuile-01.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Les destinations de voyages en Europe" url="#voyages-pour-la-memoire" imageSlug ="voyages" imageFileName="page-voyages-tuile-01.jpg" -%}
             {%- include_cached pages/page-tuile.html title="Journées pour la Mémoire en Belgique" url="#journees-pour-la-memoire" imageSlug ="voyages" imageFileName="page-voyages-tuile-02.jpg" -%}
             {%- include_cached pages/page-tuile.html title="Voyage annuel" url="#voyage-annuel" imageSlug ="voyages" imageFileName="page-voyages-tuile-03.jpg" -%}
         </div>
@@ -22,21 +37,25 @@ permalink: voyages
             <img src="/assets/images/voyages/voyages-pour-la-memoire.jpg" alt="Voyages pour la Mémoire en Europe">
             <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
         </div>
-        <h2 class="page-section__title">Vous désirez organiser un voyage pour la Mémoire en Europe&nbsp;?</h2>
+        <h2 class="page-section__title">Les destinations de voyages en Europe</h2>
         <p class="page-section__description">
-            Les Territoires de la Mémoire disposent d’une expérience notable dans l’organisation de voyages vers les lieux de Mémoire. L’association propose des plans d’accompagnement en amont et en aval de votre projet.
+            Les Territoires de la Mémoire disposent d’une expérience notable dans l’organisation de voyages vers les lieux de Mémoire. L’association propose des plans d’accompagnement en amont et en aval de votre projet.
         </p>
     </header>
     <div class="page-section__content">
         {%- include_cached pages/pdf-item.html slug="voyages-pour-la-memoire-en-europe" folder="voyages" -%}
         <div class="containers">
             <div class="container container--half container--order-two">
-                <div class="card card--one" style="max-width: 15em;">
-                    <h3>Contact</h3>
-                    <ul class="list--no-style">
-                        <li><a href="mailto:voyages@territoires-memoire.be">voyages@territoires-memoire.be</a></li>
-                        <li>+32 (0) 4 250 99 41</li> 
-                    </ul>
+                <div class="card card--red card--with-icon" style="max-width: 20em;">
+                    <div class="card__icon">
+                        <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact">
+                    </div>
+                    <div class="card__content">
+                        <ul class="list--no-style">
+                            <li><a href="mailto:voyages@territoires-memoire.be">voyages@territoires-memoire.be</a></li>
+                            <li>+32 (0) 4 250 99 41</li> 
+                        </ul>
+                    </div>
                 </div>
                 <p>
                     <a class="button button--blue" href="/dossiers#dossiers-camps">Consulter nos dossiers pédagogiques</a>
@@ -55,23 +74,25 @@ permalink: voyages
             <img src="/assets/images/voyages/journees-pour-la-memoire.jpg" alt="Journées pour la Mémoire en Belgique">
             <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
         </div>
-        <h2 class="page-section__title">Un accompagnement personnalisé dans l’organisation de vos journées pour la Mémoire</h2>
+        <h2 class="page-section__title">Les journées pour la Mémoire en Belgique</h2>
         <p class="page-section__description">
-            Le temps d’une journée ou une demi-journée, Les Territoires de la Mémoire proposent, aux groupes issus de ses partenaires, l’organisation de visite de différents lieux de Mémoire en Belgique.<br>
-            Profitez de l’expérience de l’association dans l’organisation de vos journées pour la Mémoire !
-            Les Territoires de la Mémoire vous accompagnent dans le choix de vos destinations et dans les modalités pratiques et pédagogiques liées à l’organisation de vos journées.
+            Le temps d’une journée ou une demi-journée, les Territoires de la Mémoire proposent aux groupes l’organisation de visite de différents lieux de Mémoire en Belgique. Profitez de l’expérience de l’association dans l’organisation de vos journées pour la Mémoire ! Les Territoires de la Mémoire vous accompagnent dans le choix de vos destinations et dans les modalités pratiques et pédagogiques liées à l’organisation de vos journées.
         </p>
     </header>
     <div class="page-section__content">
         {%- include_cached pages/pdf-item.html slug="journees-pour-la-memoire-en-belgique" folder="voyages" -%}
         <div class="containers">
             <div class="container container--half container--order-two">
-                <div class="card card--one" style="max-width: 18em;">
-                    <h3>Contact</h3>
-                    <ul class="list--no-style">
-                        <li><a href="mailto:administration@territoires-memoire.be">administration@territoires-memoire.be</a></li>
-                        <li>+32 (0) 4 232 70 59</li> 
-                    </ul>
+                <div class="card card--red card--with-icon" style="max-width: 22em;">
+                    <div class="card__icon">
+                        <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact">
+                    </div>
+                    <div class="card__content">
+                        <ul class="list--no-style">
+                            <li><a href="mailto:administration@territoires-memoire.be">administration@territoires-memoire.be</a></li>
+                            <li>+32 (0) 4 232 70 59</li> 
+                        </ul>
+                    </div>
                 </div>
             </div>
             <div class="container container--half container--order-one">
@@ -125,7 +146,7 @@ permalink: voyages
                         </li> 
                         <li class="post__meta__card">
                             <div class="post__meta__icon">
-                                <img src="/assets/images/icons/tm-icon-infos.svg" alt="Contact">
+                                <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact">
                             </div>
                             <div>
                                 Cédric Boonen<br>

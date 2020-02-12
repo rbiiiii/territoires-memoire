@@ -18,7 +18,7 @@
     }
 }
 
-a.pdf-txt__item__link[href] {
+a.pdf-txt__item__link[href], .pdf-txt__item__link {
     background: none;
     display:flex;
     flex-direction: column;
@@ -27,7 +27,10 @@ a.pdf-txt__item__link[href] {
     @media screen and (min-width:$medium-width) {
         flex-direction: row;
     }
+}
 
+a.pdf-txt__item__link {
+    
     &:hover, &:focus {
         
         .pdf-txt__item__img-wrapper {

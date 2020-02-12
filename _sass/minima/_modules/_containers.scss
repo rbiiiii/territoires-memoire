@@ -96,8 +96,16 @@
             } 
 
             .page-section__header & .card {
-                margin-top:0;        
-                margin-left:0;    
+                margin-top:0;   
+            }
+            
+            .page-section__header &.odd .card {
+                margin-left:$spacing-unit; 
+                margin-right:0;
+            }
+            
+            .page-section__header &.even .card {
+                margin-right:$spacing-unit;
             }
         }
 

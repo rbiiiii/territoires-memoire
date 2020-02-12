@@ -6,13 +6,24 @@ permalink: eduquer
 class: eduquer
 ---
 
-<section class="page-section top limited">
+<section class="page-section top">
     <div class="page-section__content">
-        <p class="chapeau">
-            Les Territoires de la Mémoire conçoivent, éditent et diffusent des outils qui permettent de comprendre le passé, de réaliser un travail de mémoire durable, de résister aux idées liberticides et d’éduquer à la citoyenneté. Par ces outils et les animations qu’ils proposent, ils encouragent les jeunes à devenir des « Passeurs de Mémoire » pour lutter contre l’oubli, dénoncer le négationnisme et renforcer la démocratie. Ils proposent également des formations spécifiques pour les relais éducatifs et les groupes en formation.
-        </p>
+        <div class="containers">
+            <div class="container container--half">
+                <p class="chapeau">Les Territoires de la Mémoire conçoivent, éditent et diffusent des outils qui permettent de comprendre le passé, de réaliser un travail de mémoire durable, de résister aux idées liberticides et d’éduquer à la citoyenneté.</p>
+                <p class="chapeau">Par ces outils et les animations qu’ils proposent, ils encouragent les jeunes à devenir des « passeurs de Mémoire » pour lutter contre l’oubli, dénoncer le négationnisme et agir sur le présent en renforçant la démocratie. Ils proposent également des formations spécifiques pour les relais éducatifs et les groupes en formation.</p>
+            </div>
+            <div class="container container--half">
+                <div class="card card--one card--reverse card--thin">
+                    <h3>Cultiver la résistance et la citoyenneté</h3>
+                    <p class="text-bold">Par le biais d’expositions, d’outils et d’animations ciblées, les Territoires de la Mémoire proposent de mettre leurs compétences à votre service pour éduquer, transmettre et former le public aux valeurs démocratiques.</p>
+                    <p>Ces animations s’appuient bien sûr sur la mémoire mais surtout sur la compréhension des mécanismes sociaux et politiques qui régissent la vie en communauté dans nos sociétés. Elles permettent de mettre en perspective des faits de société et faire le lien entre des situations vécues au niveau individuel avec des modes de fonctionnement globaux.</p>
+                </div>
+            </div>
+        </div>
+
         <div class="page-tuiles">
-            {%- include_cached pages/page-tuile.html title="Les expositions itinérantes" url="#expositions-itinerantes" imageSlug="eduquer" imageFileName="page-eduquer-tuile-01.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Expositions itinérantes" url="#expositions-itinerantes" imageSlug="eduquer" imageFileName="page-eduquer-tuile-01.jpg" -%}
             {%- include_cached pages/page-tuile.html title="Outils pédagogiques" url="#outils-pedagogiques" imageSlug="eduquer" imageFileName="page-eduquer-tuile-02.jpg" -%}
             {%- include_cached pages/page-tuile.html title="Animations pédagogiques" url="#animations-pedagogiques" imageSlug="eduquer" imageFileName="page-eduquer-tuile-03.jpg" -%}
             {%- include_cached pages/page-tuile.html title="Animations-débats" url="#animations-debats" imageSlug="eduquer" imageFileName="page-eduquer-tuile-04.jpg" -%}
@@ -28,19 +39,20 @@ class: eduquer
             <img src="/assets/images/eduquer/expositions-itinerantes.jpg" alt="Les expositions itinérantes">
             <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
         </div>
-        <h2 class="page-section__title">Avec nos expositions, accueillez la Mémoire et la Citoyenneté</h2>
-        <p class="page-section__description">
-            Les expositions des Territoires de la Mémoire asbl permettent à toutes et tous d’élargir leur horizon. Du parcours des prisonniers politiques sous le joug nazi à l’enfermement arbitraire des personnes en situation illégale aujourd’hui, elles font entrer les valeurs démocratiques au cœur des Cités. Ces expositions sont mises à la disposition des Communes, Villes et ­Provinces membres du réseau Territoire de Mémoire et aux organisations qui souhaitent les diffuser. Prenez contact avec nous, nous serons heureux de préparer cet événement avec vous&nbsp;!
-        </p>
-        <div class="card card--one card--medium-width">
-            <h3>Réservations</h3>
-            <ul class="list list--no-style">
-                <li>Stéphanie Reynders</li>
-                <li>
-                    <a href="mailto:expositions@territoires-memoire.be">expositions@territoires-memoire.be</a>
-                </li>
-                <li>04 232 70 06</li>
-            </ul>
+        <h2 class="page-section__title">Expositions itinérantes</h2>
+        <p class="page-section__description">Les expositions des Territoires de la Mémoire asbl permettent à toutes et tous d’élargir leur horizon. Du parcours des prisonniers politiques sous le joug nazi à l’enfermement arbitraire des personnes en situation illégale aujourd’hui, elles font entrer les valeurs démocratiques au cœur des cités. Ces expositions sont mises à la disposition des Communes, Villes et ­Provinces membres du réseau Territoire de Mémoire et aux organisations qui souhaitent les diffuser. Prenez contact avec l’association, nos collaborateurs seront heureux de préparer cet événement avec vous&nbsp;!</p>
+        <div class="card card--red card--with-icon card--medium-width">
+            <div class="card__icon">
+                <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact" width="60" height="60">
+            </div>
+            <div class="card__content">
+                <ul class="list list--no-style">
+                    <li>
+                        <a href="mailto:expositions@territoires-memoire.be">expositions@territoires-memoire.be</a>
+                    </li>
+                    <li>04 232 70 06</li>
+                </ul>
+            </div>
         </div>
     </header>
     <div class="page-section__content">
@@ -54,14 +66,18 @@ class: eduquer
             <img src="/assets/images/eduquer/outils-pedagogiques.jpg" alt="Outils pédagogiques">
             <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
         </div>
-        <h2 class="page-section__title">Des outils pédagogiques en faveur de la citoyenneté</h2>
-        <p class="page-section__description">Afin de mieux appréhender certaines thématiques des Territoires de la Mémoire, l'association propose des outils pédagogiques et des ouvrages thématiques. Ils permettent de comprendre le passé, de réaliser un travail de Mémoire durable, de résister aux idées liberticides et d’éduquer à la citoyenneté, ces outils encouragent les jeunes à devenir des passeurs de Mémoire pour lutter contre l’oubli, dénoncer le négationnisme et renforcer la démocratie.</p>
-        <div class="card card--one card--medium-width">
-            <h3>Renseignements</h3>
-            <ul class="list--no-style">
-                <li><a href="mailto:pedagogique@territoires-memoire.be">pedagogique@territoires-memoire.be</a></li>
-                <li>04 232 70 03</li> 
-            </ul>
+        <h2 class="page-section__title">Des outils pédagogiques pour développer une citoyenneté active</h2>
+        <p class="page-section__description">Afin de mieux appréhender certaines thématiques des Territoires de la Mémoire, l’association propose des outils pédagogiques et des ouvrages thématiques. Ils permettent de comprendre le passé, de réaliser un travail de Mémoire durable, de résister aux idées liberticides et d’éduquer à la citoyenneté, ces outils encouragent les jeunes à devenir des passeurs de Mémoire pour lutter contre l’oubli, dénoncer le négationnisme et renforcer la démocratie.</p>
+        <div class="card card--red card--with-icon card--medium-width">
+            <div class="card__icon">
+                <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact" width="60" height="60">
+            </div>
+            <div class="card__content">
+                <ul class="list--no-style">
+                    <li><a href="mailto:pedagogique@territoires-memoire.be">pedagogique@territoires-memoire.be</a></li>
+                    <li>04 232 70 03</li> 
+                </ul>
+            </div>
         </div>
     </header>
     <div class="page-section__content">
@@ -75,16 +91,20 @@ class: eduquer
             <img src="/assets/images/eduquer/animations-pedagogiques.jpg" alt="Animations pédagogiques">
             <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
         </div>
-        <h2 class="page-section__title">Des animations pédagogiques pour toutes et tous</h2>
+        <h2 class="page-section__title">Animations pédagogiques</h2>
         <p class="page-section__description">
-            À destination d’un public jeune et adulte, les animations pédagogiques des Territoires de la Mémoire permettent d’aborder des questions de société importantes pour la construction d’une société libre dans laquelle évoluent des citoyens responsables. Elles s’appuient généralement sur des outils conçus par l’association et elles permettent d’ouvrir le regard sur la réalité qui nous entoure.
+            À destination d’un public jeune et adulte, les animations pédagogiques des Territoires de la Mémoire permettent d’aborder des questions de société importantes pour la construction d’une société libre dans laquelle évoluent des citoyennes et des citoyens responsables. Elles s’appuient généralement sur des outils conçus par l’association et elles permettent d’ouvrir le regard sur la réalité qui nous entoure.
         </p>
-        <div class="card card--one card--medium-width">
-            <h3>Renseignements</h3>
-            <ul class="list--no-style">
-                <li><a href="mailto:pedagogique@territoires-memoire.be">pedagogique@territoires-memoire.be</a></li>
-                <li>04 232 70 03</li> 
-            </ul>
+        <div class="card card--red card--with-icon card--medium-width">
+            <div class="card__icon">
+                <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact" width="60" height="60">
+            </div>
+            <div class="card__content">
+                <ul class="list--no-style">
+                    <li><a href="mailto:pedagogique@territoires-memoire.be">pedagogique@territoires-memoire.be</a></li>
+                    <li>04 232 70 03</li> 
+                </ul>
+            </div>
         </div>
     </header>
     <div class="page-section__content">
@@ -99,13 +119,17 @@ class: eduquer
             <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
         </div>
         <h2 class="page-section__title">Animations-débats</h2>
-        <p class="page-section__description">En complément de la visite de l'exposition <em>Plus jamais ça !</em>, Les Territoires de la Mémoire proposent des animations, dispensées à La Cité Miroir uniquement, sur les thématiques citoyennes.</p>
-        <div class="card card--one card--medium-width">
-            <h3>Renseignements</h3>
-            <ul class="list--no-style">
-                <li><a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></li>
-                <li>04 232 70 60</li> 
-            </ul>
+        <p class="page-section__description">En complément de la visite de l’exposition Plus jamais ça !, les Territoires de la Mémoire proposent des animations, dispensées à La Cité Miroir à Liège principalement sur les thématiques citoyennes. L’association propose également d’accompagner les partenaires qui le souhaitent dans l’organisation de rencontres thématiques.</p>
+        <div class="card card--red card--with-icon card--medium-width">
+            <div class="card__icon">
+                <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact" width="60" height="60">
+            </div>
+            <div class="card__content">
+                <ul class="list--no-style">
+                    <li><a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></li>
+                    <li>04 232 70 60</li> 
+                </ul>
+            </div>
         </div>
     </header>
     <div class="page-section__content">
@@ -120,13 +144,17 @@ class: eduquer
             <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
         </div>
         <h2 class="page-section__title">Animations Ciné-Mémoire</h2>
-        <p class="page-section__description">Les animations Ciné-Mémoire vous proposent de découvrir ou redécouvrir un film engagé. Conjuguez le travail de mémoire et l’élaboration d’une réflexion critique et développez votre vigilance citoyenne&nbsp;! Suite à la projection du film, un animateur ou une animatrice pédagogique des ­Territoires de la Mémoire met en contexte le film au niveau historique ou théorique et initie un échange avec les participants.</p>
-        <div class="card card--one card--medium-width">
-            <h3>Contact pour l'organisation</h3>
-            <ul class="list--no-style">
-                <li><a href="mailto:pedagogique@territoires-memoire.be">pedagogique@territoires-memoire.be</a></li>
-                <li>04 232 70 03</li> 
-            </ul>
+        <p class="page-section__description">Les animations ciné-mémoire vous proposent de découvrir ou redécouvrir un film engagé. Suite à la projection du film, un animateur ou une animatrice pédagogique des ­Territoires de la Mémoire met en contexte le film au niveau historique ou théorique et initie un échange avec les participants.</p>
+        <div class="card card--red card--with-icon card--medium-width">
+            <div class="card__icon">
+                <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact" width="60" height="60">
+            </div>
+            <div class="card__content">
+                <ul class="list--no-style">
+                    <li><a href="mailto:pedagogique@territoires-memoire.be">pedagogique@territoires-memoire.be</a></li>
+                    <li>04 232 70 03</li> 
+                </ul>
+            </div>
         </div>
     </header>
     <div class="page-section__content">
@@ -140,14 +168,18 @@ class: eduquer
             <img src="/assets/images/eduquer/formations-pour-adultes.jpg" alt="Formations pour adultes">
             <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
         </div>
-        <h2 class="page-section__title">Formations pour adultes</h2>
-        <p class="page-section__description">L’association propose des formations d'une demi-journée pour les enseignants, les éducateurs, les maisons de jeunes ou le personnel communal. Ces séances peuvent être données soit à La Cité Miroir à Liège soit directement dans vos locaux.</p>
-        <div class="card card--one card--medium-width">
-            <h3>Contact pour l'organisation</h3>
-            <ul class="list--no-style">
-                <li><a href="mailto:pedagogique@territoires-memoire.be">pedagogique@territoires-memoire.be</a></li>
-                <li>04 232 70 03</li> 
-            </ul>
+        <h2 class="page-section__title">Formations spécifiques pour public adulte</h2>
+        <p class="page-section__description">L’association propose des formations d’une demi-journée pour les enseignants, les éducateurs, les maisons de jeunes ou le personnel communal. Ces séances peuvent être données soit à La Cité Miroir à Liège soit directement dans vos locaux.</p>
+        <div class="card card--red card--with-icon card--medium-width">
+            <div class="card__icon">
+                <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact" width="60" height="60">
+            </div>
+            <div class="card__content">
+                <ul class="list--no-style">
+                    <li><a href="mailto:pedagogique@territoires-memoire.be">pedagogique@territoires-memoire.be</a></li>
+                    <li>04 232 70 03</li> 
+                </ul>
+            </div>
         </div>
     </header>
     <div class="page-section__content">

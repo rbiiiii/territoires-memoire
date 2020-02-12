@@ -36,7 +36,10 @@
     a {
 
         &, .page-content & {
-            background-image: linear-gradient($bleu-tm 0%, $bleu-tm 100%);    
+            background-image: linear-gradient(white 0%, white 100%);        
+        }
+        &:hover, &:focus {
+            color:$rouge-tm;
         }
     }
 }
@@ -139,16 +142,26 @@
     display: flex;
 
     .card__icon {
-        width: $spacing-unit*3;
-        min-width: $spacing-unit*2;
+        width: $spacing-unit*2;
         margin-right: $spacing-unit;
-        padding-top: $spacing-unit/4;
+        
+        @media screen and (min-width:480px) {
+            width: $spacing-unit*3;
+        }
 
-        svg {
+        img {
             width:100%;
             height:auto;
         }
     }
+
+    .card__content {
+        max-width: calc(100% - #{$spacing-unit*4});
+    }
+}
+
+.card--thin {
+    border-width:2px !important;
 }
 
 .card--centered {

@@ -1,8 +1,8 @@
 <div class="page-gallery">
     <ul class="page-gallery__container">
         {%- capture album -%}{{ include.album }}{%- endcapture -%}
-        {%- for item in site.data.gallery -%}
-            {%- if item.gallery == album -%}
+        {%- assign gallery = site.data.gallery | where:'gallery', album -%}
+        {%- for item in gallery -%}
             <li class="page-gallery__item page-gallery__item--{{ item.type }} page-gallery__item--{{ item.position }}">
                 <a 
                 class="page_gallery__item__link"
@@ -15,7 +15,6 @@
                     <span class="page-gallery__item__text">[+]</span>
                 </a>
             </li>
-            {%- endif -%}
         {%- endfor -%}
     </ul>
 </div>
