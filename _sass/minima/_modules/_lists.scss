@@ -12,7 +12,7 @@ ul, .list {
             margin-bottom:0;    
         }
 
-        &::before {
+        &:before {
             display: inline-block;
             content: "\00b7";
             width: 0.7em;
@@ -31,7 +31,7 @@ ul, .list {
 
     li {
 
-        &::before {
+        &:before {
             content: "- ";
             display:inline-block;
             width:0.7em;
@@ -48,7 +48,7 @@ ul, .list {
 
     li {
 
-        &::before {
+        &:before {
             display: none;
         }
     }
@@ -72,6 +72,20 @@ ul, .list {
 
 .list--margin-left {
     margin-left:0.7em;    
+}
+
+.list--white-marker {
+
+    li {
+
+        &:before {
+            display: inline-block;
+            content: "\00b7";
+            width: 0.7em;
+            margin-left: -0.7em;
+            color:white;
+        }
+    }
 }
 
 .list__item--with-icon {
