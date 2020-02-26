@@ -15,13 +15,11 @@
 
 .post__header__img {
     position:relative;
-    min-height: 260px;
     border-bottom:1px solid $bleu-tm;
     margin:0 $spacing-unit;
     padding-bottom:12px;
 
     img {
-        min-height: 260px;
         width: auto;
         object-fit: cover;
     }
