@@ -17,7 +17,7 @@ schedule: |-
   Samedi et dimanche 10h-18h\
   Ouverture en soirée en fonction des activités programmées.\
   Fermé le lundi 13/04.
-practical: "Visite animée pour les groupes le lundi à 15 h et le vendredi à 13 h et à 15 h :\n\n* Durée\_: 1 h\n* Gratuit\n* 15 personnes max\n* À partir de 15 ans\n\nRéservation\_:\n\n* bibliotheque@territoires-memoire.be\n* 04\_232\_70\_62"
+practical: "Visite animée pour les groupes le lundi à 15 h et le vendredi à 13 h et à 15 h :\n\n* Durée\_: 1 h\n* Gratuit\n* 15 personnes max\n* À partir de 15 ans\n\nRéservation\_:\n\n* [bibliotheque@territoires-memoire.be](<* bibliotheque@territoires-memoire.be>)\n* 04\_232\_70\_62"
 ---
 Michèle Lepeer, née le 11 février 1954 à Bruxelles. Elle vit et travaille en France. Elle réussit à nous montrer les violences extrêmes du monde tout en nous faisant ressentir son empathie pour les victimes. Ses toiles ne sont pas sombres, les couleurs et la délicatesse du touché apaisent le propos. Les bourreaux, quant à eux, font l’objet d’installations ironiques, *le rire étant la politesse du désespoir*.
 
