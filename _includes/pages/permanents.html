@@ -19,7 +19,9 @@
                     <p>
                         {{ permanent.titre }}<br>
                         Tél&nbsp;: {{ permanent.tel }}<br>
-                        <a href="mailto:{{ permanent.email }}">{{ permanent.email }}</a>
+                        {% for email in permanent.email %}
+                            <a href="mailto:{{ email }}">{{ email }}</a><br>
+                        {% endfor %}
                     </p>
                 </div>
             </li>

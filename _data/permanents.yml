@@ -1,15 +1,9 @@
-- nom: Jacques Smits
-  titre: Directeur
-  tel: 04 232 70 60
-  email: direction@territoires-memoire.be
-  photo: jacques_smits.jpg
-  categorie: Direction
-  categorie_slug: direction
-
 - nom: Philippe Evrard
-  titre: Vice-Directeur
+  titre: Directeur
   tel: 04 232 70 54
-  email: philippeevrard@territoires-memoire.be
+  email:
+    - direction@territoires-memoire.be
+    - philippeevrard@territoires-memoire.be
   photo: philippe_evrard.jpg
   categorie: Direction
   categorie_slug: direction
@@ -17,7 +11,8 @@
 - nom: Jean-Paul Gimenne
   titre: Directeur adjoint
   tel: 04 232 70 47 / 0497 49 55 77
-  email: jeanpaulgimenne@territoires-memoire.be
+  email: 
+    - jeanpaulgimenne@territoires-memoire.be
   photo: jean-paul_gimenne.jpg
   categorie: Direction adjointe - services financiers
   categorie_slug: direction-adjointe-finances
@@ -25,7 +20,8 @@
 - nom: Régine Fassotte
   titre: Déléguée
   tel: 04 232 70 69
-  email: reginefassotte@territoires-memoire.be
+  email: 
+    - reginefassotte@territoires-memoire.be
   photo: regine_fassotte.jpg
   categorie: Administration
   categorie_slug: administration
@@ -33,7 +29,8 @@
 - nom: Julien Paulus
   titre: Coordinateur
   tel: 04 250 99 45
-  email: julienpaulus@territoires-memoire.be
+  email: 
+    - julienpaulus@territoires-memoire.be
   photo: julien_paulus.jpg
   categorie: Éditions et Études
   categorie_slug: editions-etudes
@@ -41,7 +38,8 @@
 - nom: Gaelle Henrard
   titre: Déléguée 
   tel: 04 232 70 68
-  email: gaellehenrard@territoires-memoire.be
+  email: 
+    - gaellehenrard@territoires-memoire.be
   photo: gaelle_henrard.jpg
   categorie: Éditions et Études
   categorie_slug: editions-etudes
@@ -49,7 +47,8 @@
 - nom: Déborah Colombini
   titre: Déléguée 
   tel: 04 232 70 63
-  email: deborahcolombini@territoires-memoire.be
+  email: 
+    - deborahcolombini@territoires-memoire.be
   photo: deborah_colombini.jpg
   categorie: Éditions et Études
   categorie_slug: editions-etudes
@@ -57,7 +56,8 @@
 - nom: Stéphanie Reynders
   titre: Coordinatrice
   tel: 04 232 70 06
-  email: stephaniereynders@territoires-memoire.be
+  email: 
+    - stephaniereynders@territoires-memoire.be
   photo: stephanie_reynders.jpg
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
@@ -65,7 +65,8 @@
 - nom: Tamara Hannay
   titre: Déléguée
   tel: 04 250 99 40
-  email: tamarahannay@territoires-memoire.be
+  email: 
+    - tamarahannay@territoires-memoire.be
   photo: tamara_hannay.jpg
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
@@ -73,7 +74,8 @@
 - nom: Robin Marotta
   titre: Délégué
   tel: 04 230 70 67
-  email: robinmarotta@territoires-memoire.be
+  email: 
+    - robinmarotta@territoires-memoire.be
   photo: robin_marotta.jpg
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
@@ -81,7 +83,8 @@
 - nom: Constance Marée
   titre: Déléguée
   tel: 04 230 70 42
-  email: constancemaree@territoires-memoire.be
+  email: 
+    - constancemaree@territoires-memoire.be
   photo: constance_maree.jpg
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
@@ -89,7 +92,8 @@
 - nom: Nicolas Kurevic
   titre: Coordinateur
   tel: 04 232 70 03
-  email: nicolaskurevic@territoires-memoire.be
+  email: 
+    - nicolaskurevic@territoires-memoire.be
   photo: nicolas_kurevic.jpg
   categorie: Pédagogique
   categorie_slug: pedagogique
@@ -97,7 +101,8 @@
 - nom: Clara Derhet
   titre: Déléguée
   tel: 04 250 99 58
-  email: claraderhet@territoires-memoire.be
+  email: 
+    - claraderhet@territoires-memoire.be
   photo: clara_derhet.jpg
   categorie: Pédagogique
   categorie_slug: pedagogique
@@ -105,7 +110,8 @@
 - nom: Anne-Sophie Leprince
   titre: Déléguée
   tel: 04 232 70 67
-  email: annesophieleprince@territoires-memoire.be
+  email: 
+    - annesophieleprince@territoires-memoire.be
   photo: anne-sophie_leprince.jpg
   categorie: Pédagogique
   categorie_slug: pedagogique
@@ -113,7 +119,8 @@
 - nom: Julie Ricard
   titre: Déléguée
   tel: 04 250 99 43
-  email: juliericard@territoires-memoire.be
+  email: 
+    - juliericard@territoires-memoire.be
   photo: julie_ricard.jpg
   categorie: Pédagogique
   categorie_slug: pedagogique
@@ -121,7 +128,8 @@
 - nom: Philippe Tomczyk
   titre: Coordinateur
   tel: 04 232 70 08
-  email: philippetomczyk@territoires-memoire.be
+  email: 
+    - philippetomczyk@territoires-memoire.be
   photo: philippe_tomczyk.jpg
   categorie: Projets
   categorie_slug: projets
@@ -129,7 +137,8 @@
 - nom: Cédric Boonen
   titre: Délégué
   tel: 04 250 99 41
-  email: cedricboonen@territoires-memoire.be
+  email: 
+    - cedricboonen@territoires-memoire.be
   photo: cedric_boonen.jpg
   categorie: Projets
   categorie_slug: projets
@@ -137,7 +146,8 @@
 - nom: Delphine Daniels
   titre: Déléguée
   tel: 04 250 99 44
-  email: delphinedaniels@territoires-memoire.be
+  email: 
+    - delphinedaniels@territoires-memoire.be
   photo: delphine_daniels.jpg
   categorie: Projets
   categorie_slug: projets
@@ -145,7 +155,8 @@
 - nom: Julie Mignolet
   titre: Déléguée
   tel: 04 232 70 02
-  email: juliemignolet@territoires-memoire.be
+  email: 
+    - juliemignolet@territoires-memoire.be
   photo: julie_mignolet.jpg
   categorie: Projets
   categorie_slug: projets
@@ -153,7 +164,8 @@
 - nom: Coline Rouche
   titre: Déléguée
   tel: 04 250 99 53
-  email: colinerouche@territoires-memoire.be
+  email: 
+    - colinerouche@territoires-memoire.be
   photo: coline_rouche.jpg
   categorie: Projets
   categorie_slug: projets
@@ -161,7 +173,8 @@
 - nom: Michel Recloux
   titre: Coordinateur
   tel: 04 232 70 62
-  email: michelrecloux@territoires-memoire.be
+  email: 
+    - michelrecloux@territoires-memoire.be
   photo: michel_recloux.jpg
   categorie: Bibliothèque
   categorie_slug: bibliotheque
@@ -169,7 +182,8 @@
 - nom: Jérôme Delnooz
   titre: Délégué
   tel: 04 250 99 55
-  email: jeromedelnooz@territoires-memoire.be
+  email: 
+    - jeromedelnooz@territoires-memoire.be
   photo: jerome_delnooz.jpg
   categorie: Bibliothèque
   categorie_slug: bibliotheque
@@ -177,7 +191,8 @@
 - nom: Maud Herbet
   titre: Déléguée
   tel: 04 230 70 43
-  email: maudherbet@territoires-memoire.be
+  email: 
+    - maudherbet@territoires-memoire.be
   photo: maud_herbet.jpg
   categorie: Bibliothèque
   categorie_slug: bibliotheque
