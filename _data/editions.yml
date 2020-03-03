@@ -134,6 +134,14 @@
   link: https://boutique.territoires-memoire.be/fr/nos-livres/17-mot-a-mot.html
   categorie: collection-libres-ecrits
 
+- title: Apocapitalypse
+  external: true
+  date: 201912
+  author: "Timotéo Sergoï"
+  img_src: points-d-encrage-apocapitalypse.jpg
+  link: https://boutique.territoires-memoire.be/fr/nos-livres/49-apocapitalypse.html
+  categorie: collection-points-d-encrage
+
 - title: Le photographe de Mauthausen
   external: true
   date: 201706
