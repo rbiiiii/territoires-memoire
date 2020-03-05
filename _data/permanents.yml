@@ -125,6 +125,15 @@
   categorie: Pédagogique
   categorie_slug: pedagogique
 
+- nom: Djamila Zilles
+  titre: Déléguée
+  tel: 04 230 70 41
+  email: 
+    - djamilazilles@territoires-memoire.be
+  photo: djamila_zilles.jpg
+  categorie: Pédagogique
+  categorie_slug: pedagogique
+
 - nom: Philippe Tomczyk
   titre: Coordinateur
   tel: 04 232 70 08
