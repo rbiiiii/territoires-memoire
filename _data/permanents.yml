@@ -62,24 +62,6 @@
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
 
-- nom: Tamara Hannay
-  titre: Déléguée
-  tel: 04 250 99 40
-  email: 
-    - tamarahannay@territoires-memoire.be
-  photo: tamara_hannay.jpg
-  categorie: Gestion des ressources financières
-  categorie_slug: gestion-ressources-financieres
-
-- nom: Robin Marotta
-  titre: Délégué
-  tel: 04 230 70 67
-  email: 
-    - robinmarotta@territoires-memoire.be
-  photo: robin_marotta.jpg
-  categorie: Gestion des ressources financières
-  categorie_slug: gestion-ressources-financieres
-
 - nom: Constance Marée
   titre: Déléguée
   tel: 04 230 70 42
@@ -203,5 +185,23 @@
   email: 
     - maudherbet@territoires-memoire.be
   photo: maud_herbet.jpg
+  categorie: Bibliothèque
+  categorie_slug: bibliotheque
+
+- nom: Tamara Hannay
+  titre: Déléguée
+  tel: 04 250 99 40
+  email: 
+    - tamarahannay@territoires-memoire.be
+  photo: tamara_hannay.jpg
+  categorie: Bibliothèque
+  categorie_slug: bibliotheque
+
+- nom: Robin Marotta
+  titre: Délégué
+  tel: 04 230 70 67
+  email: 
+    - robinmarotta@territoires-memoire.be
+  photo: robin_marotta.jpg
   categorie: Bibliothèque
   categorie_slug: bibliotheque
