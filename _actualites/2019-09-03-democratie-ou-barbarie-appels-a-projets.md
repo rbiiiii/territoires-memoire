@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: 'Démocratie ou Barbarie : appels à projets'
-img_file: /assets/uploads/dob.jpg
+img_file: assets/uploads/democratie-ou-barbarie.jpg
 posted_on: '2019-09-03'
 ---
 Dans le cadre du décret du 13 mars 2009 relatif à la transmission de la mémoire des crimes de génocide, des crimes contre l’humanité, des crimes de guerre et des faits de résistance ou des mouvements ayant résisté aux régimes qui ont suscité ces crimes, **la Fédération Wallonie-Bruxelles lance comme chaque année trois appels à projets :**
