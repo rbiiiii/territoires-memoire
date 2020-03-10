@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: Les 5 provinces wallonnes sont Territoires de Mémoire !
-img_file: /assets/uploads/20150508_tdlm_autourdu8mai_colloque24.jpg
+img_file: /assets/uploads/20170125-provinces-territoire-de-memoire.jpg
 posted_on: '2017-01-25'
 ---
 Souhaitons aujourd'hui la bienvenue à la Province de Luxembourg qui fait dès à présent partie de notre réseau Territoires de Mémoire et rejoint ainsi les 4 autres provinces wallonnes déjà partenaires de notre ASBL.
