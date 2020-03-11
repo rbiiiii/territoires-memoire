@@ -6,7 +6,9 @@ date_start: '2020-03-21'
 date_stop: '2020-04-17'
 img_file: >-
   assets/uploads/20180319_tdlm_projets_monamipaco_visuel_agenda_site_territoires-1-.jpg
-place: Administration communale de Farciennes
+place: >-
+  Administration communale de Farciennes  Rue de La Liberté 40  -  6240
+  Farciennes
 address: Rue de La Liberté 40  -  6240 Farciennes
 price: Entrée libre
 tags:
