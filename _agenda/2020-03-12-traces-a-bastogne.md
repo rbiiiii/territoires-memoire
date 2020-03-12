@@ -16,6 +16,6 @@ practical: |-
 
   Cette exposition est organisée par la Commune de Bastogne
 ---
-Bien plus qu’un travail artistique, Traces est une exposition modulable de 70 ou 30 photographies. Toutes ces vues contemporaines des camps de concentration et des centres d’extermination ne reflètent pas vraiment la barbarie. Pourtant, derrière chaque fenêtre, chaque clôture, chaque construction ou chaque objet, il y a des millions d’hommes et de femmes, victimes de l’idéologie nazie.
+Bien plus qu’un travail artistique, Traces est une exposition modulable de 70 ou 30 photographies.  Toutes ces vues contemporaines des camps de concentration et des centres d’extermination ne reflètent pas vraiment la barbarie. Pourtant, derrière chaque fenêtre, chaque clôture, chaque construction ou chaque objet, il y a des millions d’hommes et de femmes, victimes de l’idéologie nazie.
 
 C’est d’abord un sentiment d’étonnement qui domine. Toutes ces vues actuelles des camps de concentration et d’extermination ne reflètent pas vraiment la barbarie, le crime et la volonté d’annihiler l’humain ! Et puis, c’est l’incrédulité qui prend lentement la place. Breendonk, Mauthausen, Dachau, Buchenwald, Auschwitz… ne seraient que de simples lieux de détention, comme beaucoup d’autres ? Inoffensifs et banals… vraiment ?
