@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: Exposition Triangle Rouge à Chimay
+title: Exposition Triangle Rouge à Chimay (annulée)
 date_start: '2020-03-27'
 date_stop: '2020-04-07'
 img_file: assets/uploads/triangle-rouge-expo.jpg
