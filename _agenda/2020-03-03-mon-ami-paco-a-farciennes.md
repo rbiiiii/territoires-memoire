@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: Mon Ami Paco à Farciennes
+title: Mon Ami Paco à Farciennes (annulée)
 date_start: '2020-03-21'
 date_stop: '2020-04-17'
 img_file: >-
