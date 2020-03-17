@@ -4,7 +4,7 @@ categories: agenda
 title: Rendre visibles les invisibles - Peintures et installations de Michèle Lepeer
 date_start: '2020-03-06'
 date_stop: '2020-04-19'
-img_file: assets/uploads/micelelepeer.jpg
+img_file: /assets/uploads/micelelepeer.jpg
 place: >-
   Bibliothèque George Orwell des Territoires de la Mémoire à La Cité Miroir, 22
   place Xavier Neujean, 4000 Liège (2e étage)
