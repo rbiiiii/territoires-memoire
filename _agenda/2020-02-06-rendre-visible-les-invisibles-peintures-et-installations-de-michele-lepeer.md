@@ -35,3 +35,5 @@ Décortique les images
 Cherche à travers elles
 Et au-delà d’elles »
 *Vincent Furnelle*
+
+<a data-flickr-embed="true" data-context="true" href="https://www.flickr.com/photos/territoires/49668654353/in/dateposted-public/" title="30"><img src="https://live.staticflickr.com/65535/49668654353_91074e66c1_c.jpg" width="600" height="800" alt="30"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
