@@ -5,7 +5,7 @@ layout: default
 
   <header class="post__header">
     <div class="post__header__img">
-      <img src="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg{%- else -%}/{{ page.img_file }}{%- endif -%}" alt="{{ page.title }}">
+      <img src="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg{%- else -%}{{ site.url }}/{{ page.img_file }}{%- endif -%}" alt="{{ page.title }}">
       <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
       {%- if page.path contains '_agenda' -%}
       <div class="post__header__tag">
