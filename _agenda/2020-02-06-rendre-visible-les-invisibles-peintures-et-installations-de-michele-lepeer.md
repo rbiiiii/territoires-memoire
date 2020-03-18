@@ -51,3 +51,36 @@ Et au-delà d’elles »
         </span>
     </a>
 </div></div>
+
+## Vidéo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AjXhKQcG-vE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Textes
+
+<div class="containers containers--third" style="margin-top:40px">
+			<div class="container container--third">
+				<div class="card card--one card--pdf-link card--centered card--small-text"><div class="pdf-link"><a class="pdf-link__link color-white" href="/assets/uploads/Mon-métier-de-peintre_résumé-intervention-fribourg-ch-12-2018.pdf"><svg class="pdf-link__img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><style>.pdf-link__img--color{fill:#003b62}</style><path class="pdf-link__img--color" d="M30.21 2.5l11.04 11.04V47.5H8.75v-45h21.46M31.25 0h-25v50h37.5V12.5L31.25 0z"></path> <path class="pdf-link__img--color" d="M21.25 8.75V15H15V8.75h6.25m2.5-2.5H12.5V17.5h11.25V6.25zM37.5 15H26.25v2.5H37.5V15zm0 5h-25v2.5h25V20zm0 5h-25v2.5h25V25zm3.75 6.25H8.75v2.5h32.5v-2.5zm-22.34 7.33v1.14c0 1.81-1.36 3.21-3.55 3.21h-1.68v2.95h-1.76v-10.5h3.44c2.19 0 3.55 1.4 3.55 3.2zm-1.75.1c0-.9-.45-1.67-1.79-1.67H13.7v4.32h1.68c1.34 0 1.79-.79 1.79-1.69v-.96zm11.79-.1v4.09c0 1.8-1.36 3.2-3.55 3.2h-3.44v-10.5h3.44c2.17.01 3.55 1.41 3.55 3.21zm-1.76.1c0-.9-.45-1.67-1.79-1.67h-1.68v7.27h1.68c1.34 0 1.79-.77 1.79-1.67v-3.93zm6.47-1.69v2.83h3.58v1.61h-3.58v4.44H31.9v-10.5h6.15v1.61h-4.39v.01z"></path> </svg>
+        <span class="pdf-link__text">
+            Mon métier de peintre par Michèle Lepeer (2018)
+        </span>
+    </a>
+</div></div>
+			</div>
+			<div class="container container--third">
+				<div class="card card--one card--pdf-link card--centered card--small-text"><div class="pdf-link"><a class="pdf-link__link color-white" href="/assets/pdf/uploads/dans-l-œil-du-monstre-par-Vincent-Furnelle.pdf"><svg class="pdf-link__img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><style>.pdf-link__img--color{fill:#003b62}</style><path class="pdf-link__img--color" d="M30.21 2.5l11.04 11.04V47.5H8.75v-45h21.46M31.25 0h-25v50h37.5V12.5L31.25 0z"></path> <path class="pdf-link__img--color" d="M21.25 8.75V15H15V8.75h6.25m2.5-2.5H12.5V17.5h11.25V6.25zM37.5 15H26.25v2.5H37.5V15zm0 5h-25v2.5h25V20zm0 5h-25v2.5h25V25zm3.75 6.25H8.75v2.5h32.5v-2.5zm-22.34 7.33v1.14c0 1.81-1.36 3.21-3.55 3.21h-1.68v2.95h-1.76v-10.5h3.44c2.19 0 3.55 1.4 3.55 3.2zm-1.75.1c0-.9-.45-1.67-1.79-1.67H13.7v4.32h1.68c1.34 0 1.79-.79 1.79-1.69v-.96zm11.79-.1v4.09c0 1.8-1.36 3.2-3.55 3.2h-3.44v-10.5h3.44c2.17.01 3.55 1.41 3.55 3.21zm-1.76.1c0-.9-.45-1.67-1.79-1.67h-1.68v7.27h1.68c1.34 0 1.79-.77 1.79-1.67v-3.93zm6.47-1.69v2.83h3.58v1.61h-3.58v4.44H31.9v-10.5h6.15v1.61h-4.39v.01z"></path> </svg>
+        <span class="pdf-link__text">
+            Dans l'œil du monstre par Vincent Furnelle
+        </span>
+    </a>
+</div></div>
+			</div>
+			<div class="container container--third">
+				<div class="card card--one card--pdf-link card--centered"><div class="pdf-link"><a class="pdf-link__link color-white" href="/assets/uploads/rendre-visible-les-invisibles-mots-laissés-par-les-gens.pdf"><svg class="pdf-link__img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><style>.pdf-link__img--color{fill:#003b62}</style><path class="pdf-link__img--color" d="M30.21 2.5l11.04 11.04V47.5H8.75v-45h21.46M31.25 0h-25v50h37.5V12.5L31.25 0z"></path> <path class="pdf-link__img--color" d="M21.25 8.75V15H15V8.75h6.25m2.5-2.5H12.5V17.5h11.25V6.25zM37.5 15H26.25v2.5H37.5V15zm0 5h-25v2.5h25V20zm0 5h-25v2.5h25V25zm3.75 6.25H8.75v2.5h32.5v-2.5zm-22.34 7.33v1.14c0 1.81-1.36 3.21-3.55 3.21h-1.68v2.95h-1.76v-10.5h3.44c2.19 0 3.55 1.4 3.55 3.2zm-1.75.1c0-.9-.45-1.67-1.79-1.67H13.7v4.32h1.68c1.34 0 1.79-.79 1.79-1.69v-.96zm11.79-.1v4.09c0 1.8-1.36 3.2-3.55 3.2h-3.44v-10.5h3.44c2.17.01 3.55 1.41 3.55 3.21zm-1.76.1c0-.9-.45-1.67-1.79-1.67h-1.68v7.27h1.68c1.34 0 1.79-.77 1.79-1.67v-3.93zm6.47-1.69v2.83h3.58v1.61h-3.58v4.44H31.9v-10.5h6.15v1.61h-4.39v.01z"></path> </svg>
+        <span class="pdf-link__text">
+            Mots laissés par les visiteurs
+        </span>
+    </a>
+</div></div>
+			</div>
+		</div>
