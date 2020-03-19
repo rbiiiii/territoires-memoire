@@ -19,9 +19,7 @@ schedule: |-
   Fermé le lundi 13/04.
 practical: "Fermeture exceptionnelle suite aux mesures de confinement jusqu'au 3 avril.\n\nVisite animée pour les groupes le lundi à 15 h et le vendredi à 13 h et à 15 h :\n\n* Durée\_: 1 h\n* Gratuit\n* 15 personnes max\n* À partir de 15 ans\n\nRéservation\_:\n\n* [bibliotheque@territoires-memoire.be](<* bibliotheque@territoires-memoire.be>)\n* 04\_232\_70\_62"
 ---
-
-L’exposition de Michèle Lepeer, "Rendre visibles les invisibles", est désormais accessible sur le net.
-Au départ de notre page événement, vous aurez accès aux photos des peintures et installations. Vous pourrez aussi lire le poème de Vincent Furnelle, "Dans l’œil du monstre" et visionner le film de Cécile Verstraeten, "Mémoire collective". Et comme d’autres l’ont fait en vrai dans l’exposition, vous êtes invités à nous envoyer un commentaire, un petit mot destiné à encourager l’artiste à continuer son œuvre, ce qui par les temps qui courent, est plus que nécessaire.
+L’exposition de Michèle Lepeer, "Rendre visibles les invisibles", est désormais accessible sur le net. Au départ de notre page événement, vous aurez accès aux photos des peintures et installations. Vous pourrez aussi lire le poème de Vincent Furnelle, "Dans l’œil du monstre" et visionner le film de Cécile Verstraeten, "Mémoire collective". Et comme d’autres l’ont fait en vrai dans l’exposition, vous êtes invités à nous envoyer un commentaire, un petit mot destiné à encourager l’artiste à continuer son œuvre, ce qui par les temps qui courent, est plus que nécessaire.
 
 Michèle Lepeer, née le 11 février 1954 à Bruxelles. Elle vit et travaille en France. Elle réussit à nous montrer les violences extrêmes du monde tout en nous faisant ressentir son empathie pour les victimes. Ses toiles ne sont pas sombres, les couleurs et la délicatesse du touché apaisent le propos. Les bourreaux, quant à eux, font l’objet d’installations ironiques, *le rire étant la politesse du désespoir*.
 
@@ -29,8 +27,7 @@ Michèle Lepeer, née le 11 février 1954 à Bruxelles. Elle vit et travaille en
 
 « Une artiste, qu’elle soit peintre, poète, romancière, musicienne, auteure de théâtre, danseuse ou réalisatrice peut ressentir un besoin irrépressible de dénoncer l’injustice, de résister, de faire réfléchir, avec les outils qui sont les siens. Il semble que je fasse partie de cette espèce-là. La peinture comme je la vis est un langage, porteur de sens et de sensations, interculturel, interdisciplinaire, un observatoire/laboratoire en bordure du monde. » *Michèle Lepeer*
 
-« Michèle décrypte ces regards Entomologiste du despotisme
-Elle le débusque
+« Michèle décrypte ces regards Entomologiste du despotisme Elle le débusque
 Le détaille à la loupe
 Dévisage sa face monstrueuse
 Creuse les apparences
@@ -41,6 +38,14 @@ Et au-delà d’elles »
 *Vincent Furnelle*
 
 ### Photos des oeuvres
+
+<!--StartFragment-->
+
+L’exposition de Michèle Lepeer,*Rendre visibles les invisibles*, est désormais accessible sur le net.
+
+Vous avez accès aux photos des peintures et installations. Vous pourrez aussi lire le poème de Vincent Furnelle *Dans l’œil du monstre* et visionner le film de Cécile Verstraeten *Mémoire collective*. Et comme d’autres l’ont fait en vrai dans l’exposition, vous êtes invités à nous envoyer un commentaire, un petit mot destiné à encourager l’artiste à continuer son œuvre, ce qui par les temps qui courent, est plus que nécessaire.
+
+<!--EndFragment-->
 
 <div style="display:flex;flex-wrap:wrap;align-items: flex-start;margin: 40px 0;">
         <p style="margin: 0px 40px 20px 0;"><a class="button button--blue" href="https://www.flickr.com/photos/territoires/albums/72157713518444447" target="_blank" rel="noopener" style="margin-top: 0;">Consulter la galerie photo</a></p>
