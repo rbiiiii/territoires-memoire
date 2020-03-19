@@ -19,6 +19,10 @@ schedule: |-
   Fermé le lundi 13/04.
 practical: "Fermeture exceptionnelle suite aux mesures de confinement jusqu'au 3 avril.\n\nVisite animée pour les groupes le lundi à 15 h et le vendredi à 13 h et à 15 h :\n\n* Durée\_: 1 h\n* Gratuit\n* 15 personnes max\n* À partir de 15 ans\n\nRéservation\_:\n\n* [bibliotheque@territoires-memoire.be](<* bibliotheque@territoires-memoire.be>)\n* 04\_232\_70\_62"
 ---
+
+L’exposition de Michèle Lepeer, "Rendre visibles les invisibles", est désormais accessible sur le net.
+Au départ de notre page événement, vous aurez accès aux photos des peintures et installations. Vous pourrez aussi lire le poème de Vincent Furnelle, "Dans l’œil du monstre" et visionner le film de Cécile Verstraeten, "Mémoire collective". Et comme d’autres l’ont fait en vrai dans l’exposition, vous êtes invités à nous envoyer un commentaire, un petit mot destiné à encourager l’artiste à continuer son œuvre, ce qui par les temps qui courent, est plus que nécessaire.
+
 Michèle Lepeer, née le 11 février 1954 à Bruxelles. Elle vit et travaille en France. Elle réussit à nous montrer les violences extrêmes du monde tout en nous faisant ressentir son empathie pour les victimes. Ses toiles ne sont pas sombres, les couleurs et la délicatesse du touché apaisent le propos. Les bourreaux, quant à eux, font l’objet d’installations ironiques, *le rire étant la politesse du désespoir*.
 
 « L’art ne reproduit pas le visible. Il rend visible. » *Paul Klee*
@@ -80,3 +84,7 @@ Et au-delà d’elles »
 </div></div>
 			</div>
 		</div>
+		
+## Vos commentaires sur l'exposition
+
+<p>Envoyez-nous vos commentaires à l'adresse <a href="mailto:bibliotheque@territoires-memoire.be">bibliotheque@territoires-memoire.be</a> ou via l'événement Facebook disponible à cette adresse : <a href="https://www.facebook.com/events/2535491256725020/?active_tab=discussion" target="_blank" rel="noopener">https://www.facebook.com/events/2535491256725020/?active_tab=discussion</a></p>
