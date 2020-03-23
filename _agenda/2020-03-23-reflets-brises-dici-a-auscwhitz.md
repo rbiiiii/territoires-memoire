@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: 'Reflets brisés : d''Ici à Auscwhitz'
+title: 'Reflets brisés : d''Ici à Auschwhitz'
 date_start: '2020-05-08'
 date_stop: '2020-05-31'
 img_file: /assets/uploads/expo_meuli.jpg
