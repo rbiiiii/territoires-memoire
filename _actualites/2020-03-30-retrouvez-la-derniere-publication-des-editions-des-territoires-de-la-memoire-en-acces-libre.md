@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: >-
   Retrouvez la dernière publication des éditions des Territoires de la Mémoire
