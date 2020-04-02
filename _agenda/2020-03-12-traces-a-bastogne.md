@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: 'Traces à Bastogne '
+title: Traces à Bastogne (annulée)
 date_start: '2020-04-16'
 date_stop: '2020-04-21'
 img_file: /assets/uploads/traces_visuelsitetm_1240x480.jpg
