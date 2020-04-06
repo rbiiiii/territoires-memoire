@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Voyage pour la mémoire annuel 2020 - Berlin-Sachsenhausen (annulé)
 posted_on: '2020-01-07'
 link: 'https://www.territoires-memoire.be/voyages#voyage-annuel'
