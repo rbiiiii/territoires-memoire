@@ -8,4 +8,4 @@ link: >-
   https://www.territoires-memoire.be/actualites/2020/03/retrouvez-la-derniere-publication-des-editions-des-territoires-de-la-memoire-en-acces-libre/
 img_file: /assets/uploads/pocapitalypse_sitetm.jpg
 ---
-En ces temps de confinement, ce sont les livres qui viendront à vous ! Les Territoires de la Mémoire ont donc le plaisir de vous proposer en accès libre, le recueil du poète Timotéo Sergoï, récemment paru dans la collection “Points d’encrage”. Intitulé “Apocapitalypse : peupler d’oeillets les cimetières sourds”.
+En ces temps de confinement, ce sont les livres qui viendront à vous ! Les Territoires de la Mémoire ont donc le plaisir de vous proposer en accès libre, le recueil du poète Timotéo Sergoï, récemment paru dans la collection “Points d’encrage”.
