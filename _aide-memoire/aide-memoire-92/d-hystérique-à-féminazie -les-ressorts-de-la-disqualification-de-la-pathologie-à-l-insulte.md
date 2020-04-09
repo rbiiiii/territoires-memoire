@@ -5,7 +5,7 @@ title: 'D’hystérique à féminazie : les ressorts de la disqualification,  d
   à l’insulte'
 credits: Par Olivier Starquit
 about_the_author: ''
-order: 11
+order: 12
 
 ---
 **De tout temps, les femmes, du moins celles qui revendiquent et sortent du rôle qui leur a été assigné par le patriarcat, ont fait l’objet d’insultes en tout genre. Sans les énumérer toutes, il peut s’avérer intéressant de s’arrêter sur quelques-unes et de s’interroger sur les fins de cette stratégie et de sa mise en œuvre passée et actuelle, sur les effets qu’elle peut déclencher et surtout sur les répliques à leur opposer.**
