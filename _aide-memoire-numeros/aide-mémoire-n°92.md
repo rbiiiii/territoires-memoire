@@ -1,5 +1,5 @@
 ---
-show: false
+show: true
 title: Aide-mémoire n°92
 slug: aide-memoire-92
 num: 92
