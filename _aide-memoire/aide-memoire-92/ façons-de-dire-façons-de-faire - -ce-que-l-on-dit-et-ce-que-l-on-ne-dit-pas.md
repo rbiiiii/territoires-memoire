@@ -8,7 +8,7 @@ about_the_author: ''
 order: 9
 
 ---
-**Dans les années 1960-1970, dans le cadre de l’étude ethnographique du village français de Minot, Yvonne Verdier s’attache à étudier la position des femmes dans la société paysanne française traditionnelle. À partir de l’analyse de trois figures – la laveuse, la couturière, la cuisinière – elle met en exergue comment « façons de dire et façons de faire se relaient et s’éclairent mutuellement pour dessiner une sphère de représentations et d’actions appartenant en propre aux femmes**[**1**](#footnote-1) **».**
+**Dans les années 1960-1970, dans le cadre de l’étude ethnographique du village français de Minot, Yvonne Verdier s’attache à étudier la position des femmes dans la société paysanne française traditionnelle. À partir de l’analyse de trois figures – la laveuse, la couturière, la cuisinière – elle met en exergue comment « façons de dire et façons de faire se relaient et s’éclairent mutuellement pour dessiner une sphère de représentations et d’actions appartenant en propre aux femmes**[1](#footnote-1)&nbsp;**».**
 
 Cinquante ans plus tard, dans le cadre d’une recherche sur la mémoire de l’exil et de l’immigration espagnols en Belgique, ma rencontre avec certaines femmes migrantes et l’écoute, répétée et attentive, de leurs récits modifient progressivement la perspective dans laquelle s’était initialement déployée cette étude. Il s’agit ici de tirer quelques fils à partir de ce qu’offre la prise en considération de ces récits et de leurs spécificités.
 
