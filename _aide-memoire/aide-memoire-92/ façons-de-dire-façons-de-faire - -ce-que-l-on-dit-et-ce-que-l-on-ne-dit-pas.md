@@ -5,7 +5,7 @@ title: "« Façons de dire. Façons de faire » :  ce que l’on dit et ce qu
   pas"
 credits: Par Maite Molina Mármol
 about_the_author: ''
-order: 9
+order: 10
 
 ---
 **Dans les années 1960-1970, dans le cadre de l’étude ethnographique du village français de Minot, Yvonne Verdier s’attache à étudier la position des femmes dans la société paysanne française traditionnelle. À partir de l’analyse de trois figures – la laveuse, la couturière, la cuisinière – elle met en exergue comment « façons de dire et façons de faire se relaient et s’éclairent mutuellement pour dessiner une sphère de représentations et d’actions appartenant en propre aux femmes[1](#footnote-1)&nbsp;».**
