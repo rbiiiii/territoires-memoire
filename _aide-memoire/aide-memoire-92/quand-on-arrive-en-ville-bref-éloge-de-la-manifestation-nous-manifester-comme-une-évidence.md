@@ -1,0 +1,27 @@
+---
+categories: _aide-memoire-numeros/aide-mémoire-n°92.md
+type: article
+title: Quand on arrive en ville – Bref éloge de la manifestation Nous manifester,
+  comme une évidence…
+credits: Par le CVFE (Collectif contre les violences familiales et l’exclusion)
+about_the_author: ''
+order: 9
+
+---
+**Ce sont d’abord des souvenirs. Des récits partagés. Quelques vidéos qui circulent. Et des photos. Aux murs de la pièce centrale de la maison, rue Maghin, sur les bureaux de certaines d’entre nous, souvent aussi dans les tiroirs et les smartphones.**
+
+Des photos où l’on peut voir Marisa, Marijo, Claire, Aïcha, Annick, Inès et les autres porter pancartes et caliquots, le mégaphone à la main et le sourire aux lèvres, dans les rues de New York, Bruxelles ou Liège.
+
+Elles marchent dans la ville, porteuses de messages de colère et de solidarité, d’espoir et de revendications. À leurs côtés d’autres femmes (mais aussi quelques hommes et, plus généralement, celles et ceux qui se sentent à l’étroit dans les normes associées au masculin ou au féminin) : celles qui sont passées par le Collectif parce que les services que propose une association comme la nôtre leur ont été pour un temps indispensables. Femmes de tous horizons et aux convictions parfois bien éloignées, victimes de violences conjugales, sans emploi sous la pression de l’ONEM, précarisées, migrantes, surdiplômées, toxicomanes, amoureuses, timides, plâtrées, dans une chaise roulante, derrière une poussette, analphabètes, militantes, sceptiques, conquises… Ce sont des manifestations donc. De celles qui ont marqué les origines du Collectif et ses jeunes travailleuses autour du droit à l’avortement, à celles qui rythment aujourd’hui nos années de travail et de combat, entre 8 mars autour des droits des femmes et 25 novembre pour la lutte contre les violences.
+
+## …une nécessité…
+
+Sortir de nos bureaux, de nos salles d’animation et de nos discrètes maisons d’accueil pour envahir la ville. Occuper pour un temps ces rues censées être à tout le monde mais qui ont trop souvent pour les femmes un goût d’interdit (quand elles sont cantonnées plus ou moins explicitement à l’espace domestique) ou de danger (parce que ce qu’elles y vivent relèvent trop souvent du harcèlement). Investir quelques heures un espace « public » urbain qui n’a rien de neutre tant il participe dans son organisation (dans sa géographie-même) à la production des rapports de genre, c’est-à-dire des rapports de force entre hommes et femmes, au détriment de celles-ci. Les violences masculines à l’égard des femmes sont toujours au moins en partie une question de place : celle à laquelle je veux t’imposer de rester, celle que j’ai et que je crois menacée par tes désirs d’émancipation, celle que j’occupe dans la ville (à tes dépends s’il le faut), etc. Alors, prendre la rue, c’est se manifester aux yeux du monde et à nos propres yeux en reprenant pour un temps (pour un temps seulement ?) une place qui est la nôtre. C’est ainsi dénoncer au grand jour ce qui se joue derrière les murs de la vie dite privée : les violences conjugales et familiales mais aussi le partage toujours inéquitable des tâches ménagères et de soin aux plus vulnérables. Et c’est aussi, par notre simple présence, mettre en lumière des imaginaires qui repoussent au loin le sexisme, l’homophobie et le racisme.
+
+## …une étape dans un processus…
+
+Il y a un amont de la manifestation. Au Collectif, elle se construit dans la discussion au sein des groupes, que ce soit en éducation permanente ou au refuge. Les slogans et les chansons détournées qui résonnent dans les rues sont l’expression d’idées et convictions débattues et partagées. C’est le cas aussi quand des jeunes femmes décorent les arbres de sous-vêtements féminins pour interpeller les passant.e.s à propos du harcèlement de rue ou quand d’autres participent à la version liégeoise de la performance née au Chili « _Un violador en tu camino_ »… Car le militantisme féministe dans l’espace public ne se cantonne pas à des occupations des rues négociées, réglementées et passagères, les autres manières d’investir l’espace urbain auxquelles nous nous joignons (non-violentes, pédagogiques, ludiques, souvent en non-mixité choisie) sont elles aussi le fruit d’un travail collectif de réflexion critique qui porte à la fois sur les contenus et sur la forme à leur donner.
+
+## …une expérience d’_empowerment_…
+
+Pour les travailleuses que nous sommes comme pour les femmes qui font un bout de chemin avec le CVFE et aux côtés de qui nous marchons, manifester c’est aussi vivre une expérience forte, à la fois collective et individuelle. Où se mêlent deux registres de vécu très différents et trop souvent opposés et hiérarchisés : le ressenti rejoint ici le politique. Le pouvoir intérieur et la solidarité éprouvées, puis les possibles que ces émotions ouvrent en nous (puisqu’il y a aussi un aval à la manifestation…), côtoient les revendications en termes de droits et d’application du droit. Dans la foule vibrante, les femmes échappent aux stéréotypes qui les poursuivent au quotidien. Quant aux assignations qui en découlent et auxquelles on les renvoie encore (pragmatisme limité à l’espace domestique, compétences émotionnelles et relationnelles soi-disant peu compatibles avec la vie politique), elles peuvent se les réapproprier en marchant côte à côte tandis qu’en développant un point de vue critique et en l’exprimant en tant que citoyennes elles mobilisent la culture rationnelle soi-disant typiquement masculine.
