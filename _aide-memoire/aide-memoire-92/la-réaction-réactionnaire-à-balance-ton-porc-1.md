@@ -5,7 +5,6 @@ title: La réaction réactionnaire à balance ton porc [1]
 credits: Une chronique de Julien Dohet
 about_the_author: ''
 order: 13
-published: false
 
 ---
 **On retrouve au sein de l’extrême droite des personnes atteintes de ce qui se rapproche du syndrome de l’oncle Tom. Soit l’intériorisation par un·e dominé·e des comportements, attitudes et pensées de celles et ceux qui le ou la dominent au point parfois d’en être soi-même un promoteur ou une promotrice. Nous avions déjà esquissé cette posture dans cette chronique quand nous avions parlé des homosexuels au sein de l’extrême droite**[**2**](#footnote-2)**. Dans ce numéro spécial, nous éclairerons cet aspect avec l’exemple du genre.**
