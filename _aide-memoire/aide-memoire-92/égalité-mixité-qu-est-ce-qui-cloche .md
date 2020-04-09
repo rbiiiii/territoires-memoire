@@ -7,7 +7,7 @@ about_the_author: ''
 order: 8
 
 ---
-La virulence des attaques contre les femmes dans la foulée du mouvement #MeToo, et la condamnation des actions non-mixtes lors de certaines manifestations féministes m’ont surprise. Du moins, lorsqu’elles venaient de ceux qu’on appelait dans ma génération des « compagnons de route » et que les jeunes féministes nomment aujourd’hui des « alliés ».
+**La virulence des attaques contre les femmes dans la foulée du mouvement #MeToo, et la condamnation des actions non-mixtes lors de certaines manifestations féministes m’ont surprise. Du moins, lorsqu’elles venaient de ceux qu’on appelait dans ma génération des « compagnons de route » et que les jeunes féministes nomment aujourd’hui des « alliés ».**
 
 Il avait fallu tant d’années pour que les violences faites aux femmes fassent la « Une » des journaux, tant de colère des organisations féministes, petites et grandes, passées sous silence tout au long de ces années… Mais à peine ces femmes médiatiques avaient-elles dénoncé leurs bourreaux qu’elles étaient accusées de lyncher de présumés innocents, de tuer l’artiste, si différent de l’homme. Philosophes, journalistes, politiques, parmi ceux qui n’avaient jamais écrit une ligne pour dénoncer la situation des femmes, ils étaient soudain intarissables sur le risque d’injustice dont notre solidarité avec les victimes semblait porteuse. Mais d’eux, je n’attendais rien.
 
