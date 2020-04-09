@@ -54,7 +54,7 @@ Sur quoi repose alors cette stratégie féministe révolutionnaire ? Sur deux pi
 
 Aurore Koechlin, _La révolution féministe_ (éd. Amsterdam, 2019)
 
-![](https://www.territoires-memoire.be/assets/uploads/aurore-koechlin-la-revolution-feministe.jpg)
+[![](https://www.territoires-memoire.be/assets/uploads/aurore-koechlin-la-revolution-feministe.jpg)](http://www.editionsamsterdam.fr/la-revolution-feministe/)
 
 1. NDLR : Le « foulard vert » est le symbole de cette lutte pour le droit à l’avortement légal, sûr et gratuit en Argentine.
 2. NDLR : en termes marxistes, la « survaleur » (ou « plus-value ») est la valeur ajoutée du « surtravail », c’est-à-dire la partie non rémunérée du travail effectué par le travailleur au profit du capitaliste. Celui-ci achète donc la force de travail du travailleur, mais à un prix inférieur au travail réellement effectué et empoche ainsi la survaleur dégagée par l’excédent de travail non rémunéré. Sur cette question, voir l’ouvrage de Marx : Salaires, prix et profits.
