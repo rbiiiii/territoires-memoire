@@ -4,7 +4,7 @@ type: mots
 title: Salope
 credits: Par Henri Deleersnijder
 about_the_author: ''
-order: 10
+order: 11
 
 ---
 Le mot est particulièrement sonore. Il claque à la figure de celle à qui il est infligé. Et retentit comme une condamnation sans appel : « Va, casse-toi ! »
