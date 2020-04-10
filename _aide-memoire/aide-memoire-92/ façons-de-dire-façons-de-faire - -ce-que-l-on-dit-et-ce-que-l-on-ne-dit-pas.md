@@ -28,7 +28,7 @@ Comme l’indique Yvonne Verdier, l’exercice excède cependant le recueil de p
 
 ![](https://www.territoires-memoire.be/assets/uploads/p.8_BureauTempete-BeCauseToujours.jpg)
 
-<span class="img-copyright">Linogravure Bureau Tempête-Be Cause Toujours !</span>
+<span class="img-copyright">Linogravure Bureau Tempête-Be Cause Toujours&nbsp;!</span>
 
 ## Ce qui est révélé
 
