@@ -9,7 +9,7 @@ order: 11
 ---
 Le mot est particulièrement sonore. Il claque à la figure de celle à qui il est infligé. Et retentit comme une condamnation sans appel : « Va, casse-toi ! »
 
-D’origine incertaine, il apparaît au début du XVIIe siècle, composé selon toute vraisemblance du terme « sale » et de celui de « hoppe », variante dialectale de « huppe », qui désigne un petit oiseau très sale. Il n’en faudra pas plus pour que, lesté dès l’origine du sens de « souillure », il s’applique par la suite à la « femme dévergondée » (1778) et, au final, à la « prostituée » (1808). Dérive sémantique qui aboutira à l’insulte suprême d’aujourd’hui : « Salope ! »
+D’origine incertaine, il apparaît au début du XVII<sup>e</sup> siècle, composé selon toute vraisemblance du terme « sale » et de celui de « hoppe », variante dialectale de « huppe », qui désigne un petit oiseau très sale. Il n’en faudra pas plus pour que, lesté dès l’origine du sens de « souillure », il s’applique par la suite à la « femme dévergondée » (1778) et, au final, à la « prostituée » (1808). Dérive sémantique qui aboutira à l’insulte suprême d’aujourd’hui : « Salope ! »
 
 Au florilège du sexisme, sa notoriété le dispute à « pute » et « connasse », triade infamante à forte connotation sexuelle. Les femmes, stigmatisées dans leur ensemble – « toutes des salopes » – seraient ainsi marquées du sceau indélébile de l’impureté.
 
