@@ -18,3 +18,5 @@ Que peut la poésie en et pour la démocratie ? S’inscrire dans une vigilance 
 Auteur d’une douzaine de livres dont des carnets de voyage, une bio de Blaise Cendrars et une poésie griffée d’étoiles, Timotéo a la cinquantaine poilue. Il vit entre deux villes et deux ciels, pris en un sandwich au goût d’encre et d’eau.
 
 **Timotéo Sergoï, _Apocapitalypse : peupler d’oeillets les cimetières sourds_, Territoires de la Mémoire, 2019, 12e**
+
+Ce livre est disponible gratuitement en PDF dans notre [rubrique "Editions"](https://www.territoires-memoire.be/editions#collection-points-d-encrage).
