@@ -29,7 +29,8 @@ L’auteure insiste sur l’aspect soit disant équilibré et de bon sens : « C
 
 <span class="img-copyright">Linogravure Bureau Tempête-Be Cause Toujours !</span>
 
-## Et toujours cette inégalité naturelle immuable[13](#footnote-13)
+## Et toujours cette inégalité naturelle   
+immuable[13](#footnote-13)
 
 C’est donc clairement contre le discours égalitariste qu’elle s’élève malgré les obstacles du « politiquement correct ». Un concept qui ne surgit pas par hasard mais qui permet aussi de venir avec un racisme à peine déguisé par une critique de l’islamisme : « Il est d’ailleurs frappant d’observer que la libération de la parole, lorsqu’elle touche à la parole “raciste” ou plus simplement à la légitime inquiétude culturelle, est condamnée unanimement par cette même gauche qui encense la parole libérée des femmes. De même la pratique de l’“amalgame”, sans cesse reprochée à ceux qui évoquent la radicalisation islamiste ou le terrorisme, est utilisée ici sans complexe[14](#footnote-14) ».
 
