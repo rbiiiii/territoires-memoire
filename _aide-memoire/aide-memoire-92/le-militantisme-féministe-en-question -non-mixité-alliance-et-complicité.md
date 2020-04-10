@@ -94,7 +94,7 @@ Amis, alliés, ouvrez les yeux : l’égalité n’est pas encore une réalité 
 
 _Par Julie Ricard_
 
-**La performance _« Un violador en tu camino »_, créée par le collectif chilien LasTesis, reprise et adaptée dans de nombreux pays du monde au cours des derniers mois, est basée sur un chant pensé et rédigé en « nous », en « je » : le « nous » et le « je » des femmes qui sont jugées, discriminées, agressées, violées, tuées, parce femmes.**
+**La performance _« Un violador en tu camino »_, créée par le collectif chilien LasTesis, reprise et adaptée dans de nombreux pays du monde au cours des derniers mois, est basée sur un chant pensé et rédigé en « nous », en « je » : le « nous » et le «&nbsp;je&nbsp;» des femmes qui sont jugées, discriminées, agressées, violées, tuées, parce femmes.**
 
 Le « nous » et le « je » des femmes qui ne sont pas prises au sérieux par la police, qui sont responsabilisées pour les délits et les crimes dont elles sont victimes. Le « nous » et le « je » des femmes révoltées par un appareil judiciaire patriarcal.
 
@@ -122,7 +122,7 @@ Sortir de nos bureaux, de nos salles d’animation et de nos discrètes maisons 
 
 ### …une étape dans un processus…
 
-Il y a un amont de la manifestation. Au Collectif, elle se construit dans la discussion au sein des groupes, que ce soit en éducation permanente ou au refuge. Les slogans et les chansons détournées qui résonnent dans les rues sont l’expression d’idées et convictions débattues et partagées. C’est le cas aussi quand des jeunes femmes décorent les arbres de sous-vêtements féminins pour interpeller les passant.e.s à propos du harcèlement de rue ou quand d’autres participent à la version liégeoise de la performance née au Chili « _Un violador en tu camino_ »… Car le militantisme féministe dans l’espace public ne se cantonne pas à des occupations des rues négociées, réglementées et passagères, les autres manières d’investir l’espace urbain auxquelles nous nous joignons (non-violentes, pédagogiques, ludiques, souvent en non-mixité choisie) sont elles aussi le fruit d’un travail collectif de réflexion critique qui porte à la fois sur les contenus et sur la forme à leur donner.
+Il y a un amont de la manifestation. Au Collectif, elle se construit dans la discussion au sein des groupes, que ce soit en éducation permanente ou au refuge. Les slogans et les chansons détournées qui résonnent dans les rues sont l’expression d’idées et convictions débattues et partagées. C’est le cas aussi quand des jeunes femmes décorent les arbres de sous-vêtements féminins pour interpeller les passant.e.s à propos du harcèlement de rue ou quand d’autres participent à la version liégeoise de la performance née au Chili «&nbsp;_Un violador en tu camino_&nbsp;»… Car le militantisme féministe dans l’espace public ne se cantonne pas à des occupations des rues négociées, réglementées et passagères, les autres manières d’investir l’espace urbain auxquelles nous nous joignons (non-violentes, pédagogiques, ludiques, souvent en non-mixité choisie) sont elles aussi le fruit d’un travail collectif de réflexion critique qui porte à la fois sur les contenus et sur la forme à leur donner.
 
 ### …une expérience d’_empowerment_…
 
