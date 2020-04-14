@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: "Appel à projet de la Province de Namur : prolongement du délai de candidature"
 img_file: /assets/uploads/appelaprojet_namur.jpg
-posted_on: 2020-04-14
+posted_on: 2020-04-15
 ---
 En raison des mesures de confinement, le dépôt des candidatures pour l'appel à projets Territoires de la Mémoire est possible jusqu'au 2 juin 2020 inclus.
 
