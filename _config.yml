@@ -79,7 +79,6 @@ defaults:
 future: true
 
 plugins:
- - jekyll-paginate-v2
  - jekyll-include-cache
 
 # Pagination plugin config
