@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: "COVID-19 : Signez l'appel pour un cessez-le-feu mondial !"
 img_file: /assets/uploads/globalceasefire.jpg
-posted_on: 2020-04-14
+posted_on: '2020-04-14'
 ---
 Les Territoires de la Mémoire asbl signe et relaie l'appel à cessez-le-feu mondial lancé par le secrétaire général de l'ONU, António Guterres. Il nous semble fondamental et a déjà largement dépassé le million de signatures. L'association vous invite à la signer également si vous le souhaitez.
 
