@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Triangle Rouge à Bande
-date_start: '2020-12-11'
-date_stop: '2020-12-20'
+date_start: 2020-12-11
+date_stop: 2020-12-20'
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: Salle La Petite Europe
 address: 'Grand''rue 48-50, 6951 BANDE'

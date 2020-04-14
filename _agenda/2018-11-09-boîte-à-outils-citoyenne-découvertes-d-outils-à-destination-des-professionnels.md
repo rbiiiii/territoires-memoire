@@ -4,8 +4,8 @@ categories: agenda
 title: >-
   Boîte à outils citoyenne - Découvertes d'outils à destination des
   professionnels
-date_start: '2018-01-30'
-date_stop: '2018-04-24'
+date_start: 2018-01-30
+date_stop: 2018-04-24'
 img_file: /assets/uploads/20180130agenda-boite-a-outils-citoyennes.jpg
 place: Les Chiroux - centre culturel de Liège
 address: 'Place des Carmes 8, 4000 Liège'

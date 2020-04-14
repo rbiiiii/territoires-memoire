@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Appel à soutien aux « Six héros » de Zaventem
 img_file: /assets/uploads/20170523jenelabouclepas.jpg
-posted_on: '2017-05-23'
+posted_on: 2017-05-23
 ---
 **Tout Autre Chose appelle à soutenir les six passagers poursuivis pour avoir protesté contre une expulsion. Les Territoires de la Mémoire ont co-signé cet appel.**
 

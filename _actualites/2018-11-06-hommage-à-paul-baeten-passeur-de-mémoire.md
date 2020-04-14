@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'Hommage à Paul Baeten, passeur de Mémoire'
 img_file: /assets/uploads/20171123-deces-paul-baeten.jpg
-posted_on: '2017-11-23'
+posted_on: 2017-11-23
 ---
 Les Territoires de la Mémoire tiennent à faire part de leur tristesse suite à l’annonce du décès de Pieter-Paul Baeten, président du Groupe Mémoire, décédé ce 20 novembre.
 

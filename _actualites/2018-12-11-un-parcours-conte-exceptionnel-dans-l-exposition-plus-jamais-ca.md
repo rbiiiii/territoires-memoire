@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Un parcours conté exceptionnel dans l'exposition Plus jamais ça !
 img_file: /assets/uploads/20181208-parcours-conte-plus-jamais-ca.jpg
-posted_on: '2018-12-11'
+posted_on: 2018-12-11
 ---
 Les 8 et 9 décembre dernier, **Jean-Claude Piérot** a guidé 100 personnes dans l’exposition Plus jamais ça ! pour un parcours conté exceptionnel.
 

@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Les Citoyens du Livre #17'
-date_start: '2018-02-14'
+date_start: 2018-02-14
 date_stop: ''
 hour: '18:00'
 img_file: /assets/uploads/20180214agenda-citoyens-du-livre-17.jpg

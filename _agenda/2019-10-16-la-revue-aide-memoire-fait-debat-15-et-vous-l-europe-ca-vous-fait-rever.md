@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'La revue Aide-mémoire fait débat #15 - Et vous, l’europe ça vous fait rêver ?'
-date_start: '2019-11-28'
+date_start: 2019-11-28
 date_stop: ''
 hour: 19h
 img_file: >-

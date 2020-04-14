@@ -4,7 +4,7 @@ categories: agenda
 title: >-
   Aide-Mémoire fait débat #10 : Extrême droite : Phœnix du totalitarisme ou
   distillat de la démocratie ?
-date_start: '2018-06-12'
+date_start: 2018-06-12
 date_stop: ''
 hour: '19:30'
 img_file: /assets/uploads/20180612agenda-aidemeoirefaitdebat10.jpg

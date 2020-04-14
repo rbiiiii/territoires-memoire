@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Exposition Triangle Rouge à Libramont-Chevigny
-date_start: '2020-03-10'
-date_stop: '2020-03-25'
+date_start: 2020-03-10
+date_stop: 2020-03-25
 hour: ''
 img_file: assets/uploads/triangle-rouge-expo.jpg
 place: Au Centre Culturel de Libramont – Chevigny

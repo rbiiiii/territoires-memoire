@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Quand l'axe de pédalier a résisté à l'axe totalitaire
 img_file: /assets/uploads/RichterBartali_siteTM.jpg
-posted_on: '2020-01-20'
+posted_on: 2020-01-20
 ---
 **À l’occasion de la conférence de presse présentant les classiques ardennaises, qui se tient ce 21 janvier 2020 à la Cité Miroir à Liège, La Province de Liège et Les Territoires de la Mémoire ont souhaité mettre à l’honneur deux actes de résistance, lorsque l’axe de pédalier s’est opposé à l’axe totalitaire.**
 

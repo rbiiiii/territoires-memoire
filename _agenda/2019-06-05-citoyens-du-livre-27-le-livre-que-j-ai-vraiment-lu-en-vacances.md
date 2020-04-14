@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du livre #27 - Le livre que j’ai (vraiment) lu en vacances '
-date_start: '2019-09-18'
+date_start: 2019-09-18
 date_stop: ''
 hour: 18h
 img_file: /assets/uploads/site-citoyens27.jpg

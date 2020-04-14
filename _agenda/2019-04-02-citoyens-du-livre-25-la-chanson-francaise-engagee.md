@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du Livre #25 - La chanson française engagée '
-date_start: '2019-05-15'
+date_start: 2019-05-15
 date_stop: ''
 hour: ''
 img_file: /assets/uploads/site-tm-cdl25.jpg

@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Atelier participatif - Attentats poétiques '
-date_start: '2019-03-13'
+date_start: 2019-03-13
 date_stop: ''
 hour: De 13h à 17h
 img_file: /assets/uploads/atelier-attentatpoetique-sitetm.jpg

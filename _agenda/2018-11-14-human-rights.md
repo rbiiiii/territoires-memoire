@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Human Rights
-date_start: '2018-12-04'
-date_stop: '2018-12-16'
+date_start: 2018-12-04
+date_stop: 2018-12-16'
 img_file: /assets/uploads/20181203agenda-human-rights.jpg
 place: La Cité Miroir
 address: 'Pl. Xavier-Neujean 22, 4000 Liège'

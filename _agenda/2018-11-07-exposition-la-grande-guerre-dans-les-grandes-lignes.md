@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Exposition La Grande Guerre dans les grandes lignes
-date_start: '2018-11-05'
-date_stop: '2018-11-10'
+date_start: 2018-11-05
+date_stop: 2018-11-10
 hour: ''
 img_file: /assets/uploads/20181105agendaexpo-14-18-paneel.jpg
 place: 'Pl. Xavier-Neujean 22, 4000 Liège'

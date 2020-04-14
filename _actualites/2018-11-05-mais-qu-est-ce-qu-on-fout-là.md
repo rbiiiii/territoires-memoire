@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: '"Mais qu''est-ce qu''on fout là?!"'
 img_file: /assets/uploads/20180227-qu-est-ce-qu-on-fout-la.jpg
-posted_on: '2018-02-27'
+posted_on: 2018-02-27
 ---
 _"La beauté, c’est de faire valoir le devoir moral et humain, celui que notre Etat a choisi de ne pas faire valoir. C’est un devoir pour ceux qui ont les moyens grâce au pouvoir que nous leur avons concédé."_
 

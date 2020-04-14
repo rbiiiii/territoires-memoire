@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Transport & mobilité à Liège
-date_start: '2019-03-21'
+date_start: 2019-03-21
 date_stop: ''
 hour: 17h30
 img_file: /assets/uploads/tram-sitetm.jpg

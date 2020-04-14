@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: "Comment fonctionnent la déshumanisation et la réhumanisation des\_êtres humains"
-date_start: '2019-03-25'
+date_start: 2019-03-25
 date_stop: ''
 hour: 18h
 img_file: /assets/uploads/etude.jpg

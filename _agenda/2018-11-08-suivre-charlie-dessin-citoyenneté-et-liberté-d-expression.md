@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: 'Suivre Charlie : dessin, citoyenneté et liberté d''expression'
-date_start: '2018-07-02'
-date_stop: '2018-09-06'
+date_start: 2018-07-02
+date_stop: 2018-09-06'
 img_file: /assets/uploads/20180702agenda-exposition-suivrecharlie.jpg
 place: 'Pl. Xavier-Neujean 22, 4000 Liège'
 address: 'Pl. Xavier-Neujean 22, 4000 Liège'

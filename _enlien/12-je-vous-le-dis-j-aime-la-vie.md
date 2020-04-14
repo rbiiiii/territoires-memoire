@@ -6,7 +6,7 @@ title: 'Je vous le dis, j''aime la vie'
 img_file: /assets/uploads/20180312-jevousledisjaimelavie-stassartpahaut-1.jpg
 enlien_link: /assets/uploads/20180312-jevousledisjaimelavie-stassartpahaut.pdf
 enlien_link_txt: Télécharger
-posted_on: '2018-03-12'
+posted_on: 2018-03-12
 ---
 Par Mouchka Stassart & Claire Pahaut. Un récit de la Résistance au féminin en Belgique.
 

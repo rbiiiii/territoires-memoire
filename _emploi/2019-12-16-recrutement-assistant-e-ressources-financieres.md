@@ -3,8 +3,8 @@ layout: post
 title: >-
   Assistant.e en Ressources financières
 subtitle: Temps plein sous contrat APE - CDI
-posted_on: '2019-12-16'
-end_of_life: '2020-01-18'
+posted_on: 2019-12-16
+end_of_life: 2020-01-18
 emploi_url: https://docs.google.com/forms/d/1aQE27IAT-zSn-kDQabQqegeOeRBBJydfvfDawzMywIc/viewform?edit_requested=true
 ---
 

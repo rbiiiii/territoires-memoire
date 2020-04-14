@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du Livre #21 : Sorcières'
-date_start: '2018-10-31'
+date_start: 2018-10-31
 date_stop: ''
 hour: '18:00'
 img_file: /assets/uploads/20180831agenda-sorciere.jpg

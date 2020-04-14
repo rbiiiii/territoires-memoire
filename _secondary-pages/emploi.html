@@ -9,7 +9,9 @@ excerpt: none
 {% assign curDate = site.time | date: '%Y-%m-%d' %}
 {% assign patterns = "" | split: "," %}
 {% for page in emplois %}
-    {% if page.posted_on <= curDate and page.end_of_life >= curDate %}
+    {% assign posted_on = page.posted_on | date: '%Y-%m-%d' %}
+    {% assign end_of_life = page.end_of_life | date: '%Y-%m-%d' %}
+    {% if posted_on <= curDate and end_of_life >= curDate %}
         {% assign patterns = patterns | push:page %}
     {% endif %}
 {% endfor %}

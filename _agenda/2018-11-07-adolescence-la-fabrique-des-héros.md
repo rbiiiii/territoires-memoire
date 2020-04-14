@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Adolescence : la Fabrique des héros'
-date_start: '2018-10-01'
+date_start: 2018-10-01
 date_stop: ''
 img_file: /assets/uploads/20180801agenda-fabrique.jpg
 place: 'Pl. Xavier-Neujean 22, 4000 Liège'

@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Prix UPMC de la communication pour les Territoires de la Mémoire
 img_file: /assets/uploads/prixupmc.jpg
-posted_on: '2019-05-27'
+posted_on: 2019-05-27
 uploaded_files:
   - file: {}
 ---

@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Appel à projet de la Province de Namur
 img_file: /assets/uploads/appelaprojet_namur.jpg
-posted_on: '2020-03-02'
+posted_on: 2020-03-02
 ---
 La Province de Namur, ainsi que 31 de ses communes, font partie du **réseau des Territoires de la Mémoire** (<https://www.territoires-memoire.be/>). Celui-ci vise notamment à **sensibiliser** les citoyens, en particulier les **jeunes**, aux **dangers du racisme**, de la **xénophobie** et de la **résurgence du fascisme**, de faire prendre conscience des excès auxquels peuvent aboutir les **exclusions**, de favoriser un **consensus démocratique** et la **construction d’une société juste, progressiste et fraternelle**.\
 \

@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Traversées
-date_start: '2019-06-24'
-date_stop: '2019-09-01'
+date_start: 2019-06-24
+date_stop: 2019-09-01'
 img_file: >-
   /assets/uploads/20190624_tdlm_centredoc_expo_traversee_visuel_agenda_site_territoires.jpg
 place: >-

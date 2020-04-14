@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Rwanda 94. Comprendre l'incompréhensible
-date_start: '2019-03-18'
-date_stop: '2019-04-12'
+date_start: 2019-03-18
+date_stop: 2019-04-12'
 img_file: /assets/uploads/generique.jpg
 place: 'La Cité Miroir, place Xavier-Neujean 22 – 4000 Liège'
 address: place Xavier-Neujean 22 – 4000 Liège

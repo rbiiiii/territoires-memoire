@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'Élections en Allemagne : personne ne sort gagnant avec l''extrême droite'
 img_file: /assets/uploads/20170926-elections-allemagne.jpg
-posted_on: '2017-09-26'
+posted_on: 2017-09-26
 ---
 Les Territoires de la Mémoire sont particulièrement préoccupés par le résultat des nationalistes allemands aux élections législatives du dimanche 24 septembre. L’AfD d’Alexander Gauland y effectue une percée jamais vue dans ce pays pourtant profondément marqué par les horreurs provoquées par l’idéologie hitlérienne. Pour la première fois depuis la fin de la Seconde guerre mondiale il y a 72 ans, une formation politique d’extrême droite obtient des représentants au Bundestag. Elle devient même la troisième force politique avec 94 sièges.
 

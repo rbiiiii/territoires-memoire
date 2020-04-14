@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'Triangle rouge/triangle vert, quand l’extrême droite s’emmêle les pinceaux !'
 img_file: /assets/uploads/triangle-vert.jpg
-posted_on: '2018-06-01'
+posted_on: 2018-06-01
 ---
 Depuis quelques temps, les Territoires de la Mémoire ont eu vent de la volonté d’un groupuscule identitaire wallon de diffuser un triangle vert en (contre)référence à la campagne de l’association pour résister.
 

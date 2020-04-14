@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Atelier participatif - Affiches poétiques et insoumises   '
-date_start: '2019-03-02'
+date_start: 2019-03-02
 date_stop: ''
 hour: 13h
 img_file: /assets/uploads/atelier-affiches.jpg

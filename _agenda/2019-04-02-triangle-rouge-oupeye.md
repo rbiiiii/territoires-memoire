@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Triangle Rouge - Oupeye
-date_start: '2019-04-02'
-date_stop: '2019-04-14'
+date_start: 2019-04-02
+date_stop: 2019-04-14'
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: 'Rue sur les Vignes 80 à 4680 Oupeye '
 address: 'Rue sur les Vignes 80 à 4680 Oupeye '

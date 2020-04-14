@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: La balade En marche citoyen ! inaugurée à Haccourt
 img_file: /assets/uploads/emc-haccourt.jpg
-posted_on: '2018-05-09'
+posted_on: 2018-05-09
 ---
 Ce 8 mai 2018 a été inaugurée une deuxième balade « En marche citoyen&nbsp;! », une boucle de 3km dont l’arrivée et le départ se situent à l’administration communale d’Oupeye.
 

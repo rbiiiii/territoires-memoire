@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Exposition Triangle Rouge au Mémorial Walthère Dewé
-date_start: '2019-11-09'
-date_stop: '2019-11-24'
+date_start: 2019-11-09
+date_stop: 2019-11-24'
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: Mémorial Walthère Dewé - Rue Coupée (en face du 94) 4000 Liège
 address: Rue Coupée (en face du 94) 4000 Liège

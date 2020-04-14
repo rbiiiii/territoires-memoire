@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Enfermement de masse du Goulag aux prisons contemporaines
-date_start: '2020-03-12'
+date_start: 2020-03-12
 date_stop: ''
 hour: 18h
 img_file: assets/uploads/20200312_tdlm_editions_aidememoirefaitdebat16_agenda.jpg

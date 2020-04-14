@@ -4,8 +4,8 @@ categories: agenda
 title: >-
   Exposition - L’analyse critique comme moyen de résistance aux théories du
   complot et leurs dérives radicales
-date_start: '2018-02-22'
-date_stop: '2018-02-12'
+date_start: 2018-02-22
+date_stop: 2018-02-12
 hour: ''
 img_file: /assets/uploads/20180122agenda-exposition-theorie-du-complot.jpg
 place: 'Pl. Xavier-Neujean 22, 4000 Liège'

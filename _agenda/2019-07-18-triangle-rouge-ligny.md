@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Triangle Rouge - Ligny
-date_start: '2019-09-18'
-date_stop: '2019-09-21'
+date_start: 2019-09-18
+date_stop: 2019-09-21'
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: 'Centre communal de Ligny - Rue du Pirou 8, 5140 Sombreffe (Ligny)'
 address: 'Rue du Pirou 8, 5140 Sombreffe (Ligny)'

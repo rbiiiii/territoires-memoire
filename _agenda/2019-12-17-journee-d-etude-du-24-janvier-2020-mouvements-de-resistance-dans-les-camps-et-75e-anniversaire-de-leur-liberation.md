@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Mouvements de résistance dans les camps et 75e anniversaire de leur libération
-date_start: '2020-01-24'
+date_start: 2020-01-24
 date_stop: ''
 hour: 9h
 img_file: "/assets/uploads/20180508\_démocratie-ou-barbarie\_-\_.jpg"

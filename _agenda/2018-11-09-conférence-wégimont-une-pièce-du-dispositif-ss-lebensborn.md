@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Conférence : "Wégimont : une pièce du dispositif SS Lebensborn"'
-date_start: '2018-03-04'
+date_start: 2018-03-04
 date_stop: ''
 hour: '11:00'
 img_file: /assets/uploads/20180304agenda-conference-wegimont.jpg

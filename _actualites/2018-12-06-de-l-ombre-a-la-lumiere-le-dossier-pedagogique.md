@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'De l''ombre à la Lumière : le dossier pédagogique'
 img_file: /assets/uploads/ombre_lumiere.jpg
-posted_on: '2018-12-06'
+posted_on: 2018-12-06
 uploaded_files:
   - file:
       file_name: Documents pédagogiques

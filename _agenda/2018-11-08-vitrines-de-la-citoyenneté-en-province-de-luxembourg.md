@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Vitrines de la Citoyenneté en province de Luxembourg
-date_start: '2018-04-25'
+date_start: 2018-04-25
 date_stop: ''
 hour: '11:00'
 img_file: /assets/uploads/20180425agenda-vitrinesdelacitoyenneteluxembourg.jpg

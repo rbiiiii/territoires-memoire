@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'Autriche : L''extrême droite est toujours inacceptable !'
 img_file: /assets/uploads/20180110actualite-extreme-droite-inacceptable.jpg
-posted_on: '2018-01-10'
+posted_on: 2018-01-10
 file_src: ''
 ---
 Face au silence généralisé suite à la montée de l'extrême droite au pouvoir, les Territoires de la Mémoire rejoignent et signent l'appel au boycott lancé par le Mouvement antiraciste européen. 

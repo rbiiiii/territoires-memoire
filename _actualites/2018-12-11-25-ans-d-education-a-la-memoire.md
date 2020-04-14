@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 25 ans d'éducation à la Mémoire
 img_file: /assets/uploads/20181210-25-ans-d-education-a-la-memoire.jpg
-posted_on: '2018-12-11'
+posted_on: 2018-12-11
 ---
 Le 10 décembre 2018 marquait le 25<sup>e</sup> anniversaire des Territoires de la Mémoire.
 

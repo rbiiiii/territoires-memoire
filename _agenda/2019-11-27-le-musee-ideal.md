@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Le Musée idéal
-date_start: '2019-12-05'
-date_stop: '2020-01-05'
+date_start: 2019-12-05
+date_stop: 2020-01-05'
 img_file: /assets/uploads/trinkhall.jpg
 place: 'La Cité Miroir - Place Xavier Neujean, 22 - 4000 Liège'
 address: 'Place Xavier Neujean, 22 - 4000 Liège'

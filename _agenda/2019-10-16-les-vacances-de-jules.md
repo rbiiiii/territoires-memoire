@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Les Vacances de Jules à Mons
-date_start: '2019-12-11'
+date_start: 2019-12-11
 date_stop: ''
 hour: 14h
 img_file: /assets/uploads/vacancesdejules_1240x480.png

@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: ' Résister à la propagande de guerre'
-date_start: '2020-01-09'
+date_start: 2020-01-09
 date_stop: ''
 hour: 9h
 img_file: /assets/uploads/resiteralapropagande.jpg

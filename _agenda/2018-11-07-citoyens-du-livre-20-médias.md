@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du Livre #20 : Médias'
-date_start: '2018-09-26'
+date_start: 2018-09-26
 date_stop: ''
 hour: '18:00'
 img_file: /assets/uploads/20180926agenda-citoyendulivre-20.jpg

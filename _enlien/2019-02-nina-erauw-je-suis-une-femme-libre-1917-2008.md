@@ -5,7 +5,7 @@ title: Nina Erauw. Je suis une femme libre (1917-2008)
 img_file: /assets/uploads/20180617-ninaerauw_jesuisunefemmelibre_clairepahaut-1.jpg
 enlien_link: /assets/uploads/20180617-ninaerauw_jesuisunefemmelibre_clairepahaut.pdf
 enlien_link_txt: Télécharger
-posted_on: '2018-06-17'
+posted_on: 2018-06-17
 ---
 Par Claire Pahaut. Edité par Hainaut Culture et Démocratie (Les carnets de la mémoire)
 

@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Parcours conté
-date_start: '2018-12-08'
-date_stop: '2018-12-09'
+date_start: 2018-12-08
+date_stop: 2018-12-09'
 img_file: /assets/uploads/20181208agenda-parcours-conte.jpg
 place: ' La Cité Miroir'
 address: 'Pl. Xavier-Neujean 22, 4000 Liège'

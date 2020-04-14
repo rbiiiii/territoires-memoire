@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Aide-Mémoire fait Débat #11 : Mai 68 et élitisme intellectuel en question'
-date_start: '2018-09-13'
+date_start: 2018-09-13
 date_stop: ''
 hour: '19:30'
 img_file: /assets/uploads/20180913agenda-mai68-aidememoirefaitdebat.jpg

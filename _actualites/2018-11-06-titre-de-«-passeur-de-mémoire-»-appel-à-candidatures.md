@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Titre de « Passeur de Mémoire » - Appel à candidatures
 img_file: /assets/uploads/20170214-passeurdememoireprix.jpg
-posted_on: '2017-02-14'
+posted_on: 2017-02-14
 ---
 C'est à l'initiative de son Comité « Mémoire et Démocratie » que le **Parlement de Wallonie**, membre du réseau « Territoires de la Mémoire », a décidé d’octroyer, pour la troisième fois, le titre de **«Passeur de Mémoire»** à trois personnes (physiques ou morales) ayant joué un rôle dans la transmission de certains événements politiques et sociaux tragiques de notre histoire, principalement auprès des jeunes générations, dans une optique de promotion des valeurs démocratiques et de résistance aux idées liberticides.
 

@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Mon ami Paco à Mons
-date_start: '2019-12-02'
-date_stop: '2019-12-13'
+date_start: 2019-12-02
+date_stop: 2019-12-13'
 img_file: >-
   /assets/uploads/20180319_tdlm_projets_monamipaco_visuel_agenda_site_territoires-1-.jpg
 place: Maison de la Laïcité de Mons - Rue de la Grande Triperie 44 7000 Mons
@@ -18,7 +18,8 @@ practical: |-
 
   Contact : Delphine Février  - 065 84 73 22
 ---
-« Claire a un nouveau camarade de classe; il n’est pas de la même couleur de peau qu’elle...».
+« Claire a un nouveau camarade de classe;
+ il n’est pas de la même couleur de peau qu’elle...».
 
 Cette exposition présentant 26 illustrations de linogravures, réalisées par Marion Dionnet et tirées du livre éponyme de Luc Baba, aborde de manière artistique l’enfermement arbitraire des personnes migrantes.
 

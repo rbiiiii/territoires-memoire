@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Stan & Ulysse : l''esprit inventif - L''Aide-Mémoire fait débat #12'
-date_start: '2018-11-29'
+date_start: 2018-11-29
 date_stop: ''
 hour: '19:30'
 img_file: /assets/uploads/20181129-stan-ulysser-ogne.jpg

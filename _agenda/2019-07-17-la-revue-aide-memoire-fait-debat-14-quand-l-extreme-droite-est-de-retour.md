@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'La revue Aide-mémoire fait débat #14 - Quand l’extrême droite est de retour'
-date_start: '2019-09-19'
+date_start: 2019-09-19
 date_stop: ''
 hour: 19h30
 img_file: >-

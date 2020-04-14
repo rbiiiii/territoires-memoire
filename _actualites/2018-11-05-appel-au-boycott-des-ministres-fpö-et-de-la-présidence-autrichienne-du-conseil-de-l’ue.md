@@ -6,7 +6,7 @@ title: >-
   Appel au boycott des ministres FPÖ et de la présidence autrichienne du Conseil
   de l’UE
 img_file: /assets/uploads/test-boycott.jpg
-posted_on: '2018-03-13'
+posted_on: 2018-03-13
 ---
 _Les signataires de cette carte blanche lancent un appel international afin de poursuivre l’initiative de boycott des politiques d’extrême droite en Autriche. Cet appel a été signé par plusieurs personnalités de la société civile autrichiennes et non-autrichiennes, ainsi que 96 parlementaires de 35 pays. (...)_
 

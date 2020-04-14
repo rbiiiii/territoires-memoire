@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Commémoration officielle  du génocide des Tutsi au Rwanda
-date_start: '2019-04-13'
+date_start: 2019-04-13
 date_stop: ''
 hour: de 12h30 à 19h30
 img_file: /assets/uploads/commemoration-rwanda.jpg

@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Les Territoires de la Mémoire ferment leurs portes jusqu'au 19 avril !
 img_file: /assets/uploads/fermeturetm.jpg
-posted_on: '2020-03-13'
+posted_on: 2020-03-13
 ---
 Conformément aux décisions du Conseil National de Sécurité du 12 mars et celui du 27 mars, l’ensemble des activités des Territoires de la Mémoire sont annulées du 14 mars au 19 avril 2020.
 

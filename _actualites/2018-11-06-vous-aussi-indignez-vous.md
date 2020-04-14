@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'Vous aussi, indignez-vous !'
 img_file: /assets/uploads/20170817twitobamacitantmandela.jpg
-posted_on: '2017-08-17'
+posted_on: 2017-08-17
 ---
 « La responsabilité des violences devrait être recherchée des deux côtés » !?
 

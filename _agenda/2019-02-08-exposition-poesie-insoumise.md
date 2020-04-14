@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Exposition - Poésie Insoumise
-date_start: '2019-03-11'
-date_stop: '2019-04-28'
+date_start: 2019-03-11
+date_stop: 2019-04-28'
 img_file: /assets/uploads/lapoesie_uhmus_cc_sceau-vitrine.jpg
 place: 'Espace rencontre de la Bibliothèque George Orwell, Cité Miroir'
 address: '22 place Xavier Neujean, 4000 Liège'

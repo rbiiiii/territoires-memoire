@@ -6,7 +6,7 @@ title: >-
   Commémoration de 25e anniversaire du génocide des Tutsi au Rwanda - Appel à
   projets extraordinaire de la Fédération Wallonie-Bruxelles
 img_file: "/assets/uploads/20180508\_démocratie-ou-barbarie\_-\_.jpg"
-posted_on: '2018-05-08'
+posted_on: 2018-05-08
 ---
 Dans le cadre du décret du 13 mars 2009 relatif à la transmission de la mémoire, la Fédération Wallonie-Bruxelles lance trois appels à projets extraordinaires :
 

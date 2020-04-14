@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du Livre # 29 - Nous les femmes'
-date_start: '2020-01-29'
+date_start: 2020-01-29
 date_stop: ''
 hour: 18h
 img_file: /assets/uploads/cdl-29.jpg

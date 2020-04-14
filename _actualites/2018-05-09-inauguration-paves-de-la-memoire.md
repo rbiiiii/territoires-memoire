@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Inauguration de 6 nouveaux Pavés de la Mémoire
 img_file: /assets/uploads/inauguration-8-paves-de-la-memoire.jpg
-posted_on: '2018-05-14'
+posted_on: 2018-05-14
 ---
 Mercredi 9 mai les Territoires de la Mémoire, le Centre d’Enseignement libre S2J, l’Association pour la Mémoire de la Shoah ont inauguré 6 Pavés de la Mémoire à Liège. Ces six pavés rendent hommage à la mémoire de&nbsp;:
 

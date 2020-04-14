@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du Livre #22'
-date_start: '2018-12-05'
+date_start: 2018-12-05
 date_stop: ''
 hour: '18:00'
 img_file: /assets/uploads/22.jpg

@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Quels droits face à la police ? Rencontre avec M.Beys
-date_start: '2019-02-28'
+date_start: 2019-02-28
 date_stop: ''
 hour: 17h30
 img_file: /assets/uploads/polica.jpg

@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Cri d’une mère pleine d’espoir
-date_start: '2019-04-04'
+date_start: 2019-04-04
 date_stop: ''
 hour: 18h30
 img_file: /assets/uploads/criducoeurdunemere.jpg

@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'La revue Aide-mémoire fait débat #13 - Ingouvernables !'
-date_start: '2019-05-22'
+date_start: 2019-05-22
 date_stop: ''
 hour: 19h30
 img_file: >-

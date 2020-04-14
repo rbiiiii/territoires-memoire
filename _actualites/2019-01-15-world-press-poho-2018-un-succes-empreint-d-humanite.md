@@ -4,9 +4,10 @@ published: true
 categories: actualites
 title: 'World Press Photo 2018 : un succès empreint d''humanité'
 img_file: /assets/uploads/wpp_fin.jpg
-posted_on: '2019-01-15'
+posted_on: 2019-01-15
 ---
-**Après avoir accueilli plus de 12.000 visiteurs dans l’enceinte de La Cité Miroir à Liège, _World Press Photo 2018_ a fermé ses portes. Cette 61e édition présentait les lauréats de ce prestigieux concours de photojournalisme. **
+**Après avoir accueilli plus de 12.000 visiteurs dans l’enceinte de La Cité Miroir à Liège, _World Press Photo 2018_ a fermé ses portes. Cette 61e édition présentait les lauréats de ce prestigieux concours de photojournalisme. 
+**
 
 
 

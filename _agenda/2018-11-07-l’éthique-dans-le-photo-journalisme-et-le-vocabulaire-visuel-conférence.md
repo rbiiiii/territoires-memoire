@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: L’éthique dans le photo journalisme et le vocabulaire visuel - conférence
-date_start: '2018-11-09'
+date_start: 2018-11-09
 date_stop: ''
 hour: '15:30'
 img_file: /assets/uploads/20181109-ethique-dans-le-photojournalisme.jpg

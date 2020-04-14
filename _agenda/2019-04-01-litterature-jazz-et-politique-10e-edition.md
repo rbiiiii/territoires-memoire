@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Littérature, jazz et politique - 10e édition'
-date_start: '2019-04-24'
+date_start: 2019-04-24
 date_stop: ''
 hour: 19h
 img_file: /assets/uploads/ljp-site-tm.jpg.png

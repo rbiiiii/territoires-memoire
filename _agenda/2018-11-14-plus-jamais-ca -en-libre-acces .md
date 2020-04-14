@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Plus jamais ça ! en libre accès !
-date_start: '2018-12-08'
-date_stop: '2018-12-10'
+date_start: 2018-12-08
+date_stop: 2018-12-10'
 img_file: /assets/uploads/20181208agenda-plus-jamais-ca-libre-acces.jpg
 place: La Cité Miroir
 address: 'Pl. Xavier-Neujean 22, 4000 Liège'

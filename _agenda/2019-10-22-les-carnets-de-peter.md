@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Les Carnets de Peter
-date_start: '2020-04-26'
-date_stop: '2020-04-28'
+date_start: 2020-04-26
+date_stop: 2020-04-28'
 img_file: /assets/uploads/carnetsdepeter_sitetm.jpg
 place: 'La Cité Miroir. Place Xavier-Neujean 22, 4000 Liège'
 address: 'place Xavier-Neujean 22, 4000 Liège'
@@ -20,7 +20,8 @@ practical: |-
 ---
 Acteurs, ombres, musique et décor fantastique : une rêverie poétique pour célébrer l’enfance.
 
-Peter se souvient de son enfance : l’Allemagne, Munich 1936, les défilés militaires, les drapeaux, l’émigration en Amérique… Une enfance bousculée par l’Histoire et marquée par la solitude. À l’exception des albums et des livres qui l’ont toujours fasciné et accompagné, comme autant d’amis.
+
+Peter se souvient de son enfance : l’Allemagne, Munich 1936, les défilés militaires, les drapeaux, l’émigration en Amérique… Une enfance bousculée par l’Histoire et marquée par la solitude. À l’exception des albums et des livres qui l’ont toujours fasciné et accompagné, comme autant d’amis.
 
 Un jour, seul dans la grande bibliothèque de son père, il s’invente des histoires : les étranges aventures d’un petit garçon rêveur nommé Donald. Il lui ressemble énormément sauf que…
 
@@ -30,13 +31,16 @@ Ombre, musique et littérature jeunesse ont, une fois encore, la part belle dans
 
 À découvrir absolument !
 
-**Le dimanche 26 avril :** 
 
-À l'issue du spectacle, une partie du public aura l'opportunité de vivre un atelier consécutif en lien avec le spectacle : **Un livre, à créer, à transformer**
+**Le dimanche 26 avril :** 
+
+
+À l'issue du spectacle, une partie du public aura l'opportunité de vivre un atelier consécutif en lien avec le spectacle : **Un livre, à créer, à transformer**
 
 Christelle Daniel, de Latitude Jeunes, et Michel Recloux, des Territoires de la Mémoire, vous proposent de vous plonger dans la déconstruction-reconstruction d’un livre. Le livre est une arme, il peut tuer ; le livre est une médecine, il peut soigner. À l’exemple de de la proposition de Linda Elia dans Notre Combat, il s’agira pour vous de relier des pages de Mein Kampf d’Adolphe Hitler en un livre que vous transformerez à l’aide de différentes techniques (collage, peinture, découpage…) pour en effacer les concepts racistes, guerriers … et y superposer des valeurs de respect, d’égalité, de solidarité et de liberté.
 
-Pour 20 personnes - Durée : 1:30
+
+Pour 20 personnes - Durée : 1:30
 
 Prix : 3 €/personne, goûter inclus
 
@@ -64,7 +68,8 @@ Un coupon _Entrée gratuite_ sera remis sur présentation de son ticket, le jour
 
  
 
-**Organisateurs** 
+**Organisateurs**
+ 
 
 
 

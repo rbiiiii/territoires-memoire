@@ -4,7 +4,7 @@ categories: agenda
 title: >-
   Séance de présentation - Actualité de la (dé)colonisation, enquête sur
   l’héritage colonial
-date_start: '2018-03-20'
+date_start: 2018-03-20
 date_stop: ''
 hour: '19:30'
 img_file: /assets/uploads/20180320agenda-decolonisation.jpg

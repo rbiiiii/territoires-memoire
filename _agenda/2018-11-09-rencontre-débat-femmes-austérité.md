@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Rencontre-débat : femmes & austérité'
-date_start: '2018-02-15'
+date_start: 2018-02-15
 date_stop: ''
 hour: '17:30'
 img_file: /assets/uploads/20180215agenda-rencontredebat-femmes-et-austerite.jpg

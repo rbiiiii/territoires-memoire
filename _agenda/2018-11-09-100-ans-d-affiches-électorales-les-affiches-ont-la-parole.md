@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: 100 ans d'affiches électorales - Les affiches ont la parole
-date_start: '2018-02-26'
-date_stop: '2018-03-14'
+date_start: 2018-02-26
+date_stop: 2018-03-14'
 img_file: /assets/uploads/20180226agenda-100ans-affiches-electorales.jpg
 place: 'Pl. Xavier-Neujean 22, 4000 Liège'
 address: 'Pl. Xavier-Neujean 22, 4000 Liège'

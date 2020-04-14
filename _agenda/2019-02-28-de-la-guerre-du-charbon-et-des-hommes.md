@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'De la guerre, du charbon et des hommes '
-date_start: '2019-03-23'
+date_start: 2019-03-23
 date_stop: ''
 hour: 'De 10h à 17h '
 img_file: /assets/uploads/blegny-sitetm.jpg

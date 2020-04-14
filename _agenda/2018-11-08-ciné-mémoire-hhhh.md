@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Ciné-Mémoire : HHhH'
-date_start: '2018-09-20'
+date_start: 2018-09-20
 date_stop: ''
 hour: '19:45'
 img_file: /assets/uploads/20180920agenda-cinememoire-hhhh.jpg

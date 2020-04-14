@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: '«Sur ma Colline», un spectacle sur le génocide rwandais'
-date_start: '2018-09-13'
+date_start: 2018-09-13
 date_stop: ''
 hour: '20:00'
 img_file: /assets/uploads/20180913agenda-spectacle.jpg

@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Plus d’une centaine de villes et Communes refusent les visites domiciliaires
 img_file: /assets/uploads/20180312non-visite-domiciliaire-inviolable.jpg
-posted_on: '2018-03-12'
+posted_on: 2018-03-12
 ---
 Le projet de loi sur les « visites domiciliaires » fait réagir bien des citoyens, des Villes et des Communes soucieux des valeurs démocratiques et des libertés fondamentales. Manifestations, cartes blanches, pétitions, interpellations... Les Territoires de la Mémoire ont contribué à tirer le signal d’alarme avec #inviolable, rappelant leur engagement à ne pas reproduire les erreurs du passé.
 

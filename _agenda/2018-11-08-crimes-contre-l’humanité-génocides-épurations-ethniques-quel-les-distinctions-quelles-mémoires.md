@@ -4,7 +4,7 @@ categories: agenda
 title: >-
   Crimes contre l’humanité? Génocides ? Épurations ethniques ? Quel les
   distinctions ? Quelles mémoires ?
-date_start: '2018-04-18'
+date_start: 2018-04-18
 date_stop: ''
 hour: '14:00'
 img_file: /assets/uploads/20180418agenda-genocide-formation.jpg

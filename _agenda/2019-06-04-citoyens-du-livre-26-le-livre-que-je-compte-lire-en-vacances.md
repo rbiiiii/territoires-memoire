@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du livre #26 - Le livre que je compte lire en vacances '
-date_start: '2019-06-26'
+date_start: 2019-06-26
 date_stop: ''
 hour: 18h
 img_file: /assets/uploads/citoyensdulivre26.jpg

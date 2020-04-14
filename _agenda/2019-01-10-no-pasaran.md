@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: ¡ No Pasarán ! à Gembloux
-date_start: '2019-03-19'
-date_stop: '2019-03-27'
+date_start: 2019-03-19
+date_stop: 2019-03-27
 hour: 9h30 à 16h
 img_file: /assets/uploads/no-pasaran.jpg
 place: Salle du bar - Place Arthur Lacroix - 5030 Gembloux

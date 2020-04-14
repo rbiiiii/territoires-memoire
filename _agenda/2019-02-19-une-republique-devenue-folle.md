@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Une république devenue folle
-date_start: '2019-04-05'
+date_start: 2019-04-05
 date_stop: ''
 hour: 18h30
 img_file: /assets/uploads/unerepubliquedevenuefolle.jpg

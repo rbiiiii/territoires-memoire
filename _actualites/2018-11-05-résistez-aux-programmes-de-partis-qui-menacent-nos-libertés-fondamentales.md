@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Résistez aux programmes de partis qui menacent nos libertés fondamentales
 img_file: /assets/uploads/20180413-parti-islam.jpg
-posted_on: '2018-04-13'
+posted_on: 2018-04-13
 ---
 Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité<sup>1</sup>.
 

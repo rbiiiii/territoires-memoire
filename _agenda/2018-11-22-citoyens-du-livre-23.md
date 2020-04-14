@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du Livre #23'
-date_start: '2019-01-23'
+date_start: 2019-01-23
 date_stop: ''
 hour: '18:00'
 img_file: /assets/uploads/23.jpg

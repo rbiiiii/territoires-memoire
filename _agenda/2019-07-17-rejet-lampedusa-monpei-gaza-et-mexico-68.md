@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: 'Rejet, Lampedusa, Monpéï, Gaza et Mexico 68'
-date_start: '2019-09-28'
-date_stop: '2019-10-27'
+date_start: 2019-09-28
+date_stop: 2019-10-27'
 img_file: /assets/uploads/20190624_tdlm_centredoc_expo_rejet_agenda.jpg
 place: >-
   Bibliothèque George Orwell à la Cité Miroir - place Xavier Neujean 22, 4000

@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Dernière rencontre du cycle politique au CVFE
 img_file: /assets/uploads/cvfe1605219.jpg
-posted_on: '2019-05-27'
+posted_on: 2019-05-27
 uploaded_files:
   - file: {}
 ---

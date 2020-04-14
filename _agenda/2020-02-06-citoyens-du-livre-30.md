@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du Livre #30 (Annulée)'
-date_start: '2020-03-18'
+date_start: 2020-03-18
 date_stop: ''
 hour: 18h
 img_file: assets/uploads/Citoyensdulivre30_siteTM.jpg

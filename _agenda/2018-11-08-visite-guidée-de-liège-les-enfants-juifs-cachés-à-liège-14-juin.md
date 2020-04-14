@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Visite guidée de Liège - Les enfants Juifs cachés à Liège 14 juin
-date_start: '2018-06-14'
+date_start: 2018-06-14
 date_stop: ''
 hour: '09:30'
 img_file: /assets/uploads/20180630agenda-visiteguidee-enfantsjuifs.jpg

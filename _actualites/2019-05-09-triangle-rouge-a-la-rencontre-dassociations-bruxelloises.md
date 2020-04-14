@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'Triangle Rouge : à la rencontre d''associations bruxelloises'
 img_file: /assets/uploads/ageettransmission.jpg
-posted_on: '2019-05-09'
+posted_on: 2019-05-09
 uploaded_files:
   - file: {}
 ---

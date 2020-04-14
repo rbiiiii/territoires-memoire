@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: "Comprendre le génocide  des Tutsi au\_Rwanda"
-date_start: '2019-03-13'
+date_start: 2019-03-13
 date_stop: Invalid date
 hour: 14h
 img_file: /assets/uploads/journee-formation.jpg

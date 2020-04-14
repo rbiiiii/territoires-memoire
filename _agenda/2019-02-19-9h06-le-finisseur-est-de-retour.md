@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: '9h06, Le finisseur est de retour'
-date_start: '2019-03-29'
+date_start: 2019-03-29
 date_stop: ''
 hour: 14h (scolaire) et 18h30 (tout public)
 img_file: /assets/uploads/lefinisseur.jpg

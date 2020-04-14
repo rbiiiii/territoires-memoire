@@ -4,7 +4,7 @@ categories: agenda
 title: >-
   Séance d'information et de sensibilisation - Province de Namur Territoire de
   Mémoire
-date_start: '2018-03-14'
+date_start: 2018-03-14
 date_stop: ''
 hour: '15:00'
 img_file: /assets/uploads/20180314agenda-namurtm-seanceinformation.jpg

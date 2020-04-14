@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 8e Petit Salon de la Documentation et des Outils Pédagogiques
-date_start: '2019-02-26'
+date_start: 2019-02-26
 date_stop: Invalid date
 hour: 8h30
 img_file: /assets/uploads/20190226_salondoc_web.jpg

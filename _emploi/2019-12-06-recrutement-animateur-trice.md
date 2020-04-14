@@ -3,8 +3,8 @@ layout: post
 title: >-
   Animateur-trice de groupes d’enfants, de jeunes et d’adultes
 subtitle: Contrat « Convention Premier Emploi (CPE) »
-posted_on: '2019-12-06'
-end_of_life: '2020-01-04'
+posted_on: 2019-12-06
+end_of_life: 2020-01-04
 emploi_url: https://docs.google.com/forms/d/19OKALmelrsLdZTlVyaqOxJgsLXsq-k__tpiDxwVhjpQ/viewform
 ---
 

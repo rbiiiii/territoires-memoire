@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 2e Vitrines de la Citoyenneté en province de Luxembourg
-date_start: '2019-02-27'
+date_start: 2019-02-27
 date_stop: ''
 hour: 9h
 img_file: /assets/uploads/vitrines-site.jpg

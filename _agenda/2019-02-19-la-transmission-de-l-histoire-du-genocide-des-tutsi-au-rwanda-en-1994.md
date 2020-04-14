@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: La transmission de l’histoire du génocide des Tutsi au Rwanda en 1994
-date_start: '2019-03-20'
+date_start: 2019-03-20
 date_stop: ''
 hour: de 9h à 15h30
 img_file: /assets/uploads/journee-etude.jpg

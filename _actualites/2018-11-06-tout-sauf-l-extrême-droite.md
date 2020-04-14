@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Tout sauf l'extrême droite !
 img_file: /assets/uploads/20170428-non-marine-lepen.jpg
-posted_on: '2017-04-28'
+posted_on: 2017-04-28
 ---
 Quelques jours avant le deuxième tour de l’élection présidentielle, de nombreux citoyens français sont à nouveau confrontés à un choix qu’ils jugent difficile. Quoique !
 

@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Rwanda 94. Comprendre l'incompréhensible à Charleroi
-date_start: '2019-11-04'
-date_stop: '2019-11-15'
+date_start: 2019-11-04
+date_stop: 2019-11-15
 hour: 13h-20h
 img_file: /assets/uploads/rwanda-illu-generique_focustm.jpg
 place: >-

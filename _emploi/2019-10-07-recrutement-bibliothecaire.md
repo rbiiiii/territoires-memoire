@@ -3,8 +3,8 @@ layout: post
 title: >-
   Bibliothécaire pour la Bibliothèque George Orwell et la Librairie Stéphane Hessel
 subtitle: Contrat « Convention Premier Emploi (CPE) »
-posted_on: '2019-10-07'
-end_of_life: '2019-10-24'
+posted_on: 2019-10-07
+end_of_life: 2019-10-24
 emploi_url: https://docs.google.com/forms/d/e/1FAIpQLScsfv1RXjcu2a345a4KfJKSWp9RgzKNiMqRe9v3FAby2Mv3nA/viewform
 ---
 

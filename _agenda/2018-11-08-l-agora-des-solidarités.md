@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: L'Agora des Solidarités
-date_start: '2018-08-24'
+date_start: 2018-08-24
 date_stop: ''
 hour: '13:00'
 img_file: /assets/uploads/20180824agenda-agora-des-solidarites.jpg

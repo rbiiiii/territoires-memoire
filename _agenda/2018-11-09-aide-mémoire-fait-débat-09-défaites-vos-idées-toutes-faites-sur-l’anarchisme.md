@@ -4,7 +4,7 @@ categories: agenda
 title: >-
   Aide-mémoire fait débat #09 : défaites vos idées toutes faites sur
   l’anarchisme !
-date_start: '2018-03-06'
+date_start: 2018-03-06
 date_stop: ''
 hour: '19:30'
 img_file: /assets/uploads/20180306agenda-aidememoirefaitdebat09.jpg

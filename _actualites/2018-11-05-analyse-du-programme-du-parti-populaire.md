@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: Analyse du programme du Parti Populaire
-posted_on: '2018-10-08'
+posted_on: 2018-10-08
 img_file: /assets/uploads/20181008-non-aux-idees-du-parti-populaire.jpg
 ---
 Le Parti Populaire est un parti créé le 26 novembre 2009 par l’avocat Mischaël Modrikamen et l’économiste flamand Rudy Aernoudt. Il se présente d’emblée comme le représentant d’une droite décomplexée, libérale économiquement et conservatrice sur le plan des valeurs, et dit se donner pour but de rassembler les « déçus du système ». À l’époque, ce positionnement pouvait faire penser à celui de Nicolas Sarkozy en France (« droite décomplexée »). Rappelons en outre que la décision de Mischaël Modrikamen d’entrer en politique suivit de près sa performance en tant que défenseur des petits actionnaires lésés dans l’affaire Fortis, performance qui contribua à braquer les projecteurs médiatiques sur sa personne.

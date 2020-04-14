@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Nuit blanche contre listes noires - Inauguration et buffet du monde
-date_start: '2019-05-11'
+date_start: 2019-05-11
 date_stop: ''
 hour: 17h30
 img_file: /assets/uploads/20190511_tdlm_communication_nbcln_visuelweb.png

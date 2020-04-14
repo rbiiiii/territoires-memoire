@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Théâtre - De l'ombre à la lumière
-date_start: '2018-12-10'
+date_start: 2018-12-10
 date_stop: ''
 hour: '18:00'
 img_file: /assets/uploads/20181210agenda-theatre-ombre-a-la-lumiere.jpg

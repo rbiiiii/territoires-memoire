@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: 'Shoah, regards d’artistes'
-date_start: '2020-01-16'
-date_stop: '2020-02-16'
+date_start: 2020-01-16
+date_stop: 2020-02-16'
 img_file: /assets/uploads/shoah-regards-dartistes.jpg
 place: 'Rue du Bronze, 14 Anderlecht'
 address: 'Rue du Bronze, 14 Anderlecht'

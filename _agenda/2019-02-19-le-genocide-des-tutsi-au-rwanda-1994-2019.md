@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Le génocide des Tutsi au Rwanda 1994-2019.
-date_start: '2019-03-13'
-date_stop: '2019-04-13'
+date_start: 2019-03-13
+date_stop: 2019-04-13'
 img_file: /assets/uploads/generique.jpg
 place: 'La Cité Miroir, place Xavier-Neujean 22 – 4000 Liège '
 address: 'place Xavier-Neujean 22 – 4000 Liège '

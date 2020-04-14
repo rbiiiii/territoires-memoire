@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Triangle Rouge - Herstal
-date_start: '2019-05-06'
-date_stop: '2019-05-10'
+date_start: 2019-05-06
+date_stop: 2019-05-10
 hour: De 9h à 17h
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: 'Rue Elisa Dumonceau, 55 4040 Herstal '

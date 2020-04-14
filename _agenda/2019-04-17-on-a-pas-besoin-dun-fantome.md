@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: On a (pas) besoin d'un fantôme
-date_start: '2019-05-07'
-date_stop: '2019-05-09'
+date_start: 2019-05-07
+date_stop: 2019-05-09
 hour: 19h
 img_file: /assets/uploads/onapasbesoindunfantome.jpg
 place: La Cité Miroir - Place Xavier Neujean 22 - 4000 Liège

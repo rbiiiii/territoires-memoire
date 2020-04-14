@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'Citoyens du livre #28 : Littérature et migration'
-date_start: '2019-11-13'
+date_start: 2019-11-13
 date_stop: ''
 hour: 18h
 img_file: /assets/uploads/cdl28.jpg

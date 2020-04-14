@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 'CINÉ-ONU : Le Voyage de Bogdan à La Cité Miroir'
-date_start: '2018-01-25'
+date_start: 2018-01-25
 date_stop: ''
 hour: '17:00'
 img_file: /assets/uploads/20180125agenda-film-bogdansjourney.jpg

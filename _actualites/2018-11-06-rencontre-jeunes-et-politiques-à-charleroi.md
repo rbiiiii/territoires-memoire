@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Rencontre Jeunes et politiques à Charleroi
 img_file: /assets/uploads/20171123rencontresjeunespolitiques.jpg
-posted_on: '2017-12-04'
+posted_on: 2017-12-04
 ---
 Le 23 novembre dernier, des jeunes du **CECS La Garenne** (Charleroi) ont rencontré et posé leurs questions à des représentant-e-s de 4 partis démocratiques belges dans le cadre des rencontres Jeunes et politiques.
 

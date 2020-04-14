@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Mon Ami Paco à Farciennes (annulée)
-date_start: '2020-03-21'
-date_stop: '2020-04-17'
+date_start: 2020-03-21
+date_stop: 2020-04-17'
 img_file: >-
   assets/uploads/20180319_tdlm_projets_monamipaco_visuel_agenda_site_territoires-1-.jpg
 place: >-

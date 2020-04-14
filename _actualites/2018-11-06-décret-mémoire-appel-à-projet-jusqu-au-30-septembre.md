@@ -3,7 +3,7 @@ layout: post
 published: true
 title: 'Décret mémoire : appel à projet jusqu''au 30 septembre'
 img_file: /assets/uploads/20170824megaphone.jpg
-posted_on: '2017-08-24'
+posted_on: 2017-08-24
 ---
 Dans le cadre du décret du 13 mars 2009 relatif à la transmission de la mémoire des crimes de génocide, des crimes contre l’humanité, des crimes de guerre et des faits de résistance ou des mouvements ayant résisté aux régimes qui ont suscité ces crimes, la Fédération Wallonie-Bruxelles ouvre comme chaque année trois appels à projets :
 

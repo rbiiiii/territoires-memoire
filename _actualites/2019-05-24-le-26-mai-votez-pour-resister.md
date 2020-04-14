@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'Le 26 mai, votez pour résister !'
 img_file: /assets/uploads/votez_1240x480.jpg
-posted_on: '2019-05-24'
+posted_on: 2019-05-24
 uploaded_files:
   - file: {}
 ---
@@ -22,5 +22,6 @@ Informez-vous
 Engagez-vous
 
 Partagez votre esprit de résistance sur 
-www.trianglerouge.be 
+www.trianglerouge.be
+ 
 

@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: La foire du livre politique à Liège - 12e édition
-date_start: '2019-11-15'
-date_stop: '2019-11-16'
+date_start: 2019-11-15
+date_stop: 2019-11-16'
 img_file: /assets/uploads/foire-du-livre-politique-2019.jpg
 place: Cité Miroir - place Xavier Neujean 4000 Liège
 address: 'Pl. Xavier-Neujean 22, 4000 Liège'

@@ -6,7 +6,7 @@ title: >-
   Retrouvez la dernière publication des éditions des Territoires de la Mémoire
   en accès libre!
 img_file: /assets/uploads/pocapitalypse_sitetm.jpg
-posted_on: '2020-03-30'
+posted_on: 2020-03-30
 uploaded_files:
   - file:
       file_src: >-

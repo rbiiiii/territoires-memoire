@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'Elections 2019 : découvrez notre mémorandum !'
 img_file: /assets/uploads/memorandum-tm.jpg
-posted_on: '2019-07-17'
+posted_on: 2019-07-17
 uploaded_files:
   - {}
   - file:

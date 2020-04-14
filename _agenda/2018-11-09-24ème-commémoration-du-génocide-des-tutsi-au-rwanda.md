@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 24ème Commémoration du Génocide des Tutsi au Rwanda
-date_start: '2018-04-14'
+date_start: 2018-04-14
 date_stop: ''
 hour: '14:30'
 img_file: /assets/uploads/20180414agenda-commemoration-genocide.jpg
@@ -15,11 +15,16 @@ booking: |-
   * **Réponse souhaité pour le lundi 9 avril 2018 au plus tard**
   * [**asbl.urgt@gmail.com**](mailto:asbl.urgt@gmail.com)
 ---
-Le Collège communal de la Ville de Liège, l'ASBL Les Territoires de la Mémoire et L'ASBL L'Union des Rescapés du Génocide des Tutsi ont l’honneur de vous inviter à assister à
+Le Collège communal de la Ville de Liège,
+ l'ASBL Les Territoires de la Mémoire et 
+L'ASBL L'Union des Rescapés du Génocide des Tutsi
+ ont l’honneur de vous inviter à assister à
 
 ## la 24ème Commémoration du Génocide des Tutsi au Rwanda
 
-le samedi 14 avril 2018, à partir de 14h30, dans la Salle des Pas Perdus de l’Hôtel de Ville.
+le samedi 14 avril 2018, à partir de 14h30,
+ dans la Salle des Pas Perdus de l’Hôtel de Ville
+.
 
 
 

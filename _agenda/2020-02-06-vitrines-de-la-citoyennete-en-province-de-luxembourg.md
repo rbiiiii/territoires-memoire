@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Vitrines de la citoyenneté en province de Luxembourg
-date_start: '2020-02-12'
+date_start: 2020-02-12
 date_stop: ''
 hour: 9h30-20h
 img_file: assets/uploads/2020vitrinescitoyennete.jpg

@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Exposition Triangle Rouge à Saint-Gilles
-date_start: '2019-03-21'
-date_stop: '2019-03-26'
+date_start: 2019-03-21
+date_stop: 2019-03-26'
 img_file: /assets/uploads/expo_trianglerouge_visuelgenerique_1920x1080.jpg
 place: Hôtel de Ville de Saint-Gilles (salle de l’Europe)
 address: '37, place Van Meenen – 1060 Saint-Gilles'

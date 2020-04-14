@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'L''association les Territoires de la Mémoire fêtent leurs 25 ans  '
 img_file: /assets/uploads/20181206actu-25ans.jpg
-posted_on: '2018-12-06'
+posted_on: 2018-12-06
 ---
 Le 10 décembre 2018, les Territoires de la Mémoire fêtent leurs 25 ans. En effet, en 1993, à l’occasion de la journée internationale des droits humains et à l’initiative du Centre d’Action Laïque de la Province de Liège, des citoyens et d’anciens prisonniers politiques des camps de concentration nazis posent les premières pierres du centre d’éducation à la Résistance et à la Tolérance, devenu depuis centre d’éducation à la Résistance et à la Citoyenneté.
 

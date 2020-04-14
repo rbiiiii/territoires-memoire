@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: 'Imaginer malgré tout : les éditions Esperluète et la Mémoire'
-date_start: '2018-04-20'
-date_stop: '2018-05-09'
+date_start: 2018-04-20
+date_stop: 2018-05-09'
 img_file: /assets/uploads/20180420agenda-imaginermalgretout.jpg
 place: 'Pl. Xavier-Neujean 22, 4000 Liège'
 address: 'Pl. Xavier-Neujean 22, 4000 Liège'
@@ -30,6 +30,7 @@ Les livres présents dans l’exposition répondent à leur manière à cette qu
 
 **Vernissage le jeudi 19 avril à 19h** avec la rencontre avec l’auteure Nicole Malinconi autour de son livre Un grand amour basé sur le témoignage de Theresa Stangl, épouse aimante de Franz Stangl, commandant de Sobibor et de Treblinka.
 
-**Organisateur**
+**Organisateur
+**
 
 Une programmation des Territoires de la Mémoire asbl en partenariat avec les éditions Esperluète

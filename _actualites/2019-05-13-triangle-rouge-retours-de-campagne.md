@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: 'Triangle Rouge : retours de campagne !'
 img_file: /assets/uploads/tr-retoursdecampagne.jpg
-posted_on: '2019-05-13'
+posted_on: 2019-05-13
 uploaded_files:
   - file:
       file_name: Brochure Retours de campagne

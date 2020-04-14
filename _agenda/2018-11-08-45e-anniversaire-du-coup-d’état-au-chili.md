@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: 45e anniversaire du coup d’État au Chili
-date_start: '2018-09-11'
+date_start: 2018-09-11
 date_stop: ''
 hour: '18:30'
 img_file: /assets/uploads/20180911agenda-chili-anniversaire-coupdetat.jpg

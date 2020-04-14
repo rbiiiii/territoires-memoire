@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Exposition Triangle Rouge à Lessines
-date_start: '2019-09-25'
-date_stop: '2019-10-10'
+date_start: 2019-09-25
+date_stop: 2019-10-10
 hour: ''
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: Maison des associations de Lessines (Gare)

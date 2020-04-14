@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: People Advisory Explicit Music au Centre culturel de Libramont-Chevigny
-date_start: '2019-12-03'
-date_stop: '2019-12-19'
+date_start: 2019-12-03
+date_stop: 2019-12-19
 hour: ''
 img_file: /assets/uploads/people-advisory-explicit-music-visuel-agenda.png
 place: 'Avenue de Houffalize 56d, 6800 Libramont-Chevigny'

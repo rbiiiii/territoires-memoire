@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Vernissage de l'exposition Poésie insoumise
-date_start: '2019-03-14'
-date_stop: '2019-03-14'
+date_start: 2019-03-14
+date_stop: 2019-03-14
 hour: 19h
 img_file: /assets/uploads/poesieinsoumise-vernissage_web.jpg
 place: >-

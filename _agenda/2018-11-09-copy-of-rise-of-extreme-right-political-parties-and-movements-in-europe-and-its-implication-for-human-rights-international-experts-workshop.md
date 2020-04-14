@@ -4,7 +4,7 @@ categories: agenda
 title: >-
   Copy of Rise of extreme right political parties and movements in Europe and
   its implication for Human Rights - International experts Workshop
-date_start: '2018-02-23'
+date_start: 2018-02-23
 date_stop: ''
 hour: '09:00'
 img_file: /assets/uploads/20180223agenda-international-experts-workshop.jpg

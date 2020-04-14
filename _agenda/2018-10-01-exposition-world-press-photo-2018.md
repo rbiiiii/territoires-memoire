@@ -2,8 +2,8 @@
 layout: post
 categories: agenda
 title: Exposition World Press Photo 2018
-date_start: '2018-11-10'
-date_stop: '2019-01-13'
+date_start: 2018-11-10
+date_stop: 2019-01-13
 hour: ''
 img_file: /assets/uploads/worldpressphoto_citemiroir.jpg
 place: La Cité Miroir
