@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: "Citoyens du Livre #30,5 - S'engager confiné"
-date_start: 2020-05-20
+date_start: '2020-05-20'
 date_stop: ""
 hour: 18h
 img_file: /assets/uploads/cdl30.jpg
