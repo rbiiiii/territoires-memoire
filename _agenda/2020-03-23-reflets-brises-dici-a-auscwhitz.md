@@ -1,19 +1,15 @@
 ---
 layout: post
 categories: agenda
-title: 'Reflets brisés : d''Ici à Auschwhitz (annulée)'
-date_start: 2020-05-08
+title: "Reflets brisés : d'Ici à Auschwhitz (reportée)"
+date_start: 2020-05-08T00:00:00.000Z
 date_stop: 2020-05-31'
 img_file: /assets/uploads/expo_meuli.jpg
 place: La Cité Miroir Place Xavier Neujean 22  4000 Liège
 address: Place Xavier Neujean 22  4000 Liège
 tags:
   - Exposition
-schedule: |-
-  L'exposition est accessible :
-
-  \- du lundi au vendredi de 9h à 18h\
-  - samedi et dimanche de 10h à 18h
+schedule: L'exposition est reportée en 2021.
 ---
 Une série photographique de Geoffrey Meuli prise lors du voyage pour la mémoire de la Régie de Quartier d’Andenne à Auschwitz en mai 2019.
 
