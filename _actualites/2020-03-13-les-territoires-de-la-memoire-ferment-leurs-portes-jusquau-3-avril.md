@@ -2,11 +2,11 @@
 layout: post
 published: true
 categories: actualites
-title: Les Territoires de la Mémoire ferment leurs portes jusqu'au 19 avril !
+title: Les Territoires de la Mémoire ferment leurs portes jusqu'au 3 mai !
 img_file: /assets/uploads/fermeturetm.jpg
-posted_on: 2020-03-13
+posted_on: 2020-03-13T00:00:00.000Z
 ---
-Conformément aux décisions du Conseil National de Sécurité du 12 mars et celui du 27 mars, l’ensemble des activités des Territoires de la Mémoire sont annulées du 14 mars au 19 avril 2020.
+Conformément aux décisions du Conseil National de Sécurité du 12 mars, du 27 mars et celui du 15 avril, l’ensemble des activités des Territoires de la Mémoire sont annulées du 14 mars au 3 mai 2020.
 
 La Cité Miroir sera fermée au public durant cette période.
 
@@ -20,7 +20,7 @@ Prenons soin de nous et des autres.
 
 Notre sécurité à tous, la vôtre et celle de nos collaboratrices et collaborateurs, est notre priorité.
 
-Pour cette raison et dans le respect des principes de précaution et de confinement tels que demandés par les autorités publiques, nous avons pris la décision pour nos collaboratrices et collaborateurs de maximaliser le travail à distance dès ce mercredi 18 mars 12h et ce jusqu’au 20 avril inclus.
+Pour cette raison et dans le respect des principes de précaution et de confinement tels que demandés par les autorités publiques, nous avons pris la décision pour nos collaboratrices et collaborateurs de maximaliser le travail à distance dès ce mercredi 18 mars 12h et ce jusqu’au 3 mai inclus.
 
 Vos interlocuteurs habituels restent donc joignables via leur adresse électronique pour répondre à votre demande dans la limite des possibilités au regard de la situation inédite que nous vivons collectivement.
 
