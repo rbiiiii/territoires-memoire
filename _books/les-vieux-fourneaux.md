@@ -9,7 +9,7 @@ col: ''
 year: 2014-2018
 price: 12 €
 link: https://www.dargaud.com/bd/Les-Vieux-Fourneaux/Les-Vieux-Fourneaux
-img_src: ''
+img_src: 'https://www.territoires-memoire.be/assets/uploads/les-vieux-fourneaux.jpg'
 published: false
 
 ---
