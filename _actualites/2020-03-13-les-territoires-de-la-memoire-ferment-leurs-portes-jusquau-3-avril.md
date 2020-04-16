@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: Les Territoires de la Mémoire ferment leurs portes jusqu'au 3 mai !
 img_file: /assets/uploads/fermeturetm.jpg
-posted_on: 2020-03-13T00:00:00.000Z
+posted_on: 2020-03-13
 ---
 Conformément aux décisions du Conseil National de Sécurité du 12 mars, du 27 mars et celui du 15 avril, l’ensemble des activités des Territoires de la Mémoire sont annulées du 14 mars au 3 mai 2020.
 
