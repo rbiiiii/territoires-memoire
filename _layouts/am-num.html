@@ -46,7 +46,7 @@ layout: default
         </section>
         {%- assign booksFromNowSize = site.books | where:'version', page.num | size -%}
         {%-  if booksFromNowSize > 0 -%} 
-            <section class="page-section books-slider">
+            <section class="page-section books-slider" id="biblio">
                 <div class="page-section__content">
                     <h2>La Bibliothèque George Orwell présente</h2>
                     {%- include_cached pages/books.html version=page.num -%}
