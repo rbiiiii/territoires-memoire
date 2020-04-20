@@ -59,23 +59,6 @@
 		]
 	},
 	{
-		"title": "Traces",
-		"img_src": "pdf-traces.jpg",
-		"pdf_src": "tm-exposition-traces.pdf",
-		"txt" : "Bien plus qu’un travail artistique, Traces est une exposition modulable de 70 ou 30 photographies. Toutes ces vues contemporaines des camps de concentration et des centres d’extermination ne reflètent pas vraiment la barbarie, le crime et la volonté d’annihiler l’humain&nbsp;!",
-		"categorie": "expos-itinerantes",
-		"peda": [
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/eduquer/tm-exposition-traces-dossier_pedagogique.pdf"
-			},
-			{
-				"title" : "Carnet de visite",
-				"url" : "/assets/pdf/eduquer/tm-exposition-traces-carnet_visite.pdf"
-			}
-		]
-	},
-	{
 		"title": "Triangle Rouge",
 		"img_src": "pdf-triangle_rouge.jpg",
 		"pdf_src": "tm-exposition-triangle_rouge.pdf",
