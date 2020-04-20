@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.8.6"
+gem "jekyll", github: "jekyll/jekyll"
 
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
@@ -23,7 +23,7 @@ gem "uglifier"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-    gem 'jekyll-paginate-v2'
+    gem 'jekyll-paginate-v2', github: 'sverrirs/jekyll-paginate-v2'
     gem 'jekyll-include-cache'
     gem 'jekyll-commonmark'
 end
