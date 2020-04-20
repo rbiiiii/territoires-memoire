@@ -10,6 +10,7 @@ place: "La Cité Miroir - Place Xavier Neujean 22 4000 Liège "
 address: "Place Xavier Neujean 22 4000 Liège "
 tags:
   - rencontre
+  - Citoyens du Livre
 practical: >-
   [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)\
 

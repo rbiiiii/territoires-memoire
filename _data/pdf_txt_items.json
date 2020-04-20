@@ -174,13 +174,6 @@
 		"categorie": "animations-pedagogiques"
 	},
 	{
-		"title": "Auteurs & Cie",
-		"img_src": "pdf-auteurs_et_cie.jpg",
-		"pdf_src": "tm-animations_debats.pdf",
-		"txt" : "Auteurs & Cie est la rencontre entre l’auteur du livre, le réalisateur du film, l’illustrateur de la bande dessinée ou un artiste et son public. Elle ouvre une porte qui permet aux questions de trouver une réponse, elle autorise aussi l’auteur à expliciter sa démarche et sa recherche.",
-		"categorie": "animations-debats"
-	},
-	{
 		"title": "Rencontres jeunes et politiques",
 		"img_src": "pdf-rencontres_jeunes_et_politiques.jpg",
 		"pdf_src": "tm-animations_debats.pdf",

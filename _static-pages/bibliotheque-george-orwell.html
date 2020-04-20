@@ -38,6 +38,7 @@ class: biblio
             {%- include_cached pages/page-tuile.html title="Deux espaces" url="#deux-espaces" imageSlug="biblio" imageFileName="page-biblio-tuile-02.jpg" -%}
             {%- include_cached pages/page-tuile.html title="Coups de cœur de la bibliothèque" url="#coups-de-coeur" imageSlug="biblio" imageFileName="page-biblio-tuile-03.jpg" -%}
             {%- include_cached pages/page-tuile.html title="Citoyens du Livre" url="#citoyens-du-livre" imageSlug="biblio" imageFileName="page-biblio-tuile-04.jpg" -%}
+            {%- include_cached pages/page-tuile.html title="Auteurs & compagnie" url="#auteurs-et-compagnie" imageSlug="biblio" imageFileName="page-biblio-tuile-05.jpg" -%}
         </div>
         <div class="biblio__catalogue">
             <a class="button button--blue" href="http://bibliotheque.territoires-memoire.be/">Catalogue en ligne</a>
@@ -136,18 +137,39 @@ class: biblio
         <p class="page-section__description">Venez découvrir les coups de cœur et les coups de gueule des autres lecteurs et partager les vôtres d’une manière conviviale. Si vous le désirez, vous pourrez même le faire en maniant la plume&nbsp;!</p>
         <p class="page-section__description">Consultez les <a href="/archives-citoyens-du-livre">mémos des précédentes rencontres</a>.</p>
     </header>
-    <div class="page-section__content category category--reverse citoyens-du-livre-events">
-        <ul class="post-list list--no-style blocks">  
-            {%- assign amEvents = site.agenda | where: "tags", "Citoyens du Livre" | sort: 'date_start' -%}
-            {%- assign curDate = site.time | date: '%Y-%m-%d' -%}
-            {%- for event in amEvents -%}
-                {%- assign postStartDate = event.date_start | date: '%Y-%m-%d' -%}
-                {%- if postStartDate >= curDate -%}
+    {%- assign curDate = site.time | date: '%Y-%m-%d' -%}
+    {%- assign amEvents = site.agenda | where: "tags", "Citoyens du Livre" | sort: 'date_start' -%}
+    {%- assign amEventsFiltered = "" | split: ',' -%}
+    {%- for event in amEvents -%}
+        {%- assign postStartDate = event.date_start | date: '%Y-%m-%d' -%}
+        {%- if postStartDate >= curDate -%}
+            {% assign amEventsFiltered = amEventsFiltered | push: event %}
+        {%- endif -%}
+    {%- endfor -%}
+    {%- assign amEventsFilteredSize = amEventsFiltered | size -%}
+    {% if amEventsFilteredSize > 0 %}
+        <div class="page-section__content category category--reverse citoyens-du-livre-events">
+            <ul class="post-list list--no-style blocks">  
+                {%- for event in amEventsFiltered -%}
                     <li class="block">     
                         {%- include posts/event-template.html reverse="yes" -%}
                     </li>
-                {%- endif -%}
-            {%- endfor -%}
-        </ul>
+                {%- endfor -%}
+            </ul>
+        </div>
+    {% endif %}
+</section>
+
+<section id="auteurs-et-compagnie" class="page-section">
+    <header class="page-section__header">
+        <div class="page-section__img">
+            <img src="/assets/images/biblio/auteurs-et-compagnie.jpg" alt="Auteurs & compagnie">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        </div>
+    </header>
+    <div class="page-section__content">
+        <h2 class="page-section__title">Auteurs & compagnie</h2>
+        <p class="page-section__description">Auteurs & Cie est la rencontre entre l’auteur du livre, le réalisateur du film, l’illustrateur de la bande dessi-née ou un artiste et son public. Elle ouvre une porte qui permet aux questions de trouver une réponse, elle autorise aussi l’auteur à expliciter sa démarche et sa recherche.</p>
+        <p class="page-section__description">Cette rencontre est menée par un spécialiste du sujet proposé afin de creuser le domaine  abordé  et  permettre  un  éclairage  différent  voire  contradictoire  de  celui  de l’auteur invité. Le public est convié à participer au débat et à échanger avec les invités. La séance est suivie d’une dédicace.</p>
     </div>
 </section>
