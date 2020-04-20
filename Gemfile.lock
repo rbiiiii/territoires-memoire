@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jekyll/jekyll.git
-  revision: a2103c34525de242628dee75dfc9a4bf58f5490f
+  revision: 964b80edc6771c8a4877dc9f481f428aba5119e7
   specs:
     jekyll (4.0.0)
       addressable (~> 2.4)
@@ -79,7 +79,7 @@ GEM
     ruby-enum (0.8.0)
       i18n
     safe_yaml (1.0.5)
-    sassc (2.2.1)
+    sassc (2.3.0)
       ffi (~> 1.9)
     sprockets (4.0.0)
       concurrent-ruby (~> 1.0)
