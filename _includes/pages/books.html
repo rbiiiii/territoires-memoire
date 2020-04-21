@@ -6,10 +6,10 @@
     {% endif %}
     {% for book in booksFromNow %}
         <div class="pdf-txt__item">
-            {% if book.link %}
+            {% if book.book_link %}
                 <a 
                 class="pdf-txt__item__link book__link"
-                href="{{ book.link }}" title="{{ book.title }}">
+                href="{{ book.book_link }}" title="{{ book.title }}">
             {% endif %}
                     <div class="pdf-txt__item__text book__content">
                         <h3 class="pdf-txt__item__text__title book__title">
@@ -31,7 +31,7 @@
                             <div class="pdf-txt__item__text__txt">{{ book.content | markdownify}}</div>
                         </div>
                     </div>
-            {% if book.link %}        
+            {% if book.book_link %}        
                 </a>
             {% endif %}
         </div>

@@ -9,7 +9,7 @@ editor: L’Échappée
 col: ''
 year: "2019"
 price: 29 €
-link: https://www.lechappee.org/collections/action-graphique/le-grand-cirque-electoral
+book_link: https://www.lechappee.org/collections/action-graphique/le-grand-cirque-electoral
 img_src: https://www.territoires-memoire.be/assets/uploads/Zvonimir-Novak-Le-grand-cirque-électoral.jpg
 
 ---

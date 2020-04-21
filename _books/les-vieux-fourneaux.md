@@ -8,7 +8,7 @@ editor: tomes 1 à 5, Dargaud
 col: ''
 year: 2014-2018
 price: 12 €
-link: https://www.dargaud.com/bd/Les-Vieux-Fourneaux/Les-Vieux-Fourneaux
+book_link: https://www.dargaud.com/bd/Les-Vieux-Fourneaux/Les-Vieux-Fourneaux
 img_src: 'https://www.territoires-memoire.be/assets/uploads/les-vieux-fourneaux.jpg'
 
 ---

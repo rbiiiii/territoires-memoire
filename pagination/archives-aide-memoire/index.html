@@ -9,19 +9,17 @@ class: archives-am-page
 pagination:
   enabled: true
   collection: aide-memoire-numeros
-  permalink: /:num/
-  sort_field: 'num'
+  sort_field: num
   sort_reverse: true
 ---
-
 <div class="page-section">
     <div class="page-section__content">
         <ul class="blocks archives-am-nums ">
             {% assign paginator_filtered = paginator.posts | where: 'show', true %}
             {%- for am in paginator_filtered -%}
                 <div class="block page-am-num clearfix">
-                    <a class="page-am-num__link" href="{{ am.url }}">
-                        <img class="page-am-num__img" src="{{ site.url }}{{ am.couv_src }}" alt="{{ am.title }}">
+                    <a class="page-am-num__link" href="{{ am.url | uri_escape }}">
+                        <img class="page-am-num__img" src="{{ site.url }}{{ am.couv_src | uri_escape }}" alt="{{ am.title }}">
                         <h3 class="page-am-num__title">{{ am.title }}<br>
                             <small class="page-am-num__date">{{ am.date_publication }}</small></h3>
                         <div class="page-am-num__excerpt">{{ am.content | truncate: 240, "&nbsp;[…]" }}</div>

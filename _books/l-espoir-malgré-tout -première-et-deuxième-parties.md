@@ -8,7 +8,7 @@ editor: Dupuis
 col: ''
 year: "2019"
 price: ''
-link: https://www.dupuis.com/le-spirou-d-emile-bravo/bd/le-spirou-d-emile-bravo-tome-2-spirou-l-espoir-malgre-tout-premiere-partie/35974
+book_link: https://www.dupuis.com/le-spirou-d-emile-bravo/bd/le-spirou-d-emile-bravo-tome-2-spirou-l-espoir-malgre-tout-premiere-partie/35974
 img_src: https://www.territoires-memoire.be/assets/uploads/EmBravoSpirouPremierepartie.jpg
 
 ---

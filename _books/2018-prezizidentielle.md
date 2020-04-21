@@ -6,8 +6,7 @@ editor: Casterman
 collection: ' coll. « Sociorama »'
 year: '2017'
 price: 16 €
-link: >-
-  https://www.casterman.com/Bande-dessinee/Catalogue/sociorama/sociorama-prezizidentielle
+book_link: https://www.casterman.com/Bande-dessinee/Catalogue/sociorama/sociorama-prezizidentielle
 img_src: /assets/uploads/am-82-prezizi.jpg
 ---
 « Cette année, on va élire un nouveau président, vous savez ce que ça veut dire ? » ou

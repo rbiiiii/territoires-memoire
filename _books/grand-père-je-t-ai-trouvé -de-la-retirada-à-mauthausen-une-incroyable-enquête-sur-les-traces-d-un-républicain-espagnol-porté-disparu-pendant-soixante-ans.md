@@ -9,7 +9,7 @@ editor: Au diable vauvert
 col: ''
 year: "2019"
 price: 20 €
-link: https://audiable.com/boutique/cat_document/grand-pere-je-tai-trouve/
+book_link: https://audiable.com/boutique/cat_document/grand-pere-je-tai-trouve/
 img_src: https://www.territoires-memoire.be/assets/uploads/grandperejetaitrouve.jpg
 
 ---

@@ -8,7 +8,7 @@ editor: Éditions du Cerisier
 col: coll. « Quotidiennes »
 year: "2019"
 price: 17,50 €
-link: http://editions-du-cerisier.be/spip.php?rubrique20
+book_link: http://editions-du-cerisier.be/spip.php?rubrique20
 img_src: https://www.territoires-memoire.be/assets/uploads/femmemachine.jpg
 
 ---

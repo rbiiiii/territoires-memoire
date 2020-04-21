@@ -8,7 +8,7 @@ editor: La Boîte à Bulles
 col: ''
 year: "2019"
 price: 22 €
-link: https://www.la-boite-a-bulles.com/book/531
+book_link: https://www.la-boite-a-bulles.com/book/531
 img_src: https://www.territoires-memoire.be/assets/uploads/Bernard-Boulad-La-Guerre-des-Autres.jpg
 
 ---

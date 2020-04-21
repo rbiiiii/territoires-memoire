@@ -8,7 +8,7 @@ editor: Aide aux personnes déplacées ASBL
 col: ''
 year: "2020"
 price: ''
-link: https://www.aideauxpersonnesdeplacees.be/accueil/que-faisons-nous/les-projets-ponctuels/
+book_link: https://www.aideauxpersonnesdeplacees.be/accueil/que-faisons-nous/les-projets-ponctuels/
 img_src: https://www.territoires-memoire.be/assets/uploads/nizar.jpg
 
 ---

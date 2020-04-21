@@ -8,7 +8,7 @@ editor: revue Lignes
 col: n°60
 year: octobre 2019
 price: 20 €
-link: https://www.editions-lignes.com/L-ETRANGER-ET-L-HOSPITALITE.html
+book_link: https://www.editions-lignes.com/L-ETRANGER-ET-L-HOSPITALITE.html
 img_src: https://www.territoires-memoire.be/assets/uploads/Revue-Lignes-60.jpg
 
 ---

@@ -8,7 +8,7 @@ editor: Casterman
 col: ''
 year: "2019"
 price: 15,95 €
-link: https://www.casterman.com/Bande-dessinee/Catalogue/albums-le-chateau-des-animaux/le-chateau-des-animaux-1-miss-bengalore1
+book_link: https://www.casterman.com/Bande-dessinee/Catalogue/albums-le-chateau-des-animaux/le-chateau-des-animaux-1-miss-bengalore1
 img_src: https://www.territoires-memoire.be/assets/uploads/Le-château-des-animaux.jpg
 
 ---

@@ -9,8 +9,7 @@ class: archives-heart
 pagination:
   enabled: true
   collection: books
-  permalink: /:num/
-  sort_field: 'version'
+  sort_field: version
   sort_reverse: true
   per_page: 30
 ---
@@ -22,10 +21,10 @@ pagination:
         {% for book in heart_list %}
             <li class="block post-list__item block archives-heart__list__item">
                 <div class="pdf-txt__item">
-                    {% if book.link %}
+                    {% if book.book_link and book.book_link != '' %}
                         <a 
                         class="pdf-txt__item__link book__link"
-                        href="{{ book.link }}" title="{{ book.title }}">
+                        href="{{ book.book_link | uri_escape  }}" title="{{ book.title }}">
                     {% endif %}
                             <div class="pdf-txt__item__text book__content">
                                 <h3 class="pdf-txt__item__text__title book__title">
@@ -36,7 +35,7 @@ pagination:
                                     <div class="book__img-wrapper">
                                         <img 
                                         class="pdf-txt__item__img book__img"
-                                        src="{{ book.img_src }}" 
+                                        src="{{ book.img_src | uri_escape  }}" 
                                         alt="{{ book.title }}">
                                         {% if book.tag == "heart" %}
                                             <div class="book__img__heart-wrapper">
@@ -47,7 +46,7 @@ pagination:
                                     <div class="pdf-txt__item__text__txt">{{ book.content }}</div>
                                 </div>
                             </div>
-                    {% if book.link %}        
+                    {% if book.book_link %}        
                         </a>
                     {% endif %}
                 </div>

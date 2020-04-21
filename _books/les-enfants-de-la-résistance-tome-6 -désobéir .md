@@ -8,7 +8,7 @@ editor: Le Lombard
 col: ''
 year: "2020"
 price: 10,95 €
-link: https://www.lelombard.com/bd/les-enfants-de-la-resistance/desobeir
+book_link: https://www.lelombard.com/bd/les-enfants-de-la-resistance/desobeir
 img_src: https://www.territoires-memoire.be/assets/uploads/lesenfantsdelaresistance.jpg
 
 ---

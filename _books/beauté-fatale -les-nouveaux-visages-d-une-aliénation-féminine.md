@@ -8,7 +8,7 @@ editor: La Découverte
 col: ''
 year: "2015"
 price: 11,60 €
-link: https://www.editionsladecouverte.fr/catalogue/index-Beaut___fatale-9782355220395.html
+book_link: https://www.editionsladecouverte.fr/catalogue/index-Beaut___fatale-9782355220395.html
 img_src: https://www.territoires-memoire.be/assets/uploads/MonaCholletBeautefatale.jpg
 
 ---

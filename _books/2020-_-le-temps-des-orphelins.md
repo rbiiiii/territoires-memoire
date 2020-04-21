@@ -8,7 +8,7 @@ editor: Buchet-Chastel
 col: coll. « Qui vive »
 year: "2019"
 price: 16 €
-link: http://www.buchetchastel.fr/le-temps-des-orphelins-laurent-sagalovitsch-9782283033234
+book_link: http://www.buchetchastel.fr/le-temps-des-orphelins-laurent-sagalovitsch-9782283033234
 img_src: https://www.territoires-memoire.be/assets/uploads/Le-temps-des-orphelins.jpg
 
 ---

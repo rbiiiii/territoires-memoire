@@ -8,7 +8,7 @@ editor: Éditions Amsterdam
 col: ''
 year: "2019"
 price: 12 €
-link: http://www.editionsamsterdam.fr/la-revolution-feministe/
+book_link: http://www.editionsamsterdam.fr/la-revolution-feministe/
 img_src: https://www.territoires-memoire.be/assets/uploads/AuroreKoechlinLarevolutionfeministe.jpg
 
 ---

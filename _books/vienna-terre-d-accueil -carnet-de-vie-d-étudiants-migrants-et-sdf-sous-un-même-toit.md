@@ -9,7 +9,7 @@ editor: La Boîte à Bulles
 col: coll. « Les Carnets de la BÀB »
 year: "2020"
 price: 23 €
-link: https://www.la-boite-a-bulles.com/book/547
+book_link: https://www.la-boite-a-bulles.com/book/547
 img_src: https://www.territoires-memoire.be/assets/uploads/viennaterreaccueil.jpg
 
 ---

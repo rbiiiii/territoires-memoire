@@ -12,8 +12,21 @@ pagination:
 
 <div class="agenda agenda--archives">
   <ul class="post-list list--no-style blocks">
-    {% for event in paginator.posts %}
-      <li class="block post-list__item">{%- include posts/event-template.html -%}</li>
+    {% for item in paginator.posts %}
+      {% assign col = item.collection %}
+      {% if col == "agenda" %}
+        {% assign event = item %}
+        <li class="block post-list__item">{%- include posts/event-template.html -%}</li>
+      {% elsif col == "actualites" %}
+        {% assign post = item %}
+        <li class="block post-list__item">{%- include posts/news-template.html -%}</li>
+      {% elsif col == "aide-memoire-numeros" %}
+        {% assign am = item %}
+        <li class="block post-list__item">{%- include am-num-template.html -%}</li>
+      {% elsif col == "books" %}
+        {% assign book = item %}
+        {%- include book-template.html -%}
+      {% endif %}
     {% endfor %}
   </ul>
 </div>

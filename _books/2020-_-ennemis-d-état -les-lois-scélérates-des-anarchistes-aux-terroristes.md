@@ -8,7 +8,7 @@ editor: La Fabrique
 col: ''
 year: "2019"
 price: 13 €
-link: https://lafabrique.fr/ennemis-detat/
+book_link: https://lafabrique.fr/ennemis-detat/
 img_src: https://www.territoires-memoire.be/assets/uploads/ennemis-d-etat.jpg
 
 ---

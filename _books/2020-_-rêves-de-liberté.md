@@ -8,7 +8,7 @@ editor: "[autoédition]"
 col: ''
 year: "2018"
 price: ''
-link: ''
+book_link: ''
 img_src: https://www.territoires-memoire.be/assets/uploads/Alain-Marie-Ponsart-Rêves-de-liberté.jpg
 
 ---

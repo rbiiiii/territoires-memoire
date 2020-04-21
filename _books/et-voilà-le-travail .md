@@ -8,7 +8,7 @@ editor: Éditions du Cerisier
 col: ''
 year: "2019"
 price: 10 €
-link: http://www.editions-du-cerisier.be/spip.php?article467
+book_link: http://www.editions-du-cerisier.be/spip.php?article467
 img_src: https://www.territoires-memoire.be/assets/uploads/DanielAdamEtvoilaletravail.jpg
 
 ---

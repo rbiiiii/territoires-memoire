@@ -8,7 +8,7 @@ editor: Presses universitaires de France
 col: coll. « Que sais-je ? »
 year: "2018"
 price: 9 €
-link: https://www.puf.com/content/Histoire_mondiale_des_f%C3%A9minismes
+book_link: https://www.puf.com/content/Histoire_mondiale_des_f%C3%A9minismes
 img_src: https://www.territoires-memoire.be/assets/uploads/FlRochefortHistoiremondialefeminismes.jpg
 
 ---

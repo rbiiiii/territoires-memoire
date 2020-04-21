@@ -8,7 +8,7 @@ editor: éd. La Braconnière
 col: ''
 year: "2019"
 price: 20 €
-link: https://www.editions-baconniere.ch/livres/svetlana-alexievitch-la-litterature-au-dela-de-la-litterature
+book_link: https://www.editions-baconniere.ch/livres/svetlana-alexievitch-la-litterature-au-dela-de-la-litterature
 img_src: https://www.territoires-memoire.be/assets/uploads/SvAlexievitch-deladelalitterature.jpg
 
 ---

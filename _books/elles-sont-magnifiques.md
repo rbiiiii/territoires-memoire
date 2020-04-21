@@ -8,7 +8,7 @@ editor: Éditions du Cerisier
 col: ''
 year: "2019"
 price: 14 €
-link: http://editions-du-cerisier.be/spip.php?rubrique11
+book_link: http://editions-du-cerisier.be/spip.php?rubrique11
 img_src: https://www.territoires-memoire.be/assets/uploads/EllessontmagnifiquesChanceusesSolidarite-Femmes-et-le-Theatre-des-Rues.jpg
 
 ---

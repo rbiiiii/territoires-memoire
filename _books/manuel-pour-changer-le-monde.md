@@ -8,7 +8,7 @@ editor: Lux
 col: ''
 year: "2020"
 price: ''
-link: https://www.luxediteur.com/catalogue/manuel-pour-changer-le-monde/
+book_link: https://www.luxediteur.com/catalogue/manuel-pour-changer-le-monde/
 img_src: https://www.territoires-memoire.be/assets/uploads/manuelpourchangerlemonde.jpg
 
 ---

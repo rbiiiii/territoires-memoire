@@ -7,7 +7,7 @@ title: 'Les crocodiles sont toujours là : témoignages d’agressions et de ha
 editor: Casterman
 year: "2019"
 price: 19,50 €
-link: https://www.casterman.com/Bande-dessinee/Catalogue/albums/les-crocodiles-sont-toujours-la
+book_link: https://www.casterman.com/Bande-dessinee/Catalogue/albums/les-crocodiles-sont-toujours-la
 img_src: "/assets/uploads/Les-crocodiles-sont-toujours-là.jpg"
 extra: ''
 col: ''

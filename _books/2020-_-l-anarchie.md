@@ -8,7 +8,7 @@ editor: Le Lombard
 col: La petite bédéthèque des savoirs, n°29
 year: "2019"
 price: 10 €
-link: https://www.lelombard.com/bd/petite-bedetheque-des-savoirs-la/lanarchie-theories-et-pratiques-libertaires
+book_link: https://www.lelombard.com/bd/petite-bedetheque-des-savoirs-la/lanarchie-theories-et-pratiques-libertaires
 img_src: https://www.territoires-memoire.be/assets/uploads/Véronique-Bergen-Winshluss-Anarchie.jpg
 
 ---

@@ -8,7 +8,7 @@ editor: Centre d’Action Laïque ASBL
 col: coll. « Liberté j’écris ton nom »
 year: "2019"
 price: 10 €
-link: https://www.laicite.be/publication/de-fabrique-lois/
+book_link: https://www.laicite.be/publication/de-fabrique-lois/
 img_src: https://www.territoires-memoire.be/assets/uploads/de-la-fabrique-des-lois.jpg
 
 ---

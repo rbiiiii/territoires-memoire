@@ -8,7 +8,7 @@ editor: La Découverte
 col: ''
 year: "2020"
 price: 11 €
-link: https://editionsladecouverte.fr/catalogue/index-La_parole_manipul__e-9782348057489.html
+book_link: https://editionsladecouverte.fr/catalogue/index-La_parole_manipul__e-9782348057489.html
 img_src: https://www.territoires-memoire.be/assets/uploads/PhilippeBretonLaParolemanipulee.jpg
 
 ---

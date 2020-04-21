@@ -8,7 +8,7 @@ editor: EME
 col: coll. « L’histoire en mouvement »
 year: "2019"
 price: 21 €
-link: https://www.eme-editions.be/index.asp?navig=catalogue&obj=livre&no=63958
+book_link: https://www.eme-editions.be/index.asp?navig=catalogue&obj=livre&no=63958
 img_src: https://www.territoires-memoire.be/assets/uploads/Christian-Thys-L’enfer-de-ma-rédemption-nazie.jpg
 
 ---

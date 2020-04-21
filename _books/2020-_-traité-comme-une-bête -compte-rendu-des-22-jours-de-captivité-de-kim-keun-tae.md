@@ -7,7 +7,7 @@ editor: La Boîte à Bulles
 col: ''
 year: "2019"
 price: 30 €
-link: https://www.la-boite-a-bulles.com/book/462
+book_link: https://www.la-boite-a-bulles.com/book/462
 img_src: https://www.territoires-memoire.be/assets/uploads/Traité-comme-une-bête.jpg
 
 ---

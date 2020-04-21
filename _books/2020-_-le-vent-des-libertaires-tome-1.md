@@ -8,7 +8,7 @@ editor: Les Humanoïdes associés
 col: ''
 year: "2019"
 price: 14,50 €
-link: https://www.humano.com/album/36753
+book_link: https://www.humano.com/album/36753
 img_src: https://www.territoires-memoire.be/assets/uploads/le-vent-des-libertaires.jpg
 
 ---

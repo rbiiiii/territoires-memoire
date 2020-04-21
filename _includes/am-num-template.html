@@ -1,0 +1,8 @@
+<div class="block page-am-num clearfix">
+    <a class="page-am-num__link" href="{{ am.url | uri_escape }}">
+        <img class="page-am-num__img" src="{{ site.url }}{{ am.couv_src | uri_escape }}" alt="{{ am.title }}">
+        <h3 class="page-am-num__title">{{ am.title }}<br>
+            <small class="page-am-num__date">{{ am.date_publication }}</small></h3>
+        <div class="page-am-num__excerpt">{{ am.content | truncate: 240, "&nbsp;[…]" }}</div>
+    </a>
+</div>

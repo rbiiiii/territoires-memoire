@@ -8,7 +8,7 @@ editor: Lux
 col: ''
 year: "2019"
 price: 29 €
-link: https://www.luxediteur.com/catalogue/nous-nirons-plus-aux-urnes/
+book_link: https://www.luxediteur.com/catalogue/nous-nirons-plus-aux-urnes/
 img_src: https://www.territoires-memoire.be/assets/uploads/Francis-Dupuis-Déri-Nous-n’irons-plus-aux-urnes.jpg
 
 ---

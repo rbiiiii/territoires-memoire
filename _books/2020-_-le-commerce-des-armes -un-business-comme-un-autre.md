@@ -8,7 +8,7 @@ editor: GRIP
 col: ''
 year: "2019"
 price: 10 €
-link: https://www.grip.org/fr/bd-commerce-armes
+book_link: https://www.grip.org/fr/bd-commerce-armes
 img_src: https://www.territoires-memoire.be/assets/uploads/Benjamin-Vokar-Le-Commerce-des-armes.jpg
 
 ---
