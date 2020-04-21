@@ -9,8 +9,7 @@ img_file: /assets/uploads/cdl30.jpg
 place: Chez vous
 address: Place Xavier Neujean 22 4000 Liège
 tags:
-  - rencontre
-  - Citoyens du Livre
+  - partage
 practical: >-
   [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)\
 
