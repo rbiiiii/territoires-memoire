@@ -6,8 +6,8 @@ date_start: 2020-05-20
 date_stop: ""
 hour: ""
 img_file: /assets/uploads/cdl30.jpg
-place: "La Cité Miroir - Place Xavier Neujean 22 4000 Liège "
-address: "Place Xavier Neujean 22 4000 Liège "
+place: Chez vous
+address: Place Xavier Neujean 22 4000 Liège
 tags:
   - rencontre
   - Citoyens du Livre
