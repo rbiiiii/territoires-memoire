@@ -84,7 +84,7 @@ plugins:
 # Pagination plugin config
 pagination:
   enabled: true
-  debug: false
+  debug: true
   per_page: 10
   permalink: '/page/:num/'
   title: ':title - page :num'
