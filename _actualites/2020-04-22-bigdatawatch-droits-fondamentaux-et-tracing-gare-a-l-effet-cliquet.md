@@ -2,7 +2,7 @@
 layout: post
 published: true
 categories: actualites
-title: "#BigDataWatch Droits fondamentaux et tracing : gare à l’effet cliquet"
+title: "#BigDataWatch - Droits fondamentaux et tracing : gare à l’effet cliquet"
 img_file: /assets/uploads/tracking_web.jpg
 posted_on: 2020-04-22T00:00:00.000Z
 ---
