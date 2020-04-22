@@ -36,4 +36,4 @@ Est-il à craindre que la mise en place de ce traçage pendant la crise sanitair
 
 La limite acceptable pour nos libertés se trouve sans doute ici. Nous vivons un moment tragique pour la santé publique mais aussi un moment décisif pour notre mode de vie et le monde que nous voulons pour demain. Gare à l’effet cliquet.
 
-@trackingcovid-19
+\#trackingcovid-19
