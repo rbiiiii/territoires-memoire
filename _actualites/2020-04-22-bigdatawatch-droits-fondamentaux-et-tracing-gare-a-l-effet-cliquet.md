@@ -10,7 +10,7 @@ posted_on: 2020-04-22T00:00:00.000Z
 
 On le sait, on le voit, on le vit, la crise sanitaire a complètement bouleversé le monde dans le fonctionnement qu’on lui connaissait : économie en *stand by*, mondialisation à bout de souffle, services publics – et singulièrement système de santé - enfin replacés au premier plan, etc.
 
-s de ce bouleversement économique et social, ce virus pourrait aussi parallèlement anesthésier la pensée critique, ce que l’asbl Les Territoires de la Mémoire, Centre d’Éducation à la Résistance et à la Citoyenneté, ne peut ignorer.
+Mais en plus de ce bouleversement économique et social, ce virus pourrait aussi parallèlement anesthésier la pensée critique, ce que l’asbl Les Territoires de la Mémoire, Centre d’Éducation à la Résistance et à la Citoyenneté, ne peut ignorer.
 
 Parce que la fin justifie les moyens, nous avons sacrifié nombre de nos libertés fondamentales à la crise sanitaire, telle la liberté de circulation et de rassemblement. De manière assez disciplinée, nous suivons au jour le jour les recommandations restrictives avec l’espoir d’un demain plus sain.
 
