@@ -55,7 +55,7 @@ fields:
   label: Prix
   description: 'Ex: 20 €'
 - type: text
-  name: link
+  name: book_link
   label: Lien vers le site de l'éditeur
 - type: file
   name: img_src
