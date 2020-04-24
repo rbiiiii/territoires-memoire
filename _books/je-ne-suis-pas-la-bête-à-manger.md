@@ -10,6 +10,5 @@ year: "2013"
 price: 13 €
 link: http://www.chemindefer.org/catalogue/styled-41/je-suis-pas-la-bete-a-manger.html
 img_src: https://www.territoires-memoire.be/assets/uploads/je-ne-suis-pas-bete-a-manger-du-foin.jpg
-published: false
 
 ---
