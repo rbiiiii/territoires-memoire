@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: S'engager confiné
-date_start: 2020-05-20
+date_start: 2020-05-20T00:00:00.000Z
 date_stop: ""
 hour: ""
 img_file: /assets/uploads/cdl30.jpg
@@ -27,7 +27,7 @@ Chères et chers membres des Citoyen·e·s du Livre, nous ne pourrons pas nous r
 
 Pour cela utilisez les applications de vos smartphones : **photo, vidéo, enregistrement.** Vous pourriez par exemple nous envoyer une photo de vous en train de lire l’extrait d’un livre accompagné de l’enregistrement sonore de cet extrait ou la vidéo de ce que vous voyez par votre fenêtre avec l’enregistrement sonore de ce que vous souhaitez pour l’après confinement … Mais cela peut aussi être un dessin (souvent mieux qu’un long discours), une photo sans légende, un texte long ou court ...
 
-Tous ce que vous allez nous envoyer sera ensuite diffusé sur le site web de l’opération #CulturesEnRésistance d’Arsenic2 et du Centre d'Action Laïque de la Province de Liège qui permettra aux différents partenaires du « Champ des possibles » de rendre leurs productions accessibles au public et de susciter des échanges (virtuels ou téléphoniques).
+Tous ce que vous allez nous envoyer sera ensuite diffusé sur le site web de l’opération [\#CulturesEnRésistance](http://champsdespossibles.org/) d’Arsenic2 et du Centre d'Action Laïque de la Province de Liège qui permettra aux différents partenaires du « Champ des possibles » de rendre leurs productions accessibles au public et de susciter des échanges (virtuels ou téléphoniques).
 
 Il y a bien sûr un timing, nous gardons la date du 20 mai pour la diffusion de l’ensemble de ce que vous allez nous envoyer. 
 
