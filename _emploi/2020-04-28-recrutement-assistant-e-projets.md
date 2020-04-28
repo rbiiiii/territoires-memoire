@@ -18,39 +18,31 @@ Le/La candidat·e sélectionné·e rejoindra le service Projets de l’associati
 
 **L’assistant·e travaillera sous la supervision d’un coordinateur et aura pour missions :**
 
-- entretenir des échanges téléphoniques, de courriers, de courriels et directs avec les partenaires de l’association (en particulier 
-  les membres du réseau Territoire de Mémoire) ;
+- entretenir des échanges téléphoniques, de courriers, de courriels et directs avec les partenaires de l’association (en particulier les membres du réseau Territoire de Mémoire) ;
 - mettre à jour et améliorer un fichier donnant l’état des lieux du réseau Territoire de Mémoire en fonction de son évolution ;
-- informer rigoureusement les publics sur l’offre et les services de l’association ainsi que sur les outils et les ressources 
-  correspondant au champ d’action de l’ASBL ;
+- informer rigoureusement les publics sur l’offre et les services de l’association ainsi que sur les outils et les ressources correspondant au champ d’action de l’ASBL ;
 - rédiger des rapports, des procès-verbaux de réunion, des dossiers, des conventions, etc. ;
 - encoder des activités, des programmations agenda, des échéanciers, des demandes de tâches, etc. ;
 - tenir à jour une base de données des contacts du service et les rendre accessibles ;
 - compléter des dossiers d’inscription, des fiches signalétiques, des procédures de fonctionnement, etc. ;
-- gérer simultanément plusieurs projets de front à des moments de suivis divers (intention, budgétisation, mise en place, suivi, 
-  concrétisation, évaluation, …) ;
+- gérer simultanément plusieurs projets de front à des moments de suivis divers (intention, budgétisation, mise en place, suivi, concrétisation, évaluation, …) ;
 - représenter l’association notamment lors de la tenue de stands.
 
 **Le/la candidat·e devra impérativement :**
 
-- être dans les conditions dites « CPE » (être demandeur·euse d’emploi et avoir moins de 26 ans, informations et renseignements 
-  supplémentaires : finances@territoires-memoire.be) ;
+- être dans les conditions dites « CPE » (être demandeur·euse d’emploi et avoir moins de 26 ans, informations et renseignements supplémentaires : finances@territoires-memoire.be) ;
 - posséder le permis de conduire (catégorie B) et être disposé·e à conduire un véhicule de service ;
 - être capable d’organisation, de rigueur, d’initiative, d’autonomie, dans un cadre institutionnel ;
-- être à l’aise et motivé·e par les nombreuses tâches administrativo-logistiques de gestion et de suivi de projets divers, ainsi que 
-  par l’événementiel ;
-- être capable de s’adapter aux interlocuteurs (excellentes capacités de relations publiques et de communication écrite et orale 
-  quel que soit le public) ;
+- être à l’aise et motivé·e par les nombreuses tâches administrativo-logistiques de gestion et de suivi de projets divers, ainsi que par l’événementiel ;
+- être capable de s’adapter aux interlocuteurs (excellentes capacités de relations publiques et de communication écrite et orale quel que soit le public) ;
 - justifier d’une formation et/ou d’une expérience probante au regard de la fonction ;
-- témoigner de l’intérêt pour la Citoyenneté, la Résistance, le travail de Mémoire, le paysage institutionnel belge et la chose 
-  politique ;
+- témoigner de l’intérêt pour la Citoyenneté, la Résistance, le travail de Mémoire, le paysage institutionnel belge et la chose politique ;
 - avoir un grand sens du contact et être capable de travailler en équipe ;
 - être ponctuel·le, rigoureux·euse et précis·e dans l’exercice de sa fonction ;
 - maîtriser les outils de bureautique-informatique (suite Office) et internet ;
 - posséder une orthographe irréprochable et des capacités rédactionnelles ;
 - partager et soutenir les valeurs démocratiques et de la laïcité ;
-- être ponctuellement disponible en soirée et parfois le week-end et pour effectuer des déplacements en 
-  Fédération Wallonie-Bruxelles.
+- être ponctuellement disponible en soirée et parfois le week-end et pour effectuer des déplacements en Fédération Wallonie-Bruxelles.
 
 **Sont un plus :**
 
