@@ -88,7 +88,11 @@
 		"peda": [
 			{
 				"title" : "Carnet de visite",
-				"url" : "/assets/pdf/eduquer/tm-exposition-rwanda_94-carnet.pdf"
+				"url" : "/assets/pdf/eduquer/tm-exposition-rwanda_94-carnet_visite.pdf"
+			},
+			{
+				"title" : "Carnet d'accompagnement",
+				"url" : "/assets/pdf/eduquer/tm-exposition-rwanda_94-carnet_accompagnement.pdf"
 			}
 		]
 	},
