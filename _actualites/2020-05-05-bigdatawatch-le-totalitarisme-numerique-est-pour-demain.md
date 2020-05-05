@@ -1,10 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: "#BigDataWatch - Le totalitarisme numérique est pour demain"
 img_file: /assets/uploads/tous-surveilles-7-milliards-de-suspects.jpg
-posted_on: 2020-05-05
+posted_on: 2020-05-05T00:00:00.000Z
 ---
 **Un projet de loi réglementant l’application de traçage des personnes contaminées par le coronavirus est annoncé cette semaine à la Chambre. Un très sérieux risque de non-retour en arrière (« effet cliquet ») est à craindre. Les Territoires de la Mémoire asbl invitent à voir ou revoir le documentaire stupéfiant « Tous surveillés - 7 milliards de suspects », et s’associe au signal d’alarme qu’il lance : le totalitarisme numérique est pour demain.**
 
