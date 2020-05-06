@@ -2,7 +2,7 @@
 layout: post
 title: >-
   Assistant·e de projets (H/F/X)
-subtitle: Contrat «Convention Premier Emploi (CPE)» CDD d'un an
+subtitle: Contrat à durée déterminée d'un an
 posted_on: 2020-04-28
 end_of_life: 2020-05-26
 emploi_url: https://docs.google.com/forms/d/1rr2Nv_pzWg7ZbbNGvoJbhkoSIwxYqMq7s9D4vNk570w/viewform?edit_requested=true
@@ -30,7 +30,7 @@ Le/La candidat·e sélectionné·e rejoindra le service Projets de l’associati
 
 **Le/la candidat·e devra impérativement :**
 
-- être dans les conditions dites « CPE » (être demandeur·euse d’emploi et avoir moins de 26 ans, informations et renseignements supplémentaires : finances@territoires-memoire.be) ;
+- être demandeur·euse d’emploi et avoir moins de 26 ans, informations et renseignements supplémentaires : [finances@territoires-memoire.be](mailto:finances@territoires-memoire.be) ;
 - posséder le permis de conduire (catégorie B) et être disposé·e à conduire un véhicule de service ;
 - être capable d’organisation, de rigueur, d’initiative, d’autonomie, dans un cadre institutionnel ;
 - être à l’aise et motivé·e par les nombreuses tâches administrativo-logistiques de gestion et de suivi de projets divers, ainsi que par l’événementiel ;
