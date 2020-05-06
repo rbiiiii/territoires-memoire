@@ -11,12 +11,22 @@ tags:
   - Exposition
 schedule: L'exposition est reportée en 2021.
 ---
-Une série photographique de Geoffrey Meuli prise lors du voyage pour la mémoire de la Régie de Quartier d’Andenne à Auschwitz en mai 2019.
+<!--StartFragment-->
 
-Les photos de Geoffrey Meuli présentent plus d’un intérêt, elles sont esthétiques et sensibles. Cadrage, lumière et composition rendent parfaitement compte du voyage à Auschwitz et de l’émotion des visiteurs provoquée par la découverte de ce lieu tragique.
+Au vu des circonstances, nous avons dû reporter l’exposition des photographies de Geoffrey Meuli,*Reflets brisés : d’Ici à Auschwitz*, au mois de janvier 2021.
 
-Les impressions et commentaires des stagiaires de la Régie de Quartier d’Andenne et de la Régie de Quartiers de la Docherie (Charleroi) - associations d’insertion socio-professionnelle - accompagneront les clichés et allieront l’œil à la parole.
+Pour vous faire patienter et pour célébrer la libération des camps nazis et de la fin de la Seconde Guerre mondiale, nous mettons à votre disposition le livret composé de 12 photos de Geoffrey Meuli accompagnées de textes écrits par les stagiaires des Régies des Quartiers d’Andenne et de Charleroi.
 
-Ce voyage de la Régie de Quartier d'Andenne a pu se faire grâce au soutien de la Cellule Démocratie ou Barbarie de la Fédération Wallonie-Bruxelles et de son appel annuel à projet.
+**[Télécharger le livret](blob:https://www.territoires-memoire.be/1343e0fd-de89-4510-848e-cc19e9a12ff3)**
 
-Une programmation des Territoires de la Mémoire asbl
+Ce travail de réflexions et d’écriture sur les photos de Geoffrey Meuli s’inscrit dans la démarche d’éducation permanente que pratique les Territoires de la Mémoire, elle permet de faire entendre la parole de celles et ceux que nous écoutons peu, sur notre société, notre vivre ensemble.
+
+**Participer**
+
+Nous vous proposons d’écrire vous aussi sur une ou plusieurs de ces photos et de nous envoyer vos textes à[bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)Ils seront intégrés dans la futur exposition.
+
+**Commandez la version papier [sur la boutique](https://boutique.territoires-memoire.be/fr/nos-livres/53-reflets-brises-d-ici-a-auschwitz.html)**
+
+Ce livret est disponible en version papier au prix de 2€ (+ frais de port) dans [notre boutique](https://boutique.territoires-memoire.be/fr/nos-livres/53-reflets-brises-d-ici-a-auschwitz.html).
+
+<!--EndFragment-->
