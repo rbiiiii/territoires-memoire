@@ -6,7 +6,7 @@ title: "#BigDataWatch - Le totalitarisme numérique est pour demain"
 img_file: /assets/uploads/tous-surveilles-7-milliards-de-suspects.jpg
 posted_on: 2020-05-05T00:00:00.000Z
 ---
-**Un projet de loi réglementant l’application de traçage des personnes contaminées par le coronavirus est annoncé cette semaine à la Chambre. Un très sérieux risque de non-retour en arrière (« effet cliquet ») est à craindre. Les Territoires de la Mémoire asbl invitent à voir ou revoir le documentaire stupéfiant « Tous surveillés - 7 milliards de suspects », et s’associe au signal d’alarme qu’il lance : le totalitarisme numérique est pour demain.**
+**Un projet de loi réglementant l’application de traçage des personnes contaminées par le coronavirus est annoncé cette semaine à la Chambre. Un très sérieux risque de non-retour en arrière (« effet cliquet ») est à craindre. Les Territoires de la Mémoire asbl invitent à voir ou revoir le documentaire stupéfiant « Tous surveillés - 7 milliards de suspects », et s’associe au signal d’alarme fort qu’il lance : le totalitarisme numérique est pour demain.**
 
 Le 22 avril, Les Territoires de la Mémoire se joignaient à beaucoup d’autres pour alerter sur les risques liberticides et d’« effet cliquet » (aussi en matière des droits fondamentaux dans le cadre d’une mise en place d’une application de *tracing* ou *tracking*). Et demandait : [exploiterons-nous les leçons de Cambridge Analytica ou du Patriot Act ](https://www.territoires-memoire.be/actualites/2020/04/bigdatawatch-droits-fondamentaux-et-tracing-gare-a-l-effet-cliquet/)?
 
@@ -25,8 +25,6 @@ Comment contrôler sa population ? Rien de plus simple, il suffit de mettre à m
 L’actualité nous le rappelle. Nos parlementaires auront entre les mains ces questions cette semaine.
 
 \#TrackingCovid-19
-
-
 
 *« Tous surveillés - 7 milliards de suspects »*\
 *Disponible du 14/04/2020 au 19/06/2020 sur Arte.tv.*\
