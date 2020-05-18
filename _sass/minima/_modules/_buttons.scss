@@ -77,6 +77,25 @@ a.button--red, .button--red {
     }
 }
 
+a.button--white-on-red, .button--white-on-red {
+
+    &, .page-section__content & {
+        background-color:white;
+        color:$rouge-tm;
+        border:3px solid $rouge-tm;
+        box-shadow:4px 4px 0 rgba(255,255,255,0.6);
+        padding:0.2em 0.5em 0.2em 0.5em;
+        margin: $spacing-unit/2 auto;
+
+        &:hover, &:focus {
+            color:white;
+            border-color:white;
+            background-color:$rouge-tm;    
+        }    
+    }
+}
+
+
 a.button--has-img {
     display:block;
     border:3px solid white;
