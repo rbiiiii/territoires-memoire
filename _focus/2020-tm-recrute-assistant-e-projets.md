@@ -1,6 +1,6 @@
 ---
-published: true
-title: "Recrutement d'un-e assistant·e de projets"
+published: false
+title: Recrutement d'un-e assistant·e de projets
 posted_on: 2020-04-22T00:00:00.000Z
 link: https://www.territoires-memoire.be/emploi/2020/04/recrutement-assistant-e-projets/
 img_file: /assets/uploads/tm-emploi.jpg
