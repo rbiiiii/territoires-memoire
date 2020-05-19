@@ -24,7 +24,7 @@ Comment contrôler sa population ? Rien de plus simple, il suffit de mettre à m
 
 L’actualité nous le rappelle. Nos parlementaires auront entre les mains ces questions cette semaine.
 
-\#TrackingCovid-19
+\#TrackingCovid19
 
 *« Tous surveillés - 7 milliards de suspects »*\
 *Disponible du 14/04/2020 au 19/06/2020 sur Arte.tv.*\
