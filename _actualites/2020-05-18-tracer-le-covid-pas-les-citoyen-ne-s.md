@@ -2,7 +2,7 @@
 layout: post
 published: true
 categories: actualites
-title: Tracer le Covid, pas les citoyen.ne.s !
+title: "#BigDataWatch - Tracer le Covid, pas les citoyen.ne.s !"
 img_file: /assets/uploads/surveiller_ldh.jpg
 posted_on: 2020-05-18T00:00:00.000Z
 ---
