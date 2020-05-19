@@ -2,11 +2,11 @@
 layout: post
 published: true
 categories: actualites
-title: Les Territoires de la Mémoire ferment leurs portes jusqu'au 17 mai !
+title: Les Territoires de la Mémoire ferment leurs portes jusqu'au 25 mai !
 img_file: /assets/uploads/fermeturetm.jpg
 posted_on: 2020-03-13T00:00:00.000Z
 ---
-Conformément aux décisions du Conseil National de Sécurité du 12 mars, du 27 mars, du 15 avril et celui du 24 avril, l’ensemble des activités des Territoires de la Mémoire sont annulées du 14 mars au 17 mai 2020.
+Conformément aux décisions du Conseil National de Sécurité du 12 mars, du 27 mars, du 15 avril et celui du 24 avril, l’ensemble des activités des Territoires de la Mémoire sont annulées du 14 mars au 25 mai 2020.
 
 La Cité Miroir sera fermée au public durant cette période.
 
