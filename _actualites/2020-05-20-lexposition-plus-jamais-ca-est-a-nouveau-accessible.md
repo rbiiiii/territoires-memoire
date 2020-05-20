@@ -2,9 +2,9 @@
 layout: post
 published: true
 categories: actualites
-title: "L'exposition Plus jamais ça ! est à nouveau accessible "
+title: "Déconfinement : télétravail et réouverture progressive"
 img_file: /assets/uploads/pjc_accessible_tm.jpg
-posted_on: 2020-05-20
+posted_on: 2020-05-20T00:00:00.000Z
 ---
 Les Territoires de la Mémoire appliquent les recommandations du Conseil National de Sécurité et favorisent le télétravail de l’ensemble de ses équipes. Pour les contacter, nous vous invitons à consulter [cette page](<https://www.territoires-memoire.be/association>).
 
