@@ -20,18 +20,15 @@ Plus que jamais, la vigilance est donc de rigueur afin de ne pas préparer aujou
 
 Au travers d’un corpus documentaire qui interroge, le média en ligne collaboratif et association sans but lucratif « The Conversation » nous invite à la réflexion. L’objectif non dissimulé de cet organe est d’éclairer l’actualité et de susciter le débat citoyen. Il s’agit d’un support gratuit et sans publicité animé par une équipe de journalistes qui génère un contenu fondé sur l’expertise fiable de chercheurs et d’universitaires spécialisés.
 
-Au cœur des préoccupations de l’ASBL Les Territoires de la Mémoire, cette thématique, celle des dérives liberticides consécutives à la crise du Coronavirus, a évidemment retenu toute notre attention. En témoignent les différents articles et autres alertes publiés sur notre site :\[](<* <https://www.territoires-memoire.be/actualites/2020/04/bigdatawatch-droits-fondamentaux-et-tracing-gare-a-l-effet-cliquet/?fbclid=IwAR0cXVochQZKMKT7tmd7UKQMeiDmcxIOm-I1SsogcYtqKiiKRcT3iJqWUEs>>)
+Au cœur des préoccupations de l’ASBL Les Territoires de la Mémoire, cette thématique, celle des dérives liberticides consécutives à la crise du Coronavirus, a évidemment retenu toute notre attention. En témoignent les différents articles et autres alertes publiés sur notre site :
 
-* [« #BigDataWatch - Droits fondamentaux et tracing : gare à l’effet cliquet. Exploiterons-nous les leçons de *Cambridge Analytica* ou du *Patriot Act* ? »](<* <https://www.territoires-memoire.be/actualites/2020/04/bigdatawatch-droits-fondamentaux-et-tracing-gare-a-l-effet-cliquet/?fbclid=IwAR0cXVochQZKMKT7tmd7UKQMeiDmcxIOm-I1SsogcYtqKiiKRcT3iJqWUEs>>) ;
-* \[« #BigDataWatch - Le totalitarisme numérique est pour demain »](<* <https://www.territoires-memoire.be/actualites/2020/05/bigdatawatch-le-totalitarisme-numerique-est-pour-demain/?fbclid=IwAR1L-fAGIdze8Q3YRt521BOobnbZ5qDdcBagZ9Xpg-wyNlXq6Thj8FH2Hy8>>)\[](<* <https://www.territoires-memoire.be/actualites/2020/05/bigdatawatch-le-projet-belge-de-tracing-recale-par-lautorite-de-protection-des-donnees/?fbclid=IwAR2HTO1gyeH2KXCA2JfD_w46VZjlpawgkW36hWH0weq1TgcTb3pfWASJMoc>>)\[](<* <https://www.territoires-memoire.be/actualites/2020/05/bigdatawatch-le-projet-belge-de-tracing-recale-par-lautorite-de-protection-des-donnees/?fbclid=IwAR2HTO1gyeH2KXCA2JfD_w46VZjlpawgkW36hWH0weq1TgcTb3pfWASJMoc>>)
-
-  \[« #BigDataWatch, le projet belge de tracing recalé par l’autorité de-protection des données »](<* <https://www.territoires-memoire.be/actualites/2020/05/bigdatawatch-le-projet-belge-de-tracing-recale-par-lautorite-de-protection-des-donnees/?fbclid=IwAR2HTO1gyeH2KXCA2JfD_w46VZjlpawgkW36hWH0weq1TgcTb3pfWASJMoc>>).
-
-  \[](<* <https://www.territoires-memoire.be/actualites/2020/05/bigdatawatch-le-projet-belge-de-tracing-recale-par-lautorite-de-protection-des-donnees/?fbclid=IwAR2HTO1gyeH2KXCA2JfD_w46VZjlpawgkW36hWH0weq1TgcTb3pfWASJMoc>>)
+* [« #BigDataWatch - Droits fondamentaux et tracing : gare à l’effet cliquet »](https://www.territoires-memoire.be/actualites/2020/04/bigdatawatch-droits-fondamentaux-et-tracing-gare-a-l-effet-cliquet/)
+* [« #BigDataWatch - Le totalitarisme numérique est pour demain »](https://www.territoires-memoire.be/actualites/2020/05/bigdatawatch-le-totalitarisme-numerique-est-pour-demain/)
+* [« #BigDataWatch, le projet belge de tracing recalé par l’autorité de-protection des données »](https://www.territoires-memoire.be/actualites/2020/05/bigdatawatch-le-projet-belge-de-tracing-recale-par-lautorite-de-protection-des-donnees/).
 
 Nous vous recommandons donc sans réserve la lecture de ce corpus documentaire dont la présente introduction vous aura déjà, nous l’espérons, laissé entrevoir toute la pertinence et/ou invité à la réflexion.
 
-*\#TrackingCovid19*
+*#TrackingCovid19*
 
 <div class="card card--one">
 
