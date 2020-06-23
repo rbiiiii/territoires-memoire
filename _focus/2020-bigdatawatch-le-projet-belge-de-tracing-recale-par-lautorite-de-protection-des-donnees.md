@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "#BigDataWatch  - Le projet belge de tracing recalé par l'Autorité de
   protection des données"
 posted_on: 2020-05-26T00:00:00.000Z
