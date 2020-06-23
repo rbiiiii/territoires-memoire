@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: "#BigDataWatch - Tous surveillés, pour notre bien ? "
 img_file: /assets/uploads/the-conversation-web.jpg
-posted_on: 2020-06-23
+posted_on: 2020-06-23T00:00:00.000Z
 ---
 **Un corpus documentaire proposé par « The Conversation »**
 
@@ -35,7 +35,7 @@ Nous vous recommandons donc sans réserve la lecture de ce corpus documentaire d
 
 <div class="card card--one">
 
-\*\*Tous surveillés, pour notre bien ?\*\*
+**Tous surveillés, pour notre bien ?**
 
 Depuis le début de la crise, une grande partie de l'opinion s'est interrogée sur l'utilisation des données informatiques à la disposition des scientifiques et des politiques.
 
