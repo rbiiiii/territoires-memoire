@@ -3,9 +3,10 @@ layout: post
 categories: agenda
 title: "La Belgique entre crise politique et crise sanitaire : de mars 2020… à
   aujourd’hui"
-date_start: 2020-07-01
+date_start: 2020-07-01T00:00:00.000Z
 date_stop: ""
 hour: 12h30
+img_file: /assets/uploads/conferences-barricade_web.jpg
 place: La Cité Miroir - Place Xavier Neujean, 22  4000 Liège
 address: Place Xavier Neujean, 22  4000 Liège
 tags:
