@@ -1,6 +1,12 @@
 {%- capture slug -%}{{ include.slug }}{%- endcapture -%}
+{%- capture special_mention -%}{{ include.special_mention }}{%- endcapture -%}
 <div class="grid pdf {{ slug }}">
-    {%- assign items = site.data.pdf_items | where:'categorie', slug -%}
+    {%- if special_mention == '' -%}
+        {%- assign items = site.data.pdf_items | where:'categorie', slug -%}
+    {%- else -%} 
+        {%- assign items-without-mention = site.data.pdf_items | where:'categorie', slug -%}
+        {%- assign items = items-without-mention | where:'special_mention', special_mention -%}
+    {%- endif -%}
     {%- for pdf-item in items -%}
         <div class="grid__item pdf__item {{ include.slug }}__item">
             {%- if pdf-item.link -%}
