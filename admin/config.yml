@@ -90,7 +90,7 @@ collections:
       - {label: "Sous-titre", name: "subtitle", widget: "string", default: "Ex: Contrat « Convention Premier Emploi (CPE) »"}
       - {label: "Date de publication de l'offre", name: "posted_on", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Date de fin de l'offre d'emploi'", name: "end_of_life", widget: "date", format: "YYYY-MM-DD"}
-      - {label: "Lien de l'offre (google forms)", name: "link", widget: "string", required: false}
+      - {label: "Lien de l'offre (google forms)", name: "emploi_url", widget: "string"}
       - {label: "Contenu", name: "body", widget: "markdown"}
 
   - name: "books"
