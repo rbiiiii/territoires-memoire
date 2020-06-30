@@ -77,7 +77,21 @@ collections:
       - {label: "Date", name: "posted_on", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Lien", name: "link", widget: "string" }
       - {label: "Image", name: "img_file", widget: "image"}
-      - {label: "Contenu", name: "body", widget: "markdown"}    
+      - {label: "Contenu", name: "body", widget: "markdown"}
+
+  - name: "emploi"
+    label: "Offres d'emploi"
+    folder: "_emploi"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Titre", name: "title", widget: "string", default: "Ex: Bibliothécaire pour la Bibliothèque George Orwell"}
+      - {label: "Sous-titre", name: "subtitle", widget: "string", default: "Ex: Contrat « Convention Premier Emploi (CPE) »"}
+      - {label: "Date de publication de l'offre", name: "posted_on", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Date de fin de l'offre d'emploi'", name: "end_of_life", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Lien de l'offre (google forms)", name: "link", widget: "string", required: false}
+      - {label: "Contenu", name: "body", widget: "markdown"}
 
   - name: "books"
     label: "Aide-mémoire - livres"
