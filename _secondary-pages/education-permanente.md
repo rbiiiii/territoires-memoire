@@ -40,7 +40,7 @@ Retrouvez les réalisations des Territoires de la Mémoire ci-dessous :
 - [Ouvrages publiés dans la collection À Refaire](https://www.territoires-memoire.be/editions/#collection-a-refaire)
 - [Expositions des Territoires de la Mémoire](https://www.territoires-memoire.be/eduquer/#expositions-itinerantes)
 - [En marche, citoyen !](https://www.territoires-memoire.be/reseau/#en-marche-citoyen)
-- Dossiers thématiques [https://www.territoires-memoire.be/dossiers](https://www.territoires-memoire.be/dossiers)
+- [Dossiers thématiques](https://www.territoires-memoire.be/dossiers)
 - « Récit d&#39;une réflexion citoyenne dans le cadre de la Campagne Triangle rouge » : Publication de valorisation d&#39;un processus d&#39;éducation permanente avec le Centre de Recherche et de Rencontre
 - Parasol à paroles, dispositif d&#39;émergence de la parole des gens
 
