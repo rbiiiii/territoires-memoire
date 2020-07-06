@@ -8,7 +8,7 @@ posted_on: 2020-07-06
 ---
 Le 29 juin 2020, le Moniteur belge publiait un Arrêté royal promulgué trois jours plus tôt concernant le traitement conjoint des données par l’Institut scientifique de Santé publique Sciensano et les centres de contact désignés dans le cadre d’un traçage manuel et numérique des personnes susceptibles d’avoir été contaminées par le covid-19.
 
-Encore une fois, cette nouvelle disposition est de nature à inquiéter les défenseurs des libertés et droits fondamentaux, comme le relève d’ailleurs Élise Degrave, Professeure à la Faculté de Droit de l’Université de Namur, dans une interview au Vif ([Olivia Lepropre « Traçage numérique : l’État n’est pas transparent envers le citoyen »](<https://www.levif.be/actualite/belgique/tracage-numerique-l-etat-n-est-pas-transparent-envers-le-citoyen/article-normal-1306205.html>)).
+Encore une fois, cette nouvelle disposition est de nature à inquiéter les défenseurs des libertés et droits fondamentaux, comme le relève d’ailleurs Élise Degrave, professeure à la Faculté de Droit de l’Université de Namur, dans une interview au Vif ([Olivia Lepropre « Traçage numérique : l’État n’est pas transparent envers le citoyen »](https://www.levif.be/actualite/belgique/tracage-numerique-l-etat-n-est-pas-transparent-envers-le-citoyen/article-normal-1306205.html)).
 
 Alors que le traçage manuel était déjà sujet à caution, on introduit ici subrepticement, en l’absence de tout débat parlementaire, un traçage numérique qui pose un vrai problème de transparence et de confiance et qui, si l’on se fie aux expériences vécues à l’étranger, brille par son inefficacité. 
 
