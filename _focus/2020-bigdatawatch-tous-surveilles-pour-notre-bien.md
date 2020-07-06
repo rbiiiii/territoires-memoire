@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "#BigDataWatch - Tous surveillés, pour notre bien ? "
 posted_on: 2020-06-23T00:00:00.000Z
 link: https://www.territoires-memoire.be/actualites/2020/06/bigdatawatch-tous-surveilles-pour-notre-bien/
