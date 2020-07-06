@@ -18,6 +18,6 @@ Précisément de la création d’une banque de données centralisée auprès de
 
 En dépit des critiques, l’identification des personnes concernées se fera donc bel et bien via l’utilisation du numéro de registre national, ce qui évite certes toute équivoque, mais constitue un réel danger : l’utilisation d’une même clé à usage multiple augmentant par définition les risques de détournement.
 
-Bref, manque de transparence, de fiabilité et d’efficacité, rien dans ce dispositif ne permet d’instaurer un climat de confiance qui devrait pourtant constituer la base de cette intrusion dans la vie du citoyen. Dans ces conditions, Les Territoires de la Mémoire ASBL en appellent encore et toujours à la vigilance…
+Dans ces conditions, Les Territoires de la Mémoire ASBL en appellent encore et toujours à la vigilance…
 
 *\#TrackingCovid19*
