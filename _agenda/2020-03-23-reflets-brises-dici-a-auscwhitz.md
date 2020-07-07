@@ -1,32 +1,37 @@
 ---
 layout: post
 categories: agenda
-title: "Reflets brisés : d'Ici à Auschwhitz (reportée)"
-date_start: 2020-05-08T00:00:00.000Z
-date_stop: 2020-05-31'
+title: "Exposition - Reflets brisés : d'Ici à Auschwitz"
+date_start: 2021-01-28
+date_stop: 2021-02-20
 img_file: /assets/uploads/expo_meuli.jpg
 place: La Cité Miroir Place Xavier Neujean 22  4000 Liège
 address: Place Xavier Neujean 22  4000 Liège
 tags:
   - Exposition
-schedule: L'exposition est reportée en 2021.
+schedule: |-
+  <!--StartFragment-->
+
+  Lundi au vendredi 9h-18h\
+  Samedi et dimanche 10h-18h
+
+  <!--EndFragment-->
+entrance: "**Gratuit**"
+practical: >-
+  à la Bibliothèque George Orwell (espace rencontre)\
+
+  **[bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be) - 04 232 70 62**
 ---
-<!--StartFragment-->
+Prises lors du voyage de la Régie de Quartier d’Andenne à Auschwitz, les photos de Geoffrey Meuli ont plus d’un intérêt. Elles sont esthétiques et sensibles. Cadrage, lumière et composition rendent parfaitement compte du voyage à Auschwitz et, notamment, de l’émotion des visiteurs provoquée par la découverte de ce lieu tragique.
 
-Au vu des circonstances, nous avons dû reporter l’exposition des photographies de Geoffrey Meuli,*Reflets brisés : d’Ici à Auschwitz*, au mois de janvier 2021.
+*Avec les impressions et commentaires des stagiaires de la régie de quartier d’Andenne et de* la Docherie à Charleroi*.*
 
-Pour vous faire patienter et pour célébrer la libération des camps nazis et de la fin de la Seconde Guerre mondiale, nous mettons à votre disposition le livret composé de 12 photos de Geoffrey Meuli accompagnées de textes écrits par les stagiaires des Régies des Quartiers d’Andenne et de Charleroi.
-
-**[Télécharger le livret](blob:https://www.territoires-memoire.be/1343e0fd-de89-4510-848e-cc19e9a12ff3)**
-
-Ce travail de réflexions et d’écriture sur les photos de Geoffrey Meuli s’inscrit dans la démarche d’éducation permanente que pratique les Territoires de la Mémoire, elle permet de faire entendre la parole de celles et ceux que nous écoutons peu, sur notre société, notre vivre ensemble.
+*Ce voyage dont les photos sont le reflets a pu se faire grâce au soutien de la Cellule Démocratie ou Barbarie de la Fédération Wallonie-Bruxelles et de son appel à projet annuel.*
 
 **Participer**
 
-Nous vous proposons d’écrire vous aussi sur une ou plusieurs de ces photos et de nous envoyer vos textes à[bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)Ils seront intégrés dans la futur exposition.
+Nous vous proposons d’écrire vous aussi sur une ou plusieurs de ces photos et de nous envoyer vos textes à[ bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)Ils seront intégrés dans la future exposition.
 
 **Commandez la version papier [sur la boutique](https://boutique.territoires-memoire.be/fr/nos-livres/53-reflets-brises-d-ici-a-auschwitz.html)**
 
 Ce livret est disponible en version papier au prix de 2€ (+ frais de port) dans [notre boutique](https://boutique.territoires-memoire.be/fr/nos-livres/53-reflets-brises-d-ici-a-auschwitz.html).
-
-<!--EndFragment-->
