@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: Atelier et rencontre avec le poète Timotéo Sergoï
+title: Atelier linogravure avec le poète Timotéo Sergoï
 date_start: 2020-11-07
 date_stop: ""
 hour: 10h-18h
