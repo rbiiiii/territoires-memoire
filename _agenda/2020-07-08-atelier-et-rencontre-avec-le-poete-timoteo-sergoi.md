@@ -21,7 +21,7 @@ Cela se passe à l’espace rencontre de la Bibliothèque George Orwell, le same
 
 Sur inscription : 12 participants maximum, public adulte.
 
-Cet atelier sera suivi, au même endroit, le mardi 10 novembre à 18h, d’un apéro poétique au cours duquel Timotéo Sergoï déclamera quelques extraits de son nouveau recueil.
+Cet atelier sera suivi, au même endroit, le mardi 10 novembre à 18h, d’un [apéro poétique au cours duquel Timotéo Sergoï déclamera quelques extraits de son nouveau recuei](https://www.territoires-memoire.be/agenda/2020/07/apero-poetique-avec-timoteo-sergoi/)l.
 
 **Timotéo Sergoï**
 
