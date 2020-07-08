@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: Poésir insoumise à Hélécine
+title: Poésie insoumise à Hélécine
 date_start: 2020-06-22
 date_stop: 2020-08-28
 img_file: /assets/uploads/poesie-insoumise_illu-generique_focustm.jpg
