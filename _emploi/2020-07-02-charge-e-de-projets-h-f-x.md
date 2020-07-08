@@ -21,7 +21,7 @@ Le/La candidat·e sélectionné·e rejoindra le service Projets de l’associati
 * susciter l’adhésion ou la reconduction de nouveaux partenaires au réseau Territoire de Mémoire ;
 * communiquer, valoriser et informer autour des actions entreprises par et dans le réseau Territoire de Mémoire (notamment avec une attention particulière aux plateformes digitales via le service communication) ;
 * mettre en place des projets évènementiels (ex : stands dans des salons) et des actions de communication (ex : campagne Triangle Rouge) ;
-* être capable d’animer des groupes et de suivre des projets plus pédagogiques (tels que des voyages pour la Mémoire).
+* être capable d’animer des groupes et de suivre des projets plus pédagogiques (tels que des voyages d’études sur des lieux de Mémoire).
 * rédiger des rapports, des procès-verbaux de réunion, des dossiers, des conventions, etc. ;
 * encoder des activités, des programmations agenda, des échéanciers, des demandes de tâches, etc. ;
 * gérer simultanément plusieurs projets de front à des moments de suivis divers (intention, budgétisation, mise en place, suivi, concrétisation, évaluation, …) ;
