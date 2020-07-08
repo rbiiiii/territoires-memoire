@@ -12,8 +12,7 @@ price: Entrée libre
 tags:
   - Rencontre
 practical: "Information :
-  [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire\
-  .be)"
+  [editions@territoires-memoire.be](mailto:editions@territoires-memoire.be)"
 ---
 Les Territoires de la Mémoire vous convient à un apéro-poétique avec Timotéo Sergoï pour son livre *Apocapitalypse* paru aux éditions des Territoires de la Mémoire. Ce sera également l'occasion de présenter des résultats de l’atelier de linogravure du 7 novembre.
 
