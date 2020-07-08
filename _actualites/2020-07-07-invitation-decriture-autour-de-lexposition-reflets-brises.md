@@ -5,6 +5,9 @@ categories: actualites
 title: Invitation d'écriture autour de l'exposition Reflets brisés
 img_file: /assets/uploads/202010127_tdlm_centredoc_refletsbrises_visuelsitetm.jpg
 posted_on: 2020-07-07
+uploaded_files:
+  - file:
+      file_src: ""
 ---
 L’exposition *Reflets brisés : d’Ici à Auschwitz* propose une série de photos réalisées par Geoffrey Meuli qui a accompagné la Régie des Quartiers d’Andenne en voyage à Auschwitz en mai 2019. Elle a été reportée au mois de janvier 2021.
 
@@ -22,3 +25,15 @@ Pour recevoir les photos en bonne définition, écrivez à la Bibliothèque Geor
 L’exposition aura lieu de fin janvier à fin février 2021 dans l’Espace rencontre de la Bibliothèque George Orwell, Cité Miroir (Liège)
 
 Cette exposition sera aussi montée au Centre culturel d’Andenne durant l’année 2021.
+
+**Les cinq photos**
+
+![](/assets/uploads/th-a-188-2_web.jpg)
+
+![](/assets/uploads/th-a-354-2_web.jpg)
+
+![](/assets/uploads/th-auschwitz-g.-meuli-7_web.jpg)
+
+![](/assets/uploads/th-auschwitz-g.-meuli-13_web.jpg)
+
+![](/assets/uploads/th-auschwitz-g.-meuli-18_web.jpg)
