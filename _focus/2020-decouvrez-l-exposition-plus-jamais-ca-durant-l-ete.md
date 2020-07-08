@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Découvrez l’exposition Plus jamais ça ! durant l’été !
 posted_on: 2020-07-08
 link: https://www.territoires-memoire.be/plusjamaisca
