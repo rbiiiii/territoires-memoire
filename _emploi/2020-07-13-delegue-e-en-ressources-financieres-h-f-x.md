@@ -6,8 +6,6 @@ posted_on: 2020-07-13
 end_of_life: 2020-09-08
 emploi_url: https://docs.google.com/forms/d/e/1FAIpQLSeycCOG81GmyCFNHxzcsPmtI5Iz8qOeKmmJkN1cWpXt61U0jA/viewform
 ---
-
-
 # Description de fonction :
 
 Le/La délégué·e sera affecté·e au service Gestion des Ressources financières des Territoires de la Mémoire.
@@ -55,9 +53,7 @@ En complétant le formulaire ci-dessous, cela constituera le dossier de candidat
 
 Un premier tri sera effectué sur base de ces informations pour ne retenir que les candidatures les plus directement en lien avec le poste à pourvoir et les compétences déjà présentes dans l'équipe. Dans la suite de la procédure, les informations reprises dans le dossier pourront servir de base de discussion à l’examen oral.
 
-Les personnes qui seront retenues seront invitées à participer à un test écrit de 2 heures **le mardi 29 septembre 2020**, à Liège (à La Cité Miroir), entre 17h et 19h**.** Les personnes retenues suite à cette épreuve écrite seront invitées à participer à un entretien de recrutement oral d’une vingtaine de minutes **le mardi 20 octobre 2020 à partir de 16h30.**
-
-
+Les personnes qui seront retenues seront invitées à participer à un test écrit de 2 heures **le mardi 29 septembre 2020**, à Liège (à La Cité Miroir), entre 17h et 19h.  Les personnes retenues suite à cette épreuve écrite seront invitées à participer à un entretien de recrutement oral d’une vingtaine de minutes **le mardi 20 octobre 2020 à partir de 16h30.**
 
 # Comment postuler ?
 
