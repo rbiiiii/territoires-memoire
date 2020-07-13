@@ -6,7 +6,7 @@ posted_on: 2020-07-13
 end_of_life: 2020-09-08
 emploi_url: https://docs.google.com/forms/d/e/1FAIpQLSeycCOG81GmyCFNHxzcsPmtI5Iz8qOeKmmJkN1cWpXt61U0jA/viewform
 ---
-# Description de fonction :
+# Description de fonction
 
 Le/La délégué·e sera affecté·e au service Gestion des Ressources financières des Territoires de la Mémoire.
 
@@ -47,13 +47,13 @@ Le/La délégué·e travaillera sous la supervision d’une coordinatrice et aur
 
 La personne retenue sera engagée **à temps plein** (38h/sem.) sous contrat à durée indéterminée. Le début du contrat est estimé au **2 novembre 2020**. Le montant de la rémunération mensuelle brute liée à cette fonction est de **2 341,94 €** (ancienneté 0). Un bilan d’évolution aura lieu après 3 mois et 6 mois sur base de l’analyse de poste remise à l’entrée en fonction.
 
-# Informations sur la procédure de recrutement :
+# Informations sur la procédure de recrutement
 
 En complétant le formulaire ci-dessous, cela constituera le dossier de candidature contenant vos données personnelles, et en rapport avec l’offre d’emploi (fonction et objet de l’association). Vos données personnelles sont sécurisées et ne sont en aucun cas vendues ou cédées à des tiers.
 
 Un premier tri sera effectué sur base de ces informations pour ne retenir que les candidatures les plus directement en lien avec le poste à pourvoir et les compétences déjà présentes dans l'équipe. Dans la suite de la procédure, les informations reprises dans le dossier pourront servir de base de discussion à l’examen oral.
 
-Les personnes qui seront retenues seront invitées à participer à un test écrit de 2 heures **le mardi 29 septembre 2020**, à Liège (à La Cité Miroir), entre 17h et 19h.  Les personnes retenues suite à cette épreuve écrite seront invitées à participer à un entretien de recrutement oral d’une vingtaine de minutes **le mardi 20 octobre 2020 à partir de 16h30.**
+Les personnes qui seront retenues seront invitées à participer à un test écrit de 2 heures **le mardi 29 septembre 2020**, à Liège (à La Cité Miroir), entre 17h et 19h. Les personnes retenues suite à cette épreuve écrite seront invitées à participer à un entretien de recrutement oral d’une vingtaine de minutes **le mardi 20 octobre 2020 à partir de 16h30.**
 
 # Comment postuler ?
 
