@@ -9,7 +9,7 @@ uploaded_files:
   - file:
       file_src: ""
 ---
-L’exposition *Reflets brisés : d’Ici à Auschwitz* propose une série de photos réalisées par Geoffrey Meuli qui a accompagné la Régie des Quartiers d’Andenne en voyage à Auschwitz en mai 2019. Elle a été reportée au mois de janvier 2021.
+L’exposition *[Reflets brisés : d’Ici à Auschwitz](https://www.territoires-memoire.be/agenda/2020/03/reflets-brises-dici-a-auscwhitz/)* propose une série de photos réalisées par Geoffrey Meuli qui a accompagné la Régie des Quartiers d’Andenne en voyage à Auschwitz en mai 2019. Elle a été reportée au mois de janvier 2021.
 
 A partir d’un choix de 5 photographies, nous vous demandons d’écrire vos impressions, vos ressentis sous forme libre, de la nouvelle au poème, de la chanson au haïku … et de nous les envoyer pour que nous puissions les intégrer à l’exposition (sous réserve).
 
