@@ -14,7 +14,6 @@ practical: >-
   *
   [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)
 
-
   * 0032 (0) 4 232 70 62
 ---
 *Avec la participation de plusieurs contributeurs et contributrices au numéro.*
