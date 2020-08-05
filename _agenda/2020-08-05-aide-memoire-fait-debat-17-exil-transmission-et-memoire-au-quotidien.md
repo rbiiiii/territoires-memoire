@@ -10,9 +10,8 @@ place: "La Cité Miroir Place Xavier Neujean 22 - 4000 Liège "
 address: Pl. Xavier-Neujean 22, 4000 Liège
 tags:
   - Aide-mémoire fait débat
-booking: "Réservation obligatoire via e-mail à l'adresse :
-  [aide-memoire@territoires-memoire.be](mailto:aide-memoire@territoires-memoire\
-  .be)"
+booking: Réservation obligatoire via e-mail à l'adresse
+  [aide-memoire@territoires-memoire.be](mailto:aide-memoire@territoires-memoire.be)
 practical: ""
 ---
 *Avec la participation de plusieurs contributeurs et contributrices au numéro.*
