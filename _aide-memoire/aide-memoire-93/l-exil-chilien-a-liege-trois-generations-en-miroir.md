@@ -9,26 +9,209 @@ order: 2
 published: false
 
 ---
-Lorsqu’on parle d’exil politique, de générations et de transmission, on pense toute de suite à l’héritage politique que les générations qui l’ont vécu ont transmis à leurs descendants. L’exil politique étant une migration forcée par des causes politiques, il est prévisible que la transmission soit associée à des éléments de cet ordre. Cependant, une immersion  dans la vie quotidienne de familles d'exilés politiques chiliens (habitant en Belgique depuis 40 ans) m’a fait découvrir un héritage dont le contenu n’est pas toujours en relation avec le domaine politique, mais avec ce qu’ils sentent avoir perdu (au-delà de la défaite d’un projet politique ) : des êtres chers, des modes de vie, leur pays natal, leur passé. Avant d’illustrer la transmission entre générations au travers de la présentation succincte d’une pratique de circulation de mots en espagnol, j’aborderai ce qu’on comprend par exil politique et les différences entre celui-ci et les autres migrations.
+Lorsqu’on parle d’exil politique, de générations et de transmission, on pense
+toute de suite à l’héritage politique que les générations qui l’ont vécu ont
+transmis à leurs descendants. L’exil politique étant une migration forcée par
+des causes politiques, il est prévisible que la transmission soit associée à des
+éléments de cet ordre. Cependant, une immersion\[^1\] dans la vie quotidienne de
+familles d'exilés politiques chiliens (habitant en Belgique depuis 40 ans) m’a
+fait découvrir un héritage dont le contenu n’est pas toujours en relation avec
+le domaine politique, mais avec ce qu’ils sentent avoir perdu (au-delà de la
+défaite d’un projet politique\[^2\]) : des êtres chers, des modes de vie, leur
+pays natal, leur passé. Avant d’illustrer la transmission entre générations au
+travers de la présentation succincte d’une pratique de circulation de mots en
+espagnol, j’aborderai ce qu’on comprend par exil politique et les différences
+entre celui-ci et les autres migrations.
 
-Exil politique : de quelle migration parlons-nous ?
+\[^1\]: Recherche qualitative effectuée en 2016 dans le cadre de mon Master en
+Anthropologie à l’Université de Liège.
 
-L’exil est un phénomène polysémique , il est donc plusieurs choses à la fois. C'est un châtiment politique contre des personnes considérées comme opposants au pouvoir en place. Il est aussi un récit, une expérience, un traumatisme, une obligation de quitter le pays pour avoir été persécuté ou par crainte de l’être. Au cours des années 1970 et 1980, les dictatures civique-militaires  de l’Amérique Latine ont produit des centaines de milliers d’exilés politiques et de déplacés forcés . L’exil est donc, également, une forme spécifique de migration forcée qui s’inscrit dans le champ de la migration et des mobilités . 
+\[^2\]: L’Unité Populaire, le projet social et politique du gouvernement de
+Salvador Allende (1970-1973).
 
-Bien que l’exil politique se situe dans le domaine de la migration forcée et qu’il comporte des différences avec d'autres types de migrations, il est nécessaire de nuancer la distinction entre l’exil politique et la migration économique. Cette distinction est souvent établie sur le clivage entre le caractère non volontaire de l’exil politique et celui dit « volontaire » de la migration économique, ainsi que sur le discours politique et médiatique des pays récepteurs des migrants qui voient le phénomène migratoire en tant que problème . Le migrant « économique » apparaît alors comme moins légitime à la politique d’asile qu’un exilé politique. Or aucune migration n’est totalement volontaire et dissociée de ses causes, qu’elles soient économiques, politiques, environnementales ou un mélange de celles-ci en étroite imbrication. Au Chili, par exemple, durant la période dictatoriale, l’instauration d’un régime économique ultralibéral qui précarisait le travail a obligé les gens à partir à l’étranger. Ainsi, les causes de départ d’un migrant dit « économique » trouvent aussi leurs origines dans la sphère politique.
+**Exil politique : de quelle migration parlons-nous ?**
 
-Aujourd’hui, et d’après le Haut Commissariat des Nations unies pour les Réfugiés, il existe une reconnaissance du fait que la migration peut être mixte. Elle répond bien à une multiplicité de causes et de motivations (où des forces s’exercent et des choix s’opèrent à différents degrés) et à la composition hétérogène des migrants qui se déplacent puisque dans un même flux migratoire, il peut y avoir des personnes qui fuient un conflit ou des conditions de vie déplorables, mais aussi des personnes qui cherchent à améliorer leurs conditions de vie . Donc, en établissant qu’aucune migration n’est totalement volontaire et dissociée de ses circonstances, qu’il n’y a pas de hiérarchie ni de séparation absolue entre les causes de départs des réfugiés politiques et économiques, quels sont donc les différences entre l’exil politique et la migration dite « économique » ? 
+L’exil est un phénomène polysémique\[^3\], il est donc plusieurs choses à la fois.
+C'est un châtiment politique contre des personnes considérées comme opposants au
+pouvoir en place. Il est aussi un récit, une expérience, un traumatisme, une
+obligation de quitter le pays pour avoir été persécuté ou par crainte de l’être.
+Au cours des années 1970 et 1980, les dictatures civique-militaires\[^4\] de
+l’Amérique Latine ont produit des centaines de milliers d’exilés politiques et
+de déplacés forcés\[^5\]. L’exil est donc, également, une forme spécifique de
+migration forcée qui s’inscrit dans le champ de la migration et des
+mobilités\[^6\].
 
-Il y a trois différences marquantes : l’absence de projet migratoire, l’interdiction de retour et la légitimation de la migration de la part de la société d’accueil . Concernant les deux premières différences, bien que le migrant « économique » soit obligé de quitter son lieu de résidence à cause de conditions de vie intolérables, il garde une certaine marge de manœuvre pour décider où et quand partir ainsi que la possibilité légale de rentrer. Par contre, l’exilé politique n’a pas de projet migratoire. Si tous les migrants rêvent de rentrer un jour, les exilés rêvent de ne pas être partis . La spécificité de cette migration est justement le désir profond de ne pas partir. Il s’agit d’un exil de militants, ils auraient voulu rester au pays pour combattre la dictature et pour rétablir la démocratie. Quant à la dernière différence, en étant persécutés pour leurs idées et/ou actions politiques, l’exilé politique est perçu dans la société d’accueil comme un candidat légitime au refuge car on assume qu’il incarne la figure idéale des principes originels du droit d’asile . 
+\[^3\]: Jedlicki Fanny, _De l’exil au retour. Héritages familiaux et
+recompositions identitaires d’enfants de retornados chiliens_. Thèse de
+doctorat en sociologie, Université Paris VII, Paris-Diderot, 2007.
 
-En raison de la perte de repères socioculturels, toutes les migrations peuvent comporter de la souffrance et des difficultés. Cependant, dans la préparation d’un projet migratoire, le migrant peut, plus ou moins, anticiper l’absence et ses effets sur l’ensemble de ses liens sociaux. La personne exilée se retrouve contrainte de rompre de manière abrupte avec sa vie quotidienne, ce qui accentue cette sensation de perte de repères. Le sentiment de dépossession que cette migration a entraîné est au cœur du processus de recomposition de vie que les familles d’exilés chiliens continuent à construire encore actuellement. 
+\[^4\]: De l’espagnol « _dictaduras cívico-militares_ », concept destiné à
+souligner les composantes également civiles des dictatures militaires
+d’Amérique Latine et, en particulier, leurs co-responsabilités dans les
+crimes commis (ndlr).
 
-Quand la transmission tient d’un mot qui circule entre les générations
+\[^5\]: Groupe de travail sur la violence et les migrations forcées (GTVMF) du
+Conseil Latino-américain  
+de Sciences Sociales.
 
-L’immersion dans la vie quotidienne de ces familles m’a permis d’observer des pratiques tellement différentes les unes des autres et qui peuvent être considérées, à priori, comme des activités anodines. Je me réfère ici au fait de parler la langue espagnole ou de cuisiner, ou à la manière dont ces personnes font famille au travers de la pratique du football, ou encore au travers de l’établissement de liens et de relations entre personnes non apparentées mais qui font partie de la « communauté » de l’exil . 
+\[^6\]: Bolzman Claudio, *Sociologie de l'exil: une approche dynamique, *Zurich,
+Seismo, 1996.
 
-Toutes ces pratiques sont opérantes en tant que recompositions de vie. Elles ont en commun le fait que cette reconstruction personnelle a été faite à partir des dimensions subjectives propres à la manière dont ces exilés entendaient être en relation avec leur pays natal, leur passé et ce qu’ils ont perdu à cause de la migration forcée. La perte contient souvent son contraire, c'est-à-dire des mécanismes et des pratiques pour y remédier. Les pratiques de parenté, pour se relier, répondent au fait que l’exil a produit des séparations avec la famille nucléaire et/ou étendue.  Celles qui mettent en relation le savoir (la langue espagnole et la cuisine) et la transmission cherchent à préserver une certaine identité sociale et culturelle considérée longtemps en péril aux yeux de ces exilés. Ce processus de passation est aussi un processus participatif qui n’est pas à sens unique : celui à qui on transmet possède une « agencéité » sur ce qui lui est transmis . Ces pratiques ont donc engagé les trois générations. C’est-à-dire les exilés de la première et deuxième génération (exilé/exilée politique et leurs enfants) et leurs descendants (des jeunes Belges d’origine chilienne).
+Bien que l’exil politique se situe dans le domaine de la migration forcée et
+qu’il comporte des différences avec d'autres types de migrations, il est
+nécessaire de nuancer la distinction entre l’exil politique et la migration
+économique. Cette distinction est souvent établie sur le clivage entre le
+caractère non volontaire de l’exil politique et celui dit « volontaire » de la
+migration économique, ainsi que sur le discours politique et médiatique des pays
+récepteurs des migrants qui voient le phénomène migratoire en tant que
+problème\[^7\]. Le migrant « économique » apparaît alors comme moins légitime à la
+politique d’asile qu’un exilé politique. Or aucune migration n’est totalement
+volontaire et dissociée de ses causes, qu’elles soient économiques, politiques,
+environnementales ou un mélange de celles-ci en étroite imbrication. Au Chili,
+par exemple, durant la période dictatoriale, l’instauration d’un régime
+économique ultralibéral qui précarisait le travail a obligé les gens à partir à
+l’étranger. Ainsi, les causes de départ d’un migrant dit « économique » trouvent
+aussi leurs origines dans la sphère politique.
 
-J’ai également observé des pratiques dont le contenu pourrait être qualifié de « politique » telles que la commémoration du 11 septembre , le 1er Mai ou des rassemblements pour soutenir la contestation sociale du Chili d’aujourd’hui. Mais ce qui circule entre les générations et dans l’intimité de leurs foyers n’est pas toujours d’ordre politique . Par exemple, dans le cas de la transmission de la langue espagnole à l’intérieur d’une de ces familles, ce sont des mots en espagnol qui circulent et font sens pour tout le groupe familial par son contenu de proximité et d’affection. Cette circulation est rendue possible par la collaboration active et consciente  de trois générations. Le temps et l’interaction entre les personnes qui participent au processus de transmission sont des facteurs clés pour la concrétisation de cette dernière. Les petits-enfants de cette famille ont entendu pendant des années certaines expressions et mots utilisés à la maison, ils en ont « recyclé » quelques-uns .  
+\[^7\]: Jedlicki Fanny, _op.cit._
 
-Les voyages au pays d’origine de leurs ascendants et la relation avec les parents restés là-bas peuvent contribuer également au fait que les petits-enfants vont incorporer certaines formes de langage . La collaboration des grands-parents à la garde des petits-enfants a également pour effet qu’ils ont assumé un rôle de préservation de la langue d’origine (l’espagnol). Dans ce sens, bien que la transmission soit un processus qui se vérifie jour après jour, elle est aussi quelque chose qu’on observe a posteriori et, de là, l’intérêt d’un travail d’observation à travers les générations . Enfin, si l’on veut s’approcher de la compréhension de ce phénomène de dépossession qu’une migration comme l’exil politique entraine, un travail d’interrogation de pratiques quotidiennes et une approche plurigénérationnelle peuvent être fructueux. Se positionner depuis la perspective de recomposition dans le quotidien (la famille et la langue, entre autres) nous aide à mieux mesurer l’épaisseur de la rupture afin de mieux appréhender les phénomènes que l’on étudie dans toute leur complexité.
+Aujourd’hui, et d’après le Haut Commissariat des Nations unies pour les
+Réfugiés, il existe une reconnaissance du fait que la migration peut être mixte.
+Elle répond bien à une multiplicité de causes et de motivations (où des forces
+s’exercent et des choix s’opèrent à différents degrés) et à la composition
+hétérogène des migrants qui se déplacent puisque dans un même flux migratoire,
+il peut y avoir des personnes qui fuient un conflit ou des conditions de vie
+déplorables, mais aussi des personnes qui cherchent à améliorer leurs conditions
+de vie\[^8\]. Donc, en établissant qu’aucune migration n’est totalement volontaire
+et dissociée de ses circonstances, qu’il n’y a pas de hiérarchie ni de
+séparation absolue entre les causes de départs des réfugiés politiques et
+économiques, quels sont donc les différences entre l’exil politique et la
+migration dite « économique » ?
+
+\[^8\]: Van Hear Nicholas, « Forcing the Issue: Migration Crises and the Uneasy
+Dialogue between Refugee Research and Policy », _Journal of Refugee
+Studies_, 25(1), 2012, pp. 2-24.
+
+Il y a trois différences marquantes : l’absence de projet migratoire,
+l’interdiction de retour et la légitimation de la migration de la part de la
+société d’accueil\[^9\]. Concernant les deux premières différences, bien que le
+migrant « économique » soit obligé de quitter son lieu de résidence à cause de
+conditions de vie intolérables, il garde une certaine marge de manœuvre pour
+décider où et quand partir ainsi que la possibilité légale de rentrer. Par
+contre, l’exilé politique n’a pas de projet migratoire. Si tous les migrants
+rêvent de rentrer un jour, les exilés rêvent de ne pas être partis\[^10\]. La
+spécificité de cette migration est justement le désir profond de ne pas partir.
+Il s’agit d’un exil de militants, ils auraient voulu rester au pays pour
+combattre la dictature et pour rétablir la démocratie. Quant à la dernière
+différence, en étant persécutés pour leurs idées et/ou actions politiques,
+l’exilé politique est perçu dans la société d’accueil comme un candidat légitime
+au refuge car on assume qu’il incarne la figure idéale des principes originels
+du droit d’asile\[^11\].
+
+\[^9\]: García Yvette Marcela, 2014, *Les femmes de l'exil chilien. De l'Unité
+populaire vers la terre d'asile : une analyse en termes de rapports sociaux.
+\*Thèse de doctorat en sociologie, Strasbourg, Université de Strasbourg,
+2014\.
+
+\[^10\]: Yvette Marcela Garcia, communication personnelle, septembre 2016.
+
+\[^11\]: Jedlicki Fanny, _op.cit._
+
+En raison de la perte de repères socioculturels, toutes les migrations peuvent
+comporter de la souffrance et des difficultés. Cependant, dans la préparation
+d’un projet migratoire, le migrant peut, plus ou moins, anticiper l’absence et
+ses effets sur l’ensemble de ses liens sociaux. La personne exilée se retrouve
+contrainte de rompre de manière abrupte avec sa vie quotidienne, ce qui accentue
+cette sensation de perte de repères. Le sentiment de dépossession que cette
+migration a entraîné est au cœur du processus de recomposition de vie que les
+familles d’exilés chiliens continuent à construire encore actuellement.
+
+**Quand la transmission tient d’un mot qui circule entre les générations**
+
+L’immersion dans la vie quotidienne de ces familles m’a permis d’observer des
+pratiques tellement différentes les unes des autres et qui peuvent être
+considérées, à priori, comme des activités anodines. Je me réfère ici au fait de
+parler la langue espagnole ou de cuisiner, ou à la manière dont ces personnes
+font famille au travers de la pratique du football, ou encore au travers de
+l’établissement de liens et de relations entre personnes non apparentées mais
+qui font partie de la « communauté » de l’exil\[^12\].
+
+\[^12\]: L’exil a contribué à la création d’une parenté « sociale ». Dans mon cas
+d’étude la _familia prestada_ (famille de substitution) ira jusqu’à la
+troisième génération. Voir Ulloa Lorena, *De la perte à la continuité entre
+le Chili et la Belgique : une ethnographie ‘en famille(s)’ à Liège. *Mémoire
+de Master en anthropologie, Université de Liège, 2018
+
+Toutes ces pratiques sont opérantes en tant que recompositions de vie. Elles ont
+en commun le fait que cette reconstruction personnelle a été faite à partir des
+dimensions subjectives propres à la manière dont ces exilés entendaient être en
+relation avec leur pays natal, leur passé et ce qu’ils ont perdu à cause de la
+migration forcée. La perte contient souvent son contraire, c'est-à-dire des
+mécanismes et des pratiques pour y remédier. Les pratiques de parenté, pour se
+relier, répondent au fait que l’exil a produit des séparations avec la famille
+nucléaire et/ou étendue. Celles qui mettent en relation le savoir (la langue
+espagnole et la cuisine) et la transmission cherchent à préserver une certaine
+identité sociale et culturelle considérée longtemps en péril aux yeux de ces
+exilés. Ce processus de passation est aussi un processus participatif qui n’est
+pas à sens unique : celui à qui on transmet possède une « agencéité » sur ce qui
+lui est transmis\[^13\]. Ces pratiques ont donc engagé les trois générations.
+C’est-à-dire les exilés de la première et deuxième génération (exilé/exilée
+politique et leurs enfants) et leurs descendants (des jeunes Belges d’origine
+chilienne).
+
+\[^13\]: Berliner David, « Anthropologie et transmission », *Terrain, *n°55, 2010,
+pp. 4-19.
+
+J’ai également observé des pratiques dont le contenu pourrait être qualifié de
+« politique » telles que la commémoration du 11 septembre\[^14\], le 1er Mai ou
+des rassemblements pour soutenir la contestation sociale du Chili d’aujourd’hui.
+Mais ce qui circule entre les générations et dans l’intimité de leurs foyers
+n’est pas toujours d’ordre politique\[^15\]. Par exemple, dans le cas de la
+transmission de la langue espagnole à l’intérieur d’une de ces familles, ce sont
+des mots en espagnol qui circulent et font sens pour tout le groupe familial par
+son contenu de proximité et d’affection. Cette circulation est rendue possible
+par la collaboration active et consciente\[^16\] de trois générations. Le temps et
+l’interaction entre les personnes qui participent au processus de transmission
+sont des facteurs clés pour la concrétisation de cette dernière. Les
+petits-enfants de cette famille ont entendu pendant des années certaines
+expressions et mots utilisés à la maison, ils en ont « recyclé »
+quelques-uns\[^17\].
+
+\[^14\]: Anniversaire du coup d’État au Chili.
+
+\[^15\]: Même si l’héritage de l’exil est d’ordre « politique », il est complexe
+et surdéterminant dans la construction personnelle chez les enfants d’exilés
+chiliens. Jedlicki a travaillé jusqu’à la deuxième génération, elle soulève
+le fait que cet héritage mélange la dimension politique avec la question du
+sentiment d’appartenance nationale et le lien aux parents. (Voir Jedlicki,
+2007) Mon travail s’étend jusqu’à la troisième génération, moins déterminée
+par la dimension politique de cet héritage, mais également affectée par le
+sentiment de dépossession que l’exil entraîne. (Voir Ulloa, 2018)
+
+\[^16\]: Parfois la transmission opère à l’insu des personnes concernées.
+
+\[^17\]: _Guatón_ signifie « gros » en espagnol du Chili. Ce terme fait partie
+d’un répertoire* *de _chilenismos_ (formes d’usage lexical qui sont
+exclusives de l’espagnol employé au Chili).
+
+Les voyages au pays d’origine de leurs ascendants et la relation avec les
+parents restés là-bas peuvent contribuer également au fait que les
+petits-enfants vont incorporer certaines formes de langage\[^18\]. La
+collaboration des grands-parents à la garde des petits-enfants a également pour
+effet qu’ils ont assumé un rôle de préservation de la langue d’origine
+(l’espagnol). Dans ce sens, bien que la transmission soit un processus qui se
+vérifie jour après jour, elle est aussi quelque chose qu’on observe *a
+posteriori *et, de là, l’intérêt d’un travail d’observation à travers les
+générations\[^19\]. Enfin, si l’on veut s’approcher de la compréhension de ce
+phénomène de dépossession qu’une migration comme l’exil politique entraine, un
+travail d’interrogation de pratiques quotidiennes et une approche
+plurigénérationnelle peuvent être fructueux. Se positionner depuis la
+perspective de recomposition dans le quotidien (la famille et la langue, entre
+autres) nous aide à mieux mesurer l’épaisseur de la rupture afin de mieux
+appréhender les phénomènes que l’on étudie dans toute leur complexité.
+
+\[^18\]: Par exemple, le verbe _cachar_ (qui, entre autres, signifie
+« comprendre »). Certains membres de la troisième génération l’ont intégré à
+partir de voyages au Chili et de la relation avec les parents restés là-bas.
+
+\[^19\]: Berliner David, _op.cit._
