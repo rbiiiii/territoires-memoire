@@ -24,7 +24,7 @@ Il y a trois différences marquantes : l'absence de projet migratoire, l'interdi
 
 En raison de la perte de repères socioculturels, toutes les migrations peuvent comporter de la souffrance et des difficultés. Cependant, dans la préparation d'un projet migratoire, le migrant peut, plus ou moins, anticiper l'absence et ses effets sur l'ensemble de ses liens sociaux. La personne exilée se retrouve contrainte de rompre de manière abrupte avec sa vie quotidienne, ce qui accentue cette sensation de perte de repères. Le sentiment de dépossession que cette migration a entraîné est au cœur du processus de recomposition de vie que les familles d'exilés chiliens continuent à construire encore actuellement.
 
-Quand la transmission tient d'un mot qui circule entre les générations
+## Quand la transmission tient d'un mot qui circule entre les générations
 
 L'immersion dans la vie quotidienne de ces familles m'a permis d'observer des pratiques tellement différentes les unes des autres et qui peuvent être considérées, à priori, comme des activités anodines. Je me réfère ici au fait de parler la langue espagnole ou de cuisiner, ou à la manière dont ces personnes font famille au travers de la pratique du football, ou encore au travers de l'établissement de liens et de relations entre personnes non apparentées mais qui font partie de la « communauté » de l'exil[12](#footnote-12).
 
@@ -34,16 +34,16 @@ J'ai également observé des pratiques dont le contenu pourrait être qualifié 
 
 Les voyages au pays d'origine de leurs ascendants et la relation avec les parents restés là-bas peuvent contribuer également au fait que les petits-enfants vont incorporer certaines formes de langage[18](#footnote-18). La collaboration des grands-parents à la garde des petits-enfants a également pour effet qu'ils ont assumé un rôle de préservation de la langue d'origine (l'espagnol). Dans ce sens, bien que la transmission soit un processus qui se vérifie jour après jour, elle est aussi quelque chose qu'on observe _a posteriori_ et, de là, l'intérêt d'un travail d'observation à travers les générations[19](#footnote-19). Enfin, si l'on veut s'approcher de la compréhension de ce phénomène de dépossession qu'une migration comme l'exil politique entraine, un travail d'interrogation de pratiques quotidiennes et une approche plurigénérationnelle peuvent être fructueux. Se positionner depuis la perspective de recomposition dans le quotidien (la famille et la langue, entre autres) nous aide à mieux mesurer l'épaisseur de la rupture afin de mieux appréhender les phénomènes que l'on étudie dans toute leur complexité.
 
-1. Recherche qualitative effectuée en 2016 dans le cadre de mon Master en Anthropologie à l'Université de Liège.
-2. L'Unité Populaire, le projet social et politique du gouvernement de Salvador Allende (1970-1973).
-3. Jedlicki Fanny, _De l'exil au retour. Héritages familiaux et recompositions_ _identitaires d'enfants de retornados chiliens_. Thèse de doctorat en sociologie, Université Paris VII, Paris-Diderot, 2007.
-4. De l'espagnol « _dictaduras cívico-militares_ », concept destiné à souligner les composantes également civiles des dictatures militaires d'Amérique Latine et, en particulier, leurs co-responsabilités dans les crimes commis (ndlr).
-5. Groupe de travail sur la violence et les migrations forcées (GTVMF) du Conseil Latino-américain  
-de Sciences Sociales.
-6. Bolzman Claudio, _Sociologie de l'exil: une approche dynamique,_ Zurich, Seismo, 1996.
-7. Jedlicki Fanny, _op.cit._
-8. Van Hear Nicholas, « Forcing the Issue: Migration Crises and the Uneasy Dialogue between Refugee Research and Policy », _Journal of Refugee Studies_, 25(1), 2012, pp. 2-24.
-9. García Yvette Marcela, 2014, _Les femmes de l'exil chilien. De l'Unité populaire vers la_ _terre d'asile : une analyse en termes de rapports sociaux._ Thèse de doctorat en sociologie, Strasbourg, Université de Strasbourg, 2014.
+ 1. Recherche qualitative effectuée en 2016 dans le cadre de mon Master en Anthropologie à l'Université de Liège.
+ 2. L'Unité Populaire, le projet social et politique du gouvernement de Salvador Allende (1970-1973).
+ 3. Jedlicki Fanny, _De l'exil au retour. Héritages familiaux et recompositions_ _identitaires d'enfants de retornados chiliens_. Thèse de doctorat en sociologie, Université Paris VII, Paris-Diderot, 2007.
+ 4. De l'espagnol « _dictaduras cívico-militares_ », concept destiné à souligner les composantes également civiles des dictatures militaires d'Amérique Latine et, en particulier, leurs co-responsabilités dans les crimes commis (ndlr).
+ 5. Groupe de travail sur la violence et les migrations forcées (GTVMF) du Conseil Latino-américain  
+    de Sciences Sociales.
+ 6. Bolzman Claudio, _Sociologie de l'exil: une approche dynamique,_ Zurich, Seismo, 1996.
+ 7. Jedlicki Fanny, _op.cit._
+ 8. Van Hear Nicholas, « Forcing the Issue: Migration Crises and the Uneasy Dialogue between Refugee Research and Policy », _Journal of Refugee Studies_, 25(1), 2012, pp. 2-24.
+ 9. García Yvette Marcela, 2014, _Les femmes de l'exil chilien. De l'Unité populaire vers la_ _terre d'asile : une analyse en termes de rapports sociaux._ Thèse de doctorat en sociologie, Strasbourg, Université de Strasbourg, 2014.
 10. Yvette Marcela Garcia, communication personnelle, septembre 2016.
 11. Jedlicki Fanny, _op.cit._
 12. L'exil a contribué à la création d'une parenté « sociale ». Dans mon cas d'étude la _familia prestada_ (famille de substitution) ira jusqu'à la troisième génération. Voir Ulloa Lorena, _De la perte à la continuité entre le Chili et la Belgique : une_ _ethnographie 'en famille(s)' à Liège._ Mémoire de Master en anthropologie, Université de Liège, 2018
