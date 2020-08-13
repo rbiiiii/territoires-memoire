@@ -12,6 +12,10 @@ Lorsqu'on parle d'exil politique, de générations et de transmission, on pense 
 
 Cependant, une immersion[1](#footnote-1) dans la vie quotidienne de familles d'exilés politiques chiliens (habitant en Belgique depuis 40 ans) m'a fait découvrir un héritage dont le contenu n'est pas toujours en relation avec le domaine politique, mais avec ce qu'ils sentent avoir perdu (au-delà de la défaite d'un projet politique[2](#footnote-2)) : des êtres chers, des modes de vie, leur pays natal, leur passé. Avant d'illustrer la transmission entre générations au travers de la présentation succincte d'une pratique de circulation de mots en espagnol, j'aborderai ce qu'on comprend par exil politique et les différences entre celui-ci et les autres migrations.
 
+![](https://www.territoires-memoire.be/assets/uploads/aide-memoire-93-illu.jpg)
+
+<span class="img-copyright">_Éxodo_, Fondo Isabel Morel. Colección Museo de la Memoria y los Derechos Humanos.</span>
+
 ## Exil politique : de quelle migration parlons-nous ?
 
 L'exil est un phénomène polysémique[3](#footnote-3), il est donc plusieurs choses à la fois. C'est un châtiment politique contre des personnes considérées comme opposants au pouvoir en place. Il est aussi un récit, une expérience, un traumatisme, une obligation de quitter le pays pour avoir été persécuté ou par crainte de l'être. Au cours des années 1970 et 1980, les dictatures civique-militaires[4](#footnote-4) de l'Amérique Latine ont produit des centaines de milliers d'exilés politiques et de déplacés forcés[5](#footnote-5). L'exil est donc, également, une forme spécifique de migration forcée qui s'inscrit dans le champ de la migration et des mobilités[6](#footnote-6).
