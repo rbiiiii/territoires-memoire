@@ -1,5 +1,5 @@
 ---
-categories: _aide-memoire-numeros/aide-mémoire-n°92.md
+categories: _aide-memoire-numeros/aide-memoire-n-92.md
 type: mots
 title: Salope
 credits: Par Henri Deleersnijder

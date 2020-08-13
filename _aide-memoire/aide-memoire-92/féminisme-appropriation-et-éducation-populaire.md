@@ -1,5 +1,5 @@
 ---
-categories: _aide-memoire-numeros/aide-mémoire-n°92.md
+categories: _aide-memoire-numeros/aide-memoire-n-92.md
 type: editorial
 title: 'Féminisme, appropriation et éducation populaire '
 credits: Par Gaëlle Henrard

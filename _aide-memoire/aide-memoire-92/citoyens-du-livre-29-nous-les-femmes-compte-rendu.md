@@ -1,5 +1,5 @@
 ---
-categories: _aide-memoire-numeros/aide-mémoire-n°92.md
+categories: _aide-memoire-numeros/aide-memoire-n-92.md
 type: article
 title: 'Citoyens du Livre #29 "Nous les femmes" compte rendu'
 credits: Par la Bilbiothèque George Orwell

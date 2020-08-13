@@ -1,5 +1,5 @@
 ---
-categories: _aide-memoire-numeros/aide-mémoire-n°92.md
+categories: _aide-memoire-numeros/aide-memoire-n-92.md
 type: article
 title: "« Façons de dire. Façons de faire » :  ce que l’on dit et ce que l’on ne dit
   pas"

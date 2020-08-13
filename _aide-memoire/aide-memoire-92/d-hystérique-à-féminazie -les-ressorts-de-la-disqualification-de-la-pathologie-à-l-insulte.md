@@ -1,5 +1,5 @@
 ---
-categories: _aide-memoire-numeros/aide-mémoire-n°92.md
+categories: _aide-memoire-numeros/aide-memoire-n-92.md
 type: article
 title: 'D’hystérique à féminazie : les ressorts de la disqualification,  de la pathologie
   à l’insulte'

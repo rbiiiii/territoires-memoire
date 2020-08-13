@@ -1,5 +1,5 @@
 ---
-categories: _aide-memoire-numeros/aide-mémoire-n°92.md
+categories: _aide-memoire-numeros/aide-memoire-n-92.md
 type: article
 title: La réaction réactionnaire à balance ton porc [1]
 credits: Une chronique de Julien Dohet
