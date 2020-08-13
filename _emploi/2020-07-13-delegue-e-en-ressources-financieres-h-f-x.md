@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Délégué·e en Ressources financières (H/F/X)
+title: Assistant·e en Ressources financières (H/F/X)
 subtitle: Contrat à durée indéterminée
 posted_on: 2020-07-13
 end_of_life: 2020-09-08
@@ -8,13 +8,13 @@ emploi_url: https://docs.google.com/forms/d/e/1FAIpQLSeycCOG81GmyCFNHxzcsPmtI5Iz
 ---
 # Description de fonction
 
-Le/La délégué·e sera affecté·e au service Gestion des Ressources financières des Territoires de la Mémoire.
+L'assistant·e sera affecté·e au service Gestion des Ressources financières des Territoires de la Mémoire.
 
 Les Territoires de la Mémoire sont un centre d'Éducation à la Résistance et à la Citoyenneté. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l'association développe diverses initiatives pour transmettre le passé et encourager l'implication de tous dans la construction d'une société démocratique garante des libertés fondamentales.
 
 Le service Gestion des Ressources financières (3 personnes) assure la prospection et le démarchage de subsides, sponsors, dons, legs, partenariats au service du « Comité de Direction Mouvement », et le suivi et la justification des ressources financières.
 
-Le/La délégué·e travaillera sous la supervision d’une coordinatrice et aura pour missions de :
+L'assistant·e travaillera sous la supervision d’une coordinatrice et aura pour missions de :
 
 * Proposer, prospecter et démarcher des subsides, appels à projets, sponsors, dons, legs, partenariats.
 * Gérer les suivis relatifs aux conventionnements (Décret Mémoire, Réseau Territoire de Mémoire, Education permanente, etc.).
