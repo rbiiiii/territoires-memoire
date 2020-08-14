@@ -14,7 +14,7 @@ Cependant, une immersion[1](#footnote-1) dans la vie quotidienne de familles d'e
 
 ![](https://www.territoires-memoire.be/assets/uploads/aide-memoire-93-illu.jpg)
 
-<span class="img-copyright">Éxodo, _Fondo Isabel Morel. Colección Museo de la Memoria y los Derechos Humanos._</span>
+<span class="img-copyright">_Éxodo_, Fondo Isabel Morel. Colección Museo de la Memoria y los Derechos Humanos.</span>
 
 ## Exil politique : de quelle migration parlons-nous ?
 

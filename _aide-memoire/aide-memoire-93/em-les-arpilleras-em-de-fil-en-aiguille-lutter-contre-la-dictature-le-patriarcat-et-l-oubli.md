@@ -14,7 +14,7 @@ Si ceux-ci s'exerçaient sur tous les opposants politiques (ou suspectés de l'�
 
 ![](https://www.territoires-memoire.be/assets/uploads/p-2_ollacomun.jpg)
 
-<span class="img-copyright">Olla común, _Fondo Rosemary Baxter.  Colección Museo de la Memoria y los Derechos Humanos._</span>
+<span class="img-copyright">_Olla común_, Fondo Rosemary Baxter.  Colección Museo de la Memoria y los Derechos Humanos.</span>
 
 Un fil et une aiguille comme armes contre l'oppression, contre l'oubli... pour réparer une identité et une mémoire fracturées.
 
