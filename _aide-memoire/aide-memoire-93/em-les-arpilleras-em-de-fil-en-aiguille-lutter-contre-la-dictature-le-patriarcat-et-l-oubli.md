@@ -14,8 +14,8 @@ Si ceux-ci s'exerçaient sur tous les opposants politiques (ou suspectés de l'�
 
 ![](https://www.territoires-memoire.be/assets/uploads/p-2_ollacomun.jpg)
 
-<span class="img-copyright">_Olla común_, Fondo Rosemary Baxter.  Colección Museo de la Memoria y los Derechos Humanos.</span>
+<span class="img-copyright">Olla común, _Fondo Rosemary Baxter.  Colección Museo de la Memoria y los Derechos Humanos._</span>
 
 Un fil et une aiguille comme armes contre l'oppression, contre l'oubli... pour réparer une identité et une mémoire fracturées.
 
-\* Cette note se base sur l'article de Roberta Garieri, « Écritures de la subversion : _les arpilleristas chiliennes », Archives of Women Artists Research & Exhibitions magazine_ \[en ligne\], mis en ligne le 17 mars 2019, consulté le 29 juin 2020, [https://awarewomenartists.com/magazine/ecritures-de-la-subversion-les-arpilleristas-chiliennes/](https://awarewomenartists.com/magazine/ecritures-de-la-subversion-les-arpilleristas-chiliennes/)
+<small>\* Cette note se base sur l'article de Roberta Garieri, « Écritures de la subversion : _les arpilleristas chiliennes », Archives of Women Artists Research & Exhibitions magazine_ \[en ligne\], mis en ligne le 17 mars 2019, consulté le 29 juin 2020, [https://awarewomenartists.com/magazine/ecritures-de-la-subversion-les-arpilleristas-chiliennes/](https://awarewomenartists.com/magazine/ecritures-de-la-subversion-les-arpilleristas-chiliennes/)</small>
