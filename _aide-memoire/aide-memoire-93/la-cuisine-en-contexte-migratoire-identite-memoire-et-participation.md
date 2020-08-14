@@ -25,9 +25,9 @@ Les exemples concrets de ce processus sont nombreux, visibles également sur le 
 
 Cet exemple, comme d'autres pourraient le faire, démontre que le potentiel politique est un élément central des pratiques liées à l'alimentation, et plus particulièrement lorsque les personnes qui les exercent vivent dans un contexte de migration -- et d'exclusion de la société dans laquelle elles résident. La cuisine et la commensalité qui en dérive font l'objet d'un usage politique (De Galembert, 2007) et social permettant de rétablir l'inclusion. Cela veut dire que « raconter ses racines », son histoire, son vécu au travers de la cuisine amenée en dehors des espaces privés constitue le moyen pour créer des sociabilités et participer activement au contexte vécu, permettant ainsi de développer un dynamisme culturel et un apport important à la société locale (Martiniello, 2003: 130).
 
-<div class="card card--two">
+<div class="card card--one">
 
-## Bibliographie
+### Bibliographie :
 
 * Beyers, L., 2008. Creating Home Food, Ethnicity and Gender among Italians in Belgium since 1946. *Food, Culture and Society: An International Journal of Multidisciplinary Researc*h 11, 7--27.
 * Cardona, E.T.C., 2004. Re-encountering Cuban Tastes in Australia. *The Australian journal of anthropology* 15, 40--53.
