@@ -28,13 +28,13 @@ Au cœur des préoccupations de l'ASBL Les Territoires de la Mémoire, cette th�
 
 Nous vous recommandons donc sans réserve la lecture de ce corpus documentaire dont la présente introduction vous aura déjà, nous l'espérons, laissé entrevoir toute la pertinence et/ou invité à la réflexion.
 
+<div class="card card--one">
+
 **Tous surveillés, pour notre bien ?**
 
 Depuis le début de la crise, une grande partie de l'opinion s'est interrogée sur l'utilisation des données informatiques à la disposition des scientifiques et des politiques. 
 
 Lancée il y a quelques jours, l'application StopCovid connaît ainsi des débuts difficiles : moins de 2% de la population l'a activée sur son smartphone. Serge Abiteboul (École normale supérieure) estime que pour être efficace une telle application devrait être téléchargée par environ 60% des Français. Un des facteurs limitant son usage pourrait être la peur de la surveillance exprimée à l'envi sur les réseaux sociaux. 
-
-<div class="card card--one">
 
 Différentes stratégies ont pourtant été développées dans plusieurs pays afin de faire de votre téléphone mobile un outil de la luttte contre l'épidémie, comme l'expliquent Marcel Moritz et Audrey Dequesnes (Université de Lille). 
 
@@ -42,7 +42,7 @@ Sortons du domaine de la santé, pour celui de la politique où, là aussi, nos 
 
 Enfin, si en France l'État nous surveille -- numériquement -- peu, il n'en est pas de même en Chine. Virginie Arantes (Université Libre de Bruxelles) nous apprend notamment que les autorités vont même jusqu'à contrôler si les citoyens trient correctement leurs déchets.
 
-Tous ces textes et analyses, ainsi que beaucoup d'autres, sont à retrouver sur : **www.theconversation.com**
+Tous ces textes et analyses, ainsi que beaucoup d'autres, sont à retrouver sur : [www.theconversation.com](https://theconversation.com/)
 
 (L'expertise universitaire, l'exigence journalistique)
 
