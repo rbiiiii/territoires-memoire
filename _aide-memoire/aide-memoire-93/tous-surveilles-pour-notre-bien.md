@@ -27,3 +27,23 @@ Au cœur des préoccupations de l'ASBL Les Territoires de la Mémoire, cette th�
 « exploiterons-nous les leçons de _Cambridge Analytica_ ou du _Patriot Act_ ? » En mai, l'inquiétude et la vigilance portaient sur un projet de loi réglementant l'application de traçage des personnes contaminées par le coronavirus, annoncé à la Chambre et comportant un très sérieux risque de non-retour en arrière (« effet cliquet »).
 
 Nous vous recommandons donc sans réserve la lecture de ce corpus documentaire dont la présente introduction vous aura déjà, nous l'espérons, laissé entrevoir toute la pertinence et/ou invité à la réflexion.
+
+**Tous surveillés, pour notre bien ?**
+
+Depuis le début de la crise, une grande partie de l'opinion s'est interrogée sur l'utilisation des données informatiques à la disposition des scientifiques et des politiques. 
+
+Lancée il y a quelques jours, l'application StopCovid connaît ainsi des débuts difficiles : moins de 2% de la population l'a activée sur son smartphone. Serge Abiteboul (École normale supérieure) estime que pour être efficace une telle application devrait être téléchargée par environ 60% des Français. Un des facteurs limitant son usage pourrait être la peur de la surveillance exprimée à l'envi sur les réseaux sociaux. 
+
+<div class="card card--one">
+
+Différentes stratégies ont pourtant été développées dans plusieurs pays afin de faire de votre téléphone mobile un outil de la luttte contre l'épidémie, comme l'expliquent Marcel Moritz et Audrey Dequesnes (Université de Lille). 
+
+Sortons du domaine de la santé, pour celui de la politique où, là aussi, nos données valent de l'or. « Peu importe l'échelle, certains professionnels sont désormais en mesure de connaître de manière très précise le profil des électeurs, et même de le géolocaliser » explique Virginie Tisserant (Université Aix Marseille).
+
+Enfin, si en France l'État nous surveille -- numériquement -- peu, il n'en est pas de même en Chine. Virginie Arantes (Université Libre de Bruxelles) nous apprend notamment que les autorités vont même jusqu'à contrôler si les citoyens trient correctement leurs déchets.
+
+Tous ces textes et analyses, ainsi que beaucoup d'autres, sont à retrouver sur : **www.theconversation.com**
+
+(L'expertise universitaire, l'exigence journalistique)
+
+</div>
