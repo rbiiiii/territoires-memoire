@@ -3,7 +3,7 @@ tag: ''
 version: 93
 author: Elena Favilli et Francesca Cavallo
 extra: ''
-title: Histoires du soir pour fi lles rebelles, t. 2
+title: Histoires du soir pour filles rebelles, t. 2
 editor: Les Arènes
 col: ''
 year: "2018"
