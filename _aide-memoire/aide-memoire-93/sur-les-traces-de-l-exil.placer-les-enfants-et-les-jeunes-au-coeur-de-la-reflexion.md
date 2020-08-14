@@ -31,7 +31,7 @@ Pour conclure, il semble urgent de se demander en quoi les enfants et les jeunes
 
 ### Quelques références bibliographiques :
 
-* ABenslama F. « Qu'est-ce qu'une clinique de l'exil ? » in _L'Evolution Psychiatrique_, 2004/69(1), pp. 23-30.
+* Benslama F. « Qu'est-ce qu'une clinique de l'exil ? » in _L'Evolution Psychiatrique_, 2004/69(1), pp. 23-30.
 * Hardmann C. « Can there be an anthropology of children? » in _Journal of the Anthropology Society_, 1973/4(1), pp. 85-99.
 * James A. & Prout A. _Constructing and reconstructing childhood: New directions in the sociological study of childhood_, Oxford, Routledge, 1990.
 * Latour B., _Changer de société, refaire de la sociologie_, Paris, La Découverte, 2006.
