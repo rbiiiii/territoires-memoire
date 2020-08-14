@@ -83,11 +83,11 @@ layout: default
   {%- endfor -%}
 
   {%- if prev_post -%}
-      <a class="button button--blue prev" href="{{ prev_post.url }}"><span><</span>{{ prev_post.title }}</a>
+      <a class="button button--blue prev" href="{{ prev_post.url }}"><span><</span>{{ prev_post.title | strip_html }}</a>
   {%- endif -%}
 
   {%- if next_post -%}
-      <a class="button button--blue next" href="{{ next_post.url }}">{{ next_post.title }}<span>></span></a>
+      <a class="button button--blue next" href="{{ next_post.url }}">{{ next_post.title | strip_html }}<span>></span></a>
   {%- endif -%}
   </footer>
 
