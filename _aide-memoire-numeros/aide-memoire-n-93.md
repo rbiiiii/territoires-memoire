@@ -18,3 +18,5 @@ INTRO TEXT
 INTRO TEXT
 
 **Illustration : *Éxodo*, Fondo Isabel Morel.  Colección Museo de la Memoria y los Derechos Humanos.**
+
+**Ce numéro a été illustré par des *arpilleras* dont les droits de reproduction nous ont été accordés par le Musée de la Mémoire et des Droits humains *(Museo de la Memoria y los Derechos humanos)* de Santiago du Chili.**
