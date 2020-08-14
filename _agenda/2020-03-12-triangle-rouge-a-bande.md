@@ -15,6 +15,6 @@ schedule: >-
   20h
 booking: 'Dominique Paulus tél: 0476 58 71 75 - email : dominopaulus60@gmail.com'
 ---
-« Résiste ! », c’est l’appel qui est lancé aux visiteurs et qui traverse l’ensemble de l’exposition. Dédié à tous ceux qui, dans les camps de concentration, portaient le triangle rouge, ce message se veut plus large en soulignant l’action de tous les résistants à toutes les formes de tentatives liberticides. L’exposition encourage de façon didactique une attitude de vigilance citoyenne et responsable.
+«&nbsp;Résiste !&nbsp;», c’est l’appel qui est lancé aux visiteurs et qui traverse l’ensemble de l’exposition. Dédié à tous ceux qui, dans les camps de concentration, portaient le triangle rouge, ce message se veut plus large en soulignant l’action de tous les résistants à toutes les formes de tentatives liberticides. L’exposition encourage de façon didactique une attitude de vigilance citoyenne et responsable.
 
 Une organisation Comité de mémoire de Bande avec le soutien de la commune de Nassogne.

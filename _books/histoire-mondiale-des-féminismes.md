@@ -5,7 +5,7 @@ author: Florence Rochefort
 extra: ''
 title: Histoire mondiale des féminismes
 editor: Presses universitaires de France
-col: coll. « Que sais-je ? »
+col: coll. «&nbsp;Que sais-je ?&nbsp;»
 year: "2018"
 price: 9 €
 book_link: https://www.puf.com/content/Histoire_mondiale_des_f%C3%A9minismes

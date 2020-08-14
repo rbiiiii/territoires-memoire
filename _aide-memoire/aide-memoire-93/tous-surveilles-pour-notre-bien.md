@@ -2,7 +2,7 @@
 categories: _aide-memoire-numeros/aide-memoire-n-93.md
 type: article
 title: Tous surveillés, pour notre bien ?
-credits: 'Un corpus documentaire proposé par « The Conversation » '
+credits: 'Un corpus documentaire proposé par «&nbsp;The Conversation&nbsp;» '
 about_the_author: ''
 order: 3
 
@@ -21,10 +21,10 @@ Après la peur du terrorisme nourrie par les vagues d'attentats qui ont suivi le
 
 Plus que jamais, la vigilance est donc de rigueur afin de ne pas préparer aujourd'hui, sous le coup de l'émotion, le chantier de mise à mal de nos démocraties qui nourrissent en leur sein des opportunismes dangereux...
 
-Au travers d'un corpus documentaire qui interroge, le média en ligne collaboratif et association sans but lucratif « The Conversation » nous invite à la réflexion. L'objectif non dissimulé de cet organe est d'éclairer l'actualité et de susciter le débat citoyen. Il s'agit d'un support gratuit et sans publicité animé par une équipe de journalistes qui génère un contenu fondé sur l'expertise fiable de chercheurs et d'universitaires spécialisés.
+Au travers d'un corpus documentaire qui interroge, le média en ligne collaboratif et association sans but lucratif «&nbsp;The Conversation&nbsp;» nous invite à la réflexion. L'objectif non dissimulé de cet organe est d'éclairer l'actualité et de susciter le débat citoyen. Il s'agit d'un support gratuit et sans publicité animé par une équipe de journalistes qui génère un contenu fondé sur l'expertise fiable de chercheurs et d'universitaires spécialisés.
 
 Au cœur des préoccupations de l'ASBL Les Territoires de la Mémoire, cette thématique, celle des dérives liberticides consécutives à la crise du Coronavirus, a évidemment retenu toute notre attention. En témoignent les différents articles et autres alertes publiés sur notre site. Ainsi, le 22 avril dernier, les Territoires de la Mémoire se joignaient à beaucoup d'autres pour alerter sur les risques liberticides et d'« effet cliquet » (aussi en matière des droits fondamentaux dans le cadre d'une mise en place d'une application de _tracing_ ou _tracking_). Et demandaient :  
-« exploiterons-nous les leçons de _Cambridge Analytica_ ou du _Patriot Act_ ? » En mai, l'inquiétude et la vigilance portaient sur un projet de loi réglementant l'application de traçage des personnes contaminées par le coronavirus, annoncé à la Chambre et comportant un très sérieux risque de non-retour en arrière (« effet cliquet »).
+«&nbsp;exploiterons-nous les leçons de _Cambridge Analytica_ ou du _Patriot Act_ ?&nbsp;» En mai, l'inquiétude et la vigilance portaient sur un projet de loi réglementant l'application de traçage des personnes contaminées par le coronavirus, annoncé à la Chambre et comportant un très sérieux risque de non-retour en arrière (« effet cliquet »).
 
 Nous vous recommandons donc sans réserve la lecture de ce corpus documentaire dont la présente introduction vous aura déjà, nous l'espérons, laissé entrevoir toute la pertinence et/ou invité à la réflexion.
 

@@ -13,7 +13,7 @@ Outre les analyses, d’une qualité maintenue, par la rédaction de Résistance
 
 ![](/assets/uploads/am89-3-le-journal-de-resistances.jpg "Le journal de résistance[s]")
 
-_LE JOURNAL_ continue donc d’explorer la sphère de l’extrême droite en Belgique dans ses différentes manifestations, qu’il s’agisse de partis ou de groupuscules, en analysant tant les franges radicales que celles qui ont revêtu les habits de la respectabilité. Mentionnons à cet égard dans la rubrique « Grande Enquête du _JOURNAL_ », un dossier de sept pages sur la N-VA, ses origines, ses membres et son discours, avec notamment une analyse de Serge Govaert, spécialiste du nationalisme flamand.
+_LE JOURNAL_ continue donc d’explorer la sphère de l’extrême droite en Belgique dans ses différentes manifestations, qu’il s’agisse de partis ou de groupuscules, en analysant tant les franges radicales que celles qui ont revêtu les habits de la respectabilité. Mentionnons à cet égard dans la rubrique «&nbsp;Grande Enquête du _JOURNAL_&nbsp;», un dossier de sept pages sur la N-VA, ses origines, ses membres et son discours, avec notamment une analyse de Serge Govaert, spécialiste du nationalisme flamand.
 
 On trouvera par ailleurs des billets d’opinion de Mateo Alaluf sur les gilets jaunes et de Vincent Engel sur le Mouvement réformateur. Enfin, fait notable, la revue propose des focus sur l’état de l’extrême droite à l’étranger, en France, en Israël et au Brésil notamment.
 

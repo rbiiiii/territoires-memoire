@@ -13,6 +13,6 @@ tags:
 schedule: Ouvert de de 09 h à 12h et de 13h à 17h.
 practical: "060\_30\_37\_00"
 ---
-« Résiste ! », c’est l’appel qui est lancé aux visiteurs et qui traverse l’ensemble de l’exposition. Dédié à tous ceux qui, dans les camps de concentration, portaient le triangle rouge, ce message se veut plus large en soulignant l’action de tous les résistants à toutes les formes de tentatives liberticides. L’exposition encourage de façon didactique une attitude de vigilance citoyenne et responsable.
+«&nbsp;Résiste !&nbsp;», c’est l’appel qui est lancé aux visiteurs et qui traverse l’ensemble de l’exposition. Dédié à tous ceux qui, dans les camps de concentration, portaient le triangle rouge, ce message se veut plus large en soulignant l’action de tous les résistants à toutes les formes de tentatives liberticides. L’exposition encourage de façon didactique une attitude de vigilance citoyenne et responsable.
 
 Une organisation de l’Administration communale de Chimay.

@@ -1,7 +1,7 @@
 ---
 tag: heart
 version: 92
-author: "« Les Chanceuses » de Solidarité Femmes et le Théâtre des Rues"
+author: "«&nbsp;Les Chanceuses&nbsp;» de Solidarité Femmes et le Théâtre des Rues"
 extra: ''
 title: Elles sont magnifiques !
 editor: Éditions du Cerisier

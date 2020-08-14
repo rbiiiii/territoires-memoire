@@ -12,4 +12,4 @@ book_link: http://www.editions-du-cerisier.be/spip.php?article467
 img_src: https://www.territoires-memoire.be/assets/uploads/DanielAdamEtvoilaletravail.jpg
 
 ---
-« Au départ de nos vies \[d’hommes et de femmes de théâtre\], nous avons donc imaginé ces trois personnages, coincés chacun dans leurs envies, leurs convictions et contradictions, dans des situations que nous connaissons pour les vivre depuis plus de quarante ans. » La pièce aborde les manières d’améliorer les conditions de travail. Un choc de génération, entre deux vieux brisquards de manifs et une jeune révoltée isolée. Et vous le travail vous le vivez comment ?
+«&nbsp;Au départ de nos vies \[d’hommes et de femmes de théâtre\], nous avons donc imaginé ces trois personnages, coincés chacun dans leurs envies, leurs convictions et contradictions, dans des situations que nous connaissons pour les vivre depuis plus de quarante ans.&nbsp;» La pièce aborde les manières d’améliorer les conditions de travail. Un choc de génération, entre deux vieux brisquards de manifs et une jeune révoltée isolée. Et vous le travail vous le vivez comment ?

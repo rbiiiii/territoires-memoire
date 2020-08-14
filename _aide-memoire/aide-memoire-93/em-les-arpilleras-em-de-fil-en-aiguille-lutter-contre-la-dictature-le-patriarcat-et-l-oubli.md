@@ -18,4 +18,4 @@ Si ceux-ci s'exerçaient sur tous les opposants politiques (ou suspectés de l'�
 
 Un fil et une aiguille comme armes contre l'oppression, contre l'oubli... pour réparer une identité et une mémoire fracturées.
 
-<small>\* Cette note se base sur l'article de Roberta Garieri, « Écritures de la subversion : _les arpilleristas chiliennes », Archives of Women Artists Research & Exhibitions magazine_ \[en ligne\], mis en ligne le 17 mars 2019, consulté le 29 juin 2020, [https://awarewomenartists.com/magazine/ecritures-de-la-subversion-les-arpilleristas-chiliennes/](https://awarewomenartists.com/magazine/ecritures-de-la-subversion-les-arpilleristas-chiliennes/)</small>
+<small>\* Cette note se base sur l'article de Roberta Garieri, «&nbsp;Écritures de la subversion : _les arpilleristas chiliennes&nbsp;», Archives of Women Artists Research & Exhibitions magazine_ \[en ligne\], mis en ligne le 17 mars 2019, consulté le 29 juin 2020, [https://awarewomenartists.com/magazine/ecritures-de-la-subversion-les-arpilleristas-chiliennes/](https://awarewomenartists.com/magazine/ecritures-de-la-subversion-les-arpilleristas-chiliennes/)</small>

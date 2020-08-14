@@ -15,7 +15,7 @@ booking: |-
   * 04 230 70 50
 practical: ''
 ---
-Cette création raconte l’histoire d’Espérance, une jeune étudiante d’origine rwandaise qui, un matin d’hiver, rencontre par hasard le dénommé Jean Le Bosco, dit « Le Finisseur » dans un commerce de la ville. Ce même homme qui, quelques années auparavant, le 14 avril 1994, à Kigali, a violé sa mère et participé au massacre de toute sa famille. « 9h06… » évoque la quête désespérée de cette jeune Tutsi qui s’efforce de faire entendre sa voix et d’obtenir justice. En vain.
+Cette création raconte l’histoire d’Espérance, une jeune étudiante d’origine rwandaise qui, un matin d’hiver, rencontre par hasard le dénommé Jean Le Bosco, dit «&nbsp;Le Finisseur&nbsp;» dans un commerce de la ville. Ce même homme qui, quelques années auparavant, le 14 avril 1994, à Kigali, a violé sa mère et participé au massacre de toute sa famille. «&nbsp;9h06…&nbsp;» évoque la quête désespérée de cette jeune Tutsi qui s’efforce de faire entendre sa voix et d’obtenir justice. En vain.
 
 Interprétée par Nancy Nkusi et Rose Muhikira, cette courte pièce est une adaptation de la nouvelle littéraire _9 h 06, Le Finisseur est de retour_ écrite par Hugues Dorzée et publiée aux éditions des Territoires de la Mémoire, collection Libres Écrits dans le recueil de nouvelles Passage de Mémoire (Prix des Territoires de la Mémoire 2010).
 
