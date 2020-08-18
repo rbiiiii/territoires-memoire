@@ -4,7 +4,7 @@ categories: agenda
 title: Poésie insoumise à Hélécine
 date_start: 2020-06-22
 date_stop: 2020-08-28
-img_file: /assets/uploads/poesie-insoumise_illu-generique_focustm.jpg
+img_file: /assets/uploads/poesie-insoumise-ok.jpg
 place: Musée Armand Pellegrin
 address: rue du Moulin, 15, 1357 à Hélécine
 price: Entrée libre
