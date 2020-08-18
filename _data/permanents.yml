@@ -44,12 +44,21 @@
   categorie: Éditions et Études
   categorie_slug: editions-etudes
 
-- nom: Déborah Colombini
+# - nom: Déborah Colombini
+#   titre: Déléguée 
+#   tel: 04 232 70 63
+#   email: 
+#     - deborahcolombini@territoires-memoire.be
+#   photo: deborah_colombini.jpg
+#   categorie: Éditions et Études
+#   categorie_slug: editions-etudes
+
+- nom: Jenifer Devresse
   titre: Déléguée 
   tel: 04 232 70 63
   email: 
-    - deborahcolombini@territoires-memoire.be
-  photo: deborah_colombini.jpg
+    - jeniferdevresse@territoires-memoire.be
+  photo: jenifer_devresse.jpg
   categorie: Éditions et Études
   categorie_slug: editions-etudes
 
