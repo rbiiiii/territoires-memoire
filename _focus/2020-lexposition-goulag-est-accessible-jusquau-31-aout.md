@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: L'exposition Goulag est accessible jusqu'au 31 août !
 posted_on: 2020-07-06
 link: https://www.territoires-memoire.be/agenda/2020/03/goulag/
