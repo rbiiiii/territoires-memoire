@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: "Aide-mémoire fait débat #17 : Exil, transmission et mémoire au quotidien"
+title: "Aide-mémoire fait débat #17 : Exil, migrations et transmissions"
 date_start: 2020-09-10
 date_stop: ""
 hour: 18h
