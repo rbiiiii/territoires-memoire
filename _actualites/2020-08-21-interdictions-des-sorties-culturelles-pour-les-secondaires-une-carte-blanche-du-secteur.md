@@ -27,4 +27,4 @@ Enfin, comment ne pas voir dans cette mesure des craintes irrationnelles quant �
 
 La survie du monde culturel déjà bien mis à mal par les contraintes nées de la pandémie est en jeu : cette nouvelle mesure aussi contraignante qu’absurde prive de nombreux acteurs culturels non seulement de leur public mais du sens même de leur action !
 
-Lien vers la carte blanche dans le journal [Le Soir](https://plus.lesoir.be/319858/article/2020-08-19/interdictions-des-sorties-culturelles-pour-les-secondaires-une-carte-blanche-du)
+Lien vers la carte blanche dans le journal [Le Soir](https://plus.lesoir.be/319858/article/2020-08-19/interdictions-des-sorties-culturelles-pour-les-secondaires-une-carte-blanche-du).
