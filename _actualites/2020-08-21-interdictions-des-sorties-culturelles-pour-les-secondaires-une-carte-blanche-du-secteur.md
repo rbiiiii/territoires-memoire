@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: "Interdictions des sorties culturelles pour les secondaires: une carte
   blanche du secteur"
