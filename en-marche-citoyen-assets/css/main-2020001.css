@@ -125,20 +125,20 @@ html {
 .block {
     margin: 0 0 8rem 0;
 }
-.block_intro {
+.block--intro {
     max-width: 580px;
     margin-left: auto;
     margin-right: auto;
     padding:0 0.6rem;
 }
-.block_map {
+.block--map {
     text-align: center;
     padding:0 0.6rem;
 }
-.block_map img {
+.block--map img {
     max-width:100%;
 }
-.block_questions {
+.block--questions {
     margin-bottom:0;
 }
 
