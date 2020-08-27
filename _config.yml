@@ -1,7 +1,7 @@
 title: Territoires de la Mémoire
 email: robinfoguenne@territoires-memoire.be
 description: >- # this means to ignore newlines until "baseurl:"
-  L'asbl Les Territoires de la Mémoire est un centre d'Éducation à la Résistance et à la Citoyenneté.
+  L'asbl Les Territoires de la Mémoire est un centre d'éducation à la résistance et à la citoyenneté.
 #baseurl: "/nouveau2018" # the subpath of your site, e.g. /blog
 url: "https://www.territoires-memoire.be" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rbiiiii
