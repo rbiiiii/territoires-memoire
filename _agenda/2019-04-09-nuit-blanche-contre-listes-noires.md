@@ -47,7 +47,7 @@ A La Cité Miroir, sous la forme de buffet du monde aux couleurs de la campagne 
 **17h30 - Inauguration officielle**
 
 Verre de la Résistance\
-_Entrée libre sans réservation_
+_Gratuit sans réservation_
 
 \> Attention, le buffet du monde ci-dessous à 18h est accessible moyennant réservation.
 

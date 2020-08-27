@@ -83,7 +83,7 @@ En résumé :
 
 27 mouvements et associations construiront ensemble cette première édition !
 
-La journée sera ouverte à tous et l’entrée libre.
+La journée sera ouverte à tous et l’Gratuit.
 
 Le groupe CHICOS Y MENDES clôturera la journée en musique !
 

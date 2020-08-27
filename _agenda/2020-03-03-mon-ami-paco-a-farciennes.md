@@ -10,11 +10,11 @@ place: >-
   Administration communale de Farciennes  Rue de La Liberté 40  -  6240
   Farciennes
 address: Rue de La Liberté 40  -  6240 Farciennes
-price: Entrée libre
+price: Gratuit
 tags:
   - Exposition
 schedule: 'Accessible au public du 21 mars au 17 avril de 9h à 16h, du lundi au vendredi.'
-entrance: Entrée libre
+entrance: Gratuit
 practical: |-
   Vernissage le 21 mars 2020 à 10h30
 

@@ -11,7 +11,7 @@ price: Entée libre
 tags:
   - ''
 schedule: "Ouvert \r\njeudi 21/03 de 10h à 16h\r\nvendredi 22/03 de 10h à 12h\r\nsamedi 23/03 de 13h à 16h\r\ndu lundi 25/03 au mercredi 27/03 de 10h à 16h\r\n"
-entrance: Entrée libre
+entrance: Gratuit
 booking: ''
 practical: Contact 02 536 17 45
 ---

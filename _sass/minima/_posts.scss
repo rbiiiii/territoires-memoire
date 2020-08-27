@@ -68,6 +68,13 @@
     font-size:120%;
 }
 
+.post__meta__content {
+
+    & > :last-of-type {
+        margin-bottom:0;
+    }
+}
+
 .post__meta__list {
     margin-bottom:0;
 

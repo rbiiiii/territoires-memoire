@@ -7,11 +7,11 @@ date_stop: 2020-08-28
 img_file: /assets/uploads/poesie-insoumise-ok.jpg
 place: Musée Armand Pellegrin
 address: rue du Moulin, 15, 1357 à Hélécine
-price: Entrée libre
+price: Gratuit
 tags:
   - Exposition
 schedule: de 13 heures à 17 heures, fermé les lundis
-booking: " Contact : Sylvain Benoit, 0498/675472"
+booking: "Réservation et contact : Sylvain Benoit, 0498/675472"
 ---
 Cette exposition propose un regard sur la poésie, le poème, le poétique dans leur caractère insoumis, en tant que possibles outils de lutte, de refus, de pas de côté, de proposition alternative. Dans la lignée de notre travail contre toutes les formes de déshumanisation, le projet Bibliothèque insoumise souhaite évoquer ce qui peut, à l’inverse, favoriser un supplément d’humanité c’est-à-dire notre rapport à l’autre, à nous-mêmes et ce qui nous est nécessaire pour vivre ensemble.
 

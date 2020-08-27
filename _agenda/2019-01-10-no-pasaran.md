@@ -8,14 +8,14 @@ hour: 9h30 à 16h
 img_file: /assets/uploads/no-pasaran.jpg
 place: Salle du bar - Place Arthur Lacroix - 5030 Gembloux
 address: 'Place Arthur Lacroix 4, 5030 Gembloux'
-price: Entrée libre
+price: Gratuit
 tags:
   - Exposition itinérante
 schedule: Du lundi au samedi de 9h30 à 16h
 entrance: |-
-  Exposition : entrée libre
+  Exposition : Gratuit
 
-  Séminaire : entrée libre sur réservation
+  Séminaire : Gratuit sur réservation
 booking: "Réservation : Erika Donis\r\n\n0476 24 50 94 – erikadonis59@yahoo.fr"
 practical: ''
 ---

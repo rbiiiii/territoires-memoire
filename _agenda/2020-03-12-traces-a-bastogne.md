@@ -7,7 +7,7 @@ date_stop: 2020-04-21'
 img_file: /assets/uploads/traces_visuelsitetm_1240x480.jpg
 place: Hôtel de Ville de Bastogne
 address: 'Rue du Vivier 58, 6600 Bastogne'
-price: Entrée libre
+price: Gratuit
 tags:
   - Exposition
 schedule: Accessible au public du 16 au 21 avril 2020 de 9h à 12h et de 13h à 17h

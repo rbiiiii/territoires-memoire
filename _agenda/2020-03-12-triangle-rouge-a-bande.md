@@ -7,7 +7,7 @@ date_stop: 2020-12-20'
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: Salle La Petite Europe
 address: 'Grand''rue 48-50, 6951 BANDE'
-price: Entrée libre
+price: Gratuit
 tags:
   - Exposition
 schedule: >-

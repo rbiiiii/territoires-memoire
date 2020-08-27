@@ -8,11 +8,12 @@ hour: 10h-18h
 img_file: /assets/uploads/20201107_tdlm_editions_rencontresergoi_sitetm.jpg
 place: Bibliothèque George Orwell
 address: 22 place Xavier-Neujean. 4000 Liège
-price: Entrée libre
+price: Gratuit
 tags:
   - Atelier
-booking: "Information et inscription :
-  [editions@territoires-memoire.be](mailto:editions@territoires-memoire.be)"
+booking: "**Réservation obligatoire**  
+via e-mail ou téléphone :
+  [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be) / 04 232 70 62"
 practical: Public adulte
 ---
 À l’occasion de la parution du dernier recueil de Timotéo Sergoï intitulé *Apocapitalypse*, les Territoires de la Mémoire vous invitent à participer à un atelier de linogravure, en compagnie de l'auteur, poète, artiste et comédien.

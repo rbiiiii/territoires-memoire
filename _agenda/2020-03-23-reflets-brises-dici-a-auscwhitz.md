@@ -10,17 +10,16 @@ address: Place Xavier Neujean 22  4000 Liège
 tags:
   - Exposition
 schedule: |-
-  <!--StartFragment-->
-
-  Lundi au vendredi 9h-18h\
+  Lundi au vendredi 9h-18h  
   Samedi et dimanche 10h-18h
-
-  <!--EndFragment-->
-entrance: "**Gratuit**"
 practical: >-
-  à la Bibliothèque George Orwell (espace rencontre)\
+  à la Bibliothèque George Orwell 
+  
+  (espace rencontre)\
 
-  **[bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be) - 04 232 70 62**
+  [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)\
+  
+  04 232 70 62
 ---
 Prises lors du voyage de la Régie de Quartier d’Andenne à Auschwitz, les photos de Geoffrey Meuli ont plus d’un intérêt. Elles sont esthétiques et sensibles. Cadrage, lumière et composition rendent parfaitement compte du voyage à Auschwitz et, notamment, de l’émotion des visiteurs provoquée par la découverte de ce lieu tragique.
 

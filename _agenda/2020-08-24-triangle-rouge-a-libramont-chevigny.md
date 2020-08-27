@@ -7,7 +7,7 @@ date_stop: 2020-10-11
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: Centre culturel de Libramont-Chevigny
 address: Avenue d'Houffalize 56d, 6800 Libramont-Chevigny
-price: Entrée libre
+price: Gratuit
 tags:
   - Exposition
 schedule: "du lundi au vendredi de 10h à 16h (dernière admission à 15h) et le

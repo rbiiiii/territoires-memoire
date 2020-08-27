@@ -11,7 +11,7 @@ address: Rue de la Grande Triperie 44 7000 Mons
 tags:
   - exposition
 schedule: Heure d’ouverture de 9h à 16h - Fermé de 12h à 13h
-entrance: Entrée libre
+entrance: Gratuit
 booking: "Pour les groupes, inscriptions obligatoires au 065/84 73 22\r ou delphine.fevrier@laicite.net"
 practical: |-
   Vernissage le vendredi 28 novembre à 18h30

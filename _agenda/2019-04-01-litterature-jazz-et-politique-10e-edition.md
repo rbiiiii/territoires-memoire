@@ -8,7 +8,7 @@ hour: 19h
 img_file: /assets/uploads/ljp-site-tm.jpg.png
 place: 'Théâtre de Liège - Place du 20-Août, 16 · 4000 Liège'
 address: 'Place du 20-Août, 16 · 4000 Liège'
-price: Entrée libre sur réservation
+price: Gratuit sur réservation
 tags:
   - Littérature
 booking: |-

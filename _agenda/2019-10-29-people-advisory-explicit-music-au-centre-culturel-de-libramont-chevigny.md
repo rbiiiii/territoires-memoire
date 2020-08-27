@@ -8,7 +8,7 @@ hour: ''
 img_file: /assets/uploads/people-advisory-explicit-music-visuel-agenda.png
 place: 'Avenue de Houffalize 56d, 6800 Libramont-Chevigny'
 address: 'Avenue de Houffalize 56d, 6800 Libramont-Chevigny'
-price: Entrée libre
+price: Gratuit
 tags:
   - Exposition
 schedule: |-

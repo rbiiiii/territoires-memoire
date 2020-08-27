@@ -8,11 +8,12 @@ hour: 18h
 img_file: /assets/uploads/20201110_tdlm_editions_rencontresergoi_sitetm.jpg
 place: Bibliothèque George Orwell - Cité Miroir
 address: 22 place Xavier-Neujean. 4000 Liège
-price: Entrée libre
+price: Gratuit
 tags:
   - Rencontre
-practical: "Information :
-  [editions@territoires-memoire.be](mailto:editions@territoires-memoire.be)"
+booking: "**Réservation obligatoire**  
+via e-mail ou téléphone :
+  [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be) / 04 232 70 62"
 ---
 Les Territoires de la Mémoire vous convient à un apéro-poétique avec Timotéo Sergoï pour son livre *Apocapitalypse* paru aux éditions des Territoires de la Mémoire. Ce sera également l'occasion de présenter des résultats de l’atelier de linogravure du 7 novembre.
 

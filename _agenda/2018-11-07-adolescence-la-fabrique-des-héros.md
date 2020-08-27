@@ -7,7 +7,7 @@ date_stop: ''
 img_file: /assets/uploads/20180801agenda-fabrique.jpg
 place: 'Pl. Xavier-Neujean 22, 4000 Liège'
 address: 'Pl. Xavier-Neujean 22, 4000 Liège'
-price: Entrée libre
+price: Gratuit
 tags:
   - exposition
 schedule: "Horaire de visite :\r\n\n\\- le lundi de 9 h à 12 h\r\n\n\\- mercredi et vendredi de 13 h à 18 h\r\n\n\\- samedi et dimanche de 10 h à 18 h\r\n\nVisites guidées pour les groupes en dehors de cet horaire, veuillez contacter le Sips."

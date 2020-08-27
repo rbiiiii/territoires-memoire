@@ -8,7 +8,7 @@ hour: ''
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: Maison des associations de Lessines (Gare)
 address: 'Rue René Magritte, 26 à 7860 Lessines'
-price: Entrée libre
+price: Gratuit
 tags:
   - Triangle Rouge
 schedule: "Ouvert\r\n\nVernissage le mercredi 25 septembre à 19 h\r\n\nVisites guidées pour les groupes scolaires assurées par les élèves\r de 5e et 6e années secondaires de l’AR René Magritte de Lessines.\r\n\n\n\n\n\nContact : Monsieur Francis Plouquet 068 34 08 81"

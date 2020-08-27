@@ -12,7 +12,7 @@ tags:
   - Commémoration
 schedule: "* 18h30 : accueil et exposition à la mémoire des disparus\r\n* 19h30 : présentation d'un court documentaire par le cinéaste Ronnie Ramirez (Zin TV)\r\n* 20h00 : interventions avec une représentante des Familles de Détenus-disparus au Chili, Jorge Magasich et Pablo Sepúlveda Allende\r\n* 21h15 : intervention musicale par 2-3G/Chili"
 entrance: ''
-practical: '* Entrée libre'
+practical: '* Gratuit'
 ---
 Le 11 septembre 1973, le gouvernement démocratiquement élu de Salvador Allende est renversé lors d’un coup d’État. Le pays sombre ensuite dans une dictature sanglante qui fera disparaître plus de 3 000 opposants politiques. 45 ans plus tard, le mardi 11 septembre 2018, la 2e et 3e génération de Chiliens de Liège et les Territoires de la Mémoire vous invitent à commémorer cet anniversaire en présence de Pablo Sepúlveda Allende, le petit fils de l’ancien président, et de Jorge Magasich.
 
