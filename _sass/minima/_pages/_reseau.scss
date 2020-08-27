@@ -165,6 +165,15 @@ a.leaflet-popup-close-button {
     }
 }
 
+.leaflet-interactive {
+    transition:color 150ms ease-out;
+
+    &:hover {
+        stroke: $rouge-tm;
+        fill: $rouge-tm;
+    }
+}
+
 .list-reseau {
     margin-top:$spacing-unit/2;
 
