@@ -143,6 +143,15 @@
   categorie: Projets
   categorie_slug: projets
 
+- nom: Catherine Delhasse
+  titre: Déléguée
+  tel: 04 250 99 53
+  email: 
+    - catherinedelhasse@territoires-memoire.be
+  photo: catherine_delhasse.jpg
+  categorie: Projets
+  categorie_slug: projets
+
 - nom: Julie Mignolet
   titre: Déléguée
   tel: 04 232 70 02
