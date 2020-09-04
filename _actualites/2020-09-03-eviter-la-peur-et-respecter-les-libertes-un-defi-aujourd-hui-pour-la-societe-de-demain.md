@@ -1,10 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: "Éviter la peur et respecter les libertés : un défi aujourd’hui pour la
   société de demain"
-img_file: /assets/uploads/tracking-covid-lettre-ouverte.jpg
+img_file: /assets/uploads/lettreouverte-gestion-covid_web.jpg
 posted_on: 2020-09-03
 ---
 **Une approche élargie pour un problème nouveau**
