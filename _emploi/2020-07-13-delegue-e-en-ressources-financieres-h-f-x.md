@@ -3,7 +3,7 @@ layout: post
 title: Assistant·e en Ressources financières (H/F/X)
 subtitle: Contrat à durée indéterminée
 posted_on: 2020-07-13
-end_of_life: 2020-09-08
+end_of_life: 2020-09-23
 emploi_url: https://docs.google.com/forms/d/e/1FAIpQLSeycCOG81GmyCFNHxzcsPmtI5Iz8qOeKmmJkN1cWpXt61U0jA/viewform
 ---
 # Description de fonction
