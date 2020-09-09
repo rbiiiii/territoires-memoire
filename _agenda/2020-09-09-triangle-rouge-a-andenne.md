@@ -3,7 +3,7 @@ layout: post
 categories: agenda
 title: Triangle Rouge à Andenne
 date_start: 2020-10-13
-date_stop: 2020-09-30
+date_stop: 2020-10-30
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: Centre Culturel d’Andenne
 address: Rue de la Papeterie 2A, Andenne
