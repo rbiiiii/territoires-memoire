@@ -5,7 +5,7 @@ title: Poésie Insoumise à Clavier
 date_start: 2020-09-15
 date_stop: 2020-10-05
 img_file: /assets/uploads/poesie-insoumise-ok.jpg
-place: Asbl L’Atelier(s)
+place: Asbl L’Atelier(s) - Rue du centre 36, 4560 Les Avins
 address: 36, rue du centre, 4560 Les Avins
 price: Gratuit
 tags:
