@@ -6,7 +6,7 @@ date_start: 2020-09-29
 date_stop: ""
 hour: 17h30
 img_file: /assets/uploads/cvfe_sitetm.jpg
-place: CVFE. Rue Maghin 11, 4000 Liège
+place: "CVFE. "
 address: Rue Maghin 11, 4000 Liège
 tags:
   - Ciné-débat
