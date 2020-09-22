@@ -5,7 +5,7 @@ title: IVG - Etat des lieux
 date_start: 2020-09-29
 date_stop: ""
 hour: 17h30
-img_file: /assets/uploads/120093770_1702800206549713_5809026464230174668_n.jpg
+img_file: /assets/uploads/cvfe_sitetm.jpg
 place: CVFE. Rue Maghin 11, 4000 Liège
 address: Rue Maghin 11, 4000 Liège
 tags:
