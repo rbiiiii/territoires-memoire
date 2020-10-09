@@ -172,8 +172,8 @@
 
 .page-section__description {
     @extend %limited-width;
-    @include relative-font-size(1.2);
     max-width:$large-width;
+    @include relative-font-size(1.2);
     
     &:last-of-type {
         margin-bottom:0;

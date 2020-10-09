@@ -2,8 +2,8 @@
 <div class="pdf-txt {{ slug }}">
     {%- assign items = site.data.pdf_txt_items | where: 'categorie', slug -%}
     {%- for pdf-txt-item in items -%}
-        <div class="pdf-txt__item">
-            {%- if pdf-txt-item.pdf_src != null -%}
+        <article class="pdf-txt__item">
+            {%- if pdf-txt-item.pdf_src != "" -%}
                 <a 
                 class="pdf-txt__item__link"
                 href="/assets/pdf/{{ include.folder }}/{{ pdf-txt-item.pdf_src }}"> 
@@ -42,6 +42,6 @@
                     {%- endfor -%}
                 </ul>
             {%- endif -%}
-        </div>
+        </article>
     {%- endfor -%}
 </div>

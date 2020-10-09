@@ -43,7 +43,6 @@
                 margin:0;
                 padding:0;
                 grid-column: start-txt / stop-txt;
-                @include relative-font-size(1.2);
             }
 
             .page-section__content {
@@ -79,5 +78,13 @@
         a.button {
             font-size: 0.85em;
         }
+    }
+}
+
+.list--formations {
+
+    .card {
+        margin-top:$spacing-unit;
+        margin-bottom: 0;
     }
 }

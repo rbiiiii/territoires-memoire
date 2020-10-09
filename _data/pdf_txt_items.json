@@ -120,21 +120,21 @@
 	{
 		"title": "Le jeu Résiste !",
 		"img_src": "pdf-outils-jeu_resiste.jpg",
-		"txt" : "Résiste ! est un jeu de tuiles dont le but est de mettre à jour l’ordinateur central et ainsi le libérer du contrôle de Technomania. Pour atteindre cet objectif, il faut relever des épreuves et rassembler les quatre pièces d’un puzzle. Une fois celui-ci complété, la mise à jour peut être lancée et faire de l’ordinateur central un outil au service de toutes et tous&nbsp;!",
+		"txt" : "Résiste ! est un jeu de tuiles coopératif à destination des enfants de 9 à 13 ans. Ensemble, les joueurs et joueuses doivent se montrer solidaires pour réinstaurer la démocratie face au parti totalitaire Technomania. Rythmé par des questions-réponses, des défis et un visuel détonnant, le jeu se veut un réel outil pour sensibiliser à la démocratie et à la résistance.",
 		"categorie": "outils-pedagogiques"
 	},
 	{
 		"title": "Regards sur les migrations",
 		"img_src": "pdf-outils-regards_sur_les_migrations.jpg",
 		"pdf_src": "tm-outils-regards_sur_les_migrations.pdf",
-		"txt" : "Cet outil aborde la problématique complexe des migrations et s’articule autour d’une approche par compétence. Le dossier est à vocation multidisciplinaire, voire interdisciplinaire. Prêt à l’emploi, il est constitué de fiches d’activités destinées à être photocopiées et distribuées aux élèves.",
+		"txt" : "Cet outil, réalisé en 2011, aborde la question des migrations et s’articule autour d’une approche par compétences. Le dossier, à vocation interdisciplinaire, permet aux personnes enseignantes du degré secondaire supérieur, d’aborder le vaste sujet des migrations via de multiples portes d’entrée thématiques (historique des flux migratoires en Europe, travail sur les préjugés entourant la thématique des migrations, cas particulier de la communauté Roms,...). Prêt à l’emploi, il est constitué de 11 fiches d’activités clé sur porte (questionnaires, photolangage, graphiques, ...).",
 		"categorie": "outils-pedagogiques"
 	},
 	{
 		"title": "Avec ou sans sel",
 		"img_src": "pdf-outils-avec_ou_sans_sel.jpg",
 		"pdf_src": "tm-outils-avec_ou_sans_sel.pdf",
-		"txt" : "Le classeur pédagogique Avec ou sans sel comprend d’une part un DVD du court métrage Avec ou sans sel et d’autre part, un dossier pédagogique d’exploitation du film.",
+		"txt" : "Réalisé en 2007 dans le cadre d’un projet sur le racisme mené avec des jeunes issus d’AMO, le classeur pédagogique Avec ou sans sel, destiné à un public de 15 ans et plus, comprend d’une part le DVD du court métrage Avec ou sans sel et d’autre part, un dossier pédagogique d’exploitation du film décliné en trois grandes thématiques : identité, démocratie/citoyenneté et extrême-droite.",
 		"categorie": "outils-pedagogiques"
 	},
 	{
@@ -147,6 +147,23 @@
 			{
 				"title" : "Dossier pédagogique",
 				"url" : "/assets/pdf/eduquer/tm-outils-vacances_de_jules-dossier_pedagogique.pdf"
+			}
+		]
+	},
+	{
+		"title": "Mon ami Paco",
+		"img_src": "pdf-mon_ami_paco.jpg",
+		"pdf_src": "",
+		"txt":"Mon ami Paco, est un livre pour enfants, qui aborde les questions de l’immigration, de l’enfermement arbitraire des personnes sans-papiers et de la solidarité. De manière artistique et avec poésie, il permet de susciter le débat autour de : Qu’est-ce qu’une personne réfugiée ? Qu’est-ce qu’un centre fermé ? Comment se déroule une procédure de demande d’asile ? Peut-on réagir ? Si oui, comment ? … ",
+		"categorie": "outils-pedagogiques",
+		"peda": [
+			{
+				"title" : "Exposition itinérante",
+				"url" : "#expositions-itinerantes"
+			},
+			{
+				"title" : "Dossier pédagogique",
+				"url" : "/assets/pdf/eduquer/tm-exposition-mon_ami_paco-dossier_pedagogique.pdf"
 			}
 		]
 	},

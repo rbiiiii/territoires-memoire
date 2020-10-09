@@ -8,10 +8,10 @@
         {%- assign items = items-without-mention | where:'special_mention', special_mention -%}
     {%- endif -%}
     {%- for pdf-item in items -%}
-        <div class="grid__item pdf__item {{ include.slug }}__item">
+        <article class="grid__item pdf__item {{ include.slug }}__item">
             {%- if pdf-item.link -%}
                 {%- if pdf-item.external -%}
-                    <a 
+                    <article 
                     class="grid__item__link {{ include.slug }}__item__link"
                     href="{{ pdf-item.link }}">
                 {%- else -%}
@@ -38,6 +38,6 @@
                 <p class="grid__item__author">{{ pdf-item.author }}</p>
                 {%- endif -%}
             {%- endif -%}
-        </div>
+        </article>
     {%- endfor -%}
 </div>
