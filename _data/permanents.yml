@@ -167,7 +167,7 @@
   email: 
     - michelrecloux@territoires-memoire.be
   photo: michel_recloux.jpg
-  categorie: Bibliothèque
+  categorie: Bibliothèque et Librairie
   categorie_slug: bibliotheque
 
 - nom: Jérôme Delnooz
@@ -176,7 +176,7 @@
   email: 
     - jeromedelnooz@territoires-memoire.be
   photo: jerome_delnooz.jpg
-  categorie: Bibliothèque
+  categorie: Bibliothèque et Librairie
   categorie_slug: bibliotheque
 
 - nom: Maud Herbet
@@ -185,14 +185,14 @@
   email: 
     - maudherbet@territoires-memoire.be
   photo: maud_herbet.jpg
-  categorie: Bibliothèque
+  categorie: Bibliothèque et Librairie
   categorie_slug: bibliotheque
 
 - nom: Tamara Hannay
-  titre: Déléguée
+  titre: Déléguée librairie Stéphane Hessel
   tel: 04 250 99 40
   email: 
     - tamarahannay@territoires-memoire.be
   photo: tamara_hannay.jpg
-  categorie: Bibliothèque
+  categorie: Bibliothèque et Librairie
   categorie_slug: bibliotheque
