@@ -1,0 +1,20 @@
+fr:
+  label: Français
+  code: fr
+  url: "/"
+  flag: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 2"><path fill="#ED2939" d="M0 0h3v2H0z"/><path fill="#fff" d="M0 0h2v2H0z"/><path fill="#002395" d="M0 0h1v2H0z"/></svg>'
+nl:
+  label: Nederlands
+  code: nl
+  url: "/nl/"
+  flag: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 6"><rect fill="#21468B" width="9" height="6"/><rect fill="#FFF" width="9" height="4"/><rect fill="#AE1C28" width="9" height="2"/></svg>'
+de:
+  label: Deutsche
+  code: de
+  url: "/de/"
+  flag: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5 3"><desc>Flag of Germany</desc><rect width="5" height="3" y="0" x="0" fill="#000"/><rect width="5" height="2" y="1" x="0" fill="#D00"/><rect width="5" height="1" y="2" x="0" fill="#FFCE00"/></svg>'
+en:
+  label: English
+  code: en
+  url: "/en/"
+  flag: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30"><clipPath id="a"><path d="M0 0v30h60V0z"/></clipPath><clipPath id="b"><path d="M30 15h30v15zv15H0zH0V0zV0h30z"/></clipPath><g clip-path="url(#a)"><path d="M0 0v30h60V0z" fill="#012169"/><path d="M0 0l60 30m0-30L0 30" stroke="#fff" stroke-width="6"/><path d="M0 0l60 30m0-30L0 30" clip-path="url(#b)" stroke="#C8102E" stroke-width="4"/><path d="M30 0v30M0 15h60" stroke="#fff" stroke-width="10"/><path d="M30 0v30M0 15h60" stroke="#C8102E" stroke-width="6"/></g></svg>'

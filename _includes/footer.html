@@ -3,36 +3,30 @@
     <img class="site-footer__img" src="/assets/images/centre-d-education-a-la-resistance-et-a-la-citoyennete.svg" alt="Centre d'éducation à la résistance et à la citoyenneté">
     <nav class="site-footer__list-links list--no-style">
       <ul>
-        <li><a href="/presse" class="site-footer__list-link">Presse</a></li>
-        <li><a href="/ressources-graphiques" class="site-footer__list-link">Ressources graphiques</a></li>
-        <li><a href="/education-permanente" class="site-footer__list-link">Éducation permanente</a></li>
-        <li><a href="/emploi" class="site-footer__list-link">Emploi</a></li>
-        <!-- <li><a href="/aux-livres-citoyens" class="site-footer__list-link">Aux Livres,&nbsp;Citoyens !</a></li> -->
-        <li><a href="/en-lien" class="site-footer__list-link">En lien</a></li>
-        <li><a href="/soutiens" class="site-footer__list-link">Ils nous soutiennent</a></li>
-        <li><a href="{{ site.url }}/assets/uploads/tdlm-notre-offre-2020.pdf" class="site-footer__list-link" target="_blank" rel="noopener">Notre&nbsp;offre</a></li>
+        {% for item in site.data.footer[page.lang].menu %}
+          <li><a href="{{ item.link }}" class="site-footer__list-link">{{ item.text }}</a></li>
+        {% endfor %}
       </ul>
     </nav>
     <div class="site-footer__newsletter">
       <img class="site-footer__newsletter__img" src="/assets/images/icons/tm-icon-email-share.svg" alt="lettre d'information">
-      <a href="https://my.sendinblue.com/users/subscribe/js_id/2j4af/id/9">Inscrivez-vous à notre lettre d'information</a>
+      <a href="https://my.sendinblue.com/users/subscribe/js_id/2j4af/id/9">{{ site.data.footer[page.lang].newsletter_text }}</a>
     </div>
     <div class="site-footer__address">
-        <p>Territoires de la Mémoire asbl</p>
-        <p>Boulevard&nbsp;de&nbsp;la&nbsp;Sauvenière 33-35&nbsp;à&nbsp;4000&nbsp;Liège</p>
-        <p><a href="mailto:accueil@territoires-memoire.be">accueil@territoires-memoire.be</a></p>
-        <p>Téléphone&nbsp;: 04&nbsp;232&nbsp;70&nbsp;60</p>
-        <p>N° d’entreprise&nbsp;: 453&nbsp;099&nbsp;470</p>
-        <p><a href="/politique-de-confidentialite">Politique de confidentialité</a></p>
+      <p>{{ site.data.footer[page.lang].contact.title }}</p>
+      <p>{{ site.data.footer[page.lang].contact.address }}</p>
+      <p><a href="mailto:{{ site.data.footer[page.lang].contact.email }}">{{ site.data.footer[page.lang].contact.email }}</a></p>
+      <p>{{ site.data.footer[page.lang].contact.tel }}</p>
+      <p>{{ site.data.footer[page.lang].contact.entreprise }}</p>
+      <p><a href="/politique-de-confidentialite">{{ site.data.footer[page.lang].contact.privacy }}</a></p>
     </div>
     <div class="site-footer__small-text">
       <ul class="list--no-style">
-        <li>Association communautaire - Décret Éducation permanente (Fédération Wallonie-Bruxelles)</li>
-        <li>Centre de ressources pour la transmission de la Mémoire – Décret Mémoire (Fédération Wallonie-Bruxelles)</li>
-        <li>Représentant la Fédération Wallonie-Bruxelles auprès de l’IHRA (International Holocaust Remembrance Alliance)</li>
-        <li>Citoyen européen de l’année 2015</li>
+        {% for award in site.data.footer[page.lang].awards %}
+          <li>{{ award }}</li>
+        {% endfor %}
       </ul>
-      <p class="site-footer__soutien">Avec le soutien de :</p>
+      <p class="site-footer__soutien">{{ site.data.footer[page.lang].support_text }}</p>
       <ul class="list list--no-style list--inline">
         <li>
           <a href="http://www.federation-wallonie-bruxelles.be/" title="Fédération Wallonie-Bruxelles">
@@ -52,8 +46,3 @@
 <button id="top-link">
   <svg width="40" height="40"><path fill="#FFF" d="M1 40V1h38v39"/><path fill="#003B62" d="M40 40h-2V2H2v38H0V0h40z"/><g><path fill="#FFF" d="M9.975 25.013L20 14.987l10.025 10.026"/><path fill="#003B62" d="M29.316 25.721L20 16.405l-9.316 9.316-1.418-1.417L20 13.569l10.733 10.735z"/></g></svg>
 </button>
-
-<script src="/assets/javascript/jquery.min.js"></script>
-<script src="/assets/javascript/jquery.fancybox.min.js"></script>
-<script src="/assets/javascript/slick.min.js"></script>
-<script src="/assets/javascript/main.js?ver=2019120402"></script>

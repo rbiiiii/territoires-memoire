@@ -1,6 +1,6 @@
 {%- capture categorie -%}{{ include.categorie }}{%- endcapture -%}
 <div class="list-permanents__group">
-    <h3 class="list-permanents__group__title"><span class="category">{{ categorie }}</span>
+    <h3 class="list-permanents__group__title"><span class="category">{{ include.categorie_titre }}</span>
          - <span class="meta"><a href="mailto:{{ include.email }}">{{ include.email }}</a></span>
          - <span class="meta">{{ include.tel }}</span></h3>
     <ul class="list-permanents__group__container list--no-style">

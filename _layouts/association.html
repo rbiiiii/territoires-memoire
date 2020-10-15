@@ -1,0 +1,129 @@
+---
+layout: static-page
+---
+<section class="page-section top">
+	<div class="page-section__content">
+		<div class="page-section__header-icons">
+			<div class="page-section__header-icon left">
+				{%- include_cached pages/pdf-link.html external="true" external_link=page.brochure.link text=page.brochure.text -%}
+			</div>
+		</div>
+		<div class="containers top">
+			<p class="chapeau container container--half">{{ page.intro_text }}</p>
+			<div class="card card--one container container--half">
+				<h3>{{ page.contact.title }}</h3>
+				<ul class="list--no-style">
+					<li>{{ page.contact.num }}</li>
+					<li><a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a></li>
+					<li>{{ page.contact.address }}</li>
+					<li><a href="https://goo.gl/maps/aKGLu3aBPwF2">{{ page.contact.map_text }}</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="page-tuiles">
+            {% for tuile in page.tuiles %}
+                {%- include_cached pages/page-tuile.html title=tuile.title url=tuile.url imageSlug="association" imageFileName=tuile.img -%}
+            {% endfor %}
+		</div>
+	</div>
+</section>
+
+<section id="un-engagement-fonde-sur-la-memoire" class="page-section">
+	<header class="page-section__header">
+		<div class="page-section__img">
+			<img src="/assets/images/association/engagement-fonde-sur-la-memoire.jpg" alt="{{ page.engagement.text }}" />
+			<img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur" />
+		</div>
+		<h2 class="page-section__title">{{ page.engagement.title}}</h2>
+	</header>
+	<div class="page-section__content limited">
+		{{ page.engagement.text | markdownify }}
+		<div class="containers containers--third" style="margin-top:40px">
+            {% for pdf in page.engagement.pdfs %}
+                <div class="container container--third">
+                    <div class="card card--one card--pdf-link card--centered {{ pdf.type }}">
+                        {%- include_cached pages/pdf-link.html slug="association" color="white" link=pdf.link text=pdf.text -%}
+                    </div>
+                </div>
+            {% endfor %}
+		</div>
+	</div>
+</section>
+
+<section id="ra" class="page-section">
+	<header class="page-section__header">
+		<div class="page-section__img">
+			<img src="/assets/images/association/rapports-d-activites.jpg" alt="{{ page.ra.title }}" />
+			<img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur" />
+		</div>
+		<h2 class="page-section__title">{{ page.ra.title }}</h2>
+	</header>
+	<div class="page-section__content limited">
+		<h3>Rapport d'activités 2019</h3>
+		<div class="ra-hero">
+			<div class="ra-hero__text">
+				<p>C’est une réalité ! L’Europe voit l’extrême-droite assombrir son avenir ! À nouveau ! Comme la répétition d’un mauvais rêve ! Les idées liberticides se répandent, elles grandissent en influence, elles se banalisent. Dans tous les pays d’Europe, en France, en Italie, en Pologne, en Hongrie, en Autriche, en Allemagne, au Royaume-Uni, en Espagne et dans notre pays, des partis ouvertement d’extrême-droite progressent, alors que cette perspective semblait impensable à la fin du siècle passé. Certains sont historiquement marqués à l’extrême droite, d’autres avancent masqués.</p>
+				<p>Et parallèle, les États qui fondent l’Europe et qui on fondé l’Union européenne après la guerre, dont le nôtre, tournent le dos aux valeurs universelles avec une multiplication de mesures répressives, sexistes, racistes et antisociales. L’Europe, une mer déchaînée où la tempête est la norme : violence politique, assassinat politique, exécutions extrajudiciaires, racisme ordinaire, racisme sur facebook, déni de solidarité, montée et installation de l’extrême droite dans les conseils et les assemblées, négationnisme, manipulation de l’histoire, manipulation de la mémoire, etc.</p>
+				<p>[...]</p>
+			</div>
+			<div class="ra-hero__img">
+				<a class="ra-hero__link" href="/assets/pdf/association/ra/tdlm-rapport_activites-2019.pdf">
+					<img src="/assets/images/association/ra/tm-ra-2019-big.jpg" alt="Rapport d'activités 2019" />
+				</a>
+			</div>
+		</div>
+		<div class="card card--one">
+			<h2>{{ page.ra.old.title }}</h2>
+			<p>{{ page.ra.old.description }}</p>
+			{%- include_cached pages/ra.html -%}
+		</div>
+	</div>
+</section>
+
+<section id="ca" class="page-section">
+	<header class="page-section__header">
+		<div class="page-section__img">
+			<img src="/assets/images/association/conseil-d-administration.jpg" alt="{{ page.ca.title }}" />
+			<img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur" />
+		</div>
+		<h2 class="page-section__title">{{ page.ca.title }}</h2>
+	</header>
+	<div class="page-section__content">
+		<div class="containers ca--top">
+			<div class="container container--half">
+				<ul class="list--no-style ca__list">
+					<li>Jérôme Jamin, <em>{{ page.ca.members.positions.president }}</em></li>
+					<li>Christel Djian, <em>{{ page.ca.members.positions.vice_president }}</em></li>
+					<li>Dominique Dauby, <em>{{ page.ca.members.positions.treasurer }}</em></li>
+				</ul>
+			</div>
+			<div class="container container--half">
+				<h3>{{ page.ca.members.title }}</h3>
+				<p>Dominique Dauby, Christel Djian, Michel Joachim, Robert Nuijts, Pierre Petry, Philippe Raxhon, Christian Schoysman, Jérôme Jamin, Serge Massart, Charlotte Rambeaux, Michaël Bisschops, Nadine Lino, Robert Moor, Jonathan Piron, Julie Castelain</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="permanents" class="page-section">
+	<header class="page-section__header">
+		<div class="page-section__img">
+			<img src="/assets/images/association/les-permanents.jpg" alt="{{ page.workers.title }}" />
+			<img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur" />
+		</div>
+		<h2 class="page-section__title">{{ page.workers.title }}</h2>
+		<h3 class="list-permanents__group__title">
+			{{ page.workers.contact_text }}&nbsp;: <span class="meta">{{ page.contact.num }}</span> -
+			<span class="meta">
+				<a href="mailto:{{ page.contact.email }}">{{ page.contact.email }}</a>
+			</span>
+		</h3>
+	</header>
+	<div class="page-section__content">
+		<div class="list-permanents">
+            {% for item in page.workers.list %}
+                {%- include_cached pages/permanents.html categorie=item.category categorie_titre=item.category_title email=item.email tel=item.tel -%}
+            {% endfor %}
+		</div>
+	</div>
+</section>

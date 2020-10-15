@@ -180,4 +180,8 @@ li.homepage-item {
         @include relative-font-size(1);
         margin-bottom:0;
     }
+
+    .homepage-item.xsmall & h3 {
+        @include relative-font-size(0.95);
+    }
 }

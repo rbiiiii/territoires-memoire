@@ -1,0 +1,120 @@
+fr:
+  menu:
+    - link: /presse
+      text: Presse
+    - link: /ressources-graphiques
+      text: Ressources graphiques
+    - link: /education-permanente
+      text: Éducation permanente
+    - link: /emploi
+      text: Emploi
+    - link: /en-lien
+      text: En lien
+    - link: /soutiens
+      text: Ils nous soutiennent
+    - link: /assets/uploads/tdlm-notre-offre-2020.pdf
+      text: Notre&nbsp;offre
+  newsletter_text: "Inscrivez-vous à notre lettre d'information"
+  contact:
+    title: Territoires de la Mémoire asbl
+    address: Boulevard&nbsp;de&nbsp;la&nbsp;Sauvenière 33-35&nbsp;à&nbsp;4000&nbsp;Liège
+    email: accueil@territoires-memoire.be
+    tel: "Téléphone&nbsp;: 04&nbsp;232&nbsp;70&nbsp;60"
+    entreprise: "N° d’entreprise&nbsp;: 453&nbsp;099&nbsp;470"
+    privacy: Politique de confidentialité
+  awards:
+    - "Association communautaire - Décret Éducation permanente (Fédération Wallonie-Bruxelles)"
+    - "Centre de ressources pour la transmission de la Mémoire – Décret Mémoire (Fédération Wallonie-Bruxelles)"
+    - "Représentant la Fédération Wallonie-Bruxelles auprès de l’IHRA (International Holocaust Remembrance Alliance)"
+    - "Citoyen européen de l’année 2015"
+  support_text: "Avec le soutien de :"
+nl:
+  menu:
+    - link: /presse
+      text: Pers (fr)
+    - link: /ressources-graphiques
+      text: Grafische middelen (fr)
+    - link: /education-permanente
+      text: Permanente scholing (fr)
+    - link: /emploi
+      text: Jobs (fr)
+    - link: /en-lien
+      text: Links (fr)
+    - link: /soutiens
+      text: Zij steunen ons (fr)
+    - link: /assets/uploads/tdlm-notre-offre-2020.pdf
+      text: Ons&nbsp;aanbod (fr)
+  newsletter_text: "Schrijf je in op onze informatiebrief (fr)"
+  contact:
+    title: Territoires de la Mémoire asbl
+    address: Boulevard&nbsp;de&nbsp;la&nbsp;Sauvenière 33-35&nbsp;in&nbsp;4000&nbsp;Luik
+    email: accueil@territoires-memoire.be
+    tel: "Telefoon&nbsp;: 04&nbsp;232&nbsp;70&nbsp;60"
+    entreprise: "Ondernemingsnummer:&nbsp;: 453&nbsp;099&nbsp;470"
+    privacy: Privacybeleid (fr)
+  awards:
+    - "Association communautaire - Décret Éducation permanente (Franse Gemeenschap)"
+    - "Centre de ressources pour la transmission de la Mémoire – Décret Mémoire (Franse Gemeenschap)"
+    - "Vertegenwoordiger van de Franse Gemeenschap bij de IHRA (International Holocaust Remembrance Alliance)"
+    - "Europese burger van het jaar 2015"
+  support_text: "Met de steun van :"
+en:
+  menu:
+    - link: /presse
+      text: Press (fr)
+    - link: /ressources-graphiques
+      text: Graphic resources (fr)
+    - link: /education-permanente
+      text: Permanent education (fr)
+    - link: /emploi
+      text: Jobs (fr)
+    - link: /en-lien
+      text: Links (fr)
+    - link: /soutiens
+      text: Our supporters (fr)
+    - link: /assets/uploads/tdlm-notre-offre-2020.pdf
+      text: What&nbsp;we&nbsp;offer (fr)
+  newsletter_text: "Sign up to our newsletter (fr)"
+  contact:
+    title: Territoires de la Mémoire asbl
+    address: Boulevard&nbsp;de&nbsp;la&nbsp;Sauvenière 33-35&nbsp;in&nbsp;4000&nbsp;Liège
+    email: accueil@territoires-memoire.be
+    tel: "Telephone&nbsp;: 04&nbsp;232&nbsp;70&nbsp;60"
+    entreprise: "Company number:&nbsp;: 453&nbsp;099&nbsp;470"
+    privacy: Privacy policy (fr)
+  awards:
+    - "Community association - Permanent Education Decree (Wallonia-Brussels Federation)"
+    - "Resource centre for the transmission of Memory – Memory Decree (Wallonia-Brussels Federation)"
+    - "Representative of the Wallonia-Brussels Foundation at the IHRA (International Holocaust Remembrance Alliance)"
+    - "European Citizen of the year 2015"
+  support_text: "With the support of:"
+de:
+  menu:
+    - link: /presse
+      text: Presse (fr)
+    - link: /ressources-graphiques
+      text: Grafische Ressourcen (fr)
+    - link: /education-permanente
+      text: Lebenslanges Lernen (fr)
+    - link: /emploi
+      text: Jobs (fr)
+    - link: /en-lien
+      text: Zum Thema (fr)
+    - link: /soutiens
+      text: Unsere Förderer (fr)
+    - link: /assets/uploads/tdlm-notre-offre-2020.pdf
+      text: Unser&nbsp;Angebot (fr)
+  newsletter_text: "Melden Sie sich für unseren Newsletter&nbsp;an (fr)"
+  contact:
+    title: Territoires de la Mémoire asbl
+    address: Boulevard&nbsp;de&nbsp;la&nbsp;Sauvenière 33-35&nbsp;in&nbsp;4000&nbsp;Lüttich
+    email: accueil@territoires-memoire.be
+    tel: "Telefon&nbsp;: 04&nbsp;232&nbsp;70&nbsp;60"
+    entreprise: "Unternehmensnummer:&nbsp;: 453&nbsp;099&nbsp;470"
+    privacy: Datenschutzerklärung (fr)
+  awards:
+    - "Gemeinnütziger Verein – Erlass Lebenslanges Lernen (Fédération Wallonie-Bruxelles)"
+    - "Ressourcen-Zentrum für die Weitergabe des Gedächtnisses – Erlass Gedächtnis (Fédération Wallonie-Bruxelles)"
+    - "Vertreter der Fédération Wallonie-Bruxelles bei der IHRA (International Holocaust Remembrance Alliance)"
+    - "EU-Bürger des Jahres 2015"
+  support_text: "Mit freundlicher Unterstützung von :"
