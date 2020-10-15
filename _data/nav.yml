@@ -64,7 +64,7 @@ nl:
   - title: Onlinewinkel
     url: https://boutique.territoires-memoire.be
   - title: Contact
-    url: /association#permanents
+    url: /nl/de-vereniging#permanents
 de:
   - title: Startseite
     url: "/"
@@ -98,7 +98,7 @@ de:
   - title: Online-Geschäft
     url: https://boutique.territoires-memoire.be
   - title: Contact
-    url: /association#permanents
+    url: /de/der-verein#permanents
 en:
   - title: Homepage
     url: "/"
@@ -131,4 +131,4 @@ en:
   - title: Online shop
     url: https://boutique.territoires-memoire.be
   - title: Contact
-    url: /association#permanents
+    url: /en/the-association#permanents
