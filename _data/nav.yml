@@ -36,32 +36,34 @@ nl:
     url: "/"
   - title: De vereniging
     url: /nl/de-vereniging
-  - title: De vaste tentoonstelling
+  - title: De vaste tentoonstelling (fr)
     url: /plusjamaisca/
-  - title: Het Territoire de Mémoire-netwerk
+    type: long-text
+  - title: Het Territoire de Mémoire-netwerk (fr)
     url: /reseau/
-  - title: Triangle Rouge
+  - title: Triangle Rouge (fr)
     url: https://www.trianglerouge.be
-  - title: Bibliotheek en Boekwinkel
+  - title: Bibliotheek en Boekwinkel (fr)
     url: /bibliotheque/
-  - title: Weerstand en Burgerschap, deel van de Opvoeding
+    type: long-text
+  - title: Weerstand en Burgerschap, deel van de Opvoeding (fr)
     url: /eduquer/
     type: long-text
-  - title: Dossiers om beter te begrijpen
+  - title: Dossiers om beter te begrijpen (fr)
     url: /dossiers/
-  - title: Reizen en dagen om te Herinneren
+  - title: Reizen en dagen om te Herinneren (fr)
     url: /voyages/
-  - title: De edities van Territoires de la Mémoire
+  - title: De edities van Territoires de la Mémoire (fr)
     url: /editions/
-  - title: Het magazine Aide-Mémoire
+  - title: Het magazine Aide-Mémoire (fr)
     url: /aide-memoire/
-  - title: Actualiteit
+  - title: Actualiteit (fr)
     url: /actualites/
-  - title: Agenda
+  - title: Agenda (fr)
     url: /agenda/
-  - title: Steun onze acties
+  - title: Steun onze acties (fr)
     url: /soutenez-nos-actions/
-  - title: Onlinewinkel
+  - title: Onlinewinkel (fr)
     url: https://boutique.territoires-memoire.be
   - title: Contact
     url: /nl/de-vereniging#permanents
@@ -70,32 +72,34 @@ de:
     url: "/"
   - title: Der Verein
     url: /de/der-verein/
-  - title: Dauerausstellung
+  - title: Dauerausstellung (fr)
     url: /plusjamaisca/
-  - title: Netzwerk Territoire de Mémoire
+  - title: Netzwerk Territoire de Mémoire (fr)
     url: /reseau/
-  - title: Triangle Rouge
+  - title: Triangle Rouge (fr)
     url: https://www.trianglerouge.be
-  - title: Bibliothek und Buchhandlung
+  - title: Bibliothek und Buchhandlung (fr)
     url: /bibliotheque/
-  - title: Widerstand und bürgerliche Verantwortung lehren
+  - title: Widerstand und bürgerliche Verantwortung lehren (fr)
     url: /eduquer/
     type: long-text
-  - title: Materialien zum Verständnis
+  - title: Materialien zum Verständnis (fr)
     url: /dossiers/
-  - title: Voyages et journées pour la Mémoire
+  - title: Voyages et journées pour la Mémoire (fr)
     url: /voyages/
-  - title: Veröffentlichungen der Territoires de la Mémoire
+  - title: Veröffentlichungen der Territoires de la Mémoire (fr)
     url: /editions/
-  - title: Zeitschrift Aide-Mémoire
+    type: long-text
+  - title: Zeitschrift Aide-Mémoire (fr)
     url: /aide-memoire/
-  - title: News
+    type: long-text
+  - title: News (fr)
     url: /actualites/
-  - title: Kalender
+  - title: Kalender (fr)
     url: /agenda/
-  - title: Unterstützen Sie uns
+  - title: Unterstützen Sie uns (fr)
     url: /soutenez-nos-actions/
-  - title: Online-Geschäft
+  - title: Online-Geschäft (fr)
     url: https://boutique.territoires-memoire.be
   - title: Contact
     url: /de/der-verein#permanents
@@ -104,31 +108,33 @@ en:
     url: "/"
   - title: The association
     url: /en/the-association/
-  - title: The permanent exhibition
+  - title: The permanent exhibition (fr)
     url: /plusjamaisca/
-  - title: The Territoires de Mémoire network
+    type: long-text
+  - title: The Territoires de Mémoire network (fr)
     url: /reseau/
-  - title: Triangle Rouge
+  - title: Triangle Rouge (fr)
     url: https://www.trianglerouge.be
-  - title: Library and Bookshop
+  - title: Library and Bookshop (fr)
     url: /bibliotheque/
-  - title: Resistance and Citizenship education
+  - title: Resistance and Citizenship education (fr)
     url: /eduquer/
-  - title: Documents to aid understanding
+  - title: Documents to aid understanding (fr)
     url: /dossiers/
-  - title: Journeys and days of Remembrance
+  - title: Journeys and days of Remembrance (fr)
     url: /voyages/
-  - title: Territoires de la Mémoire publications
+  - title: Territoires de la Mémoire publications (fr)
     url: /editions/
-  - title: Aide-Mémoire magazine
+  - title: Aide-Mémoire magazine (fr)
     url: /aide-memoire/
-  - title: News
+    type: long-text
+  - title: News (fr)
     url: /actualites/
-  - title: Programme
+  - title: Programme (fr)
     url: /agenda/
-  - title: Support our campaigns
+  - title: Support our campaigns (fr)
     url: /soutenez-nos-actions/
-  - title: Online shop
+  - title: Online shop (fr)
     url: https://boutique.territoires-memoire.be
   - title: Contact
     url: /en/the-association#permanents

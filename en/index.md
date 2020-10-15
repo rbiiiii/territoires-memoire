@@ -3,44 +3,44 @@ layout: home
 lang: en
 lang_ref: homepage
 intro_text: "Territories of Memory is a centre of education in the name of resistance and citizenship. To perform work of remembrance with children, young people and adults, the association develops a wide array of initiatives for communicating the past and encouraging everyone’s involvement in building a democratic society that safeguards fundamental freedoms."
-follow_text: "Follow us"
-support_text: "Support our campaigns"
+follow_text: "Follow us (fr)"
+support_text: "Support our campaigns (fr)"
 homepage_items:
     big:
-        - title: The permanent exhibition
+        - title: The permanent exhibition (fr)
           img: homepage-item-pjc.jpg
           link: /plusjamaisca
           type: big
-        - title: The Territoires de Mémoire network
+        - title: The Territoires de Mémoire network (fr)
           img: homepage-item-reseau.jpg
           link: /reseau
           type: big
-        - title: Red Triangle
+        - title: Red Triangle (fr)
           img: homepage-item-tr.jpg
           link: http://www.trianglerouge.be
           type: big
     small:
-        - title: Aide-Mémoire magazine
+        - title: Aide-Mémoire magazine (fr)
           img: homepage-item-aide-memoire.jpg
           link: /aide-memoire
           type: small
-        - title: Library and Bookshop
+        - title: Library and Bookshop (fr)
           img: homepage-item-bgo.jpg
           link: /bibliotheque
           type: small
-        - title: Journeys and days of Remembrance
+        - title: Journeys and days of Remembrance (fr)
           img: homepage-item-voyages.jpg
           link: /voyages
           type: small
-        - title: Resistance and Citizenship education
+        - title: Resistance and Citizenship education (fr)
           img: homepage-item-eduquer.jpg
           link: /eduquer
           type: xsmall
-        - title: Documents to aid understanding
+        - title: Documents to aid understanding (fr)
           img: homepage-item-dossiers.jpg
           link: /dossiers
           type: small
-        - title: Territoires de la Mémoire publications
+        - title: Territoires de la Mémoire publications (fr)
           img: homepage-item-editions.jpg
           link: /editions
           type: small
