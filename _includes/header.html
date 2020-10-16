@@ -9,8 +9,7 @@
         {% endfor %}
     </ul>
 
-    {%- assign site_url = site.data.lang_url[page.lang] -%}
-    <a class="site-header__logo-link" href="{{ site_url }}">
+    <a class="site-header__logo-link" href="{{ site.data.languages[page.lang].url }}">
         <img class="site-header__logo small" src="{{ "/assets/images/tm-header-homepage-small.svg" | relative_url }}" alt="{{ site.title }} - logo">
         <img class="site-header__logo medium" src="{{ "/assets/images/tm-header-homepage-medium.svg" | relative_url }}" alt="{{ site.title }} - logo">
         <img class="site-header__logo large" src="{{ "/assets/images/tm-header-homepage-large.svg" | relative_url }}" alt="{{ site.title }} - logo">

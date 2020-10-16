@@ -4,11 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   L'asbl Les Territoires de la Mémoire est un centre d'éducation à la résistance et à la citoyenneté.
 #baseurl: "/nouveau2018" # the subpath of your site, e.g. /blog
 url: "https://www.territoires-memoire.be"
-lang_url:
-  fr: "https://www.territoires-memoire.be"
-  nl: "https://www.territoires-memoire.be/nl"
-  de: "https://www.territoires-memoire.be/de"
-  en: "https://www.territoires-memoire.be/en"
 github_username:  rbiiiii
 lang: fr
 timezone: Europe/Brussels
