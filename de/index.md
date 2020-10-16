@@ -40,7 +40,7 @@ homepage_items:
           img: homepage-item-dossiers.jpg
           link: /dossiers
           type: small
-        - title: Veröffentlichungen der Territoires de la Mémoire (fr)
+        - title: <small>Veröffentlichungen der Territoires de la Mémoire (fr)</small>
           img: homepage-item-editions.jpg
           link: /editions
           type: small

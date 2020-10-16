@@ -4,12 +4,12 @@ lang: nl
 lang_ref: homepage
 intro_text: "Les Territoires de la Mémoire is een opleidingscentrum voor verzet en burgerschap. De vereniging wil kinderen, jongeren en volwassenen leren over het verleden. Ze heeft diverse initiatieven opgezet om het verleden door te geven en iedereen ertoe aan te zetten om mee te bouwen aan een democratische maatschappij die de fundamentele vrijheden garandeert en respecteert."
 follow_text: "Volg ons (fr)"
-support_text: "Steun<br>onze acties (fr)"
+support_text: "Steun onze acties (fr)"
 homepage_items:
     big:
-        - title: De vaste tentoonstelling (fr)
+        - title: De vaste tentoonstelling
           img: homepage-item-pjc.jpg
-          link: /plusjamaisca
+          link: /nl/dit-nooit-meer
           type: big
         - title: Het Territoire de Mémoire-netwerk (fr)
           img: homepage-item-reseau.jpg

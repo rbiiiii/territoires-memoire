@@ -1,11 +1,18 @@
 {%- capture slug -%}{{ include.slug }}{%- endcapture -%}
 {%- capture special_mention -%}{{ include.special_mention }}{%- endcapture -%}
+{%- capture lang -%}{{ include.lang }}{%- endcapture -%}
 <div class="grid pdf {{ slug }}">
     {%- if special_mention == '' -%}
         {%- assign items = site.data.pdf_items | where:'categorie', slug -%}
+        {%- if lang != '' -%}
+            {%- assign items = items | where:'lang', lang -%}
+        {%- endif -%}
     {%- else -%} 
         {%- assign items-without-mention = site.data.pdf_items | where:'categorie', slug -%}
         {%- assign items = items-without-mention | where:'special_mention', special_mention -%}
+        {%- if lang != '' -%}
+            {%- assign items = items | where:'lang', lang -%}
+        {%- endif -%}
     {%- endif -%}
     {%- for pdf-item in items -%}
         <article class="grid__item pdf__item {{ include.slug }}__item">

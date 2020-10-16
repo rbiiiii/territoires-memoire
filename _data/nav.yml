@@ -33,11 +33,11 @@ fr:
     url: /association#permanents
 nl:
   - title: Homepage
-    url: "/"
+    url: "/nl/"
   - title: De vereniging
     url: /nl/de-vereniging
-  - title: De vaste tentoonstelling (fr)
-    url: /plusjamaisca/
+  - title: De vaste tentoonstelling
+    url: /nl/dit-nooit-meer
     type: long-text
   - title: Het Territoire de Mémoire-netwerk (fr)
     url: /reseau/
@@ -69,7 +69,7 @@ nl:
     url: /nl/de-vereniging#permanents
 de:
   - title: Startseite
-    url: "/"
+    url: "/de/"
   - title: Der Verein
     url: /de/der-verein/
   - title: Dauerausstellung (fr)
@@ -105,7 +105,7 @@ de:
     url: /de/der-verein#permanents
 en:
   - title: Homepage
-    url: "/"
+    url: "/en/"
   - title: The association
     url: /en/the-association/
   - title: The permanent exhibition (fr)

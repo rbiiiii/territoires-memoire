@@ -6,7 +6,7 @@ layout: default
   <header class="post__header {%- if page.img_file -%}{%- else -%}post__header--no-img{%- endif -%}">
     {%- if page.breadcrumb_parent_title -%}
       <p class="post_breadcrumbs">
-        <a href="/{{ page.breadcrumb_parent_src }}">{{ page.breadcrumb_parent_title }}</a>
+        <a href="{{ page.breadcrumb_parent_src }}">{{ page.breadcrumb_parent_title }}</a>
         <svg viewBox="0 0 10 22.6"><polygon points="3.9,0 10,11.3 3.9,22.6 0,20.6 5,11.3 0,2.1 "/></svg>
         {{ page.title }}
       </p> 
@@ -14,7 +14,7 @@ layout: default
     {%- if page.img_file -%}
       <div class="post__header__img">
         <img src="/assets/images/{{ page.img_file }}" alt="{{ page.title }}">
-        <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur">
+        <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur" aria-hidden="true">
       </div>
       <div class="post__title">
         <h1>{{ page.title }}</h1>

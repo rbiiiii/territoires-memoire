@@ -102,18 +102,35 @@
   img_src: pdf-dossiers_pedagogiques-regards_sur_le_genocide_des_tutsi_au_rwanda.jpg
   link: tm-dossiers_pedagogiques-regards_sur_le_genocide_des_tutsi_au_rwanda.pdf
   categorie: dossiers-pedagogiques
+  lang: fr
 
 - title: Plus jamais ça ! Parcours dans les camps nazis pour résister aujourd’hui. (11-14 ans)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-11_14.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-11_14.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
+  lang: fr
+
+- title: Dit nooit meer! Bezoek aan de nazikampen om vandaag weerstand te bieden. (11-14 jaar – fr)
+  img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-11_14.jpg
+  link: tm-dossiers_pedagogiques-plus_jamais_ca-11_14.pdf
+  categorie: dossiers-pedagogiques
+  special_mention: pjc
+  lang: nl
 
 - title: Plus jamais ça ! Parcours dans les camps nazis pour résister ­aujourd’hui. (15 ans et plus)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-15_plus.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-15_plus.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
+  lang: fr
+
+- title: Dit nooit meer! Bezoek aan de nazikampen om vandaag weerstand te bieden. (vanaf 15 jaar  – fr)
+  img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-15_plus.jpg
+  link: tm-dossiers_pedagogiques-plus_jamais_ca-15_plus.pdf
+  categorie: dossiers-pedagogiques
+  special_mention: pjc
+  lang: nl
 
 - title: Amen
   img_src: pdf-fiches_thematiques_cle-amen.jpg

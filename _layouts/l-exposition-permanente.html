@@ -1,0 +1,131 @@
+---
+layout: static-page
+---
+
+<section class="page-section top">
+    <div class="page-section__content containers">
+        <p class="chapeau container container--half">{{ page.intro_text }}</p>
+        <div class="card card--red card--with-icon container container--half">
+            <div class="card__icon">
+                <img src="/assets/images/icons/tm-icon-contact.svg" alt="Contact">
+            </div>
+            <div class="card__content">
+                <h3>{{ page.coronavirus.title }}</h3>
+                <ul class="list--no-style">
+                    <li>{{ page.coronavirus.address }}</li>
+                    <li>{{ page.coronavirus.tel }}</li>
+                    <li><a class="button button--white-on-red" href="{{ page.coronavirus.booking.url }}">{{ page.coronavirus.booking.text }}</a></li>
+                </ul>
+                <p><strong>{{ page.coronavirus.text_block_01 }}</strong><br>
+                    <a class="button button--white-on-red" href="{{ page.coronavirus.pdf.url }}" target="_blank">{{ page.coronavirus.pdf.text }}</a></p>
+                <p><small>{{ page.coronavirus.text_block_02 }}</small></p>
+            </div>
+        </div>
+    </div>
+    <div class="page-section__content">
+        <div class="embedresize">
+            <div>
+                <iframe id="pjc-intro-video" src="https://www.youtube.com/embed/eL2UrAFN7Bk?rel=0&amp;showinfo=0" width="1200" height="675" frameborder="0" allow="autoplay; encrypted-media" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="page-tuiles" style="margin-top:40px">
+            {% for tuile in page.tuiles %}
+                {%- include_cached pages/page-tuile.html title=tuile.title url=tuile.url imageSlug="pjc" imageFileName=tuile.img -%}
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section id="un-parcours-en-six-parties" class="page-section">
+    <header>
+        <div class="page-section__img">
+            <img src="/assets/images/pjc/un-parcours-multimedia-en-six-parties.jpg" alt="{{ page.parcours.title }}">
+            <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur" aria-hidden="true">
+        </div>
+        <h2 class="page-section__title">{{ page.parcours.title }}</h2>
+    </header>
+    <div class="page-section__content">
+        <div class="blocks">
+            {% for block in page.parcours.blocks %}
+                <div class="block block--title-img-txt">
+                    <img src="{{ block.img }}" alt="" role="presentation">
+                    <h3>{{ block.title }}</h3>
+                    <p>{{ block.text }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section id="infos-pratiques" class="page-section">
+    <div class="page-section__content">
+        <div class="containers">
+            <div class="container container--half">
+                <div class="card card--one card--no-padding card--triangle-top-right card--header-red">
+                    <h2>{{ page.visite.title }}</h2>
+                    <style>.list--white-marker {padding-top:0.2em}</style>
+                    <div class="card--no-padding__content">
+                        <ul class="list list--no-style">
+                            <li class="list__item--with-icon"><img class="list__icon--next-to-txt" src="/assets/images/icons/tm-icon-place.svg" alt="">
+                                <ul class="list list--white-marker">
+                                    <li>{{ page.visite.address }}</li>
+                                </ul>
+                            </li>
+                            <li class="list__item--with-icon"><img class="list__icon--next-to-txt" src="/assets/images/icons/tm-icon-people.svg" alt="">
+                                <ul class="list list--white-marker">
+                                    <li>{{ page.visite.people }}</li>
+                                </ul>
+                            </li>
+                            <li class="list__item--with-icon"><img class="list__icon--next-to-txt" src="/assets/images/icons/tm-icon-price.svg" alt=""> 
+                                <ul class="list list--white-marker">
+                                    {% for item in page.visite.price %}
+                                        <li>{{ item }}</li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                            <li class="list__item--with-icon"><img class="list__icon--next-to-txt" src="/assets/images/icons/tm-icon-date.svg" alt="">
+                                <ul class="list list--white-marker">
+                                    {% for item in page.visite.date %}
+                                        <li>{{ item }}</li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                            <li class="list__item--with-icon"><img class="list__icon--next-to-txt" src="/assets/images/icons/tm-icon-hour.svg" alt="">
+                                <ul class="list list--white-marker">
+                                    {% for item in page.visite.hour %}
+                                        <li>{{ item }}</li>
+                                    {% endfor %}
+                                </ul>
+                            </li>
+                            <li class="list__item--with-icon"><img class="list__icon--next-to-txt" src="/assets/images/icons/tm-icon-pmr.svg" alt="">
+                                <ul class="list list--white-marker">
+                                    <li>{{ page.visite.pmr }}</li>
+                                </ul>
+                            </li>
+                            <li style="line-height:1.2;margin-top:20px;">
+                                <p class="text-italic">{{ page.visite.text_block_01 }}</p>
+                            </li>
+                        </ul>
+                        <h3>{{ page.visite.info_booking.text }}</h3>
+                        <ul class="list--no-style">
+                            <li>04 230 70 50</li>
+                            <li><a href="{{ page.visite.info_booking.booking_link }}">{{ page.visite.info_booking.booking_text }}</a></li>
+                            <li><a href="http://www.citemiroir.be">www.citemiroir.be</a></li>
+                        </ul>
+                    </div>
+				</div>
+            </div>
+            <div class="container container--half">
+                <h3>{{ page.preparer.title }}</h3>
+                {{ page.preparer.text | markdownify }}
+				<div class="pjc-preparation">
+					{%- include_cached pages/pdf-item.html slug="dossiers-pedagogiques" special_mention="pjc" folder="dossiers" lang=page.lang -%}
+                </div>
+                <h3 style="margin-top:80px;">{{ page.combiner.title }}</h3>
+				<div class="card card--one card--pdf-link">
+					{%- include_cached pages/pdf-link.html slug="pjc" color="white" link=page.combiner.pdf.link text=page.combiner.pdf.text -%}
+				</div>
+			</div>
+		</div>
+    </div>
+</section>
