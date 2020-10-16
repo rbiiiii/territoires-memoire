@@ -72,8 +72,8 @@ de:
     url: "/de/"
   - title: Der Verein
     url: /de/der-verein/
-  - title: Dauerausstellung (fr)
-    url: /plusjamaisca/
+  - title: Dauerausstellung
+    url: /de/nie-wieder/
   - title: Netzwerk Territoire de Mémoire (fr)
     url: /reseau/
   - title: Triangle Rouge (fr)
@@ -108,8 +108,8 @@ en:
     url: "/en/"
   - title: The association
     url: /en/the-association/
-  - title: The permanent exhibition (fr)
-    url: /plusjamaisca/
+  - title: The permanent exhibition
+    url: /en/never-again
     type: long-text
   - title: The Territoires de Mémoire network (fr)
     url: /reseau/

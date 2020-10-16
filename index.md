@@ -2,7 +2,8 @@
 layout: home
 lang: fr
 lang_ref: homepage
-intro_text: "Les Territoires de la Mémoire sont un centre d'éducation à la résistance et à la citoyenneté. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l'association développe diverses initiatives pour transmettre le passé et encourager l'implication de tous dans la construction d'une société démocratique garante des libertés fondamentales."
+intro_text: |-
+  <a href="/association">Les Territoires de la Mémoire</a> sont un centre d'éducation à la résistance et à la citoyenneté. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l'association développe diverses initiatives pour transmettre le passé et encourager l'implication de tous dans la construction d'une société démocratique garante des libertés fondamentales.
 follow_text: "Suivez-nous"
 support_text: "Soutenez<br>nos actions"
 homepage_items:

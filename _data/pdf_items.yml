@@ -118,6 +118,20 @@
   special_mention: pjc
   lang: nl
 
+- title: Never again! A journey through the Nazi camps to consider resistance today. (11-14 years - Fr)
+  img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-11_14.jpg
+  link: tm-dossiers_pedagogiques-plus_jamais_ca-11_14.pdf
+  categorie: dossiers-pedagogiques
+  special_mention: pjc
+  lang: en
+
+- title: Nie wieder! (Plus jamais ça !) Reise in die Nazi-Lager, um heute Widerstand zu leisten. (11–14 Jahre – fr)
+  img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-11_14.jpg
+  link: tm-dossiers_pedagogiques-plus_jamais_ca-11_14.pdf
+  categorie: dossiers-pedagogiques
+  special_mention: pjc
+  lang: de
+
 - title: Plus jamais ça ! Parcours dans les camps nazis pour résister ­aujourd’hui. (15 ans et plus)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-15_plus.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-15_plus.pdf
@@ -131,6 +145,20 @@
   categorie: dossiers-pedagogiques
   special_mention: pjc
   lang: nl
+
+- title: Never again! A journey through the Nazi camps to consider resistance today. (15 yrs and above - Fr)
+  img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-15_plus.jpg
+  link: tm-dossiers_pedagogiques-plus_jamais_ca-15_plus.pdf
+  categorie: dossiers-pedagogiques
+  special_mention: pjc
+  lang: en
+
+- title: Plus jamais ça ! (Nie wieder!) Reise in die Nazi-Lager, um heute Widerstand zu leisten. (ab 15 Jahre – fr)
+  img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-15_plus.jpg
+  link: tm-dossiers_pedagogiques-plus_jamais_ca-15_plus.pdf
+  categorie: dossiers-pedagogiques
+  special_mention: pjc
+  lang: de
 
 - title: Amen
   img_src: pdf-fiches_thematiques_cle-amen.jpg

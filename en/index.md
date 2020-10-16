@@ -2,14 +2,15 @@
 layout: home
 lang: en
 lang_ref: homepage
-intro_text: "Territories of Memory is a centre of education in the name of resistance and citizenship. To perform work of remembrance with children, young people and adults, the association develops a wide array of initiatives for communicating the past and encouraging everyone’s involvement in building a democratic society that safeguards fundamental freedoms."
+intro_text: |-
+  <a href="/en/the-association/">Territories of Memory</a> is a centre of education in the name of resistance and citizenship. To perform work of remembrance with children, young people and adults, the association develops a wide array of initiatives for communicating the past and encouraging everyone’s involvement in building a democratic society that safeguards fundamental freedoms.
 follow_text: "Follow us (fr)"
 support_text: "Support our campaigns (fr)"
 homepage_items:
     big:
-        - title: The permanent exhibition (fr)
+        - title: The permanent exhibition
           img: homepage-item-pjc.jpg
-          link: /plusjamaisca
+          link: /en/never-again
           type: big
         - title: The Territoires de Mémoire network (fr)
           img: homepage-item-reseau.jpg

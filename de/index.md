@@ -2,14 +2,15 @@
 layout: home
 lang: de
 lang_ref: homepage
-intro_text: "Die Territoires de la Mémoire sind ein Bildungszentrum für Widerstand und bürgerliche Verantwortung. Um mit Kindern, Jugendlichen und Erwachsenen Gedächtnisarbeit zu leisten, entwickelt der Verein verschiedene Initiativen, die die Vergangenheit vermitteln und die Beteiligung aller am Aufbau einer demokratischen Gesellschaft als Garant der Grundfreiheiten fördern sollen."
+intro_text: |-
+  <a href="/de/der-verein">Die Territoires de la Mémoire</a> sind ein Bildungszentrum für Widerstand und bürgerliche Verantwortung. Um mit Kindern, Jugendlichen und Erwachsenen Gedächtnisarbeit zu leisten, entwickelt der Verein verschiedene Initiativen, die die Vergangenheit vermitteln und die Beteiligung aller am Aufbau einer demokratischen Gesellschaft als Garant der Grundfreiheiten fördern sollen.
 follow_text: "Folgen Sie uns (fr)"
 support_text: "Unterstützen Sie uns (fr)"
 homepage_items:
     big:
-        - title: Dauerausstellung (fr)
+        - title: Dauerausstellung
           img: homepage-item-pjc.jpg
-          link: /plusjamaisca
+          link: /de/nie-wieder
           type: big
         - title: Netzwerk Territoire de Mémoire (fr)
           img: homepage-item-reseau.jpg

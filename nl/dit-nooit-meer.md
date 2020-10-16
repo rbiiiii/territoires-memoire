@@ -23,7 +23,7 @@ tuiles:
     - title: Een multimediatraject in zes delen 
       url: "#un-parcours-en-six-parties"
       img: page-pjc-tuile-01.jpg
-    - title: Infos pratiques
+    - title: Handige informatie
       url: "#infos-pratiques"
       img: page-pjc-tuile-02.jpg
 parcours:

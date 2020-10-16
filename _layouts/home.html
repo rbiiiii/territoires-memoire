@@ -13,7 +13,7 @@ layout: default
 
     <div class="card card--one">
       <p class="page-section__description">
-        {{ page.intro_text }}
+        {{ page.intro_text | markdowify }}
       </p>
       <div class="homepage-intro__actions">
         <div class="homepage-intro__actions__button social button button--red button--without-shadow">
