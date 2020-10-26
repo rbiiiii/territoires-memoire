@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: Triangle Rouge à Bande
+title: Triangle Rouge à Bande (Nassogne)
 date_start: 2021-12-07
 date_stop: 2021-12-19
 img_file: /assets/uploads/triangle-rouge-expo.jpg
