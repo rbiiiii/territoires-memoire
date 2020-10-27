@@ -1,32 +1,33 @@
+{% if page.lang %}{% assign pagelang = page.lang %}{% else %}{% assign pagelang = "fr" %}{% endif %}
 <footer class="site-footer">
   <div class="wrapper">
     <img class="site-footer__img" src="/assets/images/centre-d-education-a-la-resistance-et-a-la-citoyennete.svg" alt="Centre d'éducation à la résistance et à la citoyenneté">
     <nav class="site-footer__list-links list--no-style">
       <ul>
-        {% for item in site.data.footer[page.lang].menu %}
+        {% for item in site.data.footer[pagelang].menu %}
           <li><a href="{{ item.link }}" class="site-footer__list-link">{{ item.text }}</a></li>
         {% endfor %}
       </ul>
     </nav>
     <div class="site-footer__newsletter">
       <img class="site-footer__newsletter__img" src="/assets/images/icons/tm-icon-email-share.svg" alt="lettre d'information">
-      <a href="https://my.sendinblue.com/users/subscribe/js_id/2j4af/id/9">{{ site.data.footer[page.lang].newsletter_text }}</a>
+      <a href="https://my.sendinblue.com/users/subscribe/js_id/2j4af/id/9">{{ site.data.footer[pagelang].newsletter_text }}</a>
     </div>
     <div class="site-footer__address">
-      <p>{{ site.data.footer[page.lang].contact.title }}</p>
-      <p>{{ site.data.footer[page.lang].contact.address }}</p>
-      <p><a href="mailto:{{ site.data.footer[page.lang].contact.email }}">{{ site.data.footer[page.lang].contact.email }}</a></p>
-      <p>{{ site.data.footer[page.lang].contact.tel }}</p>
-      <p>{{ site.data.footer[page.lang].contact.entreprise }}</p>
-      <p><a href="/politique-de-confidentialite">{{ site.data.footer[page.lang].contact.privacy }}</a></p>
+      <p>{{ site.data.footer[pagelang].contact.title }}</p>
+      <p>{{ site.data.footer[pagelang].contact.address }}</p>
+      <p><a href="mailto:{{ site.data.footer[pagelang].contact.email }}">{{ site.data.footer[pagelang].contact.email }}</a></p>
+      <p>{{ site.data.footer[pagelang].contact.tel }}</p>
+      <p>{{ site.data.footer[pagelang].contact.entreprise }}</p>
+      <p><a href="/politique-de-confidentialite">{{ site.data.footer[pagelang].contact.privacy }}</a></p>
     </div>
     <div class="site-footer__small-text">
       <ul class="list--no-style">
-        {% for award in site.data.footer[page.lang].awards %}
+        {% for award in site.data.footer[pagelang].awards %}
           <li>{{ award }}</li>
         {% endfor %}
       </ul>
-      <p class="site-footer__soutien">{{ site.data.footer[page.lang].support_text }}</p>
+      <p class="site-footer__soutien">{{ site.data.footer[pagelang].support_text }}</p>
       <ul class="list list--no-style list--inline">
         <li>
           <a href="http://www.federation-wallonie-bruxelles.be/" title="Fédération Wallonie-Bruxelles">
