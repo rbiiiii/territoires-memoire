@@ -5,7 +5,7 @@
     <ul class="list list--no-style languages">
         {% for lang in site.data.languages %}
             {% assign language = lang[1] %}
-            <li><a href="{{ language.url }}">{{ language.flag }} <span>{{ language.label }}</span></a></li>
+            <li>{{ language.flag }} <a href="{{ language.url }}">{{ language.label }}</a></li>
         {% endfor %}
     </ul>
     
