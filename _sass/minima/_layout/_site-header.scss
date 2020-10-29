@@ -16,20 +16,17 @@
   flex-wrap: wrap;
   justify-content:center;
   margin:0 0 10px 0;
+  @include relative-font-size(0.7);
 
   a {
     margin-right: 10px;
+    color:$bleu-tm;
   }
 
   svg {
     display:inline-block;
     width:16px;
     height:auto;
-  }
-
-  span {
-    display:inline-block;
-    @include relative-font-size(0.7);
   }
 }
 
