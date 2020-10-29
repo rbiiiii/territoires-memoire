@@ -9,6 +9,19 @@
     
 }
 
+.soutiens__intro-text {
+    margin: $spacing-unit*2 auto $spacing-unit*4;
+    text-align: center;
+    
+    &__p1 {
+        color:$bleu-tm;
+    }
+
+    &__p2 {
+        margin-bottom:0.25em;
+    }
+}
+
 #devenir-membre {
 
     .card {
@@ -150,8 +163,7 @@ li.donate-seven__item {
 
 .donate-reduction {
     max-width:580px;
-    margin-right:auto;
-    margin-left:auto;
+    margin-bottom:$spacing-unit*4;
 }
 
 .donate-otherwise__title {
