@@ -78,7 +78,7 @@ preparer:
     text: |- 
         These teaching documents enable education providers to prepare for a visit to Territories of Memory by approaching the elements that are vital for understanding the exhibition “Never again! A journey through the Nazi camps to consider resistance today.”
 
-        This tour marks the beginning of Remembrance work that could very well continue... To that end, further resources are available, for instance via the [George Orwell Library](/bibliotheque) or the [Stéphane Hessel bookshop](/bibliotheque).
+        This tour marks the beginning of Remembrance work that could very well continue... To that end, further resources are available, for instance via the [George Orwell Library](/bibliotheque-et-librairie) or the [Stéphane Hessel bookshop](/bibliotheque-et-librairie).
 combiner:
     title: Combine your visit
     pdf:

@@ -27,7 +27,7 @@ homepage_items:
           type: small
         - title: La Bibliothèque George Orwell
           img: homepage-item-bgo.jpg
-          link: /bibliotheque
+          link: /bibliotheque-et-librairie
           type: small
         - title: Voyages et journées pour la Mémoire
           img: homepage-item-voyages.jpg

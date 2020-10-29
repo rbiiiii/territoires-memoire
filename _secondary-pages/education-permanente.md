@@ -29,7 +29,7 @@ Retrouvez les réalisations des Territoires de la Mémoire ci-dessous :
 
 ## Centre de ressources
 
-[Bibliothèque George Orwell](https://www.territoires-memoire.be/bibliotheque/) et Espace rencontres lié à la Bibliothèque
+[Bibliothèque George Orwell](https://www.territoires-memoire.be/bibliotheque-et-librairie/) et Espace rencontres lié à la Bibliothèque
 
 ## Outils pédagogiques/culturels, analyse et études pérennes
 

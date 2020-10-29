@@ -78,7 +78,7 @@ preparer:
     text: |- 
         Mit diesen Lehrmaterialien können sich Personen aus dem Bildungswesen auf den Besuch der Territoires de la Mémoire vorbereiten, indem sie sich mit den für das Verständnis der Ausstellung „Nie wieder! Reise in die Nazi-Lager, um heute Widerstand zu leisten.“ unverzichtbaren Elementen beschäftigen.
         
-        Dieser Besuch ist ein erster Schritt in einer Gedächtnisarbeit, die noch größere Ausmaße annehmen kann ... Zu diesem Zweck stehen Ihnen weitere Ressourcen zur Verfügung, insbesondere über die [George-Orwell-Bibliothek](/bibliotheque) oder die [Buchhandlung Stéphane Hessel](/bibliotheque).
+        Dieser Besuch ist ein erster Schritt in einer Gedächtnisarbeit, die noch größere Ausmaße annehmen kann ... Zu diesem Zweck stehen Ihnen weitere Ressourcen zur Verfügung, insbesondere über die [George-Orwell-Bibliothek](/bibliotheque-et-librairie-et-librairie) oder die [Buchhandlung Stéphane Hessel](/bibliotheque-et-librairie).
 combiner:
     title: Kombination Ihres Besuchs
     pdf:

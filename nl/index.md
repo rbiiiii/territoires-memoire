@@ -27,7 +27,7 @@ homepage_items:
           type: small
         - title: Bibliotheek en Boekwinkel (fr)
           img: homepage-item-bgo.jpg
-          link: /bibliotheque
+          link: /bibliotheque-et-librairie
           type: small
         - title: Reizen en dagen om te Herinneren (fr)
           img: homepage-item-voyages.jpg

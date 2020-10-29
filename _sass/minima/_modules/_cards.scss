@@ -17,6 +17,11 @@
         font-size:80%;
         font-family:$base-font-family; 
     }
+
+    hr {
+        display:block;
+        margin: 15px 0;
+    }
 }
 
 .card--one {

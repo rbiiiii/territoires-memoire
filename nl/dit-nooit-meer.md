@@ -84,7 +84,7 @@ preparer:
     text: |- 
         Met deze pedagogische dossiers kunnen educatieve relaiscentra een bezoek aan Les Territoires de la Mémoire voorbereiden en alvast de onderwerpen bespreken die essentieel zijn om de tentoonstelling "Dit nooit meer! Bezoek aan de nazikampen om vandaag weerstand te bieden" te begrijpen.
         
-        Dit bezoek is een eerste stap in het laten verder leven van de Herinneringen… Wie daar nog dieper op in wil gaan, vindt meer informatie in de [George Orwell bibliotheek](/bibliotheque) of de [Stéphane Hessel boekwinkel](/bibliotheque).
+        Dit bezoek is een eerste stap in het laten verder leven van de Herinneringen… Wie daar nog dieper op in wil gaan, vindt meer informatie in de [George Orwell bibliotheek](/bibliotheque-et-librairie) of de [Stéphane Hessel boekwinkel](/bibliotheque-et-librairie).
 combiner:
     title: Combineer je bezoek
     pdf:

@@ -27,7 +27,7 @@ homepage_items:
           type: small
         - title: Library and Bookshop (fr)
           img: homepage-item-bgo.jpg
-          link: /bibliotheque
+          link: /bibliotheque-et-librairie
           type: small
         - title: Journeys and days of Remembrance (fr)
           img: homepage-item-voyages.jpg

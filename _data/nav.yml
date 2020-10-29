@@ -10,7 +10,7 @@ fr:
   - title: Triangle Rouge
     url: https://www.trianglerouge.be
   - title: Bibliothèque et Librairie
-    url: /bibliotheque/
+    url: /bibliotheque-et-librairie/
   - title: Éduquer à la Résistance et à la Citoyenneté
     url: /eduquer/
   - title: Des dossiers pour comprendre
@@ -44,7 +44,7 @@ nl:
   - title: Triangle Rouge (fr)
     url: https://www.trianglerouge.be
   - title: Bibliotheek en Boekwinkel (fr)
-    url: /bibliotheque/
+    url: /bibliotheque-et-librairie/
     type: long-text
   - title: Weerstand en Burgerschap, deel van de Opvoeding (fr)
     url: /eduquer/
@@ -79,7 +79,7 @@ de:
   - title: Triangle Rouge (fr)
     url: https://www.trianglerouge.be
   - title: Bibliothek und Buchhandlung (fr)
-    url: /bibliotheque/
+    url: /bibliotheque-et-librairie/
   - title: Widerstand und bürgerliche Verantwortung lehren (fr)
     url: /eduquer/
     type: long-text
@@ -116,7 +116,7 @@ en:
   - title: Triangle Rouge (fr)
     url: https://www.trianglerouge.be
   - title: Library and Bookshop (fr)
-    url: /bibliotheque/
+    url: /bibliotheque-et-librairie/
   - title: Resistance and Citizenship education (fr)
     url: /eduquer/
   - title: Documents to aid understanding (fr)

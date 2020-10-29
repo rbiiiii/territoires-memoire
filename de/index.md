@@ -27,7 +27,7 @@ homepage_items:
           type: small
         - title: Bibliothek und Buchhandlung (fr)
           img: homepage-item-bgo.jpg
-          link: /bibliotheque
+          link: /bibliotheque-et-librairie
           type: small
         - title: Reisen und Tage des Gedenkens (fr)
           img: homepage-item-voyages.jpg
