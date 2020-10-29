@@ -25,7 +25,7 @@ homepage_items:
           img: homepage-item-aide-memoire.jpg
           link: /aide-memoire
           type: small
-        - title: La Bibliothèque George Orwell
+        - title: Bibliothèque ert Librairie
           img: homepage-item-bgo.jpg
           link: /bibliotheque-et-librairie
           type: small
