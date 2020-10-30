@@ -10,7 +10,7 @@
 }
 
 .soutiens__intro-text {
-    margin: $spacing-unit*2 auto $spacing-unit*4;
+    margin: $su*2 auto $su*4;
     text-align: center;
     
     &__p1 {
@@ -25,7 +25,7 @@
 #devenir-membre {
 
     .card {
-        max-width:484px;
+        max-width:568px;
         margin-right:auto;
         margin-left:auto;
     }    
@@ -33,23 +33,30 @@
 
 .membership-icon {
     float: left;
-    margin: 7px 20px 0px 0;
+    margin: 7px $su $su/2 0;
     width: 100px;    
 }
 
+.membership-account {
+    display:inline-block;
+    padding:0 0.4em;
+    border:1px solid white;
+    letter-spacing:1px;   
+}
+
 .membership-content {
-    margin-top:$spacing-unit*4;    
+    margin-top:$su*4;    
 
     h3 {
         text-align: center;
-        margin-bottom:$spacing-unit*2;
+        margin-bottom:$su*2;
     }
 }
 
 #faire-un-don {
 
     .page-section__content {
-        margin-top:$spacing-unit*4; 
+        margin-top:$su*4; 
     }
 
     h3 {
@@ -71,7 +78,7 @@
 
 .donate-content {
     max-width:$large-width;
-    margin-top:$spacing-unit*4;
+    margin-top:$su*4;
 
     .block__header__img {
         display:flex;   
@@ -81,7 +88,7 @@
 .donate-card {
     display:flex;
     flex-direction:column;
-    margin:$spacing-unit*4 auto $spacing-unit auto;
+    margin:$su*4 auto $su auto;
     max-width:400px;
 
     @media screen and (min-width:560px) {
@@ -95,12 +102,12 @@
     }  
 
     .left {
-        width: $spacing-unit*4;
-        margin:0 auto $spacing-unit auto; 
+        width: $su*4;
+        margin:0 auto $su auto; 
         
         @media screen and (min-width:560px) {
             width: 130px;
-            margin:9px $spacing-unit 0 0;
+            margin:9px $su 0 0;
         }
 
         .donate-icon {
@@ -124,22 +131,22 @@
 .donate-seven {
 
     h3 {
-        margin-bottom:$spacing-unit;
+        margin-bottom:$su;
     }
 }
 
 ul.donate-seven__list {
-    margin:$spacing-unit 0 $spacing-unit 0;
+    margin:$su 0 $su 0;
 
     @media screen and (min-width:600px) {
-        margin:$spacing-unit 0 $spacing-unit 0;
+        margin:$su 0 $su 0;
     }
 }
 
 li.donate-seven__item {
     display:flex;
     align-items: flex-start;
-    margin-bottom:$spacing-unit;
+    margin-bottom:$su;
 
     &:last-child {
         margin-bottom:0;
@@ -149,7 +156,7 @@ li.donate-seven__item {
 .donate-seven__item__num {
     font-weight: bold;
     color: $bleu-tm-ultra-light;
-    margin-right: $spacing-unit;
+    margin-right: $su;
     display: flex;
     margin-bottom: auto;
     line-height: 1.2em;
@@ -163,12 +170,12 @@ li.donate-seven__item {
 
 .donate-reduction {
     max-width:580px;
-    margin-bottom:$spacing-unit*4;
+    margin-bottom:$su*4;
 }
 
 .donate-otherwise__title {
-    margin-top:$spacing-unit*4;
-    margin-bottom:$spacing-unit*2;
+    margin-top:$su*4;
+    margin-bottom:$su*2;
 }
 
 .donate-otherwise__wrapper {
@@ -200,4 +207,26 @@ a.donate-otherwise__link {
 .donate-otherwise__text {
     padding: 0.5em 1em;
     margin-bottom: 0;
+}
+
+.brochure-testament {
+    display:flex;
+    flex-direction: column;
+    margin:$su 0 0;
+    padding:0 $su;
+    text-align: center;
+
+    .button {
+        margin-top:$su;
+    }
+
+    @media screen and (min-width:1024px) {
+        flex-direction: row;
+        margin-bottom: $su;
+        text-align: left;
+
+        .block:nth-of-type(2) {
+            margin-left:$su;
+        }
+    }   
 }
