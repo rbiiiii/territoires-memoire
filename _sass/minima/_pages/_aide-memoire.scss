@@ -38,7 +38,7 @@ a.page-am-num__link {
     }
 
     &:first-of-type {
-        margin-top:$spacing-unit*2;    
+        margin-top:$su*2;    
     }
 
     &:hover, &:focus {
@@ -74,17 +74,17 @@ a.page-am-num__link {
     order:2;
     max-width: 200px;
     float: left;
-    margin-right: $spacing-unit;
+    margin-right: $su;
     border:3px solid $bleu-tm;
     transition:border-color 150ms ease-out;
 
     @media screen and (max-width:399px) {
-        margin:0 0 $spacing-unit/2 0;
+        margin:0 0 $su/2 0;
     }
 }
 
 .am-archives-link-wrapper {
-    margin-top:$spacing-unit*4;
+    margin-top:$su*4;
     text-align: center;
 }
 
@@ -96,11 +96,11 @@ a.page-am-num__link {
 }
 
 #am-results-container {
-    margin-top:$spacing-unit*2;
+    margin-top:$su*2;
 }
 
 .am-result {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $su;
 }
 
 .am-result__title {

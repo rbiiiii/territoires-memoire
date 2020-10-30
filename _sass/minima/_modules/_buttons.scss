@@ -85,7 +85,7 @@ a.button--white-on-red, .button--white-on-red {
         border:3px solid $rouge-tm;
         box-shadow:4px 4px 0 rgba(255,255,255,0.6);
         padding:0.2em 0.5em 0.2em 0.5em;
-        margin: $spacing-unit/2 auto;
+        margin: $su/2 auto;
 
         &:hover, &:focus {
             color:white;
@@ -125,5 +125,5 @@ a.button--small, .button--small {
 }
 
 a.paypal-donate {
-    margin:$spacing-unit/2 0;
+    margin:$su/2 0;
 }

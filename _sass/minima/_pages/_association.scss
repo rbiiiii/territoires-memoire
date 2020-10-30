@@ -1,5 +1,5 @@
 .ra-hero {
-    margin-bottom:$spacing-unit*2;
+    margin-bottom:$su*2;
 
     @media screen and (min-width:768px) {
         display: flex;
@@ -41,13 +41,13 @@
 
 .ra-list {
     grid-template-columns: repeat(auto-fit, minmax(234px, 1fr));
-    grid-gap: $spacing-unit;
-    margin-top:$spacing-unit*1.5;
+    grid-gap: $su;
+    margin-top:$su*1.5;
 }
 
 .ra-list__item {
-    margin-right:$spacing-unit;
-    margin-bottom:$spacing-unit;
+    margin-right:$su;
+    margin-bottom:$su;
 
     @supports (display:grid) {
         margin-right:0;
@@ -75,7 +75,7 @@ a.ra-list__item__link {
 
 .ra-list__item__year {
     color:white;
-    margin-right:$spacing-unit;
+    margin-right:$su;
     @include pj-black;       
     @include relative-font-size(2.8);
     transition:color 150ms ease-out;
@@ -95,7 +95,7 @@ a.ra-list__item__link {
 }
 
 .ca--top {
-    margin-bottom:$spacing-unit*2;
+    margin-bottom:$su*2;
 }
 
 .ca__list {
@@ -111,7 +111,7 @@ a.ra-list__item__link {
 }
 
 .list-permanents__group {
-    margin-bottom: $spacing-unit*2;
+    margin-bottom: $su*2;
     overflow-x: hidden;
 
     &:last-child {
@@ -119,7 +119,7 @@ a.ra-list__item__link {
     }
 
     @media screen and (min-width:1240px) {
-        margin-bottom:$spacing-unit*4;    
+        margin-bottom:$su*4;    
     }
 }
 
@@ -168,8 +168,8 @@ a.ra-list__item__link {
         text-align: center;
         border:0;
         color:$bleu-tm;
-        margin: $spacing-unit 0;
-        padding: 0 $spacing-unit;
+        margin: $su 0;
+        padding: 0 $su;
     }
 }
 
@@ -184,7 +184,7 @@ a.ra-list__item__link {
 .list-permanents__item {
     display: flex;
     line-height:1.3;
-    padding:$spacing-unit/2;
+    padding:$su/2;
 
      @media screen and (max-width:768px) {
         
@@ -197,7 +197,7 @@ a.list-permanents__item__link {
     color:$text-color;
     background:none;
     display:block;
-    margin-right:$spacing-unit/2;
+    margin-right:$su/2;
     flex: 0 0 50px;
     height: 71px;
     background-color: $rouge-tm;

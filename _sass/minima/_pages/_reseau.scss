@@ -1,5 +1,5 @@
 .reseau-img-generique {
-    margin:0 0 $spacing-unit*2 0;
+    margin:0 0 $su*2 0;
     position:relative;
     width:100%;
     display:flex;
@@ -10,7 +10,7 @@
 
 .reseau-img-generique__plaque {
     position:absolute;
-    left:$spacing-unit*2;
+    left:$su*2;
     width:40%;
     max-width:425px;
     z-index: 3;
@@ -42,7 +42,7 @@
 
 .reseau-img-generique__people {
     position: absolute;
-    right:$spacing-unit*2;
+    right:$su*2;
     width:40%;
     max-width:425px;
     bottom:0;
@@ -88,7 +88,7 @@
     height: 100%;
     min-height:340px;
     max-height:80vh;
-    margin:$spacing-unit*2 auto;
+    margin:$su*2 auto;
     box-shadow: 0 0 30px #ccc;
 
     @media screen and (min-width:1240px) {
@@ -175,7 +175,7 @@ a.leaflet-popup-close-button {
 }
 
 .list-reseau {
-    margin-top:$spacing-unit/2;
+    margin-top:$su/2;
 
     li {
         margin-right:0;
@@ -208,7 +208,7 @@ a.leaflet-popup-close-button {
 #addCommunes {
     @include relative-font-size(1);
     display: inline-block;
-    margin: $spacing-unit auto 0 auto;    
+    margin: $su auto 0 auto;    
     opacity:0;
     transition: opacity 150ms ease-out;
 
@@ -222,7 +222,7 @@ a.leaflet-popup-close-button {
 }
 
 #reseauInput {
-    margin-top:$spacing-unit;  
+    margin-top:$su;  
     min-width: 15em;
     padding: 0.4em;
     border:3px solid $rouge-tm;  
@@ -234,12 +234,12 @@ a.leaflet-popup-close-button {
 }
 
 .partenaires-reseau {
-    margin-top:$spacing-unit*2;    
+    margin-top:$su*2;    
 }
 
 .emc-images {
-    padding:0 $spacing-unit;
-    margin:$spacing-unit*4 0 $spacing-unit*2 0;    
+    padding:0 $su;
+    margin:$su*4 0 $su*2 0;    
     @include containers(560px);
 }
 
@@ -252,17 +252,17 @@ a.leaflet-popup-close-button {
 }
 
 .emc-infos {
-    margin-top:$spacing-unit*2;
+    margin-top:$su*2;
 }
 
 .emc-pdf-links {
-    margin-top:$spacing-unit;
+    margin-top:$su;
     display:flex;
     flex-wrap: wrap;
 
     .pdf-link {
         padding:0;
-        margin:0 0 $spacing-unit 0;
+        margin:0 0 $su 0;
         max-width:100%;
 
         @media screen and (min-width:600px) {

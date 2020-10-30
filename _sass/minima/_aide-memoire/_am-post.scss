@@ -10,7 +10,7 @@
         }    
 
         &.sticky {
-            top:$spacing-unit;    
+            top:$su;    
         }
     }      
 }
@@ -23,7 +23,7 @@
     position: relative;
 
     .post__header__breadcrumbs {
-        margin-bottom:$spacing-unit;
+        margin-bottom:$su;
 
         a {
             background:none;
@@ -73,18 +73,18 @@
     .post__credits {
         @include garamond;
         font-weight: 600;
-        margin-top:$spacing-unit;
-        margin-bottom:$spacing-unit*2;
+        margin-top:$su;
+        margin-bottom:$su*2;
 
         &.about-the-author {
             font-weight:400;
-            margin-top:-$spacing-unit*2;
+            margin-top:-$su*2;
         }
     }
 
     .post__content-wrapper {
         max-width:$max-width;
-        padding:0 $spacing-unit;
+        padding:0 $su;
         margin:0 auto;
         display:flex;
         justify-content: center;
@@ -123,7 +123,7 @@
         }
 
         @media screen and (min-width:1240px) {
-            margin:0 $spacing-unit*2 0 0;
+            margin:0 $su*2 0 0;
         }
 
         @supports (display:grid) {
@@ -158,7 +158,7 @@
         img {
             display: block;
             max-width:100%;    
-            margin:$spacing-unit auto 0 auto;
+            margin:$su auto 0 auto;
         }
 
         .img-copyright {
@@ -189,7 +189,7 @@
     .post__aside {
         min-width:240px;    
         max-width:340px;  
-        margin:0 auto $spacing-unit*2 auto;  
+        margin:0 auto $su*2 auto;  
 
         @supports (display:grid) {
             
@@ -228,10 +228,10 @@
     }
 
     .footnotes {
-        margin-top: $spacing-unit/2;
+        margin-top: $su/2;
         font-size: 80%;
-        padding-right: $spacing-unit;
-        padding-left: $spacing-unit;
+        padding-right: $su;
+        padding-left: $su;
         margin-left: 0;
 
         li {
@@ -252,11 +252,11 @@
 
     .footnote-hook__top {
         display:block;
-        left:-$spacing-unit/2;
+        left:-$su/2;
         text-align:left;
 
         @media screen and (min-width:$large-width) {
-            left:-$spacing-unit;
+            left:-$su;
         }
     }
 
@@ -266,10 +266,10 @@
 
     .footnote-hook__bottom {
         float:right;
-        right:-$spacing-unit/2;
+        right:-$su/2;
 
         @media screen and (min-width:$large-width) {
-            right:-$spacing-unit;
+            right:-$su;
         }
     }
 
@@ -317,7 +317,7 @@
 
         @media screen and (min-width:1600px) {
             position:absolute;
-            right: $spacing-unit;
+            right: $su;
             max-width: 25%;
             width: 100%;
             text-align: right;    
@@ -355,10 +355,10 @@
 
     .post__share-icons {
         font-family: $base-font-family;
-        margin: $spacing-unit*2 auto 0 auto;
+        margin: $su*2 auto 0 auto;
 
         @media screen and (min-width:1024px) {
-            margin-top: $spacing-unit*4;    
+            margin-top: $su*4;    
         }
     }
 }

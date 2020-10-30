@@ -52,11 +52,11 @@ h2, h3, h4, h5 {
 
 
 p + .card, ul + .card, p + h2, p + h3, p + h4, ul + h2, ul + h3, ul + h4 {
-  margin-top:$spacing-unit*1.5;  
+  margin-top:$su*1.5;  
 }
 
 h3 + h4 {
-  margin-top:$spacing-unit;
+  margin-top:$su;
 }
 
 .chapeau {
@@ -68,7 +68,7 @@ h3 + h4 {
 }
 
 .middle-space-bottom {
-  margin-bottom:$spacing-unit*2;  
+  margin-bottom:$su*2;  
 }
 
 .align-right {
@@ -76,7 +76,7 @@ h3 + h4 {
 }
 
 .double-margin-top {
-  margin-top:$spacing-unit*2;  
+  margin-top:$su*2;  
 }
 
 .no-margin-bottom {

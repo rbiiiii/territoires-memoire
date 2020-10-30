@@ -3,7 +3,7 @@
     .container--half {
 
         &:nth-child(even) {
-            margin-top:$spacing-unit*2;
+            margin-top:$su*2;
         }    
     }
         
@@ -20,13 +20,13 @@
             justify-content: space-between;
 
             &.top {
-                margin-top:$spacing-unit*2;    
+                margin-top:$su*2;    
             }
         }
 
         .container--half {
             flex:1 1 45%;
-            margin:0 $spacing-unit $spacing-unit $spacing-unit;
+            margin:0 $su $su $su;
 
             &:nth-child(even) {
                 margin-top:0;
@@ -42,7 +42,7 @@
             .containers {
                 display:grid;
                 grid: auto-flow / 1fr 1fr;
-                grid-gap: $spacing-unit*2; 
+                grid-gap: $su*2; 
             }
 
             .container--half {
@@ -55,7 +55,7 @@
         }
 
         .containers + .page-tuiles {
-            margin-top:$spacing-unit*2;    
+            margin-top:$su*2;    
         }
     }
 }

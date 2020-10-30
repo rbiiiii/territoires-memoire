@@ -23,7 +23,7 @@
 #un-parcours-en-six-parties {
 
     .blocks {
-        margin-top:$spacing-unit*4;
+        margin-top:$su*4;
     }
 
     h3 {
@@ -36,7 +36,7 @@
 }
 
 .pjc-preparation {
-    margin-top:$spacing-unit*2;
+    margin-top:$su*2;
 
     .grid.pdf {
         display:flex;
@@ -54,11 +54,11 @@
         .grid__item {
             width:100%;
             max-width: 240px;
-            margin:0 0 $spacing-unit 0;
+            margin:0 0 $su 0;
 
             @media screen and (min-width:460px) {
                 width:45%;
-                margin:0 $spacing-unit 0 0;
+                margin:0 $su 0 0;
                 max-width:100%;
             }
 
@@ -71,11 +71,11 @@
 }
 
 #pjc-booking__form {
-    margin:$spacing-unit*2 auto 0 auto;
+    margin:$su*2 auto 0 auto;
     line-height: 1.8;
 
     h3 {
-        margin-top:$spacing-unit*2;
+        margin-top:$su*2;
 
         small {
 
@@ -115,7 +115,7 @@
 
     input[type="submit"] {
         width:auto;
-        margin-top:$spacing-unit*2;
+        margin-top:$su*2;
         font-size: 100%;
         font-style: normal;
         color:$bleu-tm;
@@ -147,11 +147,11 @@
 .pjc-booking__languages {
     display:flex;
     justify-content: center;
-    margin-bottom:$spacing-unit*2;
+    margin-bottom:$su*2;
 
     a.button {
         font-size: 0.9rem;
-        margin:0 $spacing-unit/2;
+        margin:0 $su/2;
     }
 }
 

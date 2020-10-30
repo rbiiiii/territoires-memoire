@@ -29,7 +29,7 @@
         width:100%;
         max-width:220px;
         height:180px;
-        margin:0 $spacing-unit*2 $spacing-unit*2 0;
+        margin:0 $su*2 $su*2 0;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -66,7 +66,7 @@
 .list.list-press {
 
     li {
-        margin-bottom:$spacing-unit/2;
+        margin-bottom:$su/2;
     }
 }
 
@@ -91,11 +91,11 @@
 }
 
 .alc-archives {
-    margin-top:$spacing-unit*2;    
+    margin-top:$su*2;    
 }
 
 .grid.pdf.alc {
-    margin-top:$spacing-unit*2;    
+    margin-top:$su*2;    
 
     .grid__item__img {
 
@@ -114,7 +114,7 @@
 }
 
 .blocks--alc-2018 {
-    margin-top:$spacing-unit*2;
+    margin-top:$su*2;
 
     .grid__item__text {
         display: block;
@@ -124,39 +124,39 @@
 .alc-secondary {
 
     .page-section__content {
-        margin-bottom: $spacing-unit*4;
+        margin-bottom: $su*4;
     }
 
     .embedresize {
-        margin-bottom:$spacing-unit;
+        margin-bottom:$su;
     }
 }
 
 .archives-am-page {
 
     .post__title {
-        margin-top:$spacing-unit*4;
+        margin-top:$su*4;
     }
 }
 
 .ressources-graphiques__block {
-    margin-bottom:$spacing-unit*4;
+    margin-bottom:$su*4;
 
     h4 {
-        margin-bottom:$spacing-unit;
+        margin-bottom:$su;
     }
 
     .pdf-link__img {
         width:50px;
         height:auto;
-        margin-right:$spacing-unit/2;
+        margin-right:$su/2;
     }
 }
 
 .ressources-graphiques__block__img {
     width:100%;
     max-width:280px;
-    margin-right:$spacing-unit;
+    margin-right:$su;
 }
 
 .ressources-graphiques__block__wrapper {
@@ -166,7 +166,7 @@
 }
 
 li.list-cdl__item {
-    margin-bottom:$spacing-unit*2;
+    margin-bottom:$su*2;
 }
 
 .pjc-booking {
@@ -179,7 +179,7 @@ li.list-cdl__item {
 .list-emploi {
 
     li {
-        margin-bottom:$spacing-unit*2;
+        margin-bottom:$su*2;
     }
     
     p {

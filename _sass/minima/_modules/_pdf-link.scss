@@ -1,5 +1,5 @@
 .pdf-link {
-    padding:0 $spacing-unit;
+    padding:0 $su;
     max-width:270px;
     @extend %limited-width;
 }
@@ -61,7 +61,7 @@ a.pdf-link__link {
 .pdf-link__img {
     width: 50px;
     height:64.4px;
-    margin-right:$spacing-unit;
+    margin-right:$su;
     flex-shrink: 0;
 }
 

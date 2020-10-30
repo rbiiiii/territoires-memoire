@@ -1,5 +1,5 @@
 .editions-infos {
-    margin-top:$spacing-unit*2;    
+    margin-top:$su*2;    
 
     .card--one {
         order:1;    
@@ -16,7 +16,7 @@
     }
 
     .container--half.odd {
-        margin-top:$spacing-unit*2; 
+        margin-top:$su*2; 
     }   
 
     @media screen and (min-width:1024px) {
@@ -165,7 +165,7 @@
         color:$bleu-tm;
         @include relative-font-size(1.1);
         padding:0;
-        margin: $spacing-unit/2 0 $spacing-unit/4 0;   
+        margin: $su/2 0 $su/4 0;   
         min-height:1px;
         display:block;
         transition: color 150ms ease-out;    

@@ -3,10 +3,10 @@
  */
 
 .page-content {
-    margin:$spacing-unit 0 $spacing-unit*4 0;  
+    margin:$su 0 $su*4 0;  
 
     @media screen and (min-width:1024px) {
-        margin-top:$spacing-unit*2;      
+        margin-top:$su*2;      
     }
 }
 
@@ -25,7 +25,7 @@
 
 .page-title {
     @include pj-black; 
-    padding:$spacing-unit*0.75 $spacing-unit*4 $spacing-unit $spacing-unit;
+    padding:$su*0.75 $su*4 $su $su;
     max-width:$max-width;
     margin:0 auto;
     line-height: 1.3;
@@ -43,7 +43,7 @@
     }
 
     @media screen and (min-width:1024px) {
-        padding-right:$spacing-unit;
+        padding-right:$su;
     }
 
     @media screen and (min-width:1240px) {
@@ -62,11 +62,11 @@
 }
 
 .page-section {
-    padding-top:$spacing-unit;
-    margin-top:$spacing-unit*5;
+    padding-top:$su;
+    margin-top:$su*5;
 
     @media screen and (min-width:$max-width) {
-        margin-top:$spacing-unit*9;
+        margin-top:$su*9;
     }
 
     &.top {
@@ -74,28 +74,28 @@
         margin-top:0;
 
         @media screen and (min-width:1024px) {
-            margin-top:$spacing-unit;
+            margin-top:$su;
         }
 
         &.limited {
-            max-width: $large-width + $spacing-unit*2;
+            max-width: $large-width + $su*2;
             margin-left: auto;
             margin-right: auto;    
         }
 
         .page-section--top__title {
-            margin-bottom:$spacing-unit*2;
+            margin-bottom:$su*2;
             text-align: center;    
         }
 
         .chapeau + .page-tuiles {
-            margin-top:$spacing-unit*2;  
+            margin-top:$su*2;  
         }  
 
         @media screen and (min-width:1024px) {
 
             .blocks {
-                margin-bottom:$spacing-unit*2;
+                margin-bottom:$su*2;
             
                 @supports (display:grid) {
                     grid: auto-flow / 1fr 370px;
@@ -113,8 +113,8 @@
     }
 
     .wrapper {
-        padding-right: $spacing-unit;
-        padding-left: $spacing-unit;
+        padding-right: $su;
+        padding-left: $su;
     }
 }
 
@@ -122,33 +122,33 @@
     @extend %limited-width--without-padding;
 
     .card {
-        margin-right:$spacing-unit;    
-        margin-left:$spacing-unit;
+        margin-right:$su;    
+        margin-left:$su;
     }
 
     .card--medium-width {
 
         @media screen and (min-width:$medium-width) {
-            max-width:$medium-width - $spacing-unit*2;
+            max-width:$medium-width - $su*2;
             margin-right:auto;    
             margin-left:auto;    
         }
 
         @media screen and (min-width:1024px) {
             max-width:100%;
-            margin-right:$spacing-unit;    
+            margin-right:$su;    
         }
     }
 }
 
 .page-section__img {
     @extend %limited-width--without-padding;
-    max-width:$max-width - $spacing-unit*2;
+    max-width:$max-width - $su*2;
     position:relative;
     width:100%;
     border-top: 1px solid $bleu-tm;
     border-bottom: 1px solid $bleu-tm;
-    margin:0 auto $spacing-unit auto;
+    margin:0 auto $su auto;
     padding-bottom:12px;
 
     img {
@@ -158,7 +158,7 @@
 
 .page-section__title {
     @extend %limited-width;
-    margin-top:$spacing-unit/2;
+    margin-top:$su/2;
     color:$bleu-tm;
     text-align: center;
     max-width:$large-width;
@@ -166,7 +166,7 @@
     margin-left:auto;
 
     @media screen and (min-width:1024px) {
-        margin-bottom:$spacing-unit*2;    
+        margin-bottom:$su*2;    
     }
 }
 
@@ -181,7 +181,7 @@
 }
 
 .page-section__content {
-    margin-top: $spacing-unit*2;
+    margin-top: $su*2;
     @extend %limited-width;
 
     &.limited {
@@ -200,12 +200,12 @@
         flex-direction: row;
         justify-content: space-between;
         align-items: flex-end;
-        margin-bottom:$spacing-unit;
+        margin-bottom:$su;
     }
 
     .pdf-link {
         padding:0;    
-        margin-bottom:$spacing-unit;
+        margin-bottom:$su;
 
         @media screen and (min-width:768px) {
             margin-bottom:0;
@@ -216,7 +216,7 @@
 .page-section__header-icon {
 
     &.left {
-        margin-right:$spacing-unit/2;    
+        margin-right:$su/2;    
 
         @media screen and (max-width:767px) {
             order:2;
@@ -224,10 +224,10 @@
     }
 
     &.right {
-        margin-left:$spacing-unit/2;    
+        margin-left:$su/2;    
 
         @media screen and (max-width:767px) {
-            margin-bottom:$spacing-unit*2;
+            margin-bottom:$su*2;
             text-align: center;
             order:1;
         }
@@ -235,7 +235,7 @@
 }
 
 .page-footer {
-    margin-bottom:$spacing-unit*4;    
+    margin-bottom:$su*4;    
 }
 
 .full {
@@ -244,11 +244,11 @@
 
 #am-404 {
     display:none;
-    margin-top:$spacing-unit*2;
+    margin-top:$su*2;
     transform:scaleY(0);
     transition:transform 150ms ease-out;
-    margin-right:$spacing-unit;
-    margin-left:$spacing-unit;
+    margin-right:$su;
+    margin-left:$su;
     
     &.opened {
         display:block;

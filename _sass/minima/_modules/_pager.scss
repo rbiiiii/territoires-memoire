@@ -1,9 +1,9 @@
 .post-list__pager {
-    padding: $spacing-unit*2 0 $spacing-unit*4 0;
+    padding: $su*2 0 $su*4 0;
 
     .category & {
         background-color:$bleu-tm-ultra-light;
-        padding: 0 0 $spacing-unit*4 0;
+        padding: 0 0 $su*4 0;
     }
     
     .list {

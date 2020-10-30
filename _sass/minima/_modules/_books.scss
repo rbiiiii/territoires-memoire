@@ -28,13 +28,13 @@ a.book__link {
 
 .book__body {
     position:relative;
-    margin-top:$spacing-unit/2;    
+    margin-top:$su/2;    
 }
 
 .book__img-wrapper {
     position:relative;
     width:144px;
-    margin:$spacing-unit/2 auto;
+    margin:$su/2 auto;
     border:2px solid $bleu-tm;
 
     @media screen and (min-width:420px) {

@@ -5,7 +5,7 @@
     flex-wrap:wrap;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-    grid-gap: $spacing-unit;
+    grid-gap: $su;
     justify-content: center;
     @extend %limited-width--without-padding;
 
@@ -24,7 +24,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin:$spacing-unit;
+    margin:$su;
     max-height:120px;
 
     @media screen and (min-width:1024px) {

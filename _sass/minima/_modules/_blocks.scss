@@ -9,10 +9,10 @@
 }
 
 .img-blocks {
-    margin-top:$spacing-unit;
+    margin-top:$su;
 
     img {
-        margin-bottom:$spacing-unit/2;
+        margin-bottom:$su/2;
         border:2px solid $bleu-tm;
     }    
 
@@ -22,7 +22,7 @@
 }
     
 .block {
-    margin:0 auto $spacing-unit*2 auto;
+    margin:0 auto $su*2 auto;
     max-width:$medium-width;
 }
     
@@ -39,7 +39,7 @@
 
     .block {
         flex:1 1 45%;
-        margin:0 $spacing-unit $spacing-unit $spacing-unit;
+        margin:0 $su $su $su;
 
         &:last-child {
             margin-bottom:0;    
@@ -51,7 +51,7 @@
         .blocks {
             display:grid;
             grid: auto-flow / 1fr 1fr;
-            grid-gap: $spacing-unit*4; 
+            grid-gap: $su*4; 
         }
 
         .block {
@@ -67,6 +67,6 @@
 .block--title-img-txt {
 
     img {
-        margin-bottom: $spacing-unit/2;    
+        margin-bottom: $su/2;    
     }            
 }

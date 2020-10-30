@@ -5,7 +5,7 @@
 }
 
 .post_breadcrumbs {
-    padding:0 $spacing-unit;
+    padding:0 $su;
 
     svg {
         height:0.5em;
@@ -16,7 +16,7 @@
 .post__header__img {
     position:relative;
     border-bottom:1px solid $bleu-tm;
-    margin:0 $spacing-unit;
+    margin:0 $su;
     padding-bottom:12px;
 
     img {
@@ -44,12 +44,12 @@
 
 .post__title {
     @include pj-regular;
-    padding:0 $spacing-unit;
+    padding:0 $su;
     text-align: center;
 
     h1 {
         color: $bleu-tm;
-        margin: $spacing-unit auto;
+        margin: $su auto;
         max-width: $large-width;
 
         .secondary-page &, .emploi & {
@@ -59,9 +59,9 @@
 }
 
 .post__meta {
-    margin-right: $spacing-unit;  
-    margin-left: $spacing-unit;
-    margin-bottom: $spacing-unit;
+    margin-right: $su;  
+    margin-left: $su;
+    margin-bottom: $su;
 }
 
 .post__meta__title {
@@ -88,9 +88,9 @@
 li.post__meta__item {
     display:flex;
     align-items:center; 
-    margin:0 $spacing-unit/2;
+    margin:0 $su/2;
     min-width:20%;
-    margin-bottom:$spacing-unit/2;
+    margin-bottom:$su/2;
 
     @media screen and (min-width:768px) {
         margin-bottom:0;
@@ -114,7 +114,7 @@ li.post__meta__item {
 .post__content { 
 
     .actualites &, .emploi & {
-        padding:0 $spacing-unit;
+        padding:0 $su;
         max-width:720px;
         margin-right:auto;
         margin-left:auto;
@@ -127,13 +127,13 @@ li.post__meta__item {
     iframe {
         width:100%;
         min-height:420px; 
-        margin:$spacing-unit 0;
+        margin:$su 0;
     }
 
     iframe.flickr-embed-frame {
-        border: $spacing-unit solid $bleu-tm;
+        border: $su solid $bleu-tm;
         box-sizing: content-box;
-        margin: $spacing-unit*2 auto $spacing-unit auto !important;
+        margin: $su*2 auto $su auto !important;
         text-align: center;
         display: block !important;
         position: absolute;
@@ -151,24 +151,24 @@ li.post__meta__item {
 }
 
 .post__content__posted_on {
-    margin-top:$spacing-unit;
+    margin-top:$su;
 }
 
 .post__content__enlien {
-    margin-top:$spacing-unit;
+    margin-top:$su;
     text-align: center;
 }
 
 .post__files {
-    margin:$spacing-unit*2 auto;
+    margin:$su*2 auto;
 
     .pdf-link:not(:first-of-type) {
-        margin-top: $spacing-unit;
+        margin-top: $su;
     }
 }
 
 .post__aside, #map {
-    margin:$spacing-unit*2 auto;
+    margin:$su*2 auto;
     width:100%;
     max-width: $max-width;
     height:100%;
@@ -179,11 +179,11 @@ li.post__meta__item {
 }
 
 .post__aside #map {
-    margin:$spacing-unit*2 auto 0;
+    margin:$su*2 auto 0;
 }
 
 .post__aside .map-address {
-    margin-bottom:$spacing-unit*2;
+    margin-bottom:$su*2;
     padding: 0.25em 0.5em;
     justify-content: center;
     
@@ -200,7 +200,7 @@ li.post__meta__item {
 
         .post__meta__icon {
             text-align: center;
-            margin-bottom:$spacing-unit/2;
+            margin-bottom:$su/2;
         }
     }
 
@@ -299,8 +299,8 @@ li.post__meta__item {
     @extend %limited-width;  
     
     @media screen and (min-width:1024px) {
-        margin-top: $spacing-unit*2;
-        margin-bottom: $spacing-unit*2;
+        margin-top: $su*2;
+        margin-bottom: $su*2;
     }
 
     a.button {
@@ -308,7 +308,7 @@ li.post__meta__item {
         display:flex;
         align-items:center;
         @include relative-font-size(0.8);
-        margin-bottom:$spacing-unit*2;
+        margin-bottom:$su*2;
 
         @media screen and (min-width:1024px) {
             max-width:33.3%;    

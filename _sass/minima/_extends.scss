@@ -3,8 +3,8 @@
     max-width:$medium-width;
     margin-right:auto;    
     margin-left:auto;
-    padding-right:$spacing-unit;
-    padding-left:$spacing-unit;
+    padding-right:$su;
+    padding-left:$su;
 
     @media screen and (min-width:1024px) {
         max-width:$max-width;    
@@ -29,11 +29,11 @@
     height: 0;
     background-color:white;
     border-style: solid;
-    border-width: $spacing-unit $spacing-unit/2  0 $spacing-unit/2;
+    border-width: $su $su/2  0 $su/2;
     border-color: $bleu-tm transparent transparent transparent;
     margin:0 auto;
     position: absolute;
     left: 50%;
-    margin-left: -$spacing-unit/2;
+    margin-left: -$su/2;
     background-color:transparent;
 }

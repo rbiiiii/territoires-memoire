@@ -5,11 +5,11 @@
 }
 
 .pdf-txt__item {
-    padding:$spacing-unit 0;
+    padding:$su 0;
     margin:0 auto;
 
     @media screen and (min-width:$medium-width) {
-        padding:$spacing-unit;
+        padding:$su;
     }
 
     @media screen and (min-width:1024px) {
@@ -60,13 +60,13 @@ a.pdf-txt__item__link {
 
 .pdf-txt__item__img-wrapper {
     overflow:hidden;
-    margin:0 auto $spacing-unit/2 auto;
+    margin:0 auto $su/2 auto;
     flex:0 0 138px;
     border:3px solid $bleu-tm;
     transition:150ms border-color ease-out;
 
     @media screen and (min-width:$medium-width) {
-        margin:0 $spacing-unit 0 0;
+        margin:0 $su 0 0;
     }
 }
 
@@ -107,7 +107,7 @@ a.pdf-txt__item__link {
         .pdf-txt {
             display:grid;
             grid:auto-flow / 1fr 1fr;
-            grid-gap:$spacing-unit*2; 
+            grid-gap:$su*2; 
         }
 
         .pdf-txt__item {

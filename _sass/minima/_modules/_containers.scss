@@ -3,7 +3,7 @@
     &.container--half {
         
         &:nth-child(even), &.even {
-            margin-top:$spacing-unit*2;
+            margin-top:$su*2;
         }    
     }
 
@@ -21,7 +21,7 @@
 }
 
 .container--third {
-    margin:0 auto $spacing-unit auto;
+    margin:0 auto $su auto;
 
     &:last-child {
         margin-bottom:0;    
@@ -34,7 +34,7 @@
 }
 
 .container--fourth{
-    margin:0 auto $spacing-unit auto;
+    margin:0 auto $su auto;
     align-items: stretch;
 
     &:last-child {
@@ -53,7 +53,7 @@
         .containers--fourth {
             display:grid;
             grid: auto-flow / 1fr 1fr;
-            grid-gap: $spacing-unit; 
+            grid-gap: $su; 
         }
     }
 }
@@ -81,12 +81,12 @@
         justify-content: space-between;
 
         &.top {
-            margin-top:$spacing-unit*2;    
+            margin-top:$su*2;    
         }
     }
 
     .container {
-        margin:0 $spacing-unit $spacing-unit $spacing-unit;
+        margin:0 $su $su $su;
 
         &.container--half {
             flex:1 1 45%;
@@ -100,12 +100,12 @@
             }
             
             .page-section__header &.odd .card {
-                margin-left:$spacing-unit; 
+                margin-left:$su; 
                 margin-right:0;
             }
             
             .page-section__header &.even .card {
-                margin-right:$spacing-unit;
+                margin-right:$su;
             }
         }
 
@@ -127,7 +127,7 @@
 
         &.container--third {
             flex:1 1 28%;
-            margin:$spacing-unit;
+            margin:$su;
 
             @supports (display:grid) {
                 margin:0;
@@ -160,7 +160,7 @@
         .containers {
             display:grid;
             grid: auto-flow / 1fr 1fr;
-            grid-gap: $spacing-unit*2; 
+            grid-gap: $su*2; 
         }
         
         .container--half {
@@ -185,6 +185,6 @@
     }
 
     .containers + .page-tuiles {
-        margin-top:$spacing-unit*2;    
+        margin-top:$su*2;    
     }
 }

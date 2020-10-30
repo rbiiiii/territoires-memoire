@@ -1,8 +1,8 @@
 // CARDS
 .card {
-    padding:$spacing-unit;
+    padding:$su;
     color:white;
-    margin-bottom:$spacing-unit*2;
+    margin-bottom:$su*2;
     display: block;
 
     h2, h3, h4, a {
@@ -55,6 +55,14 @@
 
     &.card--one {
         border:0.7em solid $bleu-tm;
+
+        a {
+            color:$bleu-tm;
+
+            &:hover, &:focus {
+                color:white;
+            }
+        }
     }
 
     &.card--two {
@@ -75,11 +83,11 @@
 
     h2 {
         margin:0;
-        padding:$spacing-unit;    
+        padding:$su;    
     }
 
     &__content {
-        padding:$spacing-unit;    
+        padding:$su;    
     }
 }
 
@@ -95,7 +103,7 @@
     $tr-top-right-unit:15px;
 
     h2 {
-        padding:$spacing-unit/2 $tr-top-right-unit*5 $spacing-unit/2  $spacing-unit;    
+        padding:$su/2 $tr-top-right-unit*5 $su/2  $su;    
     }
 
     &::before {
@@ -109,7 +117,7 @@
         border-color: #ffffff transparent transparent transparent;
         margin: 0 auto;
         position: absolute;
-        right:$spacing-unit*2;
+        right:$su*2;
     }   
 }
 
@@ -139,7 +147,7 @@
     }
 
     .pdf-link__link {
-        padding:$spacing-unit;
+        padding:$su;
     }
 }
 
@@ -147,11 +155,11 @@
     display: flex;
 
     .card__icon {
-        width: $spacing-unit*2;
-        margin-right: $spacing-unit;
+        width: $su*2;
+        margin-right: $su;
         
         @media screen and (min-width:480px) {
-            width: $spacing-unit*3;
+            width: $su*3;
         }
 
         img {
@@ -161,7 +169,7 @@
     }
 
     .card__content {
-        max-width: calc(100% - #{$spacing-unit*4});
+        max-width: calc(100% - #{$su*4});
     }
 }
 
