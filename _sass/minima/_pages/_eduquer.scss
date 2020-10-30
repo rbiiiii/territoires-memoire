@@ -18,8 +18,8 @@
         
             .page-section__header {
                 display: grid;
-                grid: auto-flow / [start] $spacing-unit [start-txt] minmax(auto, 737px) [stop-txt] $spacing-unit*2 [start-card] minmax(305px, auto) [stop-card] $spacing-unit [stop];
-                grid-row-gap: $spacing-unit*2; 
+                grid: auto-flow / [start] $su [start-txt] minmax(auto, 737px) [stop-txt] $su*2 [start-card] minmax(305px, auto) [stop-card] $su [stop];
+                grid-row-gap: $su*2; 
 
                 .card {
                     margin:0;
@@ -46,7 +46,7 @@
             }
 
             .page-section__content {
-                margin-top:$spacing-unit*2;    
+                margin-top:$su*2;    
             }
         }
     }
@@ -54,7 +54,7 @@
 }   
 
 .list--peda {
-    margin-top:$spacing-unit;
+    margin-top:$su;
     margin-bottom:0;
     display:flex;
     flex-direction: row;
@@ -62,7 +62,7 @@
     flex-wrap: wrap;
 
     li {
-        margin-bottom:$spacing-unit/2;
+        margin-bottom:$su/2;
     }
 
     @media screen and (min-width:600px) {
@@ -73,7 +73,7 @@
 .expos-itinerantes {
 
     .pdf-txt__item {
-        margin-bottom:$spacing-unit*2;
+        margin-bottom:$su*2;
 
         a.button {
             font-size: 0.85em;
@@ -84,7 +84,24 @@
 .list--formations {
 
     .card {
-        margin-top:$spacing-unit;
+        margin-top:$su;
         margin-bottom: 0;
+    }
+}
+
+#formations-pedagogiques {
+
+    @supports (display:grid) {
+    
+        @media screen and (min-width:768px) {
+    
+            .page-section__header {
+                grid: auto-flow/[start] 20px [start-txt] 1fr [stop-txt] 40px [start-card] 1fr [stop-card] 20px [stop];
+
+                #accompagnements-a-la-carte {
+                    max-width: 100%;
+                } 
+            }   
+        }
     }
 }
