@@ -80,6 +80,11 @@ preparer:
         Ces dossiers pédagogiques permettront aux relais éducatifs de préparer une visite aux Territoires de la Mémoire en abordant les éléments indispensables à la compréhension de l’exposition « Plus jamais ça ! Parcours dans les camps nazis pour résister aujourd’hui ».
 
         Cette visite est une première étape dans un travail de Mémoire qui pourrait se prolonger... Pour ce faire, d’autres ressources sont à votre disposition, notamment via la [bibliothèque George Orwell](/bibliotheque-et-librairie-et-librairie) ou encore à la [librairie Stéphane Hessel](/bibliotheque-et-librairie).
+prolonger:
+    title: "Prolongez votre visite"
+    text: |- 
+        
+# Ces documents permettront aux relais éducatifs de prolonger leur visite de l'exposition "Plus jamais ça&nbsp;! Parcours dans les camps nazis pour resister aujourd'hui". Vous trouverez un dossier pédagogique ainsi que le contenu de la fresque "Résistances" visible sur le mur précédent la visite du parcours.        
 combiner:
     title: Combinez votre visite
     pdf:

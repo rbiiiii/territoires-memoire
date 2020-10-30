@@ -121,6 +121,11 @@ layout: static-page
 				<div class="pjc-preparation">
 					{%- include_cached pages/pdf-item.html slug="dossiers-pedagogiques" special_mention="pjc" folder="dossiers" lang=page.lang -%}
                 </div>
+                <h3>{{ page.prolonger.title }}</h3>
+                {{ page.prolonger.text | markdownify }}
+				<div class="pjc-preparation">
+					{%- include_cached pages/pdf-item.html slug="dossiers-pedagogiques" special_mention="pjc-prolonger" folder="dossiers" lang=page.lang -%}
+                </div>
                 <h3 style="margin-top:80px;">{{ page.combiner.title }}</h3>
 				<div class="card card--one card--pdf-link">
 					{%- include_cached pages/pdf-link.html slug="pjc" color="white" link=page.combiner.pdf.link text=page.combiner.pdf.text -%}
