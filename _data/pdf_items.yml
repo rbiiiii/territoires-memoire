@@ -167,12 +167,12 @@
   special_mention: pjc-prolonger
   lang: fr
 
-#- title: Plus jamais ça&nbsp;!<br>Fresque "Résistances"
-#  img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-fresque.jpg
-#  link: tm-dossiers_pedagogiques-plus_jamais_ca-fresque.pdf
-#  categorie: dossiers-pedagogiques
-#  special_mention: pjc-prolonger
-#  lang: fr
+- title: Plus jamais ça&nbsp;!<br>Fresque "Résistances"
+  img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-fresque.jpg
+  link: tm-dossiers_pedagogiques-plus_jamais_ca-fresque.pdf
+  categorie: dossiers-pedagogiques
+  special_mention: pjc-prolonger
+  lang: fr
 
 - title: Amen
   img_src: pdf-fiches_thematiques_cle-amen.jpg
