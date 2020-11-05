@@ -120,7 +120,8 @@
 	{
 		"title": "Le jeu Résiste !",
 		"img_src": "pdf-outils-jeu_resiste.jpg",
-		"txt" : "Résiste ! est un jeu de tuiles coopératif à destination des enfants de 9 à 13 ans. Ensemble, les joueurs et joueuses doivent se montrer solidaires pour réinstaurer la démocratie face au parti totalitaire Technomania. Rythmé par des questions-réponses, des défis et un visuel détonnant, le jeu se veut un réel outil pour sensibiliser à la démocratie et à la résistance.",
+		"pdf_src": "",
+		"txt" : "Résiste ! est un jeu de tuiles coopératif à destination des enfants de 9 à 13 ans. Ensemble, les joueurs et joueuses doivent se montrer solidaires pour réinstaurer la démocratie face au parti totalitaire Technomania. Rythmé par des questions-réponses, des défis et un visuel détonnant, le jeu se veut un réel outil pour sensibiliser à la démocratie et à la résistance. Plus d'infos sur <a href=\"https://resiste.be\" target=\"_blank\" rel=\"noopener\">le site web du jeu</a>.",
 		"categorie": "outils-pedagogiques"
 	},
 	{
