@@ -1,7 +1,7 @@
 {% if page.lang %}{% assign pagelang = page.lang %}{% else %}{% assign pagelang = "fr" %}{% endif %}
 <footer class="site-footer">
   <div class="wrapper">
-    <img class="site-footer__img" src="/assets/images/centre-d-education-a-la-resistance-et-a-la-citoyennete.svg" alt="Centre d'éducation à la résistance et à la citoyenneté">
+    <img class="site-footer__img" src="/assets/images/{{ site.data.footer[pagelang].img.url }}" alt="{{ site.data.footer[pagelang].img.txt }}">
     <nav class="site-footer__list-links list--no-style">
       <ul>
         {% for item in site.data.footer[pagelang].menu %}
