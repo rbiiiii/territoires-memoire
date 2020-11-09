@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: Le jeu coopératif Résiste ! réédité
 img_file: /assets/uploads/visuelresiste_sitetm_1240x480.jpg
