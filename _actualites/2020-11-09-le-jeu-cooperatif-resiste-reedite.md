@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: Le jeu coopératif Résiste ! réédité
 img_file: /assets/uploads/visuelresiste_sitetm_1240x480.jpg
@@ -25,24 +25,18 @@ Pour plus d’informations sur les règles du jeu, un tutoriel vidéo permet de 
 
 **Les points forts du jeu**
 
-\- S’amuser en expérimentant un jeu coopératif;
-
-\- Allie pédagogie/didactique avec la dynamique ludique de jeux de société « classique » ;
-
-\- Permet de découvrir les concepts, principes et valeurs démocratiques à travers un outil engagé ;
-
-\- Une manière ludique d’aborder la politique, la démocratie et la résistance à partir de 9 ans ;
+* S’amuser en expérimentant un jeu coopératif;
+* Allie pédagogie/didactique avec la dynamique ludique de jeux de société « classique » ;
+* Permet de découvrir les concepts, principes et valeurs démocratiques à travers un outil engagé ;
+* Une manière ludique d’aborder la politique, la démocratie et la résistance à partir de 9 ans ;
 
  
 
 **En pratique**
 
-<!--\[if !supportLists]-->-        <!--\[endif]-->Le jeu est proposé au prix de 30 € (avec des possibilités de réduction pour les achats en lot et pour les entités adhérant au réseau Territoire de Mémoire).
-
-<!--\[if !supportLists]-->-        <!--\[endif]-->Il permet des parties de 4 à 16 joueurs.
-
-<!--\[if !supportLists]-->-        <!--\[endif]-->Il est adapté de 9 à 13 ans.
-
-<!--\[if !supportLists]-->-        <!--\[endif]-->Les parties vont de 60 à 90 minutes.
+* Le jeu est proposé au prix de 30 € (avec des possibilités de réduction pour les achats en lot et pour les entités adhérant au réseau Territoire de Mémoire).
+* Il permet des parties de 4 à 16 joueurs.
+* Il est adapté de 9 à 13 ans.
+* Les parties vont de 60 à 90 minutes.
 
 Il est disponible à la vente en ligne via [www.resiste.be](http://www.resiste.be) et disponible dans plusieurs points de vente en Wallonie et à Bruxelles.
