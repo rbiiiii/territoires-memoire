@@ -10,7 +10,7 @@ address: Grand'rue 48-50, 6951 BANDE
 price: Gratuit
 tags:
   - Exposition
-schedule: Ouvert du vendredi 11 au dimanche 20 décembre 2020  de 9h à 12h et de 14h à 20h
+schedule: Ouvert du vendredi 7 au dimanche 19 décembre 2021  de 9h à 12h et de 14h à 20h
 booking: "Dominique Paulus tél: 0476 58 71 75 - email : dominopaulus60@gmail.com"
 ---
 «&nbsp;Résiste !&nbsp;», c’est l’appel qui est lancé aux visiteurs et qui traverse l’ensemble de l’exposition. Dédié à tous ceux qui, dans les camps de concentration, portaient le triangle rouge, ce message se veut plus large en soulignant l’action de tous les résistants à toutes les formes de tentatives liberticides. L’exposition encourage de façon didactique une attitude de vigilance citoyenne et responsable.
