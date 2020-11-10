@@ -68,7 +68,7 @@ layout: default
         <h2 class="page-section__title">{{ page.focus_text }}</h2>
       </header>
       <div class="homepage-focus-items blocks">
-        {%- assign publishedFocus = site.focus | where:'published', 'true' | sort: 'posted_on' -%}
+        {%- assign publishedFocus = site.focus | where:'published', 'true' | sort: 'posted_on' | reverse -%}
         {%- for focus in publishedFocus limit:2 -%}
           <div class="homepage-focus-item block">
             <a class="homepage-focus-item__link" href="{{ focus.link }}">
