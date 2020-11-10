@@ -6,6 +6,13 @@ title: Le jeu coopératif Résiste ! réédité
 img_file: /assets/uploads/visuelresiste_sitetm_1240x480.jpg
 posted_on: 2020-11-09
 ---
+Résiste !
+
+Le jeu coopératif pour résister ensemble et défendre la démocratie !
+
+Après le succès de sa première version, le jeu Résiste ! revient dans un nouveau modèle, encore plus amusant : emmenez vos groupes dans une activité motivante et instructive sur le thème de la démocratie et de ses valeurs.
+
+Avec Résiste !, plongez dans un univers original, répondez à des questions et relevez des défis tout en renforçant vos connaissances !
 
 **Un jeu pédagogique et ludique**
 
@@ -25,12 +32,10 @@ Pour plus d’informations sur les règles du jeu, un tutoriel vidéo permet de 
 
 **Les points forts du jeu**
 
-* S’amuser en expérimentant un jeu coopératif;
-* Allie pédagogie/didactique avec la dynamique ludique de jeux de société « classique » ;
-* Permet de découvrir les concepts, principes et valeurs démocratiques à travers un outil engagé ;
-* Une manière ludique d’aborder la politique, la démocratie et la résistance à partir de 9 ans ;
-
- 
+* S’amuser en expérimentant un jeu coopératif.
+* Allie pédagogie/didactique avec la dynamique ludique de jeux de société « classique ».
+* Permet de découvrir les concepts, principes et valeurs démocratiques à travers un outil engagé.
+* Une manière ludique d’aborder la politique, la démocratie et la résistance à partir de 9 ans.
 
 **En pratique**
 
