@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Le jeu coopératif Résiste ! réédité
 posted_on: 2020-10-11
 link: https://www.territoires-memoire.be/actualites/2020/11/le-jeu-cooperatif-resiste-reedite/
