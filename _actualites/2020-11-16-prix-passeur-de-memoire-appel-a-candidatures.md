@@ -10,10 +10,6 @@ posted_on: 2020-11-16
 
 C'est à l'initiative de son Comité *Mémoire et Démocratie* que le **Parlement de Wallonie**, membre du réseau  *Territoire de Mémoire*, a décidé d’octroyer, pour la quatrième fois, le titre de ***Passeur de Mémoire*** à un maximum de trois personnes (physiques ou morales) ayant joué un rôle dans la transmission pédagogique de certains événements politiques et sociaux tragiques de notre histoire, principalement auprès des jeunes générations, dans une optique de promotion des valeurs démocratiques et de résistance aux idées liberticides.
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 Le Parlement de Wallonie souhaite ainsi rendre hommage aux hommes et aux femmes qui ont résisté à l’intolérable et qui ont voulu transmettre durablement leur expérience afin qu’il n’y ait plus jamais de régimes totalitaires et liberticides.
 
 **Les prix seront décernés au mois d’octobre 2021 au Parlement de Wallonie.**
@@ -23,6 +19,8 @@ Le Parlement de Wallonie souhaite ainsi rendre hommage aux hommes et aux femmes 
 <!--StartFragment-->
 
 \------------------------
+
+**[L'appel](https://www.parlement-wallonie.be/titre-de-passeur-de-memoire-appel-a-candidatures-2)**
 
 Prenez connaissance du **[règlement (PDF)](https://www.parlement-wallonie.be/wp-content/uploads/2020/11/Concours-Passeur-de-Me%CC%81moire-2021-projet-de-modification-du-re%CC%80glement-.pdf)** et n'hésitez pas à recommander **[une personne ou une association](https://www.parlement-wallonie.be/wp-content/uploads/2020/11/Formulaire-titre-Passeur-de-Me%CC%81moire-2021.doc)** !\
 Les recommandations doivent être transmises au Comité *Mémoire et Démocratie*\
