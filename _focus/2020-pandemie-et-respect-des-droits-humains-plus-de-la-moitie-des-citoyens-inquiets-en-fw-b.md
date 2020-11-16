@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Pandémie et respect des droits humains : plus de la moitié des citoyens
   inquiets en FW-B"
 posted_on: 2020-10-22
