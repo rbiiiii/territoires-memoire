@@ -16,8 +16,6 @@ C'est à l'initiative de son Comité « Mémoire et Démocratie » que le **Par
 
 Le Parlement de Wallonie souhaite ainsi rendre hommage aux hommes et aux femmes qui ont résisté à l’intolérable et qui ont voulu transmettre durablement leur expérience afin qu’il n’y ait plus jamais de régimes totalitaires et liberticides.
 
- 
-
 **Les prix seront décernés au mois d’octobre 2021 au Parlement de Wallonie.**
 
 <!--EndFragment--><!--StartFragment-->
@@ -26,7 +24,7 @@ Le Parlement de Wallonie souhaite ainsi rendre hommage aux hommes et aux femmes 
 
 \------------------------
 
-Prenez connaissance du **[règlement (PDF)](https://www.parlement-wallonie.be/wp-content/uploads/2020/11/Concours-Passeur-de-Me%CC%81moire-2021-projet-de-modification-du-re%CC%80glement-.pdf)** et n'hésitez pas à recommander **[une personne ou une association (PDF)](https://www.parlement-wallonie.be/wp-content/uploads/2020/11/Formulaire-titre-Passeur-de-Me%CC%81moire-2021.doc)** !\
+Prenez connaissance du **[règlement (PDF)](https://www.parlement-wallonie.be/wp-content/uploads/2020/11/Concours-Passeur-de-Me%CC%81moire-2021-projet-de-modification-du-re%CC%80glement-.pdf)** et n'hésitez pas à recommander **[une personne ou une association](https://www.parlement-wallonie.be/wp-content/uploads/2020/11/Formulaire-titre-Passeur-de-Me%CC%81moire-2021.doc)** !\
 Les recommandations doivent être transmises au Comité «Mémoire et Démocratie»\
 du Parlement de Wallonie pour le lundi 31 janvier 2021.
 
@@ -39,8 +37,6 @@ du Parlement de Wallonie pour le lundi 31 janvier 2021.
 *Dans le cadre de sa mission d’éducation à la mémoire en particulier, le Comité entend développer des outils permettant de sensibiliser les citoyens wallons aux enjeux et héritages des première et deuxième guerres mondiales.*
 
 <!--EndFragment-->
-
-
 
 <!--EndFragment-->
 
