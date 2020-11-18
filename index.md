@@ -25,7 +25,7 @@ homepage_items:
           img: homepage-item-aide-memoire.jpg
           link: /aide-memoire
           type: small
-        - title: Bibliothèque ert Librairie
+        - title: Bibliothèque et Librairie
           img: homepage-item-bgo.jpg
           link: /bibliotheque-et-librairie
           type: small
