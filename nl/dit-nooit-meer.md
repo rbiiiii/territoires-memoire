@@ -13,7 +13,7 @@ coronavirus:
     tel: 04 230 70 50
     booking:
         text: Reserveringsformulier
-        url: /nl/reservering-dnm/
+        url: https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19
     text_block_01: "Uw gezondheid is belangrijk voor ons:"
     pdf:
         text: Onze covid-19 metingen (fr)
@@ -77,7 +77,7 @@ visite:
     text_block_01: "<small>'s Middags ben je welkom in het restaurant L’Escale. Voor groepen is er bovendien een wachtruimte voorzien. Inlichtingen: +32 (0)4 230 70 62</small>"
     info_booking:
         text: "Informatie en de reserveringen:"
-        booking_link: "/nl/reservering-dnm/"
+        booking_link: "https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19"
         booking_text: Aanvraagformulier voor reserveringen
 preparer:
     title: "Bereid je bezoek voor (fr)"

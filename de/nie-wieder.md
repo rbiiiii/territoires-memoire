@@ -13,7 +13,7 @@ coronavirus:
     tel: 04 230 70 50
     booking:
         text: Reservierungsformular
-        url: /reservation-pjc/
+        url: https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19
     text_block_01: "Ihre Gesundheit ist uns wichtig:"
     pdf:
         text: Unsere Covid-19-Maßnahmen (fr)
@@ -71,7 +71,7 @@ visite:
     text_block_01: "<small>Ein Restaurant, L’Escale, empfängt Sie zum Mittagessen. Ihren Gruppen steht außerdem ein Wartebereich zur Verfügung. Auskunft: +32 (0)4 230 70 62</small>"
     info_booking:
         text: "Informationen und Reservierungen:"
-        booking_link: "/reservation-pjc/"
+        booking_link: "https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19"
         booking_text: Formular für Reservierungsanfragen (fr-nl)
 preparer:
     title: "Vorbereitung Ihres Besuchs (fr)"

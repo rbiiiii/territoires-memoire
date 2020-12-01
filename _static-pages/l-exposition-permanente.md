@@ -14,12 +14,18 @@ coronavirus:
     tel: 04 230 70 50
     booking:
         text: Formulaire de réservation
-        url: /reservation-pjc/
+        url: https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19
     text_block_01: "Votre santé est importante pour nous :"
     pdf:
         text: Nos mesures covid-19
         url: /assets/pdf/pjc/2020_Protocole_Accueil_Expo_TM.pdf
     text_block_02: "Merci de respecter votre horaire de visite et ces nouvelles mesures pour le bon déroulement des visites."
+    text_block_03:  |- 
+
+      - Ouverture au public à partir du 1/12/20.
+      - Jauge de maximum 8 personnes.
+      - Réservation obligatoire via notre [formulaire en ligne](https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19).
+      - Pas d’animation ni de visite guidée.
 tuiles:
     - title: Un parcours multimédia en six parties 
       url: "#un-parcours-en-six-parties"
@@ -72,8 +78,8 @@ visite:
     text_block_01: "<small>Un espace de restauration, L’Escale, vous accueille le midi. Aussi, vos groupes disposeront d’un espace d’attente. Renseignements : +32 (0)4 230 70 62</small>"
     info_booking:
         text: "Informations et réservations&nbsp;:"
-        booking_link: "/reservation-pjc/"
-        booking_text: Formulaire de demande de réservation
+        booking_link: "https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19"
+        booking_text: Formulaire de réservation (réservation obligatoire)
 preparer:
     title: "Préparez votre visite"
     text: |- 

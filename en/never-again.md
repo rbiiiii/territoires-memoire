@@ -13,7 +13,7 @@ coronavirus:
     tel: 04 230 70 50
     booking:
         text: Reservation form
-        url: /reservation-pjc/
+        url: https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19
     text_block_01: "Your health is important to us:"
     pdf:
         text: Our covid-19 measures
@@ -71,7 +71,7 @@ visite:
     text_block_01: "<small>A catering area, L’Escale, welcomes you at lunchtime. Your groups will also be given a waiting area. Details: +32 (0)4 230 70 62</small>"
     info_booking:
         text: "Information and bookings:"
-        booking_link: "/reservation-pjc/"
+        booking_link: "https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19"
         booking_text: Booking request form (Fr-Nl)
 preparer:
     title: "Preparing for your visit (Fr)"
