@@ -13,11 +13,19 @@ class: archives-cdl
         <ul class="list list--no-style list-cdl">
         {% assign cdl_list = site.data.cdl | sort: "date" | reverse %}
         {%- for cdl_item in cdl_list -%}
+            {% if cdl_item.external %}
+            <li class="list-cdl__item">
+                <h3>Citoyens du Livre #{{ cdl_item.num }} <small>({{ cdl_item.date | date: "%d/%m/%Y" }})</small></h3>
+                <p>⇨ <a target="_blank" rel="noopener" href="{{ cdl_item.link }}">Lien vers compte-rendu</a></p>
+                <p>{{ cdl_item.content }}</p>
+            </li>
+            {% else %}
             <li class="list-cdl__item">
                 <h3>Citoyens du Livre #{{ cdl_item.num }} <small>({{ cdl_item.date | date: "%d/%m/%Y" }})</small></h3>
                 <p>⇨ <a href="/assets/pdf/biblio/cdl/{{ cdl_item.pdf }}">Compte-rendu en pdf</a></p>
                 <p>{{ cdl_item.content }}</p>
-            </li> 
+            </li>
+            {% endif %}
         {%- endfor -%}
         </ul>
     </div>
