@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Prix Passeur de Mémoire - Appel à candidatures
 posted_on: 2020-11-16
 link: https://www.territoires-memoire.be/actualites/2020/11/prix-passeur-de-memoire-appel-a-candidatures/
