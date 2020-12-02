@@ -59,7 +59,8 @@ h3 + h4 {
   margin-top:$su;
 }
 
-.chapeau {
+.chapeau:not(h2),
+.chapeau:not(h3) {
   @include relative-font-size(1.1);
   
   @media screen and (min-width:400px) {

@@ -48,7 +48,8 @@ Le/La bibliothécaire est chargé-e de la gestion des documents entrants et sort
 
 Il s’agit d’un contrat CPE, le/la candidat·e doit donc avoir moins de 26 ans durant toute la durée du contrat et être demandeur/se d’emploi. Pour plus d’informations : <https://emploi.wallonie.be/home/aides-a-lemploi.html>
 
-La personne retenue sera engagée **à temps plein** (38h/sem. - horaire variable) **sous contrat à durée déterminée d'un an** sous réserve de confirmation définitive de l’obtention du subside emploi lié à ces fonction (en cours). **Possibilité de renouvellement** du contrat à durée déterminée. Le début du contrat est estimé au **01/02/2021.**
+La personne retenue sera engagée **à temps plein** (38h/sem. - horaire variable) **sous contrat à durée déterminée d'un an** sous réserve de confirmation définitive de l’obtention du subside emploi lié à ces fonction (en cours).  
+**Possibilité de renouvellement** du contrat à durée déterminée. Le début du contrat est estimé au **01/02/2021.**
 
 Le montant de la rémunération mensuelle brute liée à cette fonction est de **2&nbsp;203,95&nbsp;€.** Un bilan d’évolution aura lieu après 3 mois et 6 mois sur base de l’analyse de poste remise à l’entrée en fonction.
 
