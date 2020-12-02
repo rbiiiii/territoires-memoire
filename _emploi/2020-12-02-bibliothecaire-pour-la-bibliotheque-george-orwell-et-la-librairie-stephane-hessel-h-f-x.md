@@ -50,7 +50,7 @@ Il s’agit d’un contrat CPE, le/la candidat·e doit donc avoir moins de 26 an
 
 La personne retenue sera engagée **à temps plein** (38h/sem. - horaire variable) **sous contrat à durée déterminée d'un an** sous réserve de confirmation définitive de l’obtention du subside emploi lié à ces fonction (en cours). **Possibilité de renouvellement** du contrat à durée déterminée. Le début du contrat est estimé au **01/02/2021.**
 
-Le montant de la rémunération mensuelle brute liée à cette fonction est de **2 203,95 €.** Un bilan d’évolution aura lieu après 3 mois et 6 mois sur base de l’analyse de poste remise à l’entrée en fonction.
+Le montant de la rémunération mensuelle brute liée à cette fonction est de **2&nbsp;203,95&nbsp;€.** Un bilan d’évolution aura lieu après 3 mois et 6 mois sur base de l’analyse de poste remise à l’entrée en fonction.
 
 ## Informations sur la procédure
 
