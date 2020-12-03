@@ -1,0 +1,25 @@
+---
+categories: _aide-memoire-numeros/aide-memoire-n-94.md
+type: editorial
+title: Anthropologie, « bullshit jobs » et coronavirus
+credits: Par Julien Paulus
+about_the_author: Rédacteur en chef
+order: 1
+
+---
+Le 2 septembre dernier, l’anthropologue, philosophe et militant altermondialiste américain David Graeber nous a brutalement quittés à l’âge de 59 ans. Qu’il me soit permis de consacrer quelques mots de cette colonne à cet immense penseur qui fut abondamment lu et cité par bon nombre de contributeurs et de membres du comité de rédaction de la revue Aide-mémoire.
+
+Fils d’un volontaire au sein des Brigades internationales lors de la Guerre d’Espagne, Graeber se définissait volontiers comme anarchiste[1](#footnote-1). Anthropologue quelque peu atypique dans le milieu académique, il s’illustra également hors des campus comme un militant de terrain, en particulier lors du fameux Occupy Wall Street et fut crédité par le magazine Rolling Stone de la paternité de l’expression « We are the 99% ! », ce qu’il nia en soulignant le caractère collectif de cette trouvaille. Professeur à l’Université de Yale, il dispensera ensuite ses cours à la London School of Economics (où enseigna également Friedrich Hayek, ce qui peut être vu comme une sorte de trait d’humour de l’Histoire).
+
+Auteur d’une colossale étude sur la dette[2](#footnote-2), d’un important manuel théorique et pratique de contestation politique et sociale[3](#footnote-3) et de bien d’autres ouvrages, notamment sur ses études de terrain à Madagascar, Graeber fit surtout parler de lui récemment par un article paru dans le magazine militant Strike ! et consacré à ce qu’il a appelé les « bullshit jobs ». Dans cet article, il repart de la prédiction de John Meynard Keynes selon laquelle l’automatisation croissante des tâches de production allait entraîner une plus grande liberté vis-à-vis des contraintes du travail et conduira à davantage de temps libre pour tout le monde. Cependant, constate Graeber, c’est tout le contraire qui s’est produit : « Au lieu de cela, la technologie a été mobilisée \[…\] pour trouver des moyens de nous faire tous travailler encore plus. Et pour atteindre cet objectif, des jobs ont dû être créés qui s’avèrent être, effectivement, sans intérêt[4](#footnote-4). » Et ces jobs, qui remplacent les anciens métiers productifs effectivement disparus, quels sont-ils ? Nous pouvons certes citer le toilettage pour chien ou la livraison de pizza 24h/24h, mais il s’agit surtout de véritables industries qui ont connu ces dernières années une croissance proche de l’hypertrophie, « telles que les services financiers ou le télémarketing, \[…\] des secteurs tels que le droit des sociétés, l’administration académique ou de la santé, les ressources humaines ou les relations publiques[5](#footnote-5)», pour n’en citer que quelques-unes.
+
+Or, constate Graeber, la dimension dramatique de cette situation, c’est que la majorité des titulaires de ces postes « bullshit » sont parfaitement conscients du peu de sens de leur travail, ce qui a pour conséquence de les plonger dans une forme de détresse psychologique et contribue à produire, avec le temps, un énorme ressentiment. La perversité du système consiste alors, toujours selon Graeber, à diriger ce ressentiment à l’encontre de catégories de travailleurs à utilité sociale élevée, en particulier quand ceux-ci luttent pour la préservation de leurs droits et du respect de leurs conditions de travail : employé.e.s de transports en commun, enseignant.e.s, personnel soignant, éboueurs, etc. C’est-à-dire, en substance, la plupart des catégories de travailleurs qui se sont retrouvées en première ligne dès le début de la récente pandémie de coronavirus, sous les applaudissements à heure fixe des confinés.
+
+S’il est un premier enseignement qui devrait être tiré de la situation exceptionnelle que nous vivons depuis plusieurs mois, c’est sans nul doute la nécessité d’une remise à plat des priorités et du niveau d’importance que notre société accorde aux activités qu’elle génère. Ce n’est pas la moindre ironie qu’un microscopique virus suffise finalement à susciter une réflexion critique sur notre mode de vie et sur le monde que nous voulons pour demain. Peut-être n’est-il pas trop tard pour, comme l’écrivait Graeber, construire « le nouveau monde dans la coquille de l’ancien[6](#footnote-6)».
+
+1. Voir Pour une anthropologie anarchiste, Montréal, Lux, 2006.
+2. Voir Dette : 5000 ans d’histoire, Paris, Les liens qui Libèrent, 2013.
+3. Voir Comme si nous étions déjà libres, Montréal, Lux, 2014.
+4. David GRAEBER, « On the Phenomenon of Bullshit Jobs : A Work Rant », Strike ! Magazine : [https://www.strike.coop/bullshit-jobs/](https://www.strike.coop/bullshit-jobs/ "https://www.strike.coop/bullshit-jobs/") (nous traduisons).
+5. Idem.
+6. David GRAEBER, Comme si nous étions déjà libres, op. cit., p. 213.
