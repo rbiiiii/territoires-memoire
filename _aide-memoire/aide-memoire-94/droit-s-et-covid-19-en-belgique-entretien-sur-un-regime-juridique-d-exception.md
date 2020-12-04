@@ -52,6 +52,6 @@ On se retrouve finalement dans une situation extrêmement difficile à vérifier
 Pour nous sortir de là, je crois sincèrement au potentiel de la voie juridique. Elle nous donne des moyens de réagir, il faut les utiliser. Et si je ne nie pas combien il peut être difficile, effrayant et coûteux, le recours en justice reste une réelle arme de défense. N’oublions pas aussi la voie politique : interpellons nos parlementaires et nos conseillers communaux, demandons-leur de mettre un terme immédiat à cet état d’exception. Le droit n’a pas à être mis tout entier au service de la pandémie, de façon médiocre et par le seul pouvoir exécutif délié du travail et des garanties du législatif et du judiciaire.
 
 1. Mots qui ont certes fait partie du petit lexique gouvernemental pendant « la crise », mais dont on aura du mal à imaginer qu’ils aient été prononcés dans l’esprit du (bon-)sens du commun…
-2. Cet entretien a été réalisé en date du 1er septembre 2020.
+2. Cet entretien a été réalisé en date du 1<sup>er</sup> septembre 2020.
 3. [https://www.om-mp.be/fr/article/infractions-corona-college-procureurs-generaux-recommande-mesures-repressives-legales.](https://www.om-mp.be/fr/article/infractions-corona-college-procureurs-generaux-recommande-mesures-repressives-legales. "https://www.om-mp.be/fr/article/infractions-corona-college-procureurs-generaux-recommande-mesures-repressives-legales.")
 4. [https://www.om-mp.be/fr/node/11.](https://www.om-mp.be/fr/node/11. "https://www.om-mp.be/fr/node/11.")
