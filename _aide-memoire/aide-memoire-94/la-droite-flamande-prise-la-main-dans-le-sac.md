@@ -7,7 +7,7 @@ about_the_author: avocat au Barreau de Liège spécialisé en Droit de l’envir
 order: 10
 
 ---
-La droite flamande, menée par la _N-VA_, ne cesse de s’attaquer à la législation qui donne la possibilité, pour les citoyens au niveau communal et provincial1, d’agir en justice pour faire respecter la règle démocratique. Heureusement, la Cour constitutionnelle veille, s’appuyant sur l’article 23 de la Constitution belge garantissant entre autres le droit à mener une vie conforme à la dignité humaine.
+La droite flamande, menée par la _N-VA_, ne cesse de s’attaquer à la législation qui donne la possibilité, pour les citoyens au niveau communal et provincial[1](#footnote-1), d’agir en justice pour faire respecter la règle démocratique. Heureusement, la Cour constitutionnelle veille, s’appuyant sur l’article 23 de la Constitution belge garantissant entre autres le droit à mener une vie conforme à la dignité humaine.
 
 En 1836, lorsque l’on créa la loi communale, le législateur, dans sa grande sagesse, donna la possibilité à n’importe quel citoyen de la Commune d’agir au nom de celle-ci, si elle restait en défaut de faire respecter une loi favorable aux intérêts communaux. Les travaux préparatoires de la loi communale sont parfaitement clairs. Au début du XIXe siècle, encore mieux qu’aujourd’hui, on savait que l’on ne vit pas dans un monde de bisounours et que le niveau local, plus qu’un autre, est sujet à des influences personnelles (aujourd’hui, on dirait aussi _particratiques_) nuisibles à l’intérêt commun. Par décret du 9 décembre 2005, à l’initiative du CD&V et du VLD, cette possibilité fut élargie, en Flandres, au niveau provincial.
 
@@ -23,7 +23,7 @@ Le législateur flamand a eu beau exposer que la composition des conseils commun
 
 La Région flamande s’est aussi fendue devant la Cour constitutionnelle d’un argument pernicieux : comment un citoyen, qui n’est représentatif que de lui-même, peut-il avoir le droit de s’opposer à une majorité, démocratique par essence ?
 
-La perversité de cet argument totalitaire, caché sous les oripeaux de la démocratie, n’a pas échappé à la Cour constitutionnelle qui, dans des termes choisis, énonce, dans son arrêt 129/2019 du 10 octobre 20192:
+La perversité de cet argument totalitaire, caché sous les oripeaux de la démocratie, n’a pas échappé à la Cour constitutionnelle qui, dans des termes choisis, énonce, dans son arrêt 129/2019 du 10 octobre 2019[2](#footnote-2):
 
 _« Le fait qu’un habitant ne partage pas cette vision ne porte pas atteinte à ce choix légitimé démocratiquement. L’action en droit de cet habitant, au nom de la Commune, tend uniquement à soumettre au contrôle juridictionnel la légalité d’un acte contesté et consolide ainsi cette participation à l’état de droit démocratique. Le respect de l’état de droit constitue une condition essentielle pour la protection de tous les droits fondamentaux, parmi lesquels le droit à la protection d’un environnement sain. En outre, le juge déclarera l’action ou le recours non fondé si aucune illégalité n’a été commise. »_
 
@@ -35,7 +35,7 @@ La subsistance d’un Etat fédéral et d’une Cour constitutionnelle fédéral
 
 En effet, plus qu’en 1836 encore, la nécessité pour les citoyens d’être dotés du pouvoir d’agir pour faire respecter la règle démocratique s’avère indispensable. Le contournement constant des lois au bénéfice de quelques initiés ou affidés oblige en effet à réfléchir, dans un souci d’égalité, à toute formule évitant que l’application de la loi ne souffre d’une géométrie variable.
 
-En ce sens, il est heureux qu’au niveau francophone aucun parti ne se soit attaqué à cet héritage de la Belgique naissante. Il est, par contre, regrettable que cette possibilité pour les citoyens d’agir au nom d’un pouvoir public défaillant dont ils sont les ressortissants ne soit pas étendue à tous les autres niveaux de pouvoir3. Au contraire, une partie rétrograde de la magistrature continue à refuser l’accès au prétoire aux citoyens agissant au nom de l’intérêt général, à défaut d’intérêt particulier suffisamment spécifique.
+En ce sens, il est heureux qu’au niveau francophone aucun parti ne se soit attaqué à cet héritage de la Belgique naissante. Il est, par contre, regrettable que cette possibilité pour les citoyens d’agir au nom d’un pouvoir public défaillant dont ils sont les ressortissants ne soit pas étendue à tous les autres niveaux de pouvoir[3](#footnote-3). Au contraire, une partie rétrograde de la magistrature continue à refuser l’accès au prétoire aux citoyens agissant au nom de l’intérêt général, à défaut d’intérêt particulier suffisamment spécifique.
 
 Or, comme le faisait remarquer un juriste français, celui qui tue le chat de la voisine pourra être attrait en justice car il a attenté à un droit particulier mais, s’il tue un tigre menacé de disparition dans la jungle, et qui n’appartient à personne, il ne se trouvera aucun citoyen pouvant s’en plaindre judiciairement.
 
