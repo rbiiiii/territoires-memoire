@@ -31,6 +31,8 @@ sections:
   label: Books
   create: documents
   match: "**/*"
+  templates:
+  - livre-bgo
 - type: directory
   path: _communiques-presse
   label: Communiques presse
