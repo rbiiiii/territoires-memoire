@@ -1,7 +1,7 @@
 ---
 categories: _aide-memoire-numeros/aide-memoire-n-94.md
 type: article
-title: Lettres du Goulag, nouvelle publication aux Territoires de la Mémoire
+title: <em>Lettres du Goulag</em>, nouvelle publication aux Territoires de la Mémoire
 credits: ''
 about_the_author: ''
 order: 5
