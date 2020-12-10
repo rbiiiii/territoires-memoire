@@ -4,7 +4,7 @@ categories: agenda
 title: "Exposition - Reflets brisés : d'Ici à Auschwitz"
 date_start: 2021-01-28
 date_stop: 2021-02-28
-img_file: /assets/uploads/expo_meuli.jpg
+img_file: /assets/uploads/20200306_tdlm_centredoc_reflets_brises_agendal_site.jpg
 place: La Cité Miroir Place Xavier Neujean 22  4000 Liège
 address: Place Xavier Neujean 22  4000 Liège
 price: Gratuit
