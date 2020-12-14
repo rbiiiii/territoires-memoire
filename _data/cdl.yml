@@ -146,8 +146,11 @@
 - num: 30.5
   date: 2020-05-20
   external: true
-  link : https://champsdespossibles.org/les-rendez-vous/sengager-confine/
-  content: "« S’engager confiné », diffusé en ligne sur le site #Cultures en résistance."
+  links :
+    - url: https://champsdespossibles.org/les-rendez-vous/sengager-confine/
+      txt: "« S’engager confiné », diffusé en ligne sur le site #Cultures en résistance."
+    - url: https://www.territoires-memoire.be/aide-memoire/aide-memoire-94/a-livres-ouverts-ou-l-evasion-des-esprits-en-confinement.html
+      txt: "« À livres ouverts », ou l’évasion des esprits en confinement - de Jérôme Delnooz (Aide-mémoire n°94)."
 
 - num: 31
   date: 2020-10-14

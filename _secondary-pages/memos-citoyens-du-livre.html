@@ -16,8 +16,10 @@ class: archives-cdl
             {% if cdl_item.external %}
             <li class="list-cdl__item">
                 <h3>Citoyens du Livre #{{ cdl_item.num }} <small>({{ cdl_item.date | date: "%d/%m/%Y" }})</small></h3>
-                <p>⇨ <a target="_blank" rel="noopener" href="{{ cdl_item.link }}">Lien vers compte-rendu</a></p>
-                <p>{{ cdl_item.content }}</p>
+                {%- for link_item in cdl_item.links -%}
+                    <p>{{ link_item.txt }}<br>
+                    ⇨ <a target="_blank" rel="noopener" href="{{ link_item.url }}">Voir le lien</a></p>
+                {%- endfor -%}
             </li>
             {% else %}
             <li class="list-cdl__item">
