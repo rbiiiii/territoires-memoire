@@ -5,6 +5,7 @@ categories: actualites
 title: Le monde du sport se mobilise pour lutter contre le Racisme !
 img_file: /assets/uploads/stopracisminsport1240x480.jpg
 posted_on: 2020-12-11
+uploaded_files: []
 ---
 <!--StartFragment-->
 
@@ -23,9 +24,3 @@ Plusieurs acteurs publics et fédérations sportives ont déjà fait part de leu
 Rendez-vous au mois de janvier pour la présentation d'un projet dont l'actualité souligne tristement l'urgence.
 
 
-
-
-
-**Le Panathlon Wallonie-Bruxelles en quelques mots:**\
-\
-Issu d'un mouvement international, le Panathlon Wallonie-Bruxelles travaille à la défense et à la promotion du Fair-Play dans le Sport. Présente sur le terrain depuis 2003, l'association s'érige aujourd'hui comme la plate-forme de référence pour ces matières en Fédération Wallonie-Bruxelles. Nos compétences et nos outils pédagogiques sont à la disposition de tous les acteurs du Sport désireux de promouvoir de manière innovante et ludique ces nobles valeurs.
