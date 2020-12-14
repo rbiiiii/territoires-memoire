@@ -12,6 +12,7 @@ uploaded_files: []
 **Plusieurs acteurs de terrain vont travailler en réseau pour contribuer à combattre ce phénomène.**
 
 <!--EndFragment-->Les récents incidents du match PSG - Basaksehir, ainsi que les chiffres inquiétants de l'Union belge {plus de 7 arbitres sur 10 affirment avoir constaté des faits de racisme envers des joueuses et joueurs sur un terrain de foot) ont mis en lumière l'actualité et la gravité du racisme dans la société et, donc, dans le sport.\
+
 \
 Si la parole s'est libérée depuis longtemps, la réaction est aujourd'hui visible avec des joueurs qui refusent de continuer d'exercer leur métier dans ces conditions. Le geste est fort, courageux et a valeur d'exemple. Il s'agit maintenant d'agir pour prévenir, dénoncer et recadrer ces comportements indignes des valeurs du sport.\
 \
@@ -23,4 +24,4 @@ Plusieurs acteurs publics et fédérations sportives ont déjà fait part de leu
 
 Rendez-vous au mois de janvier pour la présentation d'un projet dont l'actualité souligne tristement l'urgence.
 
-
+![](/assets/uploads/logos_stopracism.jpeg)
