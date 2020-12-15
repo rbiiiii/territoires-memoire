@@ -3,7 +3,7 @@ layout: home
 lang: en
 lang_ref: homepage
 intro_text: |-
-  <a href="/en/the-association/">Territories of Memory</a> is a centre of education in the name of resistance and citizenship. To perform work of remembrance with children, young people and adults, the association develops a wide array of initiatives for communicating the past and encouraging everyone’s involvement in building a democratic society that safeguards fundamental freedoms.
+  <a href="/en/the-association/">Territories of Memory</a> is a centre of education in the name of resistance and citizenship set up by former political prisoners who survived Nazi camps. To perform work of remembrance with children, young people and adults, the association develops a wide array of initiatives for communicating the past and encouraging everyone’s involvement in building a democratic society that safeguards fundamental freedoms.
 follow_text: "Follow us (fr)"
 support_text: "Support our campaigns (fr)"
 homepage_items:

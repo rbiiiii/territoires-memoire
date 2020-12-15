@@ -7,7 +7,7 @@ title_img: "association/page-title-association.jpg"
 brochure:
     text: Algemene brochure (fr)
     link: "https://www.territoires-memoire.be/assets/uploads/tdlm_offreterritoires_brochuregenerale.pdf"
-intro_text: "Les Territoires de la Mémoire is een opleidingscentrum voor Verzet en Burgerschap. De vereniging wil kinderen, jongeren en volwassenen over het verleden vertellen. Ze heeft diverse initiatieven uitgewerkt om het verleden door te geven, het respect voor anderen aan te leren en iedereen ertoe aan te zetten om mee te bouwen aan een democratische maatschappij die de fundamentele vrijheden garandeert en respecteert."
+intro_text: "Les Territoires de la Mémoire is een educatief centrum gericht op verzet en burgerschap dat werd opgericht door voormalige politieke gevangenen die de nazi-kampen hadden overleefd. De vereniging wil kinderen, jongeren en volwassenen over het verleden vertellen. Ze heeft diverse initiatieven uitgewerkt om het verleden door te geven, het respect voor anderen aan te leren en iedereen ertoe aan te zetten om mee te bouwen aan een democratische maatschappij die de fundamentele vrijheden garandeert en respecteert."
 contact:
     num: 04 232 70 60
     email: accueil@territoires-memoire.be

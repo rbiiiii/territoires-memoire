@@ -3,7 +3,7 @@ layout: home
 lang: de
 lang_ref: homepage
 intro_text: |-
-  <a href="/de/der-verein">Die Territoires de la Mémoire</a> sind ein Bildungszentrum für Widerstand und bürgerliche Verantwortung. Um mit Kindern, Jugendlichen und Erwachsenen Gedächtnisarbeit zu leisten, entwickelt der Verein verschiedene Initiativen, die die Vergangenheit vermitteln und die Beteiligung aller am Aufbau einer demokratischen Gesellschaft als Garant der Grundfreiheiten fördern sollen.
+  <a href="/de/der-verein">Die Territoires de la Mémoire</a> sind ein Zentrum der Bildung für Widerstand und bürgerliche Verantwortung; es wurde von ehemaligen politischen Häftlingen gegründet, die die Nazilager überlebt haben. Um mit Kindern, Jugendlichen und Erwachsenen Gedächtnisarbeit zu leisten, entwickelt der Verein verschiedene Initiativen, die die Vergangenheit vermitteln und die Beteiligung aller am Aufbau einer demokratischen Gesellschaft als Garant der Grundfreiheiten fördern sollen.
 follow_text: "Folgen Sie uns (fr)"
 support_text: "Unterstützen Sie uns (fr)"
 homepage_items:

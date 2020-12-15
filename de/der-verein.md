@@ -7,7 +7,7 @@ title_img: "association/page-title-association.jpg"
 brochure:
     text: Unsere Broschüre (fr)
     link: "https://www.territoires-memoire.be/assets/uploads/tdlm_offreterritoires_brochuregenerale.pdf"
-intro_text: "Die Territoires de la Mémoire sind ein Bildungszentrum für Widerstand und bürgerliche Verantwortung. Um mit Kindern, Jugendlichen und Erwachsenen Gedächtnisarbeit zu leisten, entwickelt der Verein verschiedene Initiativen, die die Vergangenheit vermitteln, zur Achtung anderer aufrufen und die Beteiligung aller am Aufbau einer demokratischen Gesellschaft als Garant der Grundfreiheiten fördern sollen."
+intro_text: "Les Territoires de la Mémoire sind ein Zentrum der Bildung für Widerstand und bürgerliche Verantwortung; es wurde von ehemaligen politischen Häftlingen gegründet, die die Nazilager überlebt haben. Um mit Kindern, Jugendlichen und Erwachsenen Gedächtnisarbeit zu leisten, entwickelt der Verein verschiedene Initiativen, die die Vergangenheit vermitteln, zur Achtung anderer aufrufen und die Beteiligung aller am Aufbau einer demokratischen Gesellschaft als Garant der Grundfreiheiten fördern sollen."
 contact:
     title: Kontakt
     num: 04 232 70 60

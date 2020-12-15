@@ -7,7 +7,7 @@ title_img: "association/page-title-association.jpg"
 brochure:
     text: Overview brochure (fr)
     link: "https://www.territoires-memoire.be/assets/uploads/tdlm_offreterritoires_brochuregenerale.pdf"
-intro_text: "Territories of Memory is a centre of education in the name of Resistance and Citizenship. To perform work of remembrance with children, young people and adults, the association develops a wide array of initiatives for communicating the past, promoting respect for others, and encouraging everyone’s involvement in building a democratic society that safeguards fundamental freedoms."
+intro_text: "Territories of Memory is a centre of education in the name of resistance and citizenship set up by former political prisoners who survived Nazi camps. To perform work of remembrance with children, young people and adults, the association develops a wide array of initiatives for communicating the past, promoting respect for others, and encouraging everyone’s involvement in building a democratic society that safeguards fundamental freedoms."
 contact:
     title: Contact
     num: 04 232 70 60

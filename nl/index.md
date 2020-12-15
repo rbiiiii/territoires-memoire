@@ -3,7 +3,7 @@ layout: home
 lang: nl
 lang_ref: homepage
 intro_text: |-
-  <a href="/nl/de-vereniging">Les Territoires de la Mémoire</a> is een opleidingscentrum voor verzet en burgerschap. De vereniging wil kinderen, jongeren en volwassenen leren over het verleden. Ze heeft diverse initiatieven opgezet om het verleden door te geven en iedereen ertoe aan te zetten om mee te bouwen aan een democratische maatschappij die de fundamentele vrijheden garandeert en respecteert.
+  <a href="/nl/de-vereniging">Les Territoires de la Mémoire</a> iis een educatief centrum gericht op verzet en burgerschap dat werd opgericht door voormalige politieke gevangenen die de nazi-kampen hadden overleefd. De vereniging wil kinderen, jongeren en volwassenen leren over het verleden. Ze heeft diverse initiatieven opgezet om het verleden door te geven en iedereen ertoe aan te zetten om mee te bouwen aan een democratische maatschappij die de fundamentele vrijheden garandeert en respecteert.
 follow_text: "Volg ons (fr)"
 support_text: "Steun onze acties (fr)"
 homepage_items:
