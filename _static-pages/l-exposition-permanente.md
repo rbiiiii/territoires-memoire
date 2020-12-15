@@ -1,6 +1,5 @@
 ---
 layout: l-exposition-permanente
-lang: fr
 lang_ref: plusjamaisca
 title:  "L'exposition permanente"
 title_img: "pjc/page-title-plus_jamais_ca.jpg"
