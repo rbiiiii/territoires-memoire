@@ -25,7 +25,7 @@ homepage_items:
           img: homepage-item-aide-memoire.jpg
           link: /aide-memoire
           type: small
-        - title: Library and Bookshop (fr)
+        - title: Library & Bookshop (fr)
           img: homepage-item-bgo.jpg
           link: /bibliotheque-et-librairie
           type: small

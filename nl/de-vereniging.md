@@ -76,7 +76,7 @@ workers:
           category: Administration
           email: Administration@territoires-memoire.be
           tel: 04 232 70 59
-        - category_title: Bibliotheek en Boekwinkel (fr)
+        - category_title: Bibliotheek & Boekwinkel (fr)
           category: Bibliothèque et Librairie
           email: bibliotheque@territoires-memoire.be
           tel: 04 232 70 62

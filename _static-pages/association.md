@@ -78,7 +78,7 @@ workers:
           email: administration@territoires-memoire.be
           tel: 04 232 70 59
         - category: Bibliothèque et Librairie
-          category_title: Bibliothèque et Librairie
+          category_title: Bibliothèque & Librairie
           email: bibliotheque@territoires-memoire.be
           tel: 04 232 70 62
         - category: Communication
