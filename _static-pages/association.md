@@ -7,7 +7,7 @@ permalink: association
 brochure:
     text: Borchure générale
     link: "https://www.territoires-memoire.be/assets/uploads/tdlm_offreterritoires_brochuregenerale.pdf"
-intro_text: "Les Territoires de la Mémoire sont un centre d’éducation à la Résistance et à la Citoyenneté. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l’association développe diverses initiatives pour transmettre le passé, éduquer au respect de l’autre, et encourager l’implication de toutes et tous dans la construction d’une société démocratique garante des libertés fondamentales."
+intro_text: "Les Territoires de la Mémoire sont un centre d'éducation à la résistance et à la citoyenneté créé par d'anciens prisonniers politiques rescapés des camps nazis. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l'association développe diverses initiatives qui transmettent le passé et encouragent l'implication de toutes et tous dans la construction d'une société démocratique garante des libertés fondamentales."
 contact:
     title: Contact
     num: 04 232 70 60
