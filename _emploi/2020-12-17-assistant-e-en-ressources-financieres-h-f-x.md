@@ -8,7 +8,7 @@ emploi_url: https://docs.google.com/forms/d/e/1FAIpQLScTz_BiOZfrVldjlIccpRuvnP6S
 ---
 <!--StartFragment-->
 
-## Description de fonction
+### Description de fonction
 
 L'assistant·e sera affecté·e au service Gestion des Ressources financières des Territoires de la Mémoire.\
 \
@@ -55,7 +55,7 @@ La personne retenue sera engagée à **temps plein** (38h/sem.) sous contrat à 
 Seul le présent dossier fait office de candidature : CV et lettre de motivation sont à compléter en ligne ci-après.\
 **Les candidatures doivent nous parvenir pour le lundi 25 janvier 2021** à midi au plus tard.
 
-## **Informations sur la procédure**
+### **Informations sur la procédure**
 
 En complétant le formulaire ci-dessous, cela constituera le dossier de candidature contenant vos données personnelles, et en rapport avec l’offre d’emploi (fonction et objet de l’association). Vos données personnelles sont sécurisées et ne sont en aucun cas vendues ou cédées à des tiers.\
 \
