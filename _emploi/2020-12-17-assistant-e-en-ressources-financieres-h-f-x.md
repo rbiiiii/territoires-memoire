@@ -8,7 +8,7 @@ emploi_url: https://docs.google.com/forms/d/e/1FAIpQLScTz_BiOZfrVldjlIccpRuvnP6S
 ---
 <!--StartFragment-->
 
-### Description de fonction
+## Description de fonction
 
 L'assistant·e sera affecté·e au service Gestion des Ressources financières des Territoires de la Mémoire.\
 \
@@ -46,16 +46,16 @@ Le service Gestion des Ressources financières (3 personnes) assure la prospecti
 • La possession d’un permis de conduire de catégorie B, et conduire.\
 • Parler (niveau intermédiaire) et écrire (niveau avancé) en anglais, néerlandais ou allemand.
 
-**Conditions du contrat**
+## **Conditions du contrat**
 
 La personne retenue sera engagée à **temps plein** (38h/sem.) sous contrat à **durée indéterminée**. Le début du contrat est estimé au **1er mars 2021**. Le montant de la rémunération mensuelle brute liée à cette fonction est de **2 341,94 € (ancienneté 0)**. Un bilan d’évolution aura lieu après 3 mois et 6 mois sur base de l’analyse de poste remise à l’entrée en fonction.
 
-**Comment postuler ?**
+## **Comment postuler ?**
 
 Seul le présent dossier fait office de candidature : CV et lettre de motivation sont à compléter en ligne ci-après.\
 **Les candidatures doivent nous parvenir pour le lundi 25 janvier 2021** à midi au plus tard.
 
-### **Informations sur la procédure**
+## **Informations sur la procédure**
 
 En complétant le formulaire ci-dessous, cela constituera le dossier de candidature contenant vos données personnelles, et en rapport avec l’offre d’emploi (fonction et objet de l’association). Vos données personnelles sont sécurisées et ne sont en aucun cas vendues ou cédées à des tiers.\
 \
