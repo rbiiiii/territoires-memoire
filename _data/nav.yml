@@ -80,6 +80,7 @@ de:
     url: https://www.trianglerouge.be
   - title: George Orwell Bibliothek & Stéphane Hessel Buchhandlung (fr)
     url: /bibliotheque-et-librairie/
+    type: long-text
   - title: Widerstand und bürgerliche Verantwortung lehren (fr)
     url: /eduquer/
     type: long-text
@@ -117,6 +118,7 @@ en:
     url: https://www.trianglerouge.be
   - title: George Orwell Library & Stéphane Hessel Bookshop (fr)
     url: /bibliotheque-et-librairie/
+    type: long-text
   - title: Resistance and Citizenship education (fr)
     url: /eduquer/
   - title: Documents to aid understanding (fr)
