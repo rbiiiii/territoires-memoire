@@ -45,11 +45,13 @@ practical: "Infos :
 ---
 ***Photographies de Geoffrey Meuli***
 
+**\----**\
 **De l’émotion** *À l’entrée de cette visite / Je prends mon courage, sans limite. / Je ne pense qu’à ceux qui ont vécu ici / Dans le froid, la haine et le mépris.*\
 **De la dénonciation** *La fin de la tristesse et de la peur. / Dans la chambre, le four de l’horreur*.\
 **Des propositions** *Demain, il ferait un temps splendide sous un ciel bleu éclatant.*
 
-*… un jour prochain, je prendrai le train … pour me rendre sur les lieux de votre martyre … dans l’espoir, probablement vain, de mieux comprendre ce que vous avez enduré, vous qui serez toujours nos reflets brisés.*
+*… un jour prochain, je prendrai le train … pour me rendre sur les lieux de votre martyre … dans l’espoir, probablement vain, de mieux comprendre ce que vous avez enduré, vous qui serez toujours nos reflets brisés.*\
+**\----**
 
 Ce sont à quoi vous invitent les Territoires de la Mémoire dans cette exposition de photographies de Geoffrey Meuli. Il a accompagné un groupe de la Régie des Quartiers d’Andenne en mai 2019 parti visiter le complexe concentrationnaire d’Auschwitz en Pologne. Un voyage pour la mémoire qui ne les a pas laissés indifférents.
 
