@@ -60,5 +60,5 @@ Les photos de Geoffrey Meuli sont esthétiques et sensibles. Cadrage, lumière e
 
 
 \-----\
-Ce voyage dont les photos sont le reflets a pu se faire grâce au soutien de la Cellule Démocratie ou Barbarie de la Fédération Wallonie-Bruxelles et de son appel à projet annuel.\
+Ce voyage dont les photos sont le reflet a pu se faire grâce au soutien de la Cellule Démocratie ou Barbarie de la Fédération Wallonie-Bruxelles et de son appel à projet annuel.\
 -----
