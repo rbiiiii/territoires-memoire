@@ -53,14 +53,14 @@
 #   categorie: Éditions et Études
 #   categorie_slug: editions-etudes
 
-- nom: Jenifer Devresse
-  titre: Déléguée 
-  tel: 04 232 70 63
-  email: 
-    - jeniferdevresse@territoires-memoire.be
-  photo: jenifer_devresse.jpg
-  categorie: Éditions et Études
-  categorie_slug: editions-etudes
+# - nom: Jenifer Devresse
+#   titre: Déléguée 
+#   tel: 04 232 70 63
+#   email: 
+#     - jeniferdevresse@territoires-memoire.be
+#   photo: jenifer_devresse.jpg
+#   categorie: Éditions et Études
+#   categorie_slug: editions-etudes
 
 - nom: Stéphanie Reynders
   titre: Coordinatrice
@@ -185,15 +185,6 @@
   email: 
     - jeromedelnooz@territoires-memoire.be
   photo: jerome_delnooz.jpg
-  categorie: Bibliothèque et Librairie
-  categorie_slug: bibliotheque
-
-- nom: Maud Herbet
-  titre: Déléguée
-  tel: 04 230 70 43
-  email: 
-    - maudherbet@territoires-memoire.be
-  photo: maud_herbet.jpg
   categorie: Bibliothèque et Librairie
   categorie_slug: bibliotheque
 
