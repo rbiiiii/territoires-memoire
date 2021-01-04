@@ -9,7 +9,7 @@ fr:
     url: /reseau/
   - title: Triangle Rouge
     url: https://www.trianglerouge.be
-  - title: Bibliothèque & Librairie
+  - title: Bibliothèque George Orwell & Librairie Stéphane Hessel
     url: /bibliotheque-et-librairie/
   - title: Éduquer à la Résistance et à la Citoyenneté
     url: /eduquer/
@@ -43,7 +43,7 @@ nl:
     url: /reseau/
   - title: Triangle Rouge (fr)
     url: https://www.trianglerouge.be
-  - title: Bibliotheek & Boekwinkel (fr)
+  - title: George Orwell Bibliotheek & Stéphane Hessel Boekwinkel (fr)
     url: /bibliotheque-et-librairie/
     type: long-text
   - title: Weerstand en Burgerschap, deel van de Opvoeding (fr)
@@ -78,7 +78,7 @@ de:
     url: /reseau/
   - title: Triangle Rouge (fr)
     url: https://www.trianglerouge.be
-  - title: Bibliothek & Buchhandlung (fr)
+  - title: George Orwell Bibliothek & Stéphane Hessel Buchhandlung (fr)
     url: /bibliotheque-et-librairie/
   - title: Widerstand und bürgerliche Verantwortung lehren (fr)
     url: /eduquer/
@@ -115,7 +115,7 @@ en:
     url: /reseau/
   - title: Triangle Rouge (fr)
     url: https://www.trianglerouge.be
-  - title: Library & Bookshop (fr)
+  - title: George Orwell Library & Stéphane Hessel Bookshop (fr)
     url: /bibliotheque-et-librairie/
   - title: Resistance and Citizenship education (fr)
     url: /eduquer/
