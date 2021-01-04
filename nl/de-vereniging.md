@@ -72,6 +72,10 @@ workers:
           category: Direction adjointe - services financiers
           email: finances@territoires-memoire.be
           tel: 04 232 70 47
+        - category_title: Uitvoerend secretaris (fr)
+          category: Secrétariat de direction
+          email: secretariat.direction@territoires-memoire.be
+          tel: 04 232 70 43 / 04 230 70 49
         - category_title: Administratie (fr)
           category: Administration
           email: Administration@territoires-memoire.be
