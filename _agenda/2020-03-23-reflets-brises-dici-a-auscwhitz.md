@@ -16,32 +16,28 @@ schedule: |-
 
   Vernissage le mercredi 27 janvier à 19 h 
   * La forme dépendra des règles sanitaires en vigueur à cette date *
-practical: "Infos :
-  [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire\
-  .be) // 04 232 70 62
+practical: >-
+  [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)
+  // 04 232 70 62
 
 
-  -------
+  \---\
 
-  Nous souhaitons vous accueillir dans les meilleures conditions en respectant
-  les mesures de sécurité et d’hygiène imposées.\r
+  Nous souhaitons vous accueillir dans les meilleures conditions en respectant les mesures de sécurité et d’hygiène imposées.
 
-  \r
 
-  - Merci de privilégier les réservations en ligne.\r\r
+  Merci de privilégier les réservations en ligne.\
 
-  - Nombre de places limité. Merci de respecter votre horaire de visite\r.\r
+  Nombre de places limité. Merci de respecter votre horaire de visite
 
-  - Port du masque obligatoire - gel hydroalcoolique à disposition\r.\r
+  Port du masque obligatoire - gel hydroalcoolique à disposition
 
-  - Respect des mesures de distanciation\r.
+  Respect des mesures de distanciation
 
-  \r-------
+  ----
 
-  Un livret de 12 photos avec les écrits des Régies des Quartiers d’Andenne et
-  de Charleroi est [disponible en
-  ligne](https://www.territoires-memoire.be/assets/uploads/reflets_brises_arefa\
-  ire_tdlm_web.pdf) et en version papier dans l’exposition."
+
+  Un livret de 12 photos avec les écrits des Régies des Quartiers d’Andenne et de Charleroi est [disponible en ligne](https://www.territoires-memoire.be/assets/uploads/reflets_brises_arefaire_tdlm_web.pdf) et en version papier dans l’exposition.
 ---
 ***Photographies de Geoffrey Meuli***
 
@@ -57,8 +53,6 @@ Ce sont à quoi vous invitent les Territoires de la Mémoire dans cette exposit
 
 Les photos de Geoffrey Meuli sont esthétiques et sensibles. Cadrage, lumière et composition rendent parfaitement compte du voyage collectif à Auschwitz et de l’émotion des visiteurs provoquée par la découverte de ce lieu tragique. Son œil et son esprit ont aussi capté des images dont le rapprochement, improbable, ajoute du sens ou le détourne.
 
-
-
-\-----\
+\---\
 Ce voyage dont les photos sont le reflet a pu se faire grâce au soutien de la Cellule Démocratie ou Barbarie de la Fédération Wallonie-Bruxelles et de son appel à projet annuel.\
------
+---
