@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: Le domicile est inviolable
-img_file: /assets/uploads/20201124-inviolabilite-domicile_calcomtm.jpg
+img_file: /assets/uploads/20201124-inviolabilite-domicile_calcomtm.png
 posted_on: 2020-11-25
 ---
 Cette année, au lieu du Père Noël qui entre par la cheminée, aurons-nous les policiers pour forcer la porte?
