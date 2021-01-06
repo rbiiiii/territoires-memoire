@@ -5,7 +5,7 @@ title: "L'association"
 title_img: "association/page-title-association.jpg"
 permalink: association
 brochure:
-    text: Borchure générale
+    text: Brochure générale
     link: "https://www.territoires-memoire.be/assets/uploads/tdlm_offreterritoires_brochuregenerale.pdf"
 intro_text: "Les Territoires de la Mémoire sont un centre d'éducation à la résistance et à la citoyenneté créé par d'anciens prisonniers politiques rescapés des camps nazis. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l'association développe diverses initiatives qui transmettent le passé et encouragent l'implication de toutes et tous dans la construction d'une société démocratique garante des libertés fondamentales."
 contact:
