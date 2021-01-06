@@ -4,7 +4,7 @@ published: true
 categories: actualites
 title: "Coronavirus : Les Territoires de la Mémoire exigent de la
   proportionnalité dans les interventions policières"
-img_file: /assets/uploads/20210105proportionnaliteforcesdelordre_caltm.jpg
+img_file: /assets/uploads/20210105proportionnaliteforcesdelordre_caltm_adaptnb.jpg
 posted_on: 2021-01-05
 ---
 L’actualité quotidienne évoque des interventions policières pour contrôler le respect des règles sanitaires destinées à lutter contre la pandémie de coronavirus. Sans se prononcer sur les cas particuliers, les Territoires de la Mémoire s'associent à l'initiative du Centre d’Action Laïque : l'association tient à exprimer sa vive préoccupation face à la perte de confiance croissante de la population à l’égard de la force publique.
