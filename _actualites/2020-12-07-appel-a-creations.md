@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: Appel à créations
-img_file: /assets/uploads/appel-a-creation.jpg
+img_file: /assets/uploads/appel-a-creation_.jpg
 posted_on: 2020-12-07
 ---
 Artistes en herbe ou de longue date, peintres, photographes, poétesses et poètes, collagistes… quel que soit votre moyen d’expression, Les Territoires de la Mémoire ont besoin de vous !
