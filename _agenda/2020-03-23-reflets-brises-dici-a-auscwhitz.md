@@ -24,13 +24,11 @@ practical: |-
   Nous souhaitons vous accueillir dans les meilleures conditions en respectant les mesures de sécurité et d’hygiène imposées.
   Merci de privilégier les réservations en ligne.
   
-  Nombre de places limité. Merci de respecter votre horaire de visite
+  Pas de réservation et nombre de places limité à 10 personnes à la fois dans l'exposition.
   
   Port du masque obligatoire - gel hydroalcoolique à disposition
   
   Respect des mesures de distanciation
-
-  Un livret de 12 photos avec les écrits des Régies des Quartiers d’Andenne et de Charleroi est [disponible en ligne](https://www.territoires-memoire.be/assets/uploads/reflets_brises_arefaire_tdlm_web.pdf) et en version papier dans l’exposition.
 ---
 ***Photographies de Geoffrey Meuli***
 
@@ -38,10 +36,12 @@ practical: |-
 **De la dénonciation** *La fin de la tristesse et de la peur. / Dans la chambre, le four de l’horreur*.\
 **Des propositions** *Demain, il ferait un temps splendide sous un ciel bleu éclatant.*
 
-*… un jour prochain, je prendrai le train … pour me rendre sur les lieux de votre martyre … dans l’espoir, probablement vain, de mieux comprendre ce que vous avez enduré, vous qui serez toujours nos reflets brisés.*\
+*… un jour prochain, je prendrai le train … pour me rendre sur les lieux de votre martyre … dans l’espoir, probablement vain, de mieux comprendre ce que vous avez enduré, vous qui serez toujours nos reflets brisés.*
 
 Ce sont à quoi vous invitent les Territoires de la Mémoire dans cette exposition de photographies de Geoffrey Meuli. Il a accompagné un groupe de la Régie des Quartiers d’Andenne en mai 2019 parti visiter le complexe concentrationnaire d’Auschwitz en Pologne. Un voyage pour la mémoire qui ne les a pas laissés indifférents.
 
 Les photos de Geoffrey Meuli sont esthétiques et sensibles. Cadrage, lumière et composition rendent parfaitement compte du voyage collectif à Auschwitz et de l’émotion des visiteurs provoquée par la découverte de ce lieu tragique. Son œil et son esprit ont aussi capté des images dont le rapprochement, improbable, ajoute du sens ou le détourne.
 
 Ce voyage dont les photos sont le reflet a pu se faire grâce au soutien de la Cellule Démocratie ou Barbarie de la Fédération Wallonie-Bruxelles et de son appel à projet annuel.
+
+Un livret de 12 photos avec les écrits des Régies des Quartiers d’Andenne et de Charleroi est [disponible en ligne](https://www.territoires-memoire.be/assets/uploads/reflets_brises_arefaire_tdlm_web.pdf) et en version papier dans l’exposition.
