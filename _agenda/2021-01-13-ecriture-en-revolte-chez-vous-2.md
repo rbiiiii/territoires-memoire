@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 categories: agenda
 title: "Ecriture en Révolte ! chez vous #2"
