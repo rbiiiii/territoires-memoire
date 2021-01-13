@@ -145,10 +145,12 @@ layout: default
               </div>
           </div>
           {%- endif -%}
-          <div id="map"></div>
-          <div class="map-address card card--two post__meta__card">
-            <p>{{ page.address }}</p>
-          </div>
+          {%- if page.address and page.address != '' -%}
+            <div id="map"></div>
+            <div class="map-address card card--two post__meta__card">
+              <p>{{ page.address }}</p>
+            </div>
+          {%- endif -%}
         </aside>
     </div>
   {%- else -%}
