@@ -95,6 +95,28 @@ a.button--white-on-red, .button--white-on-red {
     }
 }
 
+a.button--red-on-white, .button--red-on-white {
+
+    &, .page-section__content & {
+        background-color:white;
+        color:$rouge-tm;
+        border:3px solid $rouge-tm;
+        box-shadow:4px 4px 0 rgba($rouge-tm,0.3);
+        padding:0.2em 0.5em 0.2em 0.5em;
+        margin: $su/2 auto;
+
+        &:hover, &:focus {
+            color:$bleu-tm;
+            border-color:$bleu-tm;
+            box-shadow: 4px 4px 0 $bleu-tm-light;
+        }    
+
+        &:active {
+            box-shadow: 0 0 0 $bleu-tm-light;
+        }
+    }
+}
+
 
 a.button--has-img {
     display:block;
