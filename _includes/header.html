@@ -9,7 +9,7 @@
         {% endfor %}
     </ul>
     
-    {%- if page.lang -%}{%- assign page_lang_url = "/" | append: page.lang -%}{%- else -%}{%- assign page_lang_url = "/" -%}{%- endif -%}
+    {%- if page.lang and page.lang != "fr" -%}{%- assign page_lang_url = "/" | append: page.lang -%}{%- else -%}{%- assign page_lang_url = "/" -%}{%- endif -%}
     <a class="site-header__logo-link" href="{{ page_lang_url }}">
         <img class="site-header__logo small" src="{{ "/assets/images/tm-header-homepage-small.svg" | relative_url }}" alt="{{ site.title }} - logo">
         <img class="site-header__logo medium" src="{{ "/assets/images/tm-header-homepage-medium.svg" | relative_url }}" alt="{{ site.title }} - logo">
