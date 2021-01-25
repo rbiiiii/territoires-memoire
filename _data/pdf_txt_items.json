@@ -123,6 +123,16 @@
 		"pdf_src": "tm-exposition-resistances.pdf",
 		"txt": "Au quotidien, chacun et chacune peut résister, pour défendre ses valeurs, pour s’opposer à une injustice, pour améliorer la société… Mais comment franchir le pas ? Comment s’y prendre ? S’inspirer de ce que d’autres ont fait, ici ou ailleurs, hier comme aujourd’hui, peut nous aider à penser notre engagement et à passer à l’action… telle est la philosophie de cette exposition.",
 		"categorie": "expos-itinerantes",
+		"peda": [
+			{
+				"title" : "Dossier pédagogique",
+				"url" : "/assets/pdf/dossiers/tm-dossiers_pedagogiques-plus_jamais_ca-prolongement.pdf"
+			},
+			{
+				"title" : "Fresque \"Résistances\"",
+				"url" : "/assets/pdf/dossiers/tm-dossiers_pedagogiques-plus_jamais_ca-fresque.pdf"
+			}
+		]
 	},
 	{
 		"title": "Le jeu Résiste !",
