@@ -13,9 +13,6 @@ tags:
 schedule: |-
   Du lundi au vendredi 9h-18h\
   Samedi et dimanche 10h-18h
-
-  Vernissage le mercredi 27 janvier à 19 h 
-  \* La forme dépendra des règles sanitaires en vigueur à cette date *
 practical: |-
 
   * [bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoires-memoire.be)\
