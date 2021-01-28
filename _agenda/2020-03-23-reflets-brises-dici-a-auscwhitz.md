@@ -46,3 +46,7 @@ Ce voyage dont les photos sont le reflet a pu se faire grâce au soutien de la C
 **Un recueil de textes** envoyés à la suite de l’invitation d’écriture lancée en 2020 autour de cinq photographies de Geoffrey Meuli, prises lors du voyage à Auschwitz des stagiaires de la Régie des Quartiers d’Andenne en mai 2019 est [disponible en ligne](https://www.territoires-memoire.be/assets/uploads/reflets_brises-tous_les_textes-recueil_en_ligne.pdf). Textes *d’André Lebrun, Antony Gagliano, Danielle Dambermont, Esther Berrebi, Françoise Wathelet, Gery Baele, Jean Vanneste, Joseph Kowalski, Lionel Wathelet, Marc Dubrulle, Marie France Poncelet* et *Mélissa Paquet.*
 
 **Geoffrey Meuli sera présent dans l'exposition, de 15h00 à 18h00, les jeudi 28, vendredi 29, samedi 30 et dimanche 31 janvier 2020.**
+
+Vidéo de présentation de l'exposition :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1eXCrszOZWM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
