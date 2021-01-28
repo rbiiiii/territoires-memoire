@@ -148,6 +148,23 @@ li.post__meta__item {
     a.button {
         margin-top:1em;
     }
+
+    blockquote {
+        position:relative;
+        padding-left: 1em;
+        font-style: italic;
+        margin: $su*1.5 0;
+
+        &:before {
+            content: "\201C";
+            font-size: 5rem;
+            position: absolute;
+            top: -0.55em;
+            left: -0.2em;
+            color:$bleu-tm-light;
+            opacity:0.5;
+        }
+    }
 }
 
 .post__content__posted_on {
