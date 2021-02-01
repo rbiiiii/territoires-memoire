@@ -24,7 +24,7 @@ Le Parlement de Wallonie souhaite ainsi rendre hommage aux hommes et aux femmes 
 
 Prenez connaissance du **[règlement (PDF)](https://www.parlement-wallonie.be/wp-content/uploads/2020/11/Concours-Passeur-de-Me%CC%81moire-2021-projet-de-modification-du-re%CC%80glement-.pdf)** et n'hésitez pas à recommander **[une personne ou une association](https://www.parlement-wallonie.be/wp-content/uploads/2020/11/Formulaire-titre-Passeur-de-Me%CC%81moire-2021.doc)** !\
 Les recommandations doivent être transmises au Comité *Mémoire et Démocratie*\
-du Parlement de Wallonie pour le vendredi 19 février 2021.
+du Parlement de Wallonie pour le 31 janvier 2021.
 
 \------------------------
 
