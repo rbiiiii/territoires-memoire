@@ -71,21 +71,20 @@
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
 
+- nom: Lionel Cassart
+  titre: Délégué
+  tel: 04 230 70 67
+  email: 
+    - lionelcassart@territoires-memoire.be
+  categorie: Gestion des ressources financières
+  categorie_slug: gestion-ressources-financieres
+
 - nom: Constance Marée
   titre: Déléguée
   tel: 04 230 70 42
   email: 
     - constancemaree@territoires-memoire.be
   photo: constance_maree.jpg
-  categorie: Gestion des ressources financières
-  categorie_slug: gestion-ressources-financieres
-
-- nom: Bastien Martin
-  titre: Délégué
-  tel: 04 230 70 67
-  email: 
-    - bastienmartin@territoires-memoire.be
-  photo: bastien_martin.jpg
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
 

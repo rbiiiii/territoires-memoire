@@ -7,13 +7,15 @@
         {%- for permanent in site.data.permanents -%}
             {%- if permanent.categorie == categorie -%}
             <li class="list-permanents__item list-permanents__item--{{ permanent.categorie_slug }}">
+                {% if permanent.photo %}
                 <a 
                 class="list-permanents__item__link" data-fancybox="gallery-permanents" data-caption="{{ permanent.nom }}"
                 href="/assets/images/association/permanents/big/{{ permanent.photo }}">
                     <img 
                     class="list-permanents__item__img"
                     src="/assets/images/association/permanents/small/{{ permanent.photo }}">
-                </a>    
+                </a>
+                {% endif %}
                 <div class="list-permanents__item__text">
                     <h4>{{ permanent.nom }}</h4>
                     <p>
