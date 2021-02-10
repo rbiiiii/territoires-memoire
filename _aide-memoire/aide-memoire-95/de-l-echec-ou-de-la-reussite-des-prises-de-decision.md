@@ -1,0 +1,22 @@
+---
+categories: _aide-memoire-numeros/aide-memoire-n-95.md
+type: editorial
+title: De l’échec ou de la réussite des prises de décision
+credits: Par Julien Paulus
+about_the_author: Rédacteur en chef
+order: 1
+
+---
+En novembre dernier, les Territoires de la Mémoire asbl relayaient une étude de la section belge de l’ONG internationale « Avocats sans frontières ». Intitulée La crise sanitaire en Belgique : Un terrain fertile pour les discriminations indirectes ?, cette étude se penche sur l’impact discriminatoire indirect des diverses mesures d’urgence prises par la Belgique pendant la crise sanitaire, avec un focus particulier sur les populations plus vulnérables : travailleurs précaires, illégaux ou encore sans-papiers. Elle montre comment une politique uniformisée de gestion de la crise n’a fait que renforcer des inégalités déjà présentes, tandis que, dans l’autre sens, certaines mesures différenciées furent plus sévères pour certaines catégories de personnes que pour d’autres.
+
+Or « Avocat sans frontières » rappelle très clairement que des balises destinées à encadrer ce type de mesures existent bel et bien et que, juridiquement, un État qui s’engage dans cette voie engage également sa responsabilité quant à leurs effets : « Comme l’enseigne la Cour européenne des Droits de l’Homme, de telles discriminations, si elles peuvent être démontrées, entraînent la responsabilité de l’État belge. Celui-ci n’a en effet pas pris en compte les inégalités existantes au sein de la société lors de la gestion de la crise et n’a pas adapté les mesures afin de protéger ces catégories de personnes vulnérables, en amplifiant les différences économiques et sociales[1](#footnote-1). »
+
+L’Histoire nous enseigne que les sociétés humaines réagissent de manières très diverses à de grands épisodes de stress tels qu’une pandémie, par exemple. Et c’est dans l’analyse des prises de décision opérées lors de tels épisodes que résident la plupart des enseignements utiles pour l’observateur. Jared Diamond, biologiste et paléoanthropologue, a ainsi identifié quatre facteurs pouvant contribuer à l’échec de la prise de décision de groupe : « En premier, un groupe peut échouer à anticiper un problème avant qu’il ne survienne vraiment. Deuxièmement, lorsque le problème arrive, le groupe peut échouer à le percevoir. Ensuite, une fois qu’il l’a perçu, il peut échouer dans sa tentative pour le résoudre. Enfin, il peut essayer de le résoudre, mais échouer[2](#footnote-2). » Se pencher sur les causes de l’effondrement de sociétés qui nous ont précédés peut sembler déprimant, mais Diamond y puise pourtant matière à optimisme : « Les analyses des raisons expliquant les échecs et les effondrements ne sont pas seulement déprimantes, elles ont aussi un revers : les décisions qui réussissent. Comprendre les raisons pour lesquelles les groupes prennent souvent de mauvaises décisions, c’est s’armer de connaissances pour mieux orienter les groupes à prendre de judicieuses décisions[3](#footnote-3). »
+
+Cela ne rend pas la prise de décision plus facile pour autant, comme nous le rappelle Céline Nieuwenhuys, secrétaire générale de la Fédération des services sociaux (Fdss) et ex-membre du GEES (voir l’entretien, p.4). Car de nombreux facteurs, également identifiés par Diamond, viennent compliquer les choses, en particulier les institutions et valeurs propres à chaque société qui agiront fortement sur la façon qu’aura chacune de tenter de résoudre son problème. D’où, sans aucun doute, l’importance d’une analyse critique des décisions prises, que ce soit au regard de ce que nous savons de l’Histoire ou de ce que nous pouvons déjà observer de leurs effets directs ou indirects.
+
+C’est aussi cela le rôle des « acteurs intermédiaires », du monde associatif et, plus simplement, du citoyen.
+
+1. [https://www.asf.be/fr/blog/2020/10/13/la-crise-sanitaire-en-belgique-un-terrain-fertile-pour-les-discrimations-indirectes/](https://www.asf.be/fr/blog/2020/10/13/la-crise-sanitaire-en-belgique-un-terrain-fertile-pour-les-discrimations-indirectes/ "https://www.asf.be/fr/blog/2020/10/13/la-crise-sanitaire-en-belgique-un-terrain-fertile-pour-les-discrimations-indirectes/")
+2. Jared DIAMOND, Effondrement. Comment les sociétés décident de leur disparition ou de leur survie, Paris, Gallimard, coll. « NRF Essais », 2006, pp.480-481.
+3. Idem, p.481.
