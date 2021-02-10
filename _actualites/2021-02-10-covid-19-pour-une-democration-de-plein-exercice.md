@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: "#Covid-19 - Pour une démocratie de plein exercice !"
-img_file: /assets/uploads/pourunedemocratiedepleinexercice.jpg
+img_file: /assets/uploads/pourunedemocratiedepleinexercice_.jpg
 posted_on: 2021-02-10
 ---
 **Notre État de droit malade de la COVID-19, les barreaux belges à son chevet, l’asbl Les Territoires de la Mémoire au taquet.**
@@ -22,5 +22,11 @@ Et pourtant, le problème est déjà bien là ! Avec l’absence de débat au P
 
 La demande des barreaux : \
 <https://plus.lesoir.be/354163/article/2021-02-10/20000-avocats-rappellent-le-gouvernement-ses-devoirs-democratiques>
+
+<!--StartFragment-->
+
+\#trackingCovid19 #BigDataWatch
+
+<!--EndFragment-->
 
 <!--EndFragment-->
