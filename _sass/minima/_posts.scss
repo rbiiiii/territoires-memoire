@@ -150,18 +150,18 @@ li.post__meta__item {
     }
 
     blockquote {
-        position:relative;
         padding-left: 1em;
         font-style: italic;
         margin: 2em 0 1.5em;
 
         &:before {
             content: "\201C";
+            display: block;
+            width: 1px;
+            height: 1px;
             font-size: 5rem;
-            position: absolute;
-            top: -0.55em;
-            left: -0.2em;
             color:$bleu-tm-light;
+            transform: translate(-0.55em, -0.5em);
             opacity:0.5;
         }
     }
