@@ -3,7 +3,7 @@ show: false
 title: Aide-mémoire n°95
 slug: aide-memoire-95
 num: 95
-date_publication: octobre - novembre - décembre 2020
+date_publication: janvier - février - mars 2021
 couv_src: "/assets/uploads/aide-memoire-95-couv.jpg"
 img_src: "/assets/uploads/aide-memoire-95-illu.jpg"
 img_copyright: "© Florian Stephant"
