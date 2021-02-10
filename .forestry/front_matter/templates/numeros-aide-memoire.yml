@@ -26,6 +26,11 @@ fields:
 - type: file
   name: img_src
   label: img_src
+- name: img_copyright
+  type: text
+  config:
+    required: false
+  label: Copyright de l'image d'illu
 - type: file
   name: pdf_src
   label: pdf_src
