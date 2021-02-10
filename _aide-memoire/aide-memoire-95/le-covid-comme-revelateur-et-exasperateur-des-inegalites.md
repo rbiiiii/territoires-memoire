@@ -7,7 +7,8 @@ about_the_author: ''
 order: 2
 
 ---
-_« Si on m’enlève des mots et si on m’en met d’autres à la place, je ne vais pas la penser de la même manière, la réalité sociale_ [1](#footnote-1). » (Frank Lepage)
+> _« Si on m’enlève des mots et si on m’en met d’autres à la place, je ne vais pas la penser de la même manière, la réalité sociale_ [1](#footnote-1). »  
+    (Frank Lepage)
 
 La pauvreté ne se dit pas, la pauvreté ne se montre pas. Pas question de mettre un coup de projecteur sur ce qu’il faut ignorer pour continuer. Ainsi, avant le déferlement du virus et avant les périodes de confinement, les médias dominants et le monde politique pouvaient aisément et allègrement recourir aux euphémismes pour cacher cette cruelle réalité et ce alors qu’en Wallonie, près d’un Wallon sur cinq était en situation de pauvreté monétaire.
 
