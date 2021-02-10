@@ -2,7 +2,7 @@
 layout: post
 published: true
 categories: actualites
-title: "#Covid-19 - Pour une démocration de plein exercice !"
+title: "#Covid-19 - Pour une démocratie de plein exercice !"
 img_file: /assets/uploads/pourunedemocratiedepleinexercice.jpg
 posted_on: 2021-02-10
 ---
