@@ -6,6 +6,7 @@ num: 95
 date_publication: octobre - novembre - décembre 2020
 couv_src: "/assets/uploads/aide-memoire-95-couv.jpg"
 img_src: "/assets/uploads/aide-memoire-95-illu.jpg"
+img_copyright: "© Florian Stephant"
 pdf_src: "/assets/uploads/aide-memoire-95.pdf"
 
 ---

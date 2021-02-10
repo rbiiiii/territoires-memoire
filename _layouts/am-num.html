@@ -23,7 +23,14 @@ layout: default
                     </div>
                 </div>
                 <div class="page-section__chapeau chapeau clearfix">
+                    {%- if page.img_copyright -%}
+                    <figure class="page-section__chapeau__img">
+                        <img src="{{ page.img_src }}" alt="{{ page.title }}">
+                        <figcaption>{{ page.img_copyright }}</figcaption>
+                    </figure>
+                    {%- else -%}
                     <img class="page-section__chapeau__img" src="{{ page.img_src }}" alt="{{ page.title }}">
+                    {%- endif -%}
                     {{ content }}
                 </div>
             </div>
