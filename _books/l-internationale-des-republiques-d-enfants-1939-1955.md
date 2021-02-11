@@ -3,7 +3,7 @@ tag: ''
 version: 95
 author: Samuel Boussion, Mathias Gardet et Martine Ruchat
 extra: ''
-title: L’Internationale des républiques d’enfants, 1939-1955,
+title: L’Internationale des républiques d’enfants, 1939-1955
 editor: Anamosa
 col: ''
 year: "2020"
