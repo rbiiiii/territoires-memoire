@@ -1,0 +1,56 @@
+---
+categories: _aide-memoire-numeros/aide-memoire-n-95.md
+type: article
+title: De la gauche à l’extrême droite, en passant par le « milieu »
+credits: Une chronique de Julien Dohet
+about_the_author: ''
+order: 10
+
+---
+**Avec cette chronique, cela fait désormais 20 ans que Julien Dohet, de par son engagement et l’exigence de son analyse, nous aide à décrypter l’idéologie d’extrême droite et la filiation de ses idées en long, en large et en travers. Un travail important. Qu’il en soit ici remercié.**
+
+Se dire les porte-paroles d’une expression populaire est une des postures préférées de l’extrême droite. Ce fut notamment le cas de sa composante fasciste dans l’entre-deux guerres. Avec, par exemple, le Parti Populaire Français et une personnalité comme Simon Sabiani.
+
+## Un parcours non atypique d’un fasciste des années 20-30[1](#footnote-1)
+
+Né le 14 mai 1888 à Casamaccioli (Corse), mort le 29 septembre 1956 à Barcelone (Espagne). Issu d’une famille corse de propriétaires terriens de sept enfants, il rejoint à Marseille son frère avocat en 1907. Des raisons de santé l’empêche tout autant de faire des études supérieures que d’intégrer l’armée. Dès le début de la Première Guerre mondiale, il s’engage dans l’infanterie. Il y fera preuve de bravoure, recevant plusieurs récompenses dont la plus importante sera la Légion d’honneur à titre militaire, et montant dans la hiérarchie jusqu’au grade de lieutenant. Simon Sabiani est blessé à plusieurs reprises et perd un œil à Douaumont en juin 1915. Trois de ses quatre frères seront tués durant le conflit. Après la guerre, il revient à Marseille et se lance dans l’import-export, ce qui lui fournit des contacts avec le milieu marseillais, tout en adhérant au Socialisme puis au Communisme dès le lendemain du congrès de Tours. Il prend très vite un rôle important au sein du PCF où il plaide pour l’alliance socialiste-communiste sous la bannière du parti socialiste-communiste. En 1928, il est élu député et, reniant sa promesse de non cumul, il ajoute à son poste de conseiller général celui de 1er adjoint de Marseille en 1929, ville que dans les faits il dirige de 1931 à 1934. Sabiani se distingue à cette époque par la mobilisation de bandes armées et la présence à ses côtés de gardes du corps liées au milieu marseillais.
+
+Fruit d’une évolution progressive, la rupture a lieu avec l’événement fondateur du 6 février 1934[2](#footnote-2) – manifestation antiparlementaire organisée à Paris par des groupes de droite – auquel il s’associe et, à l’inverse, son refus de participer aux grandes mobilisations ouvrières en réaction[3](#footnote-3). Dans la foulée, il crée un Front Français puis rejoindra Doriot et le PPF à la création de celui-ci. Il suivra l’évolution de ce parti dans la collaboration la plus totale. Son fils, engagé dans les rangs de la Légion des Volontaires Français, sera tué sur le Front de l’Est. Sabiani fait partie du contingent des collaborateurs qui s’installent à Sigmaringen lors de la Libération. Il rejoint ensuite l’Italie. Condamné à mort par contumace, il trouve refuge en Argentine avant de revenir en Europe en 1953. Il meurt trois ans plus tard dans une clinique de Barcelone sous le pseudonyme de Pedro Multedo.
+
+## Un anticommunisme central
+
+Le livre de Sabiani est significativement préfacé par Jacques Doriot fondateur du PPF[4](#footnote-4) qui incarne cette troisième voie qu’affectionne de vanter l’extrême droite : « La naissance s’imposait cependant d’un tiers parti, d’un mouvement qui représentât la moyenne des volontés nationales et sociales des groupements opposés du front bourgeois – appelons-le par son nom – et du Front Populaire. La création d’un véritable front français[5](#footnote-5). » Un front dont le mot d’ordre sera « La France aux Français », une formule qui sera reprise un demi-siècle plus tard par ses héritiers. Si cette troisième voie se présente comme tout autant anticapitaliste qu’anticommuniste : « Dans la conjoncture actuelle, l’heure n’est plus aux discours, ni aux promesses ; il faut agir. Il faut agir dans le sens d’un socialisme réalisateur, ne s’inspirant que de l’idéal français, et de la mentalité française. Pour assurer la paix, il est indispensable de briser tous les impérialismes. Il faut se dresser avec autant de force contre l’impérialisme de Moscou que contre celui de Berlin ou celui du capitalisme anonyme[6](#footnote-6). »
+
+Force est une nouvelle fois de constater que la critique réelle des inégalités de richesse liées au système capitaliste est quasi inexistante alors que les attaques contre le communisme sont omniprésentes, y compris sur son aspect révolutionnaire : « Mais si l’on a vu, naguère, des révolutionnaires faire une vraie grande révolution, avec leurs qualités et leurs défauts, leurs illusions ou leurs enthousiasmes, leurs héroïques générosités ou leurs cruautés, ils avaient tout de même une autre “gueule” que les pleurnicheurs rétribués des cuisines moscovites[7](#footnote-7). »
+
+Pour Sabiani, les communistes complotent et sont prêts à passer à l’insurrection armée. Une situation que refuse de voir la bourgeoisie qui se montre lâche devant le danger. Ce dernier s’incarne dans le Front Populaire qui n’est que l’outil du communisme asiatique : « Le Front Populaire est, qu’on le veuille ou non, l’instrument de l’action soviétique, de l’intervention étrangère directe dans les affaires de notre pays[8](#footnote-8). » Avec bien entendu un petit couplet complotiste sur sa tête de file juive : « Et nous constatons que Blum, comme ses prédécesseurs, s’est mis sous la coupe de la haute franc-maçonnerie, des groupements bancaires, des trusts industriels, pour pouvoir gouverner “républicainement”. Bref le front populaire est à la fois le cheval de Troie du communisme et financé par la ploutocratie internationale[9](#footnote-9). »
+
+C’est la civilisation française qui est ainsi menacée par les idées démocratiques de la République : « Des hommes, mais la France en fournissait à l’univers, au temps où un savoir dosé limitait pour beaucoup les possibilités de se manifester à des postes où seuls, les vaillants, les obstinés, les ascètes parvenaient à force de valeurs et d’efforts. Serions-nous tombés en dégénérescence depuis que la république politicienne, introduisant l’exagération démocratique et démagogique jusque dans l’instruction, a transformé l’ancien jardin intellectuel de la France en immense maquis de connaissance[10](#footnote-10) ? » Une menace que le 6 février 1934, événement clef, n’a pas réussi à totalement éloigner : « Aujourd’hui, cependant, la politique de gâchis et de désordre que le sang du 6 février n’a pas été assez fort pour purifier, nous a conduits à une négligence dont les conséquences eussent pu être mortelles pour le sort de l’humanité civilisée[11](#footnote-11). »
+
+## Un positionnement que ne renierait pas l’extrême droite actuelle
+
+Au-delà de l’anticommunisme, on retrouve également dans les pages de _Colère du Peuple_ un racisme assumé : « Pour accéder à la charge de propriétaire, des preuves de compétence et de moralité seraient requises. Les étrangers seraient exclus de certaines catégories de propriétaires[12](#footnote-12) », ainsi que l’habituel touche de darwinisme social : « nous croyons en la pérennité des races qui tirent de leur sol et de leur atmosphère leurs caractéristiques particulières[13](#footnote-13) ».
+
+Le livre de Sabiani reprend donc tous les poncifs de l’extrême droite des années 30, poncifs toujours au cœur de son discours aujourd’hui. Il est ainsi particulièrement intéressant de relever les passages sur des élites politiques qui seraient corrompues alors que le budget public ne cesse de gonfler et que la fiscalité excessive étrangle le peuple laborieux, dans un discours visant le cœur de cible de l’extrême droite, à savoir la « classe moyenne » : « On ne sait si les riches paient ou paieront les quelques milliards de déficit nouveau pour le budget de 1937, résultat de mesures sociales prises à l’emporte-pièce. Il est clair que, pour le moment, seule la petite et moyenne industrie, les petits et moyens commerçants, les paysans, la classe moyenne des petits propriétaires, des petits rentiers, des employés, des artisans, des intellectuels, font les frais des nécessités gouvernementales de la majorité radicalo-socialiste[14](#footnote-14). » Et de plaider pour un « ordre nouveau » qui défendrait les artisans et les petits commerçants[15](#footnote-15) dans un appel « aux patriotes » :  
+« La “Marseillaise” du 11 juin avait donné le signal d’un réveil de la conscience nationale et, le 17 juin, un cortège de plusieurs milliers de patriotes parcourait la Canebière du Vieux-Port aux Réformés, perçant et bousculant comme un torrent furieux les masses communistes qui tentaient de lui barrer le passage[16](#footnote-16). »
+
+Un discours que ne renierait donc pas l’extrême droite actuelle, en ce compris le couplet sur la liberté d’expression et l’antifascisme[17](#footnote-17), Sabiani se posant en défenseur des libertés et dénonçant la censure dont il serait l’objet : « Sous le prétexte d’antifascisme, on s’apprête à confisquer les libertés françaises au profit d’une liberté conçue à la mode russe, la liberté de l’ukase et du knout. À quand une Sibérie française ? \[…\] Blum a \[…\] dissous les ligues pour être agréable à MM. Cachin et Thorez ; il a emprisonné Maurras, il persécute la presse livre, il fera tout ce qu’il faudra pour plaire à ses alliés, à ses “souteneurs” moscovites. Le prétendu “antifascisme” installé au gouvernement est, d’ailleurs, en train de commettre tous les crimes qu’il reprochait au fascisme. Attentats de rue, pillages, persécutions ouvrières sur le lieu même du travail, interdictions de réunions adverses \[…\][18](#footnote-18). »
+
+ 1. Voir sa notice biographique dans Le Maitron [https://maitron.fr/spip.php?article130164.](https://maitron.fr/spip.php?article130164. "https://maitron.fr/spip.php?article130164.") Une biographie lui a aussi été consacrée : Nicolaï, Jean-Baptiste, _Simon Sabiani Un «chef» à Marseille 1919-1944_, Olivier Orban, 1991.
+ 2. Voir « La cohérence d’un engagement » in _Aide-mémoire_ n°40 d’avril-juin 2007.
+ 3. Bernard, Marc, _Faire front. Les journées ouvrières des 9 et 12 février 1934_, Paris, La Fabrique, 2018.
+ 4. Voir « L’anticommunisme d’un transfuge » in _Aide-mémoire_ n°59 de janvier-mars 2012.
+ 5. Sabiani, Simon, _Colère du peuple_. Préface de Jacques Doriot, Paris, Les Œuvres françaises, 1936, pp.130-131.
+ 6. P.16.
+ 7. P.42.
+ 8. P.60.
+ 9. P.101. Voir « La vision complotiste de l’extrême droite » in _Aide-mémoire_ n°85 de juillet-septembre 2018.
+10. P.53.
+11. P.212.
+12. P.170.
+13. P.61.
+14. P.87.
+15. Voir « Le Poujadisme : un populisme d’extrême droite » in _Aide-mémoire_ n°52 d’avril-juin 2010.
+16. Pp.32-33. Pour rappel « Les Patriotes » est le nom du parti créé en 2017 par Florian Philippot après sa rupture avec le Front National de Le Pen.
+17. Voir « L’antifascisme, le nouveau fascisme ? » in _Aide-mémoire_ n°94 d’octobre-décembre 2020.
+18. Pp.23-24.
