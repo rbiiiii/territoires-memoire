@@ -1,5 +1,5 @@
 ---
-show: false
+show: true
 title: Aide-mémoire n°95
 slug: aide-memoire-95
 num: 95
