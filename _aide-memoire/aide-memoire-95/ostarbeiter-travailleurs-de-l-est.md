@@ -1,10 +1,10 @@
 ---
 categories: _aide-memoire-numeros/aide-memoire-n-95.md
 type: article
-title: Ostarbeiter (« Travailleurs de l’Est »)
+title: <em>Ostarbeiter</em> (« Travailleurs de l’Est »)
 credits: Par Jean-Louis Rouhart
 about_the_author: ''
-order: 8
+order: 9
 
 ---
 L’ONG russe « Memorial » ne conserve pas seulement dans ses Archives des documents oraux et écrits se rapportant au Goulag, mais dispose également d’un fonds important relatif aux « Ostarbeiter », c’est-à-dire aux citoyens d’Union soviétique ayant été contraints d’exécuter des travaux forcés en Allemagne durant une période s’étalant entre 1942 (invasion de l’URSS par la Wehrmacht) et 1945 (libération par les troupes soviétiques et américaines).
