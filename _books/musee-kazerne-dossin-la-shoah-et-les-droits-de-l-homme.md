@@ -8,7 +8,7 @@ editor: ed. Marot-Tijdslbeeld
 col: ''
 year: "2020"
 price: ''
-book_link: ''
+book_link: 'https://www.exhibitionsinternational.be/documents/catalog/9789490880316.xml?lang=fr&open=FILTER%5CJAAR%5C2019'
 img_src: https://www.territoires-memoire.be/assets/uploads/museekazernedossin.jpg
 
 ---
