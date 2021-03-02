@@ -1,13 +1,12 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: "Séparation des pouvoirs, contre-pouvoirs, quatrième pouvoir : piqûres de
   rappel pour une démocratie"
+img_file: /assets/uploads/piqure.gif
 posted_on: 2021-03-02
 ---
-![]()
-
 **Alors que les campagnes de vaccination démarrent avec des succès variés, quelques acteurs administrent des piqûres de rappel dans le cadre de la gestion de la situation sanitaire. Après plusieurs alertes – restées sans effet – dénonçant les dérives anti-démocratiques prises par le Gouvernement belge, la Ligue des Droits Humains (LDH) attaque l’État belge en justice et l’Autorité de la Protection des Données (APD) interpelle l’Europe.**
 
 La crise sanitaire fait beaucoup de mal, y compris à notre État de droit. On l’a dit et redit, nos dirigeants ne peuvent plus légitimement invoquer l’urgence, ils ont maintenant le recul nécessaire pour faire face aux impératifs sanitaires ; en outre le pays dispose depuis plusieurs mois d’une majorité de plein exercice. Bref, continuer à légiférer à coups d’arrêtés ministériels et priver le Parlement de son rôle législatif revient à s’assoir sciemment sur l’un des principes les plus fondamentaux de notre système démocratique : la séparation des pouvoirs. Le projet de loi « pandémie », très prochainement soumis au regard des parlementaires, sera à observer avec attention. 
