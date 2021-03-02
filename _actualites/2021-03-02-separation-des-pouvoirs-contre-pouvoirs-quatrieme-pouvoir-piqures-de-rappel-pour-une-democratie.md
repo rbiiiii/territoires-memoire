@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 categories: actualites
 title: "Séparation des pouvoirs, contre-pouvoirs, quatrième pouvoir : piqûres de
   rappel pour une démocratie"
@@ -9,7 +9,9 @@ posted_on: 2021-03-02
 ---
 **Alors que les campagnes de vaccination démarrent avec des succès variés, quelques acteurs administrent des piqûres de rappel dans le cadre de la gestion de la situation sanitaire. Après plusieurs alertes – restées sans effet – dénonçant les dérives anti-démocratiques prises par le Gouvernement belge, la Ligue des Droits Humains (LDH) attaque l’État belge en justice et l’Autorité de la Protection des Données (APD) interpelle l’Europe.**
 
-La crise sanitaire fait beaucoup de mal, y compris à notre État de droit. On l’a dit et redit, nos dirigeants ne peuvent plus légitimement invoquer l’urgence, ils ont maintenant le recul nécessaire pour faire face aux impératifs sanitaires ; en outre le pays dispose depuis plusieurs mois d’une majorité de plein exercice. Bref, continuer à légiférer à coups d’arrêtés ministériels et priver le Parlement de son rôle législatif revient à s’assoir sciemment sur l’un des principes les plus fondamentaux de notre système démocratique : la séparation des pouvoirs. Le projet de loi « pandémie », très prochainement soumis au regard des parlementaires, sera à observer avec attention. 
+La crise sanitaire fait mal, y compris à notre État de droit. Cela a été dit et écrit : nos dirigeants ne peuvent plus légitimement invoquer l’urgence – elle a débuté il y a un an - ils ont maintenant le recul nécessaire pour faire face aux impératifs sanitaires ; en outre le pays dispose depuis plusieurs mois d’une majorité de plein exercice. Bref, continuer à légiférer à coups d’arrêtés ministériels et priver le Parlement de son rôle législatif revient à s’assoir sciemment sur l’un des principes les plus fondamentaux de notre système démocratique : la séparation des pouvoirs. 
+
+Le projet de loi « pandémie », très prochainement soumis au regard des parlementaires, sera à observer avec attention. Retour sur quelques notions de base de contrôle démocratique : la « séparation des pouvoirs », les « contre-pouvoirs », et le « quatrième pouvoir ».
 
 ## La séparation des pouvoirs
 
@@ -37,11 +39,11 @@ Parallèlement, c’est l’Autorité pour la Protection des Données (APD), gar
 
 ## Le quatrième pouvoir
 
-Par cette expression, « quatrième pouvoir », on désigne communément les médias journalistiques, et par extension l’ensemble des outils et moyens de communication qui servent – avec les contre-pouvoirs cités plus haut, de contre-pouvoir face aux trois pouvoirs incarnant l'État et cité en début d’article (pouvoir exécutif, législatif et judiciaire, dont la séparation est déjà une condition préalable).
+Par cette expression, « quatrième pouvoir », on désigne communément les médias journalistiques, et par extension l’ensemble des outils et moyens de communication qui servent aussi de contre-pouvoir face aux trois pouvoirs incarnant l’État et cité en début d’article (exécutif, législatif et judiciaire, dont la séparation est déjà une condition préalable).
 
 Pour être de véritables contre-pouvoirs, et non des outils de propagande, ces médias doivent recourir aux règles de la déontologie journalistique, être indépendants, et voir leurs sources d’information protégées. Si ces règles sont respectées, le journalisme – photojournalisme compris - nourrit la pluralité des regards sur la réalité. Le journalisme va donc aussi voir là où les pouvoirs, quels qu’ils soient (économique, intellectuel, étatique…), ne jettent pas toujours la lumière. 
 
-Le rôle des médias lors de cette pandémie fait l’objet actuellement d’un sain débat. A l’hiver 2021-2022, si l’évolution de la situation sanitaire le permet, Les Territoires de la Mémoire devraient, en ce sens, accueillir l’exposition World Press Photo, le concours prestigieux de photojournalisme qui constitue une vraie fenêtre sur le monde contemporain et toutes ses réalités.
+Le rôle des médias et la manière de l’exercer lors de cette pandémie font l’objet actuellement d’un sain débat. A l’hiver 2021-2022, si l’évolution de la situation sanitaire le permet, Les Territoires de la Mémoire devraient, en ce sens, accueillir l’exposition World Press Photo, le concours prestigieux de photojournalisme qui constitue une vraie fenêtre sur le monde contemporain et toutes ses réalités, ainsi qu’un soutien, au « quatrième pouvoir ».
 
 ### À regarder : Alexandra Jaspar, directrice de l'Autorité de protection des données, sur Matin Première :
 
