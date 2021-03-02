@@ -46,4 +46,4 @@ Le rôle des médias lors de cette pandémie fait l’objet actuellement d’un 
 
 ### À regarder : Alexandra Jaspar, directrice de l'Autorité de protection des données, sur Matin Première :
 
-[![Alexandra Jaspar, directrice de l'Autorité de protection des données, sur Matin Première](/assets/uploads/matinpremiere.gif)](https://www.rtbf.be/auvio/detail_l-invite-de-matin-premiere-alexandra-jaspar-directrice-de-l-autorite-de-protection-des-donnees?id=2738607)
+[![Alexandra Jaspar, directrice de l'Autorité de protection des données, sur Matin Première](https://www.territoires-memoire.be/assets/uploads/matinpremiere.gif)](https://www.rtbf.be/auvio/detail_l-invite-de-matin-premiere-alexandra-jaspar-directrice-de-l-autorite-de-protection-des-donnees?id=2738607)]
