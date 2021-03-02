@@ -1,10 +1,10 @@
 ---
 layout: post
-published: true
+published: false
 categories: actualites
 title: "Séparation des pouvoirs, contre-pouvoirs, quatrième pouvoir : piqûres de
   rappel pour une démocratie"
-img_file: /assets/uploads/piqure.gif
+img_file: /assets/uploads/piqure.jpg
 posted_on: 2021-03-02
 ---
 **Alors que les campagnes de vaccination démarrent avec des succès variés, quelques acteurs administrent des piqûres de rappel dans le cadre de la gestion de la situation sanitaire. Après plusieurs alertes – restées sans effet – dénonçant les dérives anti-démocratiques prises par le Gouvernement belge, la Ligue des Droits Humains (LDH) attaque l’État belge en justice et l’Autorité de la Protection des Données (APD) interpelle l’Europe.**
