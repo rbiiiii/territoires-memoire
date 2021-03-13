@@ -11,7 +11,7 @@ schedule: ""
 ---
 <!--StartFragment-->
 
-Dans le cadre des activités entourant ce 150e anniversaire, nous vous invitons à participer, dans le strict respect des règles sanitaires, à l’inauguration de la plaque commémorative du meeting de 1886 qui aura lieu Place Delcour à Liège le jeudi 18 mars 2021.
+Dans le cadre des activités entourant le 150e anniversaire de la Commune de Paris, nous vous invitons à participer, dans le strict respect des règles sanitaires, à l’inauguration de la plaque commémorative du meeting de 1886 qui aura lieu Place Delcour à Liège le jeudi 18 mars 2021.
 
 Le jeudi 18 mars 1886 le "groupe anarchiste de Liège" organise une manifestation à partir de la Place Saint-Lambert, suivie d'un meeting sur le "15e anniversaire de la Commune" au "Café national" place Delcour. Cette soirée déclenche la révolte de 1886 à la suite de laquelle une législation sociale se développera enfin en Belgique, de nombreuses années après les pays qui nous entoure.
 
@@ -34,7 +34,5 @@ Discours de Julien Dohet pour « Vive la Commune, Vive la Sociale » et de Willy
 Concentration statique limitée à 100 personnes.
 
 Vente du badge anniversaire, distribution du programme actualisé des activités, affiliation possible au "comité belge des amies et amis de la Commune de Paris 1871"
-
-
 
 <!--EndFragment-->
