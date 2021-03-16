@@ -31,17 +31,13 @@ var reseauMap=L.map("reseau-map",{scrollWheelZoom:!1,touchZoom:!0,doubleClickZoo
 </script>
 {%- endif -%}
 {%- if page.permalink == "aide-memoire" -%}
-<script src="/assets/javascript/search.js"></script>    
+<script src="/assets/javascript/search-am.js"></script>
+<script src="/assets/javascript/search-books.js"></script>  
 <script>
 // SEARCH AM
-var sI=document.getElementById("am-search-input"),amR=document.getElementById("am-results-container");amSearch({searchInput:sI,resultsContainer:amR,json:"/assets/json/search-am.json",searchResultTemplate:'<div class="am-result"><a class="am-result__link" href="{url}"><h4 class="am-result__title">{title}</h4></a><div><a href="/{num}">{num}</a> | {credits}</div></div>'});
-</script> 
-{%- endif -%}
-{%- if page.permalink == "bibliotheque-et-librairie" -%}
-<script src="/assets/javascript/search.js"></script>    
-<script>
+var amSearchInput=document.getElementById("am-search-input"),amResultsContainer=document.getElementById("am-results-container");amSearch({searchInput:amSearchInput,resultsContainer:amResultsContainer,json:"/assets/json/search-am.json",searchResultTemplate:'<div class="am-result"><a class="am-result__link" href="{url}"><h4 class="am-result__title">{title}</h4></a><div><a href="/{num}">{num}</a> | {credits}</div></div>'});
 // SEARCH BOOKS
-var sI=document.getElementById("books-search-input"),amR=document.getElementById("books-results-container");amSearch({searchInput:sI,resultsContainer:amR,json:"/assets/json/search-books.json",searchResultTemplate:'<li class="block post-list__item block archives-heart__list__item"><div class="pdf-txt__item"><a class="pdf-txt__item__link book__link" href="{bookLink}"><div class="pdf-txt__item__text book__content"><h3 class="pdf-txt__item__text__title book__title"><spanclass="mini-heart">♡</span> {author}, <em>{title}</em>, {editor}, {year}</h3><div class="book__body"><div class="book__img-wrapper"><img class="pdf-txt__item__img book__img" src="{imgSrc}" role="presentation"><div class="book__img__heart-wrapper"><img class="book__img__heart" src="/assets/images/icons/tm-icon-heart.svg" role="presentation"></div></div><div class="pdf-txt__item__text__txt">{content}</div></div></div></a></div></li>'});
+var booksSearchInput=document.getElementById("books-search-input"),booksResultsContainer=document.getElementById("books-results-container");booksSearch({searchInput:booksSearchInput,resultsContainer:booksResultsContainer,json:"/assets/json/search-books.json",searchResultTemplate:'<li class="block post-list__item block archives-heart__list__item"><div class="pdf-txt__item"><a class="pdf-txt__item__link book__link" href="{bookLink}"><div class="pdf-txt__item__text book__content"><h3 class="pdf-txt__item__text__title book__title"><spanclass="mini-heart">♡</span> {author}, <em>{title}</em>, {editor}, {year}</h3><div class="book__body"><div class="book__img-wrapper"><img class="pdf-txt__item__img book__img" src="{imgSrc}" role="presentation"><div class="book__img__heart-wrapper"><img class="book__img__heart" src="/assets/images/icons/tm-icon-heart.svg" role="presentation"></div></div><div class="pdf-txt__item__text__txt">{content}</div></div></div></a></div></li>'});
 </script> 
 {%- endif -%}
 <script>
@@ -66,80 +62,6 @@ _gaq.push(['_trackPageview']);
 {%- if thisPageClass == "home" -%}
 <script>
   // SHOW / HIDE VIDEO 
-
-  var viewportWidth;
-  var headerVideo = document.getElementById("headerVideo");
-
-  var setViewportWidth = function () {
-    viewportWidth = window.innerWidth || document.documentElement.clientWidth;
-  }
-
-  var logWidth = function () {
-    
-    if (viewportWidth > 767) {
-      // load google API
-      var ggApi = document.createElement('script');
-      ggApi.src = "https://apis.google.com/js/platform.js";
-      document.body.append(ggApi);
-
-      // Load the IFrame Player API code asynchronously.
-      var tag = document.createElement('script');
-      tag.src = "https://www.youtube.com/player_api";
-      var firstScriptTag = document.getElementsByTagName('script')[0];
-      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-      
-      // Show video
-      headerVideo.src = 'https://www.youtube-nocookie.com/embed/AJ2javyp910?autoplay=1&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;loop=1&amp;cc_load_policy=0&amp;iv_load_policy=3&amp;autohide=0&amp;playlist=AJ2javyp910&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.territoires-memoire.be&amp;widgetid=2';
-      headerVideo.style.display = "block";
-
-      var playerHeader;
-
-      function onYouTubeIframeAPIReady() {
-
-        playerHeader = new YT.Player('headerVideo', {
-          height: '360',
-          width: '640',
-          videoId: 'AJ2javyp910',
-          playerVars: {
-            autoplay: 1, // Auto-play the video on load
-            controls: 0, // Show pause/play buttons in player
-            showinfo: 0, // Hide the video title
-            modestbranding: 1, // Hide the Youtube Logo
-            loop: 1, // Run the video in a loop
-            cc_load_policy: 0, // Hide closed captions
-            iv_load_policy: 3, // Hide the Video Annotations
-            autohide: 0, // Hide video controls when playing
-            playlist : 'AJ2javyp910'
-          },
-          events: {
-            'onReady': function (e) {
-              e.target.mute();
-              e.target.playVideo();
-            },
-            'onStateChange': function(e) {
-              if (e.data === YT.PlayerState.ENDED) {
-                player.playVideo(); 
-              }
-            }
-          }
-        });
-
-        playerHeader.playVideo();
-      }
-    } else {
-      // Hide video
-      headerVideo.style.display = "none";
-    }
-  }
-
-  // Set our initial width and log it
-  setViewportWidth();
-  logWidth();
-
-  // On resize events, recalculate and log
-  window.addEventListener('resize', function () {
-    setViewportWidth();
-    logWidth();
-  }, false);
+  var viewportWidth,headerVideo=document.getElementById("headerVideo"),setViewportWidth=function(){viewportWidth=window.innerWidth||document.documentElement.clientWidth},logWidth=function(){if(viewportWidth>767){var e=document.createElement("script");e.src="https://apis.google.com/js/platform.js",document.body.append(e);var t=document.createElement("script");t.src="https://www.youtube.com/player_api";var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o),headerVideo.src="https://www.youtube-nocookie.com/embed/AJ2javyp910?autoplay=1&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;loop=1&amp;cc_load_policy=0&amp;iv_load_policy=3&amp;autohide=0&amp;playlist=AJ2javyp910&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.territoires-memoire.be&amp;widgetid=2",headerVideo.style.display="block"}else headerVideo.style.display="none"};setViewportWidth(),logWidth(),window.addEventListener("resize",function(){setViewportWidth(),logWidth()},!1);
 </script>
 {%- endif -%}
