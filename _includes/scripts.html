@@ -31,10 +31,17 @@ var reseauMap=L.map("reseau-map",{scrollWheelZoom:!1,touchZoom:!0,doubleClickZoo
 </script>
 {%- endif -%}
 {%- if page.permalink == "aide-memoire" -%}
-<script src="/assets/javascript/search-am.js"></script>    
+<script src="/assets/javascript/search.js"></script>    
 <script>
 // SEARCH AM
 var sI=document.getElementById("am-search-input"),amR=document.getElementById("am-results-container");amSearch({searchInput:sI,resultsContainer:amR,json:"/assets/json/search-am.json",searchResultTemplate:'<div class="am-result"><a class="am-result__link" href="{url}"><h4 class="am-result__title">{title}</h4></a><div><a href="/{num}">{num}</a> | {credits}</div></div>'});
+</script> 
+{%- endif -%}
+{%- if page.permalink == "bibliotheque-et-librairie" -%}
+<script src="/assets/javascript/search.js"></script>    
+<script>
+// SEARCH BOOKS
+var sI=document.getElementById("books-search-input"),amR=document.getElementById("books-results-container");amSearch({searchInput:sI,resultsContainer:amR,json:"/assets/json/search-books.json",searchResultTemplate:'<li class="block post-list__item block archives-heart__list__item"><div class="pdf-txt__item"><a class="pdf-txt__item__link book__link" href="{bookLink}"><div class="pdf-txt__item__text book__content"><h3 class="pdf-txt__item__text__title book__title"><spanclass="mini-heart">♡</span> {author}, <em>{title}</em>, {editor}, {year}</h3><div class="book__body"><div class="book__img-wrapper"><img class="pdf-txt__item__img book__img" src="{imgSrc}" role="presentation"><div class="book__img__heart-wrapper"><img class="book__img__heart" src="/assets/images/icons/tm-icon-heart.svg" role="presentation"></div></div><div class="pdf-txt__item__text__txt">{content}</div></div></div></a></div></li>'});
 </script> 
 {%- endif -%}
 <script>

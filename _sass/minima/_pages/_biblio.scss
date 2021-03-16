@@ -163,3 +163,11 @@
         transition:fill 150ms ease-out; 
     }
 }
+
+#books-search-container {
+    text-align: center;
+}
+
+#books-results-container {
+    margin:$su*4 0 $su*2;
+}

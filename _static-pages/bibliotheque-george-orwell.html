@@ -133,6 +133,11 @@ class: biblio
         {%- assign last_am = site.aide-memoire-numeros | sort: 'num' | reverse -%}
         {%- assign last_am_num = last_am[0].num -%}
         {%- include pages/books.html version=last_am_num heart=true -%}
+        <div id="books-search-container">
+            <h3 class="page-section__title">Rechercher un de nos coups de cœur :</h3>
+            <input type="search" id="books-search-input" placeholder="Rechercher..." aria-label="Rechercher dans les coups de cœur de la bibliothèque">
+            <ul id="books-results-container" class="post-list list--no-style blocks"></ul>
+        </div>
         <p class="text-centered">
             <a class="button button--blue" style="max-width:240px;" href="/archives-coups-de-coeur-bibliotheque">Consulter les archives des coups&nbsp;de&nbsp;cœur</a>
         </p>

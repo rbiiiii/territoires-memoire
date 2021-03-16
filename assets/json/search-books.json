@@ -1,0 +1,19 @@
+---
+---
+[
+  {% assign books_filtered = site.books | where: 'tag','heart' %}
+  {% assign books_sorted = books_filtered | sort: 'version' | reverse %}
+  {% for book in books_sorted  %}
+    {
+    
+      "title"    : "{{ book.title | escape }}",
+      "author"   : "{{ book.author }}",
+      "editor"   : "{{ book.editor }}",
+      "col"      : "{{ book.col }}",
+      "year"     : "{{ book.year }}",
+      "bookLink" : "{{ book.book_link }}",
+      "imgSrc"   : "{{ book.img_src }}",
+      "content"  : {{ book.content | markdownify | jsonify }}
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
