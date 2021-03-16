@@ -1,12 +1,12 @@
 ---
 ---
 [
-  {% assign books_filtered = site.books | where: 'tag','heart' %}
-  {% assign books_sorted = books_filtered | sort: 'version' | reverse %}
+  {% assign books_sorted = site.books | sort: 'version' | reverse %}
   {% for book in books_sorted  %}
     {
     
       "title"    : "{{ book.title | escape }}",
+      "tag"      : "{{ book.tag }}",
       "author"   : "{{ book.author }}",
       "editor"   : "{{ book.editor }}",
       "col"      : "{{ book.col }}",
