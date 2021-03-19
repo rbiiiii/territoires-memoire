@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: "De la parole aux actes: Halte à la haine sur nos réseaux !"
 img_file: /assets/uploads/de-la-parole-aux-actes-visuel-essai.jpg
