@@ -2,8 +2,8 @@
 layout: post
 published: true
 categories: actualites
-title: Signez l'appel pour dire non au racisme dans le sport !
-img_file: /assets/uploads/stopracisminsport1240x480.jpg
+title: Signez l'appel pour dire NON au racisme dans le sport !
+img_file: /assets/uploads/resistezauracismedans-lesport_stopracism_1240x480.jpg
 posted_on: 2021-03-22
 ---
 Le racisme dans le sport est un sujet à la fois ancien et d’actualité. Du sport professionnel à la pratique occasionnelle, de nombreux cas de discriminations restent malheureusement à déplorer.
