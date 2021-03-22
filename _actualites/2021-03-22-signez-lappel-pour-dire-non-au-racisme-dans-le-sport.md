@@ -21,3 +21,5 @@ Cet appel public du monde du sport est la première manifestation d’une Associ
 **[et portez le Triangle Rouge pour résister aux idées liberticides](https://boutique.territoires-memoire.be/fr/13-pin-s-triangle-rouge)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_SqjzGhC5Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/assets/uploads/stopracisminsport_photo.jpg)
