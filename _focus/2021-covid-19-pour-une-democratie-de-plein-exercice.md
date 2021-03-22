@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "#Covid-19 - Pour une démocratie de plein exercice !"
 posted_on: 2021-02-10
 link: https://www.territoires-memoire.be/actualites/2021/02/covid-19-pour-une-democration-de-plein-exercice/
