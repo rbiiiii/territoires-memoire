@@ -24,7 +24,7 @@ collections:
       - {label: "Heure de l'événement (one day only)", name: "hour", widget: "string", required: false}
       - {label: "Image", name: "img_file", widget: "image", required: false}
       - {label: "Adresse affichée", name: "place", widget: "string"}
-      - {label: "Adresse googlemaps", name: "address", widget: "string"}
+      - {label: "Adresse googlemaps", name: "address", widget: "string", required: false}
       - {label: "Prix (version résumée)", name: "price", widget: "string", required: false}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Horaire", name: "schedule", widget: "markdown", required: false}
