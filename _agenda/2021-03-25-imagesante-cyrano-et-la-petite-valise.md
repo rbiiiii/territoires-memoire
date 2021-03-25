@@ -7,13 +7,10 @@ date_stop: ""
 hour: 14h
 img_file: /assets/uploads/festival-imagesante_web.jpg
 place: Salle virtuelle 25è heure
-address: Place Xavier-Neujean, Liège
 price: 6€
 tags:
   - Projection-débat
-booking: "Réservation en ligne :
-  https://www.imagesante.be/fr/project/cyrano-et-la-petite-valise/?utm_source=s\
-  endinblue&utm_campaign=Mailing_Cyrano_et_la_petite_valise&utm_medium=email"
+booking: "Réservation en ligne : [cliquez-ici](https://www.imagesante.be/fr/project/cyrano-et-la-petite-valise/)"
 ---
 Dans le cadre du festival Imagésanté 2021, Les Territoires de la Mémoire et le Réseau Ressources & Doc vous convient à la projection virtuelle du film "Cyrano et la petite valise" de Marie FRAPIN, suivi d’un débat sur le thème : « Quels projets pour les SDF à Liège ?.
 
