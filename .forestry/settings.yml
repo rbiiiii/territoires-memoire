@@ -58,13 +58,18 @@ sections:
   - focus
 - type: directory
   path: _secondary-pages
-  label: Secondary pages
+  label: Pages secondaires
   create: all
   match: "**/*"
 - type: directory
   path: _static-pages
-  label: Static pages
+  label: Pages principales
   create: all
+  match: "**/*"
+- type: directory
+  path: en
+  label: English
+  create: documents
   match: "**/*"
 upload_dir: assets/uploads
 public_path: https://www.territoires-memoire.be/assets/uploads
