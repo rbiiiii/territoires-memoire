@@ -1,0 +1,20 @@
+---
+label: Pdf items
+hide_body: true
+fields:
+- type: field_group_list
+  name: Pdf items
+  label: Pdf items
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: img_src
+    label: img_src
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: categorie
+    label: categorie
