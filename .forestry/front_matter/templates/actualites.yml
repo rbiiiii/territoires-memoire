@@ -12,9 +12,6 @@ fields:
   label: categories
   hidden: true
   default: actualites
-- name: published
-  type: boolean
-  label: Publié ?
 - type: text
   name: title
   label: Titre de l'actu
