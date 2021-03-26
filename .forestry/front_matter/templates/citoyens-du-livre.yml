@@ -32,3 +32,5 @@ fields:
     label: Contenu texte
   config:
     labelField: num
+pages:
+- _data/cdl.yml
