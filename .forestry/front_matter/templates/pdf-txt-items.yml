@@ -43,7 +43,7 @@ fields:
     - type: text
       name: title
       label: Titre du bouton
-    - name: link
+    - name: url
       type: text
       config:
         required: false
