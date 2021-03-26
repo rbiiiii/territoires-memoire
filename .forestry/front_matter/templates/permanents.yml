@@ -8,13 +8,15 @@ fields:
   fields:
   - type: text
     name: nom
-    label: nom
+    label: Prénom et nom
   - type: text
     name: titre
-    label: titre
+    label: Titre
+    description: 'Ex: Délégué-e ou Coordinateur-trice'
   - type: text
     name: tel
-    label: tel
+    label: Numéro de tel
+    description: 'Format : 04 232 70 54'
   - type: list
     name: email
     label: email
