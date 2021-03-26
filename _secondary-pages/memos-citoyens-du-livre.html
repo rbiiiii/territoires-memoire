@@ -25,7 +25,7 @@ class: archives-cdl
             <li class="list-cdl__item">
                 <h3>Citoyens du Livre #{{ cdl_item.num }} <small>({{ cdl_item.date | date: "%d/%m/%Y" }})</small></h3>
                 <p>⇨ <a href="/assets/pdf/biblio/cdl/{{ cdl_item.pdf }}">Compte-rendu en pdf</a></p>
-                <p>{{ cdl_item.content }}</p>
+                <p>{{ cdl_item.txt }}</p>
             </li>
             {% endif %}
         {%- endfor -%}
