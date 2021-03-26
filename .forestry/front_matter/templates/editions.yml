@@ -1,0 +1,29 @@
+---
+label: Editions
+hide_body: true
+fields:
+- type: field_group_list
+  name: Editions
+  label: Editions
+  fields:
+  - type: textarea
+    name: title
+    label: title
+  - type: boolean
+    name: external
+    label: external
+  - type: number
+    name: date
+    label: date
+  - type: text
+    name: author
+    label: author
+  - type: file
+    name: img_src
+    label: img_src
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: categorie
+    label: categorie
