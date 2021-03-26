@@ -5,21 +5,33 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
+  hidden: true
 - type: text
   name: categories
   label: categories
+  default: enlien
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Titre de la page
 - type: file
   name: img_file
-  label: img_file
+  label: Image d'illustration
+  description: Format 1240x480 jpg
 - type: file
   name: enlien_link
-  label: enlien_link
+  label: Lien pdf
+  description: Pdf à télécharger
 - type: text
   name: enlien_link_txt
-  label: enlien_link_txt
+  label: Texte du bouton
+  default: Télécharger
+  description: Texte qui s'affiche dans le bouton de téléchargement du pdf
 - type: datetime
   name: posted_on
-  label: posted_on
+  label: 'Posté le :'
+  config:
+    export_format: YYYY-MM-DD
+    date_format: DD/MM/YYYY
+  description: Date de publication qui sert pour le tri des "articles" en lien.

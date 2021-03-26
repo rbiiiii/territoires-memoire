@@ -45,8 +45,10 @@ sections:
 - type: directory
   path: _enlien
   label: Enlien
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - en-lien
 - type: directory
   path: _focus
   label: Focus
