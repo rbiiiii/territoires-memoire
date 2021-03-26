@@ -62,7 +62,6 @@ sections:
 - type: document
   path: _data/permanents.yml
   label: Permanents
-  match: "**/*"
 - type: document
   path: _data/editions.yml
   label: Livres de la page éditions

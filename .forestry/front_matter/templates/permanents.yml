@@ -1,0 +1,29 @@
+---
+label: Permanents
+hide_body: true
+fields:
+- type: field_group_list
+  name: Permanents
+  label: Permanents
+  fields:
+  - type: text
+    name: nom
+    label: nom
+  - type: text
+    name: titre
+    label: titre
+  - type: text
+    name: tel
+    label: tel
+  - type: list
+    name: email
+    label: email
+  - type: file
+    name: photo
+    label: photo
+  - type: text
+    name: categorie
+    label: categorie
+  - type: text
+    name: categorie_slug
+    label: categorie_slug
