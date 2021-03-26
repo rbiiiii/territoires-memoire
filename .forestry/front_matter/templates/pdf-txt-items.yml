@@ -1,0 +1,33 @@
+---
+label: pdf txt items
+hide_body: true
+fields:
+- type: field_group_list
+  name: Pdf txt items
+  label: Pdf txt items
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: img_src
+    label: img_src
+  - type: file
+    name: pdf_src
+    label: pdf_src
+  - type: textarea
+    name: txt
+    label: txt
+  - type: text
+    name: categorie
+    label: categorie
+  - type: field_group_list
+    name: peda
+    label: peda
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: url
+      label: url
