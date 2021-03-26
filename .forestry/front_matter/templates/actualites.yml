@@ -1,0 +1,19 @@
+---
+label: Actualités
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: title
+  label: title
+- type: file
+  name: img_file
+  label: img_file
+- type: datetime
+  name: posted_on
+  label: posted_on
