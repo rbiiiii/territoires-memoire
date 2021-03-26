@@ -48,9 +48,6 @@ sections:
   label: Focus
   create: all
   match: "**/*"
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: directory
   path: _secondary-pages
   label: Secondary pages
