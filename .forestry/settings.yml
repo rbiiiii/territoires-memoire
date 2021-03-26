@@ -60,6 +60,10 @@ sections:
   templates:
   - communiques-de-presse
 - type: document
+  path: _data/editions.yml
+  label: Editions
+  match: "**/*"
+- type: document
   path: _data/cdl.yml
   label: Citoyens du Livre
 - type: directory
