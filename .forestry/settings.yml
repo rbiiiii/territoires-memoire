@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: _actualites
-  label: Actualites
+  label: Actualités
   create: documents
   match: "**/*"
   templates:
@@ -37,14 +37,14 @@ sections:
   - livre-bgo
 - type: directory
   path: _communiques-presse
-  label: Communiques presse
+  label: Communiqués de presse
   create: documents
   match: "**/*"
   templates:
   - communiques-de-presse
 - type: directory
   path: _enlien
-  label: Enlien
+  label: En lien
   create: documents
   match: "**/*"
   templates:
