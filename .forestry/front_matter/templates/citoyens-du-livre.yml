@@ -4,17 +4,26 @@ hide_body: true
 fields:
 - type: field_group_list
   name: Cdl
-  label: Cdl
+  label: Item
   fields:
   - type: number
     name: num
-    label: num
+    label: Numéro du cdl
   - type: datetime
     name: date
-    label: date
+    label: Date
+    config:
+      export_format: YYYY-MM-DD
+      date_format: DD/MM/YYYY
   - type: file
     name: pdf
-    label: pdf
-  - type: text
-    name: content
-    label: content
+    label: Fichier pdf
+  - name: contenu_texte
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Contenu texte
