@@ -57,14 +57,18 @@ sections:
   templates:
   - focus
 - type: directory
+  path: _static-pages
+  label: Pages principales
+  create: all
+  match: "**/*"
+- type: directory
   path: _secondary-pages
   label: Pages secondaires
   create: all
   match: "**/*"
-- type: directory
-  path: _static-pages
-  label: Pages principales
-  create: all
+- type: document
+  path: _data.cdl.yml
+  label: Citoyens du Livre
   match: "**/*"
 - type: directory
   path: en
