@@ -1,0 +1,34 @@
+---
+label: Citoyens du Livre
+hide_body: true
+fields:
+- type: field_group_list
+  name: Cdl
+  label: Item
+  fields:
+  - name: num
+    type: text
+    config:
+      required: false
+    label: Numéro du cdl
+    description: Numéro en chiffre
+  - type: datetime
+    name: date
+    label: Date
+    config:
+      export_format: YYYY-MM-DD
+      date_format: DD/MM/YYYY
+  - type: file
+    name: pdf
+    label: Fichier pdf
+  - name: contenu_texte
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: markdown
+    label: Contenu texte
+  config:
+    labelField: num

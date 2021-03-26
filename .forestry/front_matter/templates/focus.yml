@@ -1,0 +1,24 @@
+---
+label: Focus
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Titre du focus
+- type: datetime
+  name: posted_on
+  label: 'Posté le :'
+  description: Date servant au tri des focus. Les deux focus avec la date la plus
+    récente sont ceux qui s'affichent sur le site en ligne.
+  config:
+    export_format: YYYY-MM-DD
+    date_format: DD/MM/YYYY
+- type: textarea
+  name: link
+  label: Lien
+  description: 'Lien vers lequel le focus redirige. '
+- type: file
+  name: img_file
+  label: Image d'illustration
+  description: 'Format: 550 x 213 jpg est l''idéal colibri, si vous voulez réutiliser
+    une image déjà enregistrée en 1240x480, ça marche aussi. '

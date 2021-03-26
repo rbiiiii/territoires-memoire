@@ -6,7 +6,7 @@ webhook_url:
 sections:
 - type: directory
   path: _actualites
-  label: Actualites
+  label: Actualités
   create: documents
   match: "**/*"
   templates:
@@ -16,6 +16,13 @@ sections:
   label: Agenda
   create: all
   match: "**/*"
+- type: directory
+  path: _focus
+  label: Focus
+  create: documents
+  match: "**/*"
+  templates:
+  - focus
 - type: directory
   path: _aide-memoire-numeros
   label: Numéros Aide memoire
@@ -30,35 +37,52 @@ sections:
   - articles-aide-memoire
 - type: directory
   path: _books
-  label: Books
+  label: Livres BGO
   create: documents
   match: "**/*"
   templates:
   - livre-bgo
 - type: directory
-  path: _communiques-presse
-  label: Communiques presse
-  create: all
-  match: "**/*"
-- type: directory
-  path: _enlien
-  label: Enlien
-  create: all
-  match: "**/*"
-- type: directory
-  path: _focus
-  label: Focus
+  path: _static-pages
+  label: Pages principales
   create: all
   match: "**/*"
 - type: directory
   path: _secondary-pages
-  label: Secondary pages
+  label: Pages secondaires
   create: all
   match: "**/*"
 - type: directory
-  path: _static-pages
-  label: Static pages
-  create: all
+  path: _communiques-presse
+  label: Communiqués de presse
+  create: documents
+  match: "**/*"
+  templates:
+  - communiques-de-presse
+- type: document
+  path: _data/cdl.yml
+  label: Citoyens du Livre
+- type: directory
+  path: _enlien
+  label: En lien
+  create: documents
+  match: "**/*"
+  templates:
+  - en-lien
+- type: directory
+  path: en
+  label: English
+  create: documents
+  match: "**/*"
+- type: directory
+  path: nl
+  label: Nederlands
+  create: documents
+  match: "**/*"
+- type: directory
+  path: de
+  label: Deutsch
+  create: documents
   match: "**/*"
 upload_dir: assets/uploads
 public_path: https://www.territoires-memoire.be/assets/uploads
