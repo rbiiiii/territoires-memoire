@@ -1,0 +1,20 @@
+---
+label: Citoyens du Livre
+hide_body: true
+fields:
+- type: field_group_list
+  name: Cdl
+  label: Cdl
+  fields:
+  - type: number
+    name: num
+    label: num
+  - type: datetime
+    name: date
+    label: date
+  - type: file
+    name: pdf
+    label: pdf
+  - type: text
+    name: content
+    label: content
