@@ -52,8 +52,10 @@ sections:
 - type: directory
   path: _focus
   label: Focus
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - focus
 - type: directory
   path: _secondary-pages
   label: Secondary pages
