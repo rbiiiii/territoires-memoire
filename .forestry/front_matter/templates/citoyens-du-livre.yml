@@ -21,7 +21,7 @@ fields:
   - type: file
     name: pdf
     label: Fichier pdf
-  - name: contenu_texte
+  - name: txt
     type: textarea
     default: ''
     config:
