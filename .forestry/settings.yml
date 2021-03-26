@@ -38,8 +38,10 @@ sections:
 - type: directory
   path: _communiques-presse
   label: Communiques presse
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - communiques-de-presse
 - type: directory
   path: _enlien
   label: Enlien

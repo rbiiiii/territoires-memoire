@@ -4,13 +4,16 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre du communiqué
 - type: datetime
   name: date
-  label: date
+  label: Date
+  config:
+    export_format: YYYY-MM-DD
+    date_format: DD/MM/YYYY
 - type: file
   name: pdf_src
-  label: pdf_src
+  label: Fichier PDF du DP
 - type: text
   name: zip_src
-  label: zip_src
+  label: Fichier ZIP
