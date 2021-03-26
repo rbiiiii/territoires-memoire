@@ -68,6 +68,10 @@ sections:
 - type: document
   path: _data/pdf_items.yml
   label: Documents pdf
+- type: document
+  path: _data/pdf_txt_items.json
+  label: Documents pdf avec description et +
+  match: "**/*"
 - type: directory
   path: _enlien
   label: En lien
