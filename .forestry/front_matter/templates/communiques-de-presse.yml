@@ -1,0 +1,16 @@
+---
+label: Communiqués de presse
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: pdf_src
+  label: pdf_src
+- type: text
+  name: zip_src
+  label: zip_src
