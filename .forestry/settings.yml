@@ -71,6 +71,16 @@ sections:
   label: English
   create: documents
   match: "**/*"
+- type: directory
+  path: nl
+  label: Nederlands
+  create: documents
+  match: "**/*"
+- type: directory
+  path: de
+  label: Deutsch
+  create: documents
+  match: "**/*"
 upload_dir: assets/uploads
 public_path: https://www.territoires-memoire.be/assets/uploads
 front_matter_path: ''
