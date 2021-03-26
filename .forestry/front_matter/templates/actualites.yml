@@ -15,10 +15,6 @@ fields:
 - type: text
   name: title
   label: Titre de l'actu
-- type: file
-  name: img_file
-  label: Image d'illustration
-  description: 'Format : 1240x480 jpg'
 - type: datetime
   name: posted_on
   label: 'Publié le :'
@@ -27,6 +23,10 @@ fields:
   config:
     export_format: YYYY-MM-DD
     date_format: DD-MM-YYYY
+- type: file
+  name: img_file
+  label: Image d'illustration
+  description: 'Format : 1240x480 jpg'
 - name: uploaded_files
   type: field_group_list
   fields:
