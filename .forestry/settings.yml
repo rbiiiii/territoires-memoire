@@ -30,7 +30,7 @@ sections:
   - articles-aide-memoire
 - type: directory
   path: _books
-  label: Books
+  label: Livres BGO
   create: documents
   match: "**/*"
   templates:
