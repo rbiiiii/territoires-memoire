@@ -1,0 +1,25 @@
+---
+label: En lien
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: title
+  label: title
+- type: file
+  name: img_file
+  label: img_file
+- type: file
+  name: enlien_link
+  label: enlien_link
+- type: text
+  name: enlien_link_txt
+  label: enlien_link_txt
+- type: datetime
+  name: posted_on
+  label: posted_on
