@@ -66,3 +66,5 @@ fields:
     labelField: 
   label: Fichier(s)
   description: Zip ou pdf à ajouter en bas d'article
+pages:
+- _actualites/test.md
