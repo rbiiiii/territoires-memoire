@@ -1,270 +1,230 @@
+---
 - title: KL Mauthausen - Wels - Nuremberg (Autriche-Allemagne)
   img_src: pdf-mauthausen.jpg
   link: tm-voyages-en-europe.pdf#page=5
   categorie: voyages-pour-la-memoire-en-europe
-
 - title: KL Auschwitz-Birkenau - Cracovie (Pologne)
   img_src: pdf-auschwitz.jpg
   link: tm-voyages-en-europe.pdf#page=1
   categorie: voyages-pour-la-memoire-en-europe
-
 - title: KL Natzweiler-Struthof - Strasbourg (France)
   img_src: pdf-struthof.jpg
   link: tm-voyages-en-europe.pdf#page=7
   categorie: voyages-pour-la-memoire-en-europe
-
 - title: KL Buchenwald - KL Dora-Mittelbau - Weimar (Allemagne)
   img_src: pdf-buchenwald.jpg
   link: tm-voyages-en-europe.pdf#page=3
   categorie: voyages-pour-la-memoire-en-europe
-
 - title: KL Ravensbrück - Berlin (Allemagne)
   img_src: pdf-ravensbruck.jpg
   link: tm-voyages-en-europe.pdf#page=9
   categorie: voyages-pour-la-memoire-en-europe
-
 - title: KL Sachsenhausen - Berlin (Allemagne)
   img_src: pdf-sachsenhausen.jpg
   link: tm-voyages-en-europe.pdf#page=11
   categorie: voyages-pour-la-memoire-en-europe
-
 - title: KL Flossenburg - Prague (République tchèque)
   img_src: pdf-flossenburg.jpg
   link: tm-voyages-en-europe.pdf#page=13
   categorie: voyages-pour-la-memoire-en-europe
-
 - title: Breendonk
   img_src: pdf-breendonk.jpg
   link: tm-voyages-breendonk.pdf
   categorie: journees-pour-la-memoire-en-belgique
-
 - title: Fort de Loncin
   img_src: pdf-fort_de_loncin.jpg
   link: tm-voyages-fort_de_loncin.pdf
   categorie: journees-pour-la-memoire-en-belgique
-
 - title: Fort de Huy
   img_src: pdf-fort_de_huy.jpg
   link: tm-voyages-fort_de_huy.pdf
   categorie: journees-pour-la-memoire-en-belgique
-
 - title: Kazerne Dossin
   img_src: pdf-kazerne_dossin.jpg
   link: tm-voyages-kazerne_dossin.pdf
   categorie: journees-pour-la-memoire-en-belgique
-
 - title: Nazisme
   img_src: pdf-dossiers_camps-nazisme.jpg
   link: tm-dossiers_camps-nazisme.pdf
   categorie: dossiers-camps
-
 - title: Berlin
   img_src: pdf-dossiers_camps-berlin.jpg
   link: tm-dossiers_camps-berlin.pdf
   categorie: dossiers-camps
-
 - title: Buchenwald
   img_src: pdf-dossiers_camps-buchenwald.jpg
   link: tm-dossiers_camps-buchenwald.pdf
   categorie: dossiers-camps
-
 - title: Dora Mittelbau
   img_src: pdf-dossiers_camps-dora-mittelbau.jpg
   link: tm-dossiers_camps-dora-mittelbau.pdf
   categorie: dossiers-camps
-
 - title: Mauthausen
   img_src: pdf-dossiers_camps-mauthausen.jpg
   link: tm-dossiers_camps-mauthausen.pdf
   categorie: dossiers-camps
-
 - title: Ravensbruck
   img_src: pdf-dossiers_camps-ravensbruck.jpg
   link: tm-dossiers_camps-ravensbruck.pdf
   categorie: dossiers-camps
-
 - title: Sachsenhausen
   img_src: pdf-dossiers_camps-sachsenhausen.jpg
   link: tm-dossiers_camps-sachsenhausen.pdf
   categorie: dossiers-camps
-
 - title: Struthof
   img_src: pdf-dossiers_camps-struthof.jpg
   link: tm-dossiers_camps-struthof.pdf
   categorie: dossiers-camps
-
 - title: Auschwitz
   img_src: pdf-dossiers_camps-auschwitz.jpg
   link: tm-dossiers_camps-auschwitz.pdf
   categorie: dossiers-camps
-
 - title: Regards sur le génocide Tutsi au Rwanda
   img_src: pdf-dossiers_pedagogiques-regards_sur_le_genocide_des_tutsi_au_rwanda.jpg
   link: tm-dossiers_pedagogiques-regards_sur_le_genocide_des_tutsi_au_rwanda.pdf
   categorie: dossiers-pedagogiques
   lang: fr
-
-- title: Plus jamais ça ! Parcours dans les camps nazis pour résister aujourd’hui. (11-14 ans)
+- title: Plus jamais ça ! Parcours dans les camps nazis pour résister aujourd’hui.
+    (11-14 ans)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-11_14.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-11_14.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
   lang: fr
-
-- title: Dit nooit meer! Bezoek aan de nazikampen om vandaag weerstand te bieden. (11-14 jaar – fr)
+- title: Dit nooit meer! Bezoek aan de nazikampen om vandaag weerstand te bieden.
+    (11-14 jaar – fr)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-11_14.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-11_14.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
   lang: nl
-
-- title: Never again! A journey through the Nazi camps to consider resistance today. (11-14 years - Fr)
+- title: Never again! A journey through the Nazi camps to consider resistance today.
+    (11-14 years - Fr)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-11_14.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-11_14.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
   lang: en
-
-- title: Nie wieder! (Plus jamais ça !) Reise in die Nazi-Lager, um heute Widerstand zu leisten. (11–14 Jahre – fr)
+- title: Nie wieder! (Plus jamais ça !) Reise in die Nazi-Lager, um heute Widerstand
+    zu leisten. (11–14 Jahre – fr)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-11_14.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-11_14.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
   lang: de
-
-- title: Plus jamais ça ! Parcours dans les camps nazis pour résister ­aujourd’hui. (15 ans et plus)
+- title: Plus jamais ça ! Parcours dans les camps nazis pour résister ­aujourd’hui.
+    (15 ans et plus)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-15_plus.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-15_plus.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
   lang: fr
-
-- title: Dit nooit meer! Bezoek aan de nazikampen om vandaag weerstand te bieden. (vanaf 15 jaar  – fr)
+- title: Dit nooit meer! Bezoek aan de nazikampen om vandaag weerstand te bieden.
+    (vanaf 15 jaar  – fr)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-15_plus.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-15_plus.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
   lang: nl
-
-- title: Never again! A journey through the Nazi camps to consider resistance today. (15 yrs and above - Fr)
+- title: Never again! A journey through the Nazi camps to consider resistance today.
+    (15 yrs and above - Fr)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-15_plus.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-15_plus.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
   lang: en
-
-- title: Plus jamais ça ! (Nie wieder!) Reise in die Nazi-Lager, um heute Widerstand zu leisten. (ab 15 Jahre – fr)
+- title: Plus jamais ça ! (Nie wieder!) Reise in die Nazi-Lager, um heute Widerstand
+    zu leisten. (ab 15 Jahre – fr)
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-15_plus.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-15_plus.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc
   lang: de
-
 - title: Plus jamais ça&nbsp;!<br>Dossier de prolongement
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-prolongement.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-prolongement.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc-prolonger
   lang: fr
-
 - title: Plus jamais ça&nbsp;!<br>Fresque "Résistances"
   img_src: pdf-dossiers_pedagogiques-plus_jamais_ca-fresque.jpg
   link: tm-dossiers_pedagogiques-plus_jamais_ca-fresque.pdf
   categorie: dossiers-pedagogiques
   special_mention: pjc-prolonger
   lang: fr
-
 - title: Amen
   img_src: pdf-fiches_thematiques_cle-amen.jpg
   link: tm-fiches_thematiques_cle-amen.pdf
   categorie: fiches-thematiques-cle
-
 - title: La Bohême-Moravie au temps du nazisme
   img_src: pdf-fiches_thematiques_cle-boheme-moravie.jpg
   link: tm-fiches_thematiques_cle-boheme-moravie.pdf
   categorie: fiches-thematiques-cle
-
 - title: Brundibár
   img_src: pdf-fiches_thematiques_cle-brundibar.jpg
   link: tm-fiches_thematiques_cle-brundibar.pdf
   categorie: fiches-thematiques-cle
-
 - title: De l’Ombre à la lumière
   img_src: pdf-fiches_thematiques_cle-de_l_ombre_a_la_lumiere.jpg
   link: tm-fiches_thematiques_cle-de_l_ombre_a_la_lumiere.pdf
   categorie: fiches-thematiques-cle
-
 - title: HHhH
   img_src: pdf-fiches_thematiques_cle-hhhh.jpg
   link: tm-fiches_thematiques_cle-hhhh.pdf
   categorie: fiches-thematiques-cle
-
 - title: La mort est mon métier
   img_src: pdf-fiches_thematiques_cle-la_mort_est_mon_metier.jpg
   link: tm-fiches_thematiques_cle-la_mort_est_mon_metier.pdf
   categorie: fiches-thematiques-cle
-
 - title: La voleuse de livres
   img_src: pdf-fiches_thematiques_cle-la_voleuse_de_livres.jpg
   link: tm-fiches_thematiques_cle-la_voleuse_de_livres.pdf
   categorie: fiches-thematiques-cle
-  
 - title: Missing
   img_src: pdf-fiches_thematiques_cle-missing.jpg
   link: tm-fiches_thematiques_cle-missing.pdf
   categorie: fiches-thematiques-cle
-
 - title: Opération Lune
   img_src: pdf-fiches_thematiques_cle-operation_lune.jpg
   link: tm-fiches_thematiques_cle-operation_lune.pdf
   categorie: fiches-thematiques-cle
-
 - title: Seda Gubatcheva
   img_src: pdf-fiches_thematiques_cle-seda_gubatcheva.jpg
   link: tm-fiches_thematiques_cle-seda_gubatcheva.pdf
   categorie: fiches-thematiques-cle
-
 - title: Sometimes in April
   img_src: pdf-fiches_thematiques_cle-sometimes_in_april.jpg
   link: tm-fiches_thematiques_cle-sometimes_in_april.pdf
   categorie: fiches-thematiques-cle
-
 - title: Theresienstadt
   img_src: pdf-fiches_thematiques_cle-theresienstadt.jpg
   link: tm-fiches_thematiques_cle-theresienstadt.pdf
   categorie: fiches-thematiques-cle
-
-- title: "Art et totalitarisme : L’art dans l’Allemagne nazie"
+- title: 'Art et totalitarisme : L’art dans l’Allemagne nazie'
   img_src: pdf-dossiers_thematiques_cle-art_et_totalitarisme.jpg
   link: tm-dossiers_thematiques_cle-art_et_totalitarisme.pdf
   categorie: dossiers-thematiques-cle
-
 - title: Des bibliothèques interdites aux bibliothèques insoumises
   img_src: pdf-dossiers_thematiques_cle-bibliotheques_interdites.jpg
   link: tm-dossiers_thematiques_cle-bibliotheques_interdites.pdf
   categorie: dossiers-thematiques-cle
-
 - title: People Advisory Explicit Music La censure et le monde musical
   img_src: pdf-dossiers_thematiques_cle-people_advisory_explicit_music.jpg
   link: tm-dossiers_thematiques_cle-people_advisory_explicit_music.pdf
-  categorie: dossiers-thematiques-cle 
-
+  categorie: dossiers-thematiques-cle
 - title: Poésie insoumise « une questionneuse enragée »
   img_src: pdf-dossiers_thematiques_cle-poesie_insoumise.jpg
   link: tm-dossiers_thematiques_cle-poesie_insoumise.pdf
-  categorie: dossiers-thematiques-cle 
-
-- title: "2010 : Passages de mémoire, frontières écologiques et économiques" 
+  categorie: dossiers-thematiques-cle
+- title: '2010 : Passages de mémoire, frontières écologiques et économiques'
   img_src: tm-aux_livres_citoyens-2010.jpg
   link: alc/aux_livres_citoyens-2010.pdf
   categorie: alc
-
-- title: "2008 : Déclaration Universelle des Droits de l'Homme" 
+- title: '2008 : Déclaration Universelle des Droits de l''Homme'
   img_src: tm-aux_livres_citoyens-2008.jpg
   link: alc/aux_livres_citoyens-2008.pdf
   categorie: alc
-
-- title: "2006 : Démocratie" 
+- title: '2006 : Démocratie'
   img_src: tm-aux_livres_citoyens-2006.jpg
   link: alc/aux_livres_citoyens-2006.pdf
   categorie: alc
