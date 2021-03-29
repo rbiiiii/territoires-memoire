@@ -3,7 +3,7 @@ layout: post
 categories: agenda
 title: Triangle Rouge au Parlement de Wallonie
 date_start: 2021-05-04
-date_stop: 2022-05-30
+date_stop: 2021-05-30
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: Parlement de Wallonie
 address: Rue Notre-Dame 1, 5000 Namur
