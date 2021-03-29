@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: agenda
-title: Exposition Triangle Rouge à l'Église Saint-Martin de Haltinne (Gesves)
+title: Exposition Triangle Rouge à l'église Saint-Martin de Haltinne (Gesves)
 date_start: 2021-04-03
 date_stop: 2021-04-14
 img_file: /assets/uploads/triangle-rouge-expo.jpg
