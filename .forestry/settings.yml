@@ -60,8 +60,20 @@ sections:
   templates:
   - communiques-de-presse
 - type: document
+  path: _data/permanents.yml
+  label: Permanents
+- type: document
+  path: _data/editions.yml
+  label: Livres de la page éditions
+- type: document
   path: _data/cdl.yml
   label: Citoyens du Livre
+- type: document
+  path: _data/pdf_items.yml
+  label: Documents pdf
+- type: document
+  path: _data/pdf_txt_items.json
+  label: Documents pdf avec description et +
 - type: directory
   path: _enlien
   label: En lien

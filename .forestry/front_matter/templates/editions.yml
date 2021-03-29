@@ -1,0 +1,54 @@
+---
+label: Editions
+hide_body: true
+fields:
+- type: field_group_list
+  name: Editions
+  label: Editions
+  fields:
+  - name: categorie
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - collection-voix-de-la-memoire
+      - collection-libres-ecrits
+      - collection-points-d-encrage
+      - collection-a-refaire
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Catégorie
+  - type: boolean
+    name: external
+    label: external
+    default: true
+    hidden: true
+  - type: textarea
+    name: title
+    label: Titre du livre
+  - name: date
+    type: datetime
+    label: Date
+    description: Date utilisée pour l'ordre d'apparition des livres dans chacune catégorie.
+    config:
+      required: false
+      date_format: MM/YYYY
+      time_format: 
+      display_utc: false
+      export_format: YYYYMM
+  - type: text
+    name: author
+    label: Auteur
+  - type: text
+    name: link
+    label: Lien vers le livre sur la boutique en ligne
+  - type: file
+    name: img_src
+    label: Image de la couverture
+    description: 270px de large, jpg
+pages:
+- _data/editions.yml

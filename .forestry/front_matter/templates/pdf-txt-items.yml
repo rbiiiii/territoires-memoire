@@ -1,0 +1,53 @@
+---
+label: pdf txt items
+hide_body: true
+fields:
+- type: field_group_list
+  name: Pdf txt items
+  label: Pdfs
+  fields:
+  - name: categorie
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - expos-itinerantes
+      - outils-pedagogiques
+      - animations-pedagogiques
+      - animations-debats
+      - animations-cine-memoire
+      - formations-pour-adultes
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Catégorie
+  - type: text
+    name: title
+    label: Titre
+  - type: file
+    name: img_src
+    label: Image de couverture
+  - type: file
+    name: pdf_src
+    label: Fichier pdf
+  - type: textarea
+    name: txt
+    label: Petit texte de description
+  - type: field_group_list
+    name: peda
+    label: Documents péda et plus
+    fields:
+    - type: text
+      name: title
+      label: Titre du bouton
+    - name: url
+      type: text
+      config:
+        required: false
+      label: Lien vers la page ou le document
+    description: Boutons en dessous du texte de description
+pages:
+- _data/pdf_txt_items.json

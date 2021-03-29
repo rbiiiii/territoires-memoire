@@ -1,293 +1,368 @@
 [
-	{
-		"title": "Mon ami Paco",
-		"img_src": "pdf-mon_ami_paco.jpg",
-		"pdf_src": "tm-exposition-mon_ami_paco.pdf",
-		"txt":"Cette exposition, tirée du livre éponyme de Luc Baba édité par Les Territoires de la ­Mémoire, aborde de manière artistique l’enfermement arbitraire des personnes migrantes. Vingt-six illustrations, réalisées par Marion Dionnet, permettent aux visiteurs de suivre l’histoire de Paco, un enfant demandeur d’asile.",
-		"categorie": "expos-itinerantes",
-		"peda": [
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/eduquer/tm-exposition-mon_ami_paco-dossier_pedagogique.pdf"
-			}
-		]
-	},
-	{
-		"title": "¡No Pasarán!",
-		"img_src": "pdf-no_pasaran.jpg",
-		"pdf_src": "tm-exposition-no_pasaran.pdf",
-		"txt" : "Découvrez l’une des périodes les plus tragiques de l’Europe Occidentale à travers le regard d’une journaliste vivant les événements au cœur de l’action, symbolisée par une silhouette bleue. À travers l’exposition, les participants découvriront pourquoi il est indispensable de se rassembler, aujourd’hui encore, pour dire « Non ! » au fascisme.",
-		"categorie": "expos-itinerantes",
-		"peda": [
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/eduquer/tm-exposition-no_pasaran-dossier_pedagogique.pdf"
-			},
-			{
-				"title" : "Carnet de visite",
-				"url" : "/assets/pdf/eduquer/tm-exposition-no_pasaran-carnet_de_visite.pdf"
-			}
-		]
-	},
-	{
-		"title": "People Advisory Explicit Music",
-		"img_src": "pdf-people_advisory_explicit_music.jpg",
-		"pdf_src": "tm-exposition-people_advisory_explicit_music.pdf",
-		"txt" : "L’exposition People Advisory Explicit Music propose de vous montrer, à partir d’exemples concrets, comment la censure s’exerce sur le monde musical mais aussi comment celui-ci lui résiste, à travers le temps et l’espace, ainsi qu’à travers les formes. Il n’est pas question ici de bon ou de mauvais goût, mais bien de liberté de parole et d’opinion.",
-		"categorie": "expos-itinerantes",
-		"peda": [
-			{
-				"title" : "Dossier thématique",
-				"url" : "/dossiers/#dossiers-thematiques-cle"
-			},
-			{
-				"title" : "Canevas d'animation",
-				"url" : "/assets/pdf/eduquer/tm-exposition-people_advisory_explicit_music-canevas_d_animation.pdf"
-			},
-			{
-				"title" : "Panneaux d'exposition",
-				"url" : "/assets/pdf/eduquer/tm-exposition-people_advisory_explicit_music-panneaux_d_exposition.pdf"
-			},
-			{
-				"title" : "Les kinos",
-				"url" : "https://vimeo.com/album/3818362"
-			},
-			{
-				"title" : "Playlist Spotify",
-				"url" : "https://embed.spotify.com/?uri=spotify:user:1134133284:playlist:4dipPbNfKEwteq1wEjo2VI"
-			}
-		]
-	},
-	{
-		"title": "Triangle Rouge",
-		"img_src": "pdf-triangle_rouge.jpg",
-		"pdf_src": "tm-exposition-triangle_rouge.pdf",
-		"txt" : "« Résiste ! », c’est l’appel qui est lancé aux visiteurs et qui traverse l’ensemble de l’exposition. Dédié à tous ceux qui, dans les camps de concentration, portaient le triangle rouge, ce message se veut plus large en soulignant l’action de tous les résistants à toutes les formes de tentatives liberticides. L’exposition encourage de façon didactique une attitude de vigilance citoyenne et responsable.",
-		"categorie": "expos-itinerantes",
-		"peda": [
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/eduquer/tm-exposition-triangle_rouge-dossier_pedagogique.pdf"
-			},
-			{
-				"title" : "Pour Mémoire (FR)",
-				"url" : "/assets/pdf/eduquer/tm-exposition-triangle_rouge-pour_memoire.pdf"
-			},
-			{
-				"title" : "Ter Herinnering (NL)",
-				"url" : "/assets/pdf/eduquer/tm-exposition-triangle_rouge-ter_herinnering.pdf"
-			}
-		]
-	},
-	{
-		"title": "Rwanda 94 : comprendre l’incompréhensible",
-		"img_src": "pdf-rwanda_94.jpg",
-		"pdf_src": "tm-exposition-rwanda_94.pdf",
-		"txt": "L’exposition propose de retracer l’histoire du Rwanda depuis l’époque précoloniale jusqu’aux lendemains du génocide des Tutsi au Rwanda. Les repères chronologiques mis à disposition visent à acquérir différentes clés de compréhension sur la mise en place de ce génocide.",
-		"categorie": "expos-itinerantes",
-		"peda": [
-			{
-				"title" : "Carnet de visite",
-				"url" : "/assets/pdf/eduquer/tm-exposition-rwanda_94-carnet_visite.pdf"
-			},
-			{
-				"title" : "Carnet d'accompagnement",
-				"url" : "/assets/pdf/eduquer/tm-exposition-rwanda_94-carnet_accompagnement.pdf"
-			},
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/dossiers/tm-dossiers_pedagogiques-regards_sur_le_genocide_des_tutsi_au_rwanda.pdf"
-			},
-			{
-				"title" : "Activités complémentaires proposées par RCN J&D",
-				"url" : "https://rcn-ong.be/que-faisons-nous/nos-outils-pedagogiques/"
-			}
-		]
-	},
-	{
-		"title": "Poésie insoumise",
-		"img_src": "pdf-poesie_insoumise.jpg",
-		"pdf_src": "tm-exposition-poesie_insoumise.pdf",
-		"txt": "Cette exposition propose un regard sur la poésie, le poème, le poétique dans leur caractère insoumis, en tant que possibles outils de lutte, de refus, de pas de côté, de proposition alternative.",
-		"categorie": "expos-itinerantes",
-		"peda": [
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/dossiers/tm-dossiers_thematiques_cle-poesie_insoumise.pdf"
-			}
-		]
-	},
-	{
-		"title": "Résistances",
-		"img_src": "pdf-resistances.jpg",
-		"pdf_src": "tm-exposition-resistances.pdf",
-		"txt": "Au quotidien, chacun et chacune peut résister, pour défendre ses valeurs, pour s’opposer à une injustice, pour améliorer la société… Mais comment franchir le pas ? Comment s’y prendre ? S’inspirer de ce que d’autres ont fait, ici ou ailleurs, hier comme aujourd’hui, peut nous aider à penser notre engagement et à passer à l’action… telle est la philosophie de cette exposition.",
-		"categorie": "expos-itinerantes",
-		"peda": [
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/dossiers/tm-dossiers_pedagogiques-plus_jamais_ca-prolongement.pdf"
-			},
-			{
-				"title" : "Fresque \"Résistances\"",
-				"url" : "/assets/pdf/dossiers/tm-dossiers_pedagogiques-plus_jamais_ca-fresque.pdf"
-			}
-		]
-	},
-	{
-		"title": "Le jeu Résiste !",
-		"img_src": "pdf-outils-jeu_resiste.jpg",
-		"pdf_src": "",
-		"txt" : "Résiste ! est un jeu de tuiles coopératif à destination des enfants de 9 à 13 ans. Ensemble, les joueurs et joueuses doivent se montrer solidaires pour réinstaurer la démocratie face au parti totalitaire Technomania. Rythmé par des questions-réponses, des défis et un visuel détonnant, le jeu se veut un réel outil pour sensibiliser à la démocratie et à la résistance. Plus d'infos sur <a href=\"https://resiste.be\" target=\"_blank\" rel=\"noopener\">le site web du jeu</a>.<span style=\"display:block;font-size: 87%;text-align: left;line-height: 1.3;margin-top: 0.5em;font-style:italic;\"><img src=\"/assets/images/icons/federation_wallonie_bruxelles.png\" loading=\"lazy\" alt=\"Logo Fédération Wallonie-Bruxelles\" style=\"float:left;margin-right:1em;width:40px\">Avec le soutien de la Fédération Wallonie-Bruxelles - Ministères de l'Education et de l'Egalité des chances</span>",
-		"categorie": "outils-pedagogiques"
-	},
-	{
-		"title": "Regards sur les migrations",
-		"img_src": "pdf-outils-regards_sur_les_migrations.jpg",
-		"pdf_src": "tm-outils-regards_sur_les_migrations.pdf",
-		"txt" : "Cet outil, réalisé en 2011, aborde la question des migrations et s’articule autour d’une approche par compétences. Le dossier, à vocation interdisciplinaire, permet aux personnes enseignantes du degré secondaire supérieur, d’aborder le vaste sujet des migrations via de multiples portes d’entrée thématiques (historique des flux migratoires en Europe, travail sur les préjugés entourant la thématique des migrations, cas particulier de la communauté Roms,...). Prêt à l’emploi, il est constitué de 11 fiches d’activités clé sur porte (questionnaires, photolangage, graphiques, ...).",
-		"categorie": "outils-pedagogiques"
-	},
-	{
-		"title": "Avec ou sans sel",
-		"img_src": "pdf-outils-avec_ou_sans_sel.jpg",
-		"pdf_src": "tm-outils-avec_ou_sans_sel.pdf",
-		"txt" : "Réalisé en 2007 dans le cadre d’un projet sur le racisme mené avec des jeunes issus d’AMO, le classeur pédagogique Avec ou sans sel, destiné à un public de 15 ans et plus, comprend d’une part le DVD du court métrage Avec ou sans sel et d’autre part, un dossier pédagogique d’exploitation du film décliné en trois grandes thématiques : identité, démocratie/citoyenneté et extrême-droite.",
-		"categorie": "outils-pedagogiques"
-	},
-	{
-		"title": "Les vacances de Jules",
-		"img_src": "pdf-outils-les_vacances_de_jules.jpg",
-		"pdf_src": "tm-outils-les_vacances_de_jules.pdf",
-		"txt" : "Ce spectacle de marionnettes destiné à un jeune public (5 à 8 ans) propose une découverte de la citoyenneté, un éveil au respect de l’autre et une initiation à la tolérance.",
-		"categorie": "outils-pedagogiques",
-		"peda": [
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/eduquer/tm-outils-vacances_de_jules-dossier_pedagogique.pdf"
-			}
-		]
-	},
-	{
-		"title": "Mon ami Paco",
-		"img_src": "pdf-mon_ami_paco.jpg",
-		"pdf_src": "",
-		"txt":"Mon ami Paco, est un livre pour enfants, qui aborde les questions de l’immigration, de l’enfermement arbitraire des personnes sans-papiers et de la solidarité. De manière artistique et avec poésie, il permet de susciter le débat autour de : Qu’est-ce qu’une personne réfugiée ? Qu’est-ce qu’un centre fermé ? Comment se déroule une procédure de demande d’asile ? Peut-on réagir ? Si oui, comment ? … ",
-		"categorie": "outils-pedagogiques",
-		"peda": [
-			{
-				"title" : "Exposition itinérante",
-				"url" : "#expositions-itinerantes"
-			},
-			{
-				"title" : "Dossier pédagogique",
-				"url" : "/assets/pdf/eduquer/tm-exposition-mon_ami_paco-dossier_pedagogique.pdf"
-			}
-		]
-	},
-	{
-		"title": "Résiste !",
-		"img_src": "pdf-resiste.jpg",
-		"pdf_src": "tm-animations_pedagogiques-resiste.pdf",
-		"txt" : "Cette animation permet d’approfondir, avec les plus jeunes, le concept de « démocratie » et d’aborder la problématique de la perte des libertés et droits fondamentaux en adoptant un point de vue résolument optimiste empreint de résistance.",
-		"categorie": "animations-pedagogiques"
-	},
-	{
-		"title": "Regards sur les migrations<br><small>préjugés, stéréotypes et discriminations</small>",
-		"img_src": "pdf-animations-regards_sur_les_migrations.jpg",
-		"pdf_src": "tm-animations_pedagogiques-regards_sur_les_migrations.pdf",
-		"txt" : "Regards sur les migrations est un outil « prêt à l’emploi », permettant d’aborder et d’élaborer une réflexion critique sur des questions liées au phénomène des migrations passées, actuelles et futures avec un public de jeunes à partir de 15 ans et plus.",
-		"categorie": "animations-pedagogiques"
-	},
-	{
-		"title": "Avec ou sans sel<br><small>le jeu de l'immeuble</small>",
-		"img_src": "pdf-animations-avec_ou_sans_sel.jpg",
-		"pdf_src": "tm-animations_pedagogiques-avec_ou_sans_sel.pdf",
-		"txt" : "Le jeu de l’immeuble est une animation conçue pour les jeunes de plus de 15 ans. Lors de cette animation, le public est mis en situation de manière à mieux comprendre son propre fonctionnement, de dégager des outils de compréhension de la société actuelle et de penser des pistes d’action et de vigilance.",
-		"categorie": "animations-pedagogiques"
-	},
-	{
-		"title": "Démocratie et politique",
-		"img_src": "pdf-democratie_et_politique.jpg",
-		"pdf_src": "tm-animations_pedagogiques-democratie_et_politique-extreme_droite.pdf",
-		"txt" : "L’objectif de cette animation est tout d’abord d’identifier les principes qui caractérisent les différentes tendances politiques. Après une définition du concept de « démocratie » et l’installation du concept de « politique » dans le cadre d’un régime démocratique, une réflexion sera menée autour des valeurs inhérentes aux différentes tendances politiques.",
-		"categorie": "animations-pedagogiques"
-	},
-	{
-		"title": "Extrême droite",
-		"img_src": "pdf-extreme_droite.jpg",
-		"pdf_src": "tm-animations_pedagogiques-democratie_et_politique-extreme_droite.pdf",
-		"txt" : "L’objectif de cette animation est de déterminer, à travers le discours de l’extrême droite, les différents principes qui la caractérisent afin d’en identifier l’idéologie centrale et originelle. Au terme de ce préambule et sur base d’un photolangage, les caractéristiques de l’idéologie de l’extrême droite seront minutieusement définies, analysées et dissertées dans le cadre d’un débat..",
-		"categorie": "animations-pedagogiques"
-	},
-	{
-		"title": "Rencontres jeunes et politiques",
-		"img_src": "pdf-rencontres_jeunes_et_politiques.jpg",
-		"pdf_src": "tm-animations_debats.pdf",
-		"txt" : "Les rencontres politiques se veulent un moment de discussion libre et ouvertes entre des jeunes et des politiciens. Elles permettent à des primo-votants de 17-18 ans d’appréhender la politique autrement. ",
-		"categorie": "animations-debats"
-	},
-	{
-		"title": "Conférences et témoignages",
-		"img_src": "pdf-conferences_et_temoignages.jpg",
-		"pdf_src": "tm-animations_debats.pdf",
-		"txt" : "Sur demande, les Territoires de la Mémoire vous accompagnent dans l’organisation de conférences et de rencontres. L’association vous met en contact pour un échange entre un rescapé des camps, un spécialiste de la Mémoire, de l’extrême droite ou un témoin du génocide des ­Tutsi.",
-		"categorie": "animations-debats"
-	},
-	{
-		"title": "Monsieur Batignole<br><small>(Gérard Jugnot)</small>",
-		"img_src": "pdf-monsieur_batignole.jpg",
-		"pdf_src": "tm-animations_cine_memoire.pdf",
-		"txt" : "Sous la France occupée de 1942, à Paris, ­Edmond Batignole, un boucher sans histoire, tente de survivre comme tant d’autres. Il peut se laisser entraîner par son entourage et sa lâcheté sur les pentes de l’infamie. Mais il va choisir de lutter pour sauver la vie de Simon, un enfant juif.",
-		"categorie": "animations-cine-memoire"
-	},
-	{
-		"title": "La vague<br><small>(Dennis Gansel)</small>",
-		"img_src": "pdf-la_vague.jpg",
-		"pdf_src": "tm-animations_cine_memoire.pdf",
-		"txt" : "En Allemagne, aujourd’hui. Dans le cadre d’un atelier, un professeur de lycée propose à ses élèves une expérience visant à leur expliquer le fonctionnement d’un régime totalitaire. Commence alors un jeu de rôle grandeur nature, dont les conséquences vont s’avérer tragiques.",
-		"categorie": "animations-cine-memoire"
-	},
-	{
-		"title": "Swing kids<br><small>(Thomas Carter)</small>",
-		"img_src": "pdf-swing_kids.jpg",
-		"pdf_src": "tm-animations_cine_memoire.pdf",
-		"txt" : "À Hambourg, en 1939, deux jeunes passionnés de swing sont contraints de s’enrôler dans les Jeunesses Hitlériennes suite à une mauvaise blague faite à un membre de la Gestapo...",
-		"categorie": "animations-cine-memoire"
-	},
-	{
-		"title": "Das Experiment<br><small>(Oliver Hirschbiegel)</small>",
-		"img_src": "pdf-das_expertiment.jpg",
-		"pdf_src": "tm-animations_cine_memoire.pdf",
-		"txt" : "Afin d’étudier scientifiquement le comportement humain, le professeur Thon enferme vingt volontaires, des hommes ordinaires, dans un univers carcéral. Huit d’entre eux sont désignés pour être les « gardiens », les douze autres étant les « prisonniers ». Progressivement, la situation se détériore, la frontière entre l’expérience et la réalité devient de plus en plus floue.",
-		"categorie": "animations-cine-memoire"
-	},
-	{
-		"title": "Les faussaires<br><small>(Stefan Ruzowitzky)</small>",
-		"img_src": "pdf-les_faussaires.jpg",
-		"pdf_src": "tm-animations_cine_memoire.pdf",
-		"txt" : "Berlin, 1936, Salomon «Sally » Sorowitsch est le roi des faussaires. Juif trahi sous l’Allemagne nazie, il est arrêté par la Gestapo et interné dans le camp de Mauthausen. Mais Sally est vite transféré dans le camp de Sachsenhausen. Les nazis souhaitent qu’il imprime des devises étrangères afin d’affaiblir l’économie des alliés.",
-		"categorie": "animations-cine-memoire"
-	},
-	{
-		"title": "Les stéréotypes, préjugés et discriminations",
-		"img_src": "pdf-eduquer-stereotypes_prejuges_discriminations.jpg",
-		"pdf_src": "tm-formations_pour_adultes.pdf",
-		"txt" : "Ce module a pour objectif d’amener les participant-e-s à acquérir des connaissances et une approche critique vis-à-vis, à la fois, de leurs propres stéréotypes et de ceux largement partagés dans la société, et ce en vue de contrer les discriminations et de favoriser le vivre-ensemble.",
-		"categorie": "formations-pour-adultes"
-	},
-	{
-		"title": "Histoire et Mémoire : Enjeux et perspectives",
-		"img_src": "pdf-histoire_et_memoire-enjeux_et_perspectives.jpg",
-		"pdf_src": "tm-formations_pour_adultes.pdf",
-		"txt" : "Ce module a pour objectif d’outiller les participant-e-s en termes de démarches pédagogiques et de matériel didactique dans le cadre d’une réflexion sur le travail de ­Mémoire aujourd’hui et demain en Belgique.",
-		"categorie": "formations-pour-adultes"
-	},
-	{
-		"title": "Formation aux outils pédagogiques des Territoires de la Mémoire",
-		"img_src": "pdf-formations-avec_ou_sans_sel.jpg",
-		"pdf_src": "tm-formations_pour_adultes.pdf",
-		"txt" : "Cette formation a pour objectif de permettre aux acteurs et actrices du monde de l’éducation de s’approprier au mieux les outils pédagogiques conçus par les Territoires de la Mémoire à leur attention.",
-		"categorie": "formations-pour-adultes"
-	}
+  {
+    "title": "Mon ami Paco",
+    "img_src": "pdf-mon_ami_paco.jpg",
+    "pdf_src": "tm-exposition-mon_ami_paco.pdf",
+    "txt": "Cette exposition, tirée du livre éponyme de Luc Baba édité par Les Territoires de la ­Mémoire, aborde de manière artistique l’enfermement arbitraire des personnes migrantes. Vingt-six illustrations, réalisées par Marion Dionnet, permettent aux visiteurs de suivre l’histoire de Paco, un enfant demandeur d’asile.",
+    "categorie": "expos-itinerantes",
+    "peda": [
+      {
+        "title": "Dossier pédagogique",
+        "url": "/assets/pdf/eduquer/tm-exposition-mon_ami_paco-dossier_pedagogique.pdf",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "¡No Pasarán!",
+    "img_src": "pdf-no_pasaran.jpg",
+    "pdf_src": "tm-exposition-no_pasaran.pdf",
+    "txt": "Découvrez l’une des périodes les plus tragiques de l’Europe Occidentale à travers le regard d’une journaliste vivant les événements au cœur de l’action, symbolisée par une silhouette bleue. À travers l’exposition, les participants découvriront pourquoi il est indispensable de se rassembler, aujourd’hui encore, pour dire « Non ! » au fascisme.",
+    "categorie": "expos-itinerantes",
+    "peda": [
+      {
+        "title": "Dossier pédagogique",
+        "url": "/assets/pdf/eduquer/tm-exposition-no_pasaran-dossier_pedagogique.pdf",
+        "link": ""
+      },
+      {
+        "title": "Carnet de visite",
+        "url": "/assets/pdf/eduquer/tm-exposition-no_pasaran-carnet_de_visite.pdf",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "People Advisory Explicit Music",
+    "img_src": "pdf-people_advisory_explicit_music.jpg",
+    "pdf_src": "tm-exposition-people_advisory_explicit_music.pdf",
+    "txt": "L’exposition People Advisory Explicit Music propose de vous montrer, à partir d’exemples concrets, comment la censure s’exerce sur le monde musical mais aussi comment celui-ci lui résiste, à travers le temps et l’espace, ainsi qu’à travers les formes. Il n’est pas question ici de bon ou de mauvais goût, mais bien de liberté de parole et d’opinion.",
+    "categorie": "expos-itinerantes",
+    "peda": [
+      {
+        "title": "Dossier thématique",
+        "url": "/dossiers/#dossiers-thematiques-cle",
+        "link": ""
+      },
+      {
+        "title": "Canevas d'animation",
+        "url": "/assets/pdf/eduquer/tm-exposition-people_advisory_explicit_music-canevas_d_animation.pdf",
+        "link": ""
+      },
+      {
+        "title": "Panneaux d'exposition",
+        "url": "/assets/pdf/eduquer/tm-exposition-people_advisory_explicit_music-panneaux_d_exposition.pdf",
+        "link": ""
+      },
+      {
+        "title": "Les kinos",
+        "url": "https://vimeo.com/album/3818362",
+        "link": ""
+      },
+      {
+        "title": "Playlist Spotify",
+        "url": "https://embed.spotify.com/?uri=spotify:user:1134133284:playlist:4dipPbNfKEwteq1wEjo2VI",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Triangle Rouge",
+    "img_src": "pdf-triangle_rouge.jpg",
+    "pdf_src": "tm-exposition-triangle_rouge.pdf",
+    "txt": "« Résiste ! », c’est l’appel qui est lancé aux visiteurs et qui traverse l’ensemble de l’exposition. Dédié à tous ceux qui, dans les camps de concentration, portaient le triangle rouge, ce message se veut plus large en soulignant l’action de tous les résistants à toutes les formes de tentatives liberticides. L’exposition encourage de façon didactique une attitude de vigilance citoyenne et responsable.",
+    "categorie": "expos-itinerantes",
+    "peda": [
+      {
+        "title": "Dossier pédagogique",
+        "url": "/assets/pdf/eduquer/tm-exposition-triangle_rouge-dossier_pedagogique.pdf",
+        "link": ""
+      },
+      {
+        "title": "Pour Mémoire (FR)",
+        "url": "/assets/pdf/eduquer/tm-exposition-triangle_rouge-pour_memoire.pdf",
+        "link": ""
+      },
+      {
+        "title": "Ter Herinnering (NL)",
+        "url": "/assets/pdf/eduquer/tm-exposition-triangle_rouge-ter_herinnering.pdf",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Rwanda 94 : comprendre l’incompréhensible",
+    "img_src": "pdf-rwanda_94.jpg",
+    "pdf_src": "tm-exposition-rwanda_94.pdf",
+    "txt": "L’exposition propose de retracer l’histoire du Rwanda depuis l’époque précoloniale jusqu’aux lendemains du génocide des Tutsi au Rwanda. Les repères chronologiques mis à disposition visent à acquérir différentes clés de compréhension sur la mise en place de ce génocide.",
+    "categorie": "expos-itinerantes",
+    "peda": [
+      {
+        "title": "Carnet de visite",
+        "url": "/assets/pdf/eduquer/tm-exposition-rwanda_94-carnet_visite.pdf",
+        "link": ""
+      },
+      {
+        "title": "Carnet d'accompagnement",
+        "url": "/assets/pdf/eduquer/tm-exposition-rwanda_94-carnet_accompagnement.pdf",
+        "link": ""
+      },
+      {
+        "title": "Dossier pédagogique",
+        "url": "/assets/pdf/dossiers/tm-dossiers_pedagogiques-regards_sur_le_genocide_des_tutsi_au_rwanda.pdf",
+        "link": ""
+      },
+      {
+        "title": "Activités complémentaires proposées par RCN J&D",
+        "url": "https://rcn-ong.be/que-faisons-nous/nos-outils-pedagogiques/",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Poésie insoumise",
+    "img_src": "pdf-poesie_insoumise.jpg",
+    "pdf_src": "tm-exposition-poesie_insoumise.pdf",
+    "txt": "Cette exposition propose un regard sur la poésie, le poème, le poétique dans leur caractère insoumis, en tant que possibles outils de lutte, de refus, de pas de côté, de proposition alternative.",
+    "categorie": "expos-itinerantes",
+    "peda": [
+      {
+        "title": "Dossier pédagogique",
+        "url": "/assets/pdf/dossiers/tm-dossiers_thematiques_cle-poesie_insoumise.pdf",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Résistances",
+    "img_src": "pdf-resistances.jpg",
+    "pdf_src": "tm-exposition-resistances.pdf",
+    "txt": "Au quotidien, chacun et chacune peut résister, pour défendre ses valeurs, pour s’opposer à une injustice, pour améliorer la société… Mais comment franchir le pas ? Comment s’y prendre ? S’inspirer de ce que d’autres ont fait, ici ou ailleurs, hier comme aujourd’hui, peut nous aider à penser notre engagement et à passer à l’action… telle est la philosophie de cette exposition.",
+    "categorie": "expos-itinerantes",
+    "peda": [
+      {
+        "title": "Dossier pédagogique",
+        "url": "/assets/pdf/dossiers/tm-dossiers_pedagogiques-plus_jamais_ca-prolongement.pdf",
+        "link": ""
+      },
+      {
+        "title": "Fresque \"Résistances\"",
+        "url": "/assets/pdf/dossiers/tm-dossiers_pedagogiques-plus_jamais_ca-fresque.pdf",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Le jeu Résiste !",
+    "img_src": "pdf-outils-jeu_resiste.jpg",
+    "pdf_src": "",
+    "txt": "Résiste ! est un jeu de tuiles coopératif à destination des enfants de 9 à 13 ans. Ensemble, les joueurs et joueuses doivent se montrer solidaires pour réinstaurer la démocratie face au parti totalitaire Technomania. Rythmé par des questions-réponses, des défis et un visuel détonnant, le jeu se veut un réel outil pour sensibiliser à la démocratie et à la résistance. Plus d'infos sur <a href=\"https://resiste.be\" target=\"_blank\" rel=\"noopener\">le site web du jeu</a>.<span style=\"display:block;font-size: 87%;text-align: left;line-height: 1.3;margin-top: 0.5em;font-style:italic;\"><img src=\"/assets/images/icons/federation_wallonie_bruxelles.png\" loading=\"lazy\" alt=\"Logo Fédération Wallonie-Bruxelles\" style=\"float:left;margin-right:1em;width:40px\">Avec le soutien de la Fédération Wallonie-Bruxelles - Ministères de l'Education et de l'Egalité des chances</span>",
+    "categorie": "outils-pedagogiques",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Regards sur les migrations",
+    "img_src": "pdf-outils-regards_sur_les_migrations.jpg",
+    "pdf_src": "tm-outils-regards_sur_les_migrations.pdf",
+    "txt": "Cet outil, réalisé en 2011, aborde la question des migrations et s’articule autour d’une approche par compétences. Le dossier, à vocation interdisciplinaire, permet aux personnes enseignantes du degré secondaire supérieur, d’aborder le vaste sujet des migrations via de multiples portes d’entrée thématiques (historique des flux migratoires en Europe, travail sur les préjugés entourant la thématique des migrations, cas particulier de la communauté Roms,...). Prêt à l’emploi, il est constitué de 11 fiches d’activités clé sur porte (questionnaires, photolangage, graphiques, ...).",
+    "categorie": "outils-pedagogiques",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Avec ou sans sel",
+    "img_src": "pdf-outils-avec_ou_sans_sel.jpg",
+    "pdf_src": "tm-outils-avec_ou_sans_sel.pdf",
+    "txt": "Réalisé en 2007 dans le cadre d’un projet sur le racisme mené avec des jeunes issus d’AMO, le classeur pédagogique Avec ou sans sel, destiné à un public de 15 ans et plus, comprend d’une part le DVD du court métrage Avec ou sans sel et d’autre part, un dossier pédagogique d’exploitation du film décliné en trois grandes thématiques : identité, démocratie/citoyenneté et extrême-droite.",
+    "categorie": "outils-pedagogiques",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Les vacances de Jules",
+    "img_src": "pdf-outils-les_vacances_de_jules.jpg",
+    "pdf_src": "tm-outils-les_vacances_de_jules.pdf",
+    "txt": "Ce spectacle de marionnettes destiné à un jeune public (5 à 8 ans) propose une découverte de la citoyenneté, un éveil au respect de l’autre et une initiation à la tolérance.",
+    "categorie": "outils-pedagogiques",
+    "peda": [
+      {
+        "title": "Dossier pédagogique",
+        "url": "/assets/pdf/eduquer/tm-outils-vacances_de_jules-dossier_pedagogique.pdf",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Mon ami Paco",
+    "img_src": "pdf-mon_ami_paco.jpg",
+    "pdf_src": "",
+    "txt": "Mon ami Paco, est un livre pour enfants, qui aborde les questions de l’immigration, de l’enfermement arbitraire des personnes sans-papiers et de la solidarité. De manière artistique et avec poésie, il permet de susciter le débat autour de : Qu’est-ce qu’une personne réfugiée ? Qu’est-ce qu’un centre fermé ? Comment se déroule une procédure de demande d’asile ? Peut-on réagir ? Si oui, comment ? … ",
+    "categorie": "outils-pedagogiques",
+    "peda": [
+      {
+        "title": "Exposition itinérante",
+        "url": "#expositions-itinerantes",
+        "link": ""
+      },
+      {
+        "title": "Dossier pédagogique",
+        "url": "/assets/pdf/eduquer/tm-exposition-mon_ami_paco-dossier_pedagogique.pdf",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Résiste !",
+    "img_src": "pdf-resiste.jpg",
+    "pdf_src": "tm-animations_pedagogiques-resiste.pdf",
+    "txt": "Cette animation permet d’approfondir, avec les plus jeunes, le concept de « démocratie » et d’aborder la problématique de la perte des libertés et droits fondamentaux en adoptant un point de vue résolument optimiste empreint de résistance.",
+    "categorie": "animations-pedagogiques",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Regards sur les migrations<br><small>préjugés, stéréotypes et discriminations</small>",
+    "img_src": "pdf-animations-regards_sur_les_migrations.jpg",
+    "pdf_src": "tm-animations_pedagogiques-regards_sur_les_migrations.pdf",
+    "txt": "Regards sur les migrations est un outil « prêt à l’emploi », permettant d’aborder et d’élaborer une réflexion critique sur des questions liées au phénomène des migrations passées, actuelles et futures avec un public de jeunes à partir de 15 ans et plus.",
+    "categorie": "animations-pedagogiques",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Avec ou sans sel<br><small>le jeu de l'immeuble</small>",
+    "img_src": "pdf-animations-avec_ou_sans_sel.jpg",
+    "pdf_src": "tm-animations_pedagogiques-avec_ou_sans_sel.pdf",
+    "txt": "Le jeu de l’immeuble est une animation conçue pour les jeunes de plus de 15 ans. Lors de cette animation, le public est mis en situation de manière à mieux comprendre son propre fonctionnement, de dégager des outils de compréhension de la société actuelle et de penser des pistes d’action et de vigilance.",
+    "categorie": "animations-pedagogiques",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Démocratie et politique",
+    "img_src": "pdf-democratie_et_politique.jpg",
+    "pdf_src": "tm-animations_pedagogiques-democratie_et_politique-extreme_droite.pdf",
+    "txt": "L’objectif de cette animation est tout d’abord d’identifier les principes qui caractérisent les différentes tendances politiques. Après une définition du concept de « démocratie » et l’installation du concept de « politique » dans le cadre d’un régime démocratique, une réflexion sera menée autour des valeurs inhérentes aux différentes tendances politiques.",
+    "categorie": "animations-pedagogiques",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Extrême droite",
+    "img_src": "pdf-extreme_droite.jpg",
+    "pdf_src": "tm-animations_pedagogiques-democratie_et_politique-extreme_droite.pdf",
+    "txt": "L’objectif de cette animation est de déterminer, à travers le discours de l’extrême droite, les différents principes qui la caractérisent afin d’en identifier l’idéologie centrale et originelle. Au terme de ce préambule et sur base d’un photolangage, les caractéristiques de l’idéologie de l’extrême droite seront minutieusement définies, analysées et dissertées dans le cadre d’un débat..",
+    "categorie": "animations-pedagogiques",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Rencontres jeunes et politiques",
+    "img_src": "pdf-rencontres_jeunes_et_politiques.jpg",
+    "pdf_src": "tm-animations_debats.pdf",
+    "txt": "Les rencontres politiques se veulent un moment de discussion libre et ouvertes entre des jeunes et des politiciens. Elles permettent à des primo-votants de 17-18 ans d’appréhender la politique autrement. ",
+    "categorie": "animations-debats",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Conférences et témoignages",
+    "img_src": "pdf-conferences_et_temoignages.jpg",
+    "pdf_src": "tm-animations_debats.pdf",
+    "txt": "Sur demande, les Territoires de la Mémoire vous accompagnent dans l’organisation de conférences et de rencontres. L’association vous met en contact pour un échange entre un rescapé des camps, un spécialiste de la Mémoire, de l’extrême droite ou un témoin du génocide des ­Tutsi.",
+    "categorie": "animations-debats",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Monsieur Batignole<br><small>(Gérard Jugnot)</small>",
+    "img_src": "pdf-monsieur_batignole.jpg",
+    "pdf_src": "tm-animations_cine_memoire.pdf",
+    "txt": "Sous la France occupée de 1942, à Paris, ­Edmond Batignole, un boucher sans histoire, tente de survivre comme tant d’autres. Il peut se laisser entraîner par son entourage et sa lâcheté sur les pentes de l’infamie. Mais il va choisir de lutter pour sauver la vie de Simon, un enfant juif.",
+    "categorie": "animations-cine-memoire",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "La vague<br><small>(Dennis Gansel)</small>",
+    "img_src": "pdf-la_vague.jpg",
+    "pdf_src": "tm-animations_cine_memoire.pdf",
+    "txt": "En Allemagne, aujourd’hui. Dans le cadre d’un atelier, un professeur de lycée propose à ses élèves une expérience visant à leur expliquer le fonctionnement d’un régime totalitaire. Commence alors un jeu de rôle grandeur nature, dont les conséquences vont s’avérer tragiques.",
+    "categorie": "animations-cine-memoire",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Swing kids<br><small>(Thomas Carter)</small>",
+    "img_src": "pdf-swing_kids.jpg",
+    "pdf_src": "tm-animations_cine_memoire.pdf",
+    "txt": "À Hambourg, en 1939, deux jeunes passionnés de swing sont contraints de s’enrôler dans les Jeunesses Hitlériennes suite à une mauvaise blague faite à un membre de la Gestapo...",
+    "categorie": "animations-cine-memoire",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Das Experiment<br><small>(Oliver Hirschbiegel)</small>",
+    "img_src": "pdf-das_expertiment.jpg",
+    "pdf_src": "tm-animations_cine_memoire.pdf",
+    "txt": "Afin d’étudier scientifiquement le comportement humain, le professeur Thon enferme vingt volontaires, des hommes ordinaires, dans un univers carcéral. Huit d’entre eux sont désignés pour être les « gardiens », les douze autres étant les « prisonniers ». Progressivement, la situation se détériore, la frontière entre l’expérience et la réalité devient de plus en plus floue.",
+    "categorie": "animations-cine-memoire",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Les faussaires<br><small>(Stefan Ruzowitzky)</small>",
+    "img_src": "pdf-les_faussaires.jpg",
+    "pdf_src": "tm-animations_cine_memoire.pdf",
+    "txt": "Berlin, 1936, Salomon «Sally » Sorowitsch est le roi des faussaires. Juif trahi sous l’Allemagne nazie, il est arrêté par la Gestapo et interné dans le camp de Mauthausen. Mais Sally est vite transféré dans le camp de Sachsenhausen. Les nazis souhaitent qu’il imprime des devises étrangères afin d’affaiblir l’économie des alliés.",
+    "categorie": "animations-cine-memoire",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Les stéréotypes, préjugés et discriminations",
+    "img_src": "pdf-eduquer-stereotypes_prejuges_discriminations.jpg",
+    "pdf_src": "tm-formations_pour_adultes.pdf",
+    "txt": "Ce module a pour objectif d’amener les participant-e-s à acquérir des connaissances et une approche critique vis-à-vis, à la fois, de leurs propres stéréotypes et de ceux largement partagés dans la société, et ce en vue de contrer les discriminations et de favoriser le vivre-ensemble.",
+    "categorie": "formations-pour-adultes",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Histoire et Mémoire : Enjeux et perspectives",
+    "img_src": "pdf-histoire_et_memoire-enjeux_et_perspectives.jpg",
+    "pdf_src": "tm-formations_pour_adultes.pdf",
+    "txt": "Ce module a pour objectif d’outiller les participant-e-s en termes de démarches pédagogiques et de matériel didactique dans le cadre d’une réflexion sur le travail de ­Mémoire aujourd’hui et demain en Belgique.",
+    "categorie": "formations-pour-adultes",
+    "peda": [
+
+    ]
+  },
+  {
+    "title": "Formation aux outils pédagogiques des Territoires de la Mémoire",
+    "img_src": "pdf-formations-avec_ou_sans_sel.jpg",
+    "pdf_src": "tm-formations_pour_adultes.pdf",
+    "txt": "Cette formation a pour objectif de permettre aux acteurs et actrices du monde de l’éducation de s’approprier au mieux les outils pédagogiques conçus par les Territoires de la Mémoire à leur attention.",
+    "categorie": "formations-pour-adultes",
+    "peda": [
+
+    ]
+  }
 ]

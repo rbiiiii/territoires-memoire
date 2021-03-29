@@ -1,0 +1,73 @@
+---
+label: Permanents
+hide_body: true
+fields:
+- type: field_group_list
+  name: Permanents
+  label: Permanents
+  fields:
+  - name: categorie
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Direction
+      - Direction adjointe - services financiers
+      - Administration
+      - Éditions et Études
+      - Gestion des ressources financières
+      - Pédagogique
+      - Projets
+      - Bibliothèque et Librairie
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Nom du service
+  - name: categorie_slug
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - direction
+      - direction-adjointe-finances
+      - administration
+      - editions-etudes
+      - gestion-ressources-financieres
+      - pedagogique
+      - projets
+      - bibliotheque
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Identifiant du service
+    description: Cela sert à unifier les noms de services dans les traductions étrangères
+  - type: text
+    name: nom
+    label: Prénom et nom
+  - type: text
+    name: titre
+    label: Titre
+    description: 'Ex: Délégué-e ou Coordinateur-trice'
+  - type: text
+    name: tel
+    label: Numéro de tel
+    description: 'Format : 04 232 70 54'
+  - type: list
+    name: email
+    label: Adresse(s) email
+  - name: photo
+    type: text
+    config:
+      required: false
+    label: Nom du fichier photo
+    description: 'Ex: philippe_evrard.jpg. Les photos sont classées dans différents
+      dossiers sur le serveur pour avoir une miniature et une grande version donc
+      vous ne pouvez pas les changer sans faire appel à moi (Robin :))'
+pages:
+- _data/permanents.yml

@@ -1,0 +1,39 @@
+---
+label: Pdf items
+hide_body: true
+fields:
+- type: field_group_list
+  name: Pdf items
+  label: Pdf items
+  fields:
+  - name: categorie
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - voyages-pour-la-memoire-en-europe
+      - journees-pour-la-memoire-en-belgique
+      - dossiers-camps
+      - dossiers-pedagogiques
+      - fiches-thematiques-cle
+      - dossiers-thematiques-cle
+      - alc
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Catégorie
+  - type: text
+    name: title
+    label: Titre du pdf
+  - type: file
+    name: img_src
+    label: Image de la couverture du pdf
+    description: 270px de large, jpg
+  - type: text
+    name: link
+    label: Lien vers le pdf
+pages:
+- _data/pdf_items.yml

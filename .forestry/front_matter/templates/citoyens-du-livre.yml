@@ -21,7 +21,7 @@ fields:
   - type: file
     name: pdf
     label: Fichier pdf
-  - name: contenu_texte
+  - name: txt
     type: textarea
     default: ''
     config:
@@ -32,3 +32,5 @@ fields:
     label: Contenu texte
   config:
     labelField: num
+pages:
+- _data/cdl.yml
