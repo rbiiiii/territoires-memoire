@@ -8,7 +8,7 @@ editor: Dupuis
 col: ''
 year: "2021"
 price: 16,50 €
-book_link: ''
+book_link: 'https://www.dupuis.com/le-spirou-de-christian-durieux/bd/le-spirou-de-christian-durieux-pacific-palace/88288'
 img_src: https://www.territoires-memoire.be/assets/uploads/pacific-palace.jpg
 
 ---
