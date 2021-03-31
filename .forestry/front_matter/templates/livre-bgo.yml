@@ -2,19 +2,10 @@
 label: Livre BGO
 hide_body: false
 fields:
-- name: tag
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - heart
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+- name: heart
+  type: boolean
   label: Coup de coeur ?
+  default: false
 - type: number
   name: version
   label: Version de l'AM
