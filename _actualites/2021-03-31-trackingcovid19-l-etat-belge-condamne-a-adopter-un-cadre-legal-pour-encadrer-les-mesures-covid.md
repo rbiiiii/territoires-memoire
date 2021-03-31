@@ -19,5 +19,14 @@ On pourrait déplorer l’insuffisance démocratique condamnée dans ce dossier,
 
 À suivre, donc. 
 
-
 Le communiqué de presse complet de la Ligue des droits humains : <https://www.liguedh.be/suite-a-laction-introduite-par-la-ligue-des-droits-humains-et-la-liga-voor-mensenrechten-letat-belge-est-condamne-a-adopter-un-cadre-legal-pour-encadrer-les-mesures-covid/>
+
+<!--StartFragment-->
+
+*\#trackingCovid19*  <!--StartFragment-->
+
+*\#BigDataWatch*
+
+<!--EndFragment-->
+
+<!--EndFragment-->
