@@ -29,7 +29,9 @@ pagination:
           <li class="block post-list__item">{%- include am-num-template.html -%}</li>
         {% elsif col == "books" %}
           {% assign book = item %}
-          {%- include book-template.html -%}
+          <li class="block post-list__item block archives-heart__list__item">
+            {%- include pages/books.html -%}
+          </li>
         {% endif %}
       {% endfor %}
     </ul>

@@ -56,7 +56,12 @@ layout: default
             <section class="page-section books-slider" id="biblio">
                 <div class="page-section__content">
                     <h2>La Bibliothèque George Orwell présente</h2>
-                    {%- include pages/books.html version=page.num -%}
+                    <div class="pdf-txt books">
+                        {% assign booksFromNow = site.books | where:'version', page.num %}
+                        {% for book in booksFromNow %}
+                            {%- include pages/books.html -%}
+                        {% endfor %}
+                    </div>
                 </div>
             </section>
         {%- endif -%}
