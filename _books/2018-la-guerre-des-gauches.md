@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 81
 author: Kévin Boucaud-Victoire
 title: La guerre des gauches

@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 88
 author: Thierry Grisar
 title: 'Mai 68, amon nos-ôtes'

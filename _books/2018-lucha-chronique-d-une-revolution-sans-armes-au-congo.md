@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 85
 author: ' Justine Brabant, Annick Kamgang'
 title: 'Lucha : chronique d’une révolution sans armes au Congo'

@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 88
 author: Jacques Tardi
 title: 'Moi René Tardi, prisonnier de guerre au Stalag IIB, tome 3'

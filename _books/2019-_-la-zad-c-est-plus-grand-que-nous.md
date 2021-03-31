@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 90
 author: 'Thomas Azuélos, Simon Rochepeau'
 title: La ZAD c’est plus grand que nous

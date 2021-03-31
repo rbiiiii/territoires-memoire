@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 92
 author: Benoît Ers, Vincent Dugomier
 extra: ''

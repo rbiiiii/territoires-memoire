@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 89
 author: Loïc Verdier et Mathieu Alexandre
 title: La Farce des Hommes-Foudre

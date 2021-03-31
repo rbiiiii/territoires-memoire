@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 78
 author: 'Brigitte Findakly, Lewis Trondheim'
 title: Coquelicots d’Irak

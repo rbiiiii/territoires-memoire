@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 82
 author: 'Marion Mousse, Koza'
 title: La révolte des terres

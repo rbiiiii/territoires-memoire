@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 78
 author: Michel Born (dir.)
 title: >-

@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 92
 author: Nathalie Constans
 extra: ill. d’Anya Belyat-Giunta

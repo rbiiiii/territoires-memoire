@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 86
 author: Charles Manian
 title: Les meilleurs morceaux du mammouth

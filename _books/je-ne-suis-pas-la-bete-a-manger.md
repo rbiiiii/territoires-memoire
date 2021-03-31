@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 93
 author: Nathalie Constans et Anya Belyat-Giunta
 extra: ''

@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 95
 author: Ludivine Bantigny, Déborah Cohen, Boris Gobille (dir.)
 extra: "« La chair du politique » in"

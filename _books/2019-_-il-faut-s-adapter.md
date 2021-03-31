@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 89
 author: Barbara Stiegler
 title: Il faut s’adapter

@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 79
 author: Pierre-Luc Brisson
 title: 'L’âge des démagogues : entretiens avec Chris Hedges'

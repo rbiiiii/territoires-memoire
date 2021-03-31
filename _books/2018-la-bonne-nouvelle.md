@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 85
 author: François Bégaudeau
 title: ' La Bonne Nouvelle'

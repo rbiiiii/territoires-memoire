@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 93
 author: Stéphane François
 extra: ''

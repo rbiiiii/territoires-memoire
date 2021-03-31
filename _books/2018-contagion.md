@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 81
 author: François Bégaudeau
 title: Contagion

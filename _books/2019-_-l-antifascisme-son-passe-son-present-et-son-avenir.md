@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 88
 author: Mark Bray
 title: 'L’antifascisme : son passé, son présent et son avenir'

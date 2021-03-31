@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 76
 author: 'Rose Hanon, Maurice Rosier (préf.)'
 title: Démissions

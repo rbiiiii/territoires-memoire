@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 76
 author: François Bégaudeau
 title: La Devise

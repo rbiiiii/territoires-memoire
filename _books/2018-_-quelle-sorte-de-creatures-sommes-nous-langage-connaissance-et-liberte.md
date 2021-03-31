@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 77
 author: 'Noam Chomsky, Nicolas Calvé'
 title: 'Quelle sorte de créatures sommes-nous ? Langage, connaissance et liberté'

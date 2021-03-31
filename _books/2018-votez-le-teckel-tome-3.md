@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 80
 author: 'Grégory Mardon, Hervé Bourhis'
 title: 'Votez le Teckel, tome 3'

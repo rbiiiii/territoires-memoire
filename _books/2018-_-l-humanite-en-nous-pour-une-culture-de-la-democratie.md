@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 77
 author: Roland de Bodt
 title: 'L’humanité en nous : pour une culture de la démocratie'

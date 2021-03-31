@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 93
 author: Valérie Villieu, Antoine Houcke et Annette Wieviorka (préf.)
 extra: ''

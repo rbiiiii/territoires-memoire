@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 84
 author: The Stealth Group
 title: Le capitalisme à portée de main ou Lettre à un jeune homme (d’affaires)

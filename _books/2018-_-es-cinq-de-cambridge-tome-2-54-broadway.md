@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 79
 author: Neuray et Lemaire
 title: 'es Cinq de Cambridge, tome 2, 54 Broadway'

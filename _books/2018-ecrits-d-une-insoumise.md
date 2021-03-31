@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 84
 author: Voltairine de Cleyre
 extra: ' textes réunis et présentés par Normand Baillargeon et Chantal Santerre'

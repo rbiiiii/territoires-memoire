@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 84
 author: Christian Thuderoz
 title: ' Décider à plusieur'

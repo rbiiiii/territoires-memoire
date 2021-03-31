@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 85
 author: Adeline Regnault
 title: ' À 18 ans demandons l’impossible : mon journal de MAI 68'

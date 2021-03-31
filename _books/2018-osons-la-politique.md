@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 87
 author: Carlie De Hass et Camille Besse
 title: Osons la politique

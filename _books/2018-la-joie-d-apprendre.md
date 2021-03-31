@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 86
 author: >-
   Elisée Reclus, Pierre Kropotkine, Charles Perron, Alexandre Chollier (éd.),  Federico Ferretti (éd.)

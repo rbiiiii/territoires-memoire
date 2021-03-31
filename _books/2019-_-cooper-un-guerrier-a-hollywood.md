@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 88
 author: Florent Silloray
 title: 'Cooper, un guerrier à Hollywood'

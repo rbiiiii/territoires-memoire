@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 86
 author: Sandrine Martin
 title: Le rire de l'ogre

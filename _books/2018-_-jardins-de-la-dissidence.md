@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 78
 author: Jonathan Lethem
 title: Jardins de la dissidence

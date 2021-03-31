@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 83
 author: Angela Davis
 title: >-

@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 80
 author: Pierre Orban
 title: 'Pour avoir de l’espoir, faudrait du temps'

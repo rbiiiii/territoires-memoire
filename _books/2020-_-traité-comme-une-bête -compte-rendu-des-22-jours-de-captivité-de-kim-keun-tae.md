@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 91
 author: Park Kun-Woong
 title: 'Traité comme une bête : compte rendu des 22 jours de captivité de Kim Keun-Tae'

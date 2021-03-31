@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 87
 author: Collectif
 title: 'Redrum : à la lettre contre le fascisme'

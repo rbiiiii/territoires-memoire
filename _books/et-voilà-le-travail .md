@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 92
 author: Daniel Adam, François Houart et la Cie Maritime
 extra: ''

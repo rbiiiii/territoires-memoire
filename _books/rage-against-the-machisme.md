@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 95
 author: Mathilde Larrère
 extra: ''

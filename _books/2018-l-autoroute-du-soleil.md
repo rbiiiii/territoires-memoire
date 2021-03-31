@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 80
 author: Baru
 title: L’autoroute du soleil

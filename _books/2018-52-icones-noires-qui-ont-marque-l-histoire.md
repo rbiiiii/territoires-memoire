@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 86
 author: Jamia Wislon et Andrea Pippins
 title: 52 icônes noires qui ont marqué l'Histoire

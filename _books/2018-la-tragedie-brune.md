@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 85
 author: ' Thomas Cadène et Christophe Gaultier'
 title: La Tragédie brune

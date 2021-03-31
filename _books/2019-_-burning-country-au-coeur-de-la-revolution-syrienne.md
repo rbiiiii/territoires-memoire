@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 88
 author: 'Leïla Al-Shami, Robin Yassin-Kassab'
 title: "Burning country\_: au cœur de la révolution syrienne"

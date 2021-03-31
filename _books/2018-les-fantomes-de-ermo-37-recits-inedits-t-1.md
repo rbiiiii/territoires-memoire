@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 82
 author: ' Bruno Loth'
 title: ' Les fantômes de Ermo, 37 récits inédits, t.1'

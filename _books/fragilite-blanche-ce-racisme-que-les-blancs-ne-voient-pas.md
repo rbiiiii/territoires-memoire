@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 94
 author: Robin DiAngelo
 extra: ''

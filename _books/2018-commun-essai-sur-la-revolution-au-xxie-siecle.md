@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 87
 author: Pierre Dardot et Christian Laval
 title: 'Commun : essai sur la révolution au XXI<sup>e</sup> siècle'

@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 91
 author: Véronique Bergen et Winshluss (ill.)
 extra: ''

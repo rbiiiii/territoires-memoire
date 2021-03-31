@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 87
 author: Emmanuel Dockès
 title: 'Voyage en misarchie : essai pour tout reconstruire'

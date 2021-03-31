@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 89
 author: Aude Mermilliod
 title: Il fallait que je vous le dise

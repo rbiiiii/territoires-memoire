@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 91
 author: Félix Delep et Xavier Dorison
 extra: ''

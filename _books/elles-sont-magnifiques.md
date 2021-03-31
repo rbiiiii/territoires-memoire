@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 92
 author: "«&nbsp;Les Chanceuses&nbsp;» de Solidarité Femmes et le Théâtre des Rues"
 extra: ''

@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 79
 author: Jean Hurstel
 title: >-

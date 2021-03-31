@@ -1,5 +1,5 @@
 ---
-tag: heart
+heart: true
 version: 88
 author: Park Kun-Woong
 title: 'Le livre de Jessie : journal de guerre d’une famille coréenne'
