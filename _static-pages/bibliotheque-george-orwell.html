@@ -131,10 +131,8 @@ class: biblio
     </header>
     <div class="page-section__content">
         <div class="pdf-txt books">
-            {%- assign last_am = site.aide-memoire-numeros | sort: 'num' | reverse -%}
-            {%- assign last_am_num = last_am[0].num -%}
-            {% assign booksFromNow = site.books | where:'version', last_am_num %}
-            {% for book in booksFromNow %}
+            {%- assign booksReversed = site.books | sort: 'version' | reverse -%}
+            {% for book in booksReversed limit:15 %}
                 {%- include pages/books.html -%}
             {% endfor %}
         </div>
