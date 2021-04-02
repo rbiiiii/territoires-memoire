@@ -8,7 +8,6 @@
   photo: philippe_evrard.jpg
   categorie: Direction
   categorie_slug: direction
-  identifiant_du_service: ''
 - nom: Jean-Paul Gimenne
   titre: Directeur adjoint
   tel: 04 232 70 47 / 0497 49 55 77
@@ -17,7 +16,6 @@
   photo: jean-paul_gimenne.jpg
   categorie: Direction adjointe - services financiers
   categorie_slug: direction-adjointe-finances
-  identifiant_du_service: ''
 - nom: Régine Fassotte
   titre: Déléguée
   tel: 04 232 70 69
@@ -26,7 +24,6 @@
   photo: regine_fassotte.jpg
   categorie: Administration
   categorie_slug: administration
-  identifiant_du_service: ''
 - nom: Julien Paulus
   titre: Coordinateur
   tel: 04 250 99 45
@@ -35,7 +32,6 @@
   photo: julien_paulus.jpg
   categorie: Éditions et Études
   categorie_slug: editions-etudes
-  identifiant_du_service: ''
 - nom: Déborah Colombini
   titre: Déléguée
   tel: 04 232 70 63
@@ -44,7 +40,6 @@
   photo: deborah_colombini.jpg
   categorie: Éditions et Études
   categorie_slug: editions-etudes
-  identifiant_du_service: ''
 - nom: Gaelle Henrard
   titre: Déléguée
   tel: 04 232 70 68
@@ -53,7 +48,6 @@
   photo: gaelle_henrard.jpg
   categorie: Éditions et Études
   categorie_slug: editions-etudes
-  identifiant_du_service: ''
 - nom: Stéphanie Reynders
   titre: Coordinatrice
   tel: 04 232 70 06
@@ -62,7 +56,6 @@
   photo: stephanie_reynders.jpg
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
-  identifiant_du_service: ''
 - nom: Lionel Cassart
   titre: Délégué
   tel: 04 230 70 67
@@ -70,17 +63,7 @@
   - lionelcassart@territoires-memoire.be
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
-  identifiant_du_service: ''
-  photo: ''
-- nom: Constance Marée
-  titre: Déléguée
-  tel: 04 230 70 42
-  email:
-  - constancemaree@territoires-memoire.be
-  photo: constance_maree.jpg
-  categorie: Gestion des ressources financières
-  categorie_slug: gestion-ressources-financieres
-  identifiant_du_service: ''
+  photo: 'lionel_cassart.jpg'
 - nom: Nicolas Kurevic
   titre: Coordinateur
   tel: 04 232 70 03
@@ -89,7 +72,6 @@
   photo: nicolas_kurevic.jpg
   categorie: Pédagogique
   categorie_slug: pedagogique
-  identifiant_du_service: ''
 - nom: Clara Derhet
   titre: Déléguée
   tel: 04 250 99 58
@@ -98,7 +80,6 @@
   photo: clara_derhet.jpg
   categorie: Pédagogique
   categorie_slug: pedagogique
-  identifiant_du_service: ''
 - nom: Anne-Sophie Leprince
   titre: Déléguée
   tel: 04 232 70 67
@@ -107,7 +88,6 @@
   photo: anne-sophie_leprince.jpg
   categorie: Pédagogique
   categorie_slug: pedagogique
-  identifiant_du_service: ''
 - nom: Julie Ricard
   titre: Déléguée
   tel: 04 250 99 43
@@ -116,7 +96,6 @@
   photo: julie_ricard.jpg
   categorie: Pédagogique
   categorie_slug: pedagogique
-  identifiant_du_service: ''
 - nom: Djamila Zilles
   titre: Déléguée
   tel: 04 230 70 41
@@ -125,7 +104,6 @@
   photo: djamila_zilles.jpg
   categorie: Pédagogique
   categorie_slug: pedagogique
-  identifiant_du_service: ''
 - nom: Philippe Tomczyk
   titre: Coordinateur
   tel: 04 232 70 08
@@ -134,7 +112,6 @@
   photo: philippe_tomczyk.jpg
   categorie: Projets
   categorie_slug: projets
-  identifiant_du_service: ''
 - nom: Cédric Boonen
   titre: Délégué
   tel: 04 250 99 41
@@ -143,7 +120,6 @@
   photo: cedric_boonen.jpg
   categorie: Projets
   categorie_slug: projets
-  identifiant_du_service: ''
 - nom: Catherine Delhasse
   titre: Déléguée
   tel: 04 250 99 53
@@ -152,7 +128,6 @@
   photo: catherine_delhasse.jpg
   categorie: Projets
   categorie_slug: projets
-  identifiant_du_service: ''
 - nom: Julie Mignolet
   titre: Déléguée
   tel: 04 232 70 02
@@ -161,7 +136,6 @@
   photo: julie_mignolet.jpg
   categorie: Projets
   categorie_slug: projets
-  identifiant_du_service: ''
 - nom: Michel Recloux
   titre: Coordinateur
   tel: 04 232 70 62
@@ -170,7 +144,6 @@
   photo: michel_recloux.jpg
   categorie: Bibliothèque et Librairie
   categorie_slug: bibliotheque
-  identifiant_du_service: ''
 - nom: Jérôme Delnooz
   titre: Délégué
   tel: 04 250 99 55
@@ -179,7 +152,6 @@
   photo: jerome_delnooz.jpg
   categorie: Bibliothèque et Librairie
   categorie_slug: bibliotheque
-  identifiant_du_service: ''
 - nom: Tamara Hannay
   titre: Déléguée librairie Stéphane Hessel
   tel: 04 250 99 40
@@ -188,4 +160,11 @@
   photo: tamara_hannay.jpg
   categorie: Bibliothèque et Librairie
   categorie_slug: bibliotheque
-  identifiant_du_service: ''
+- nom: Louise Jeanne
+  titre: Déléguée
+  tel: 04 232 70 62
+  email:
+  - louisejeanne@territoires-memoire.be
+  photo: ''
+  categorie: Bibliothèque et Librairie
+  categorie_slug: bibliotheque
