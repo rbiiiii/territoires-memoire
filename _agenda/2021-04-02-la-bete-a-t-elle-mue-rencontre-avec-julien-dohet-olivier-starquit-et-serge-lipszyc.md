@@ -21,13 +21,11 @@ Les Territoires de la Mémoire vous convient à une rencontre avec Julien Dohet
 
 En Europe et en Amérique latine, l’extrême droite est en augmentation significative. De manière concomitante et avec l’aide des réseaux sociaux, son discours a gagné du terrain. L’extrême droite, rebaptisée ou non, peut prétendre à l’exercice du pouvoir.
 
-Partant d’un panorama historique, l’ouvrage La Bête a-t-elle mué ? montre, à travers les décennies, la cohérence de son développement, de son corpus idéologique et de sa vision de la société. Il évoque ensuite les changements – réels ou non – survenus au tournant des années 2000. Et s’interroge enfin sur les réactions à adopter, en portant une attention particulière à l’usage des mots et à l’importance des solidarités effectives.
+Partant d’un panorama historique, l’ouvrage *La Bête a-t-elle mué ?* montre, à travers les décennies, la cohérence de son développement, de son corpus idéologique et de sa vision de la société. Il évoque ensuite les changements – réels ou non – survenus au tournant des années 2000. Et s’interroge enfin sur les réactions à adopter, en portant une attention particulière à l’usage des mots et à l’importance des solidarités effectives.
 
 L’extrême droite n’est forte que parce que nous sommes faibles. Plus que jamais, au nom des Lumières, il faut aller au combat pour préserver nos démocraties.
 
 Pour un avant-goût de la rencontre, retrouvez l’entretien avec les deux auteurs dans le dernier numéro d’Aide-Mémoire (Plus que jamais, nom d’un chien !, p. 7)
-
-
 
 **Les intervenants :**
 
@@ -39,12 +37,6 @@ Militant en terre liégeoise, **Olivier Starquit** est le directeur des services
 
 **Julien Paulus** est rédacteur en chef de la Revue Aide-Mémoire des Territoires de la Mémoire.
 
-
-
 *Une rencontre en partenariat avec la librairie Stéphane Hessel de La Cité Miroir.*
-
-
-
-
 
 <!--EndFragment-->
