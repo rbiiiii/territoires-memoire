@@ -5,4 +5,4 @@ posted_on: 2021-03-22
 link: https://www.territoires-memoire.be/actualites/2021/03/de-la-parole-aux-actes-halte-a-la-haine-sur-nos-reseaux/
 img_file: /assets/uploads/de-la-parole-aux-actes-visuel-essai.jpg
 ---
-L’histoire nous l’enseigne : la libération des discours de haine précède la violence.
+L’histoire nous l’enseigne : la libération des discours de haine précède la violence. Que ce soit dans des médias généralistes ou sur les réseaux sociaux, la parole haineuse se libère. Et l’histoire ayant l’habitude de se répéter, nous pouvons craindre une augmentation des actes violents [...]
