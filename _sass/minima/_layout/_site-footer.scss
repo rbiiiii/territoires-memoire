@@ -141,10 +141,18 @@ a.site-footer__list-link {
 
     &:hover, &:focus {
       opacity:1;  
+
+      .top-link__color {
+        fill:$rouge-tm;
+      }
     }
   }
 }
 
 #top-link__arrow {
   transition:transform 150ms; 
+}
+
+.top-link__color {
+  transition: fill 150ms;
 }
