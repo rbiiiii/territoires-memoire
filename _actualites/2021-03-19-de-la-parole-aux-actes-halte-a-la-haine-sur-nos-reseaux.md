@@ -8,6 +8,8 @@ posted_on: 2021-03-19
 ---
 ## L’histoire nous l’enseigne : la libération des discours de haine précède la violence.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qvaIkMHzzGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Que ce soit dans des médias généralistes ou sur les réseaux sociaux, la parole haineuse se libère. Et l’histoire ayant l’habitude de se répéter, nous pouvons craindre une augmentation des actes violents contre certaines catégories de la population arbitrairement pointées du doigt. Des actes commis, comme par le passé, par des individus, des groupements, des institutions même. **Des actes que certains trouvent déjà normaux, légitimes : ils ne sont que la suite logique des discours banalisés pendant des années.**
 
 En acceptant la diffusion des discours de haine, en y participant parfois, nous banalisons cette haine. Nous la rendons acceptable.
@@ -52,5 +54,3 @@ Chaque année, Unia recense une augmentation des signalements relatifs à des fa
 Les Territoires de la Mémoire sont un centre d'éducation à la résistance et à la citoyenneté créé par d'anciens prisonniers politiques rescapés des camps nazis. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l'association développe diverses initiatives qui transmettent le passé et encouragent l'implication de toutes et tous dans la construction d'une société démocratique garante des libertés fondamentales. 
 
 *On ne combat pas le racisme et les discriminations comme on plâtre un bras : en agissant une seule fois. On le combat comme on se brosse les dents : un peu tous les jours jusqu'au bout.*
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qvaIkMHzzGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
