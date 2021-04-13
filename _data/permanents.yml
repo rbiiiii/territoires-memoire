@@ -56,14 +56,14 @@
   photo: stephanie_reynders.jpg
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
-- nom: Lionel Cassart
+- nom: Anthony Jacob
   titre: Délégué
-  tel: 04 230 70 67
+  tel: 04 230 70 42
   email:
-  - lionelcassart@territoires-memoire.be
+  - anthonyjacob@territoires-memoire.be
   categorie: Gestion des ressources financières
   categorie_slug: gestion-ressources-financieres
-  photo: 'lionel_cassart.jpg'
+  photo: ''
 - nom: Nicolas Kurevic
   titre: Coordinateur
   tel: 04 232 70 03
