@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: Ce 29 avril 2021, Paul Brusson aurait fêté ses 100 ans.
-img_file: /assets/uploads/paul-brusson-cal-04.jpg
+img_file: /assets/uploads/visuel_site_100anspaul.jpg
 posted_on: 2021-04-27
 ---
 Paul Brusson est né à Ougrée le 29 avril 1921, il y a donc 100 ans. Cet anniversaire est l’occasion de lui rendre un vibrant hommage.
