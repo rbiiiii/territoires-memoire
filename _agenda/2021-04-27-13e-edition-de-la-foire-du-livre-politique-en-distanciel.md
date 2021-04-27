@@ -4,8 +4,8 @@ categories: agenda
 title: 13e édition de la Foire du livre politique - en distanciel
 date_start: 2021-05-21
 date_stop: 2021-05-21
-hour: 11:00
-img_file: /assets/uploads/179204319_2930695437144330_4217533598040449163_n.jpg
+hour: 11h
+img_file: /assets/uploads/livrepolitique2021.jpg
 place: En ligne
 price: Gratuit
 schedule: >-
