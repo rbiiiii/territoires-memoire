@@ -6,7 +6,7 @@ date_start: 2021-05-21
 date_stop: 2021-05-21
 hour: 11:00
 img_file: /assets/uploads/179204319_2930695437144330_4217533598040449163_n.jpg
-place: Place Xavier-Neujean
+place: En ligne
 price: Gratuit
 schedule: >-
   De 11h à 22h.
