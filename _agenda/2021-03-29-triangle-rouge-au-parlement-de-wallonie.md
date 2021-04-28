@@ -2,7 +2,7 @@
 layout: post
 categories: agenda
 title: Triangle Rouge au Parlement de Wallonie
-date_start: 2021-05-04
+date_start: 2021-05-06
 date_stop: 2021-05-30
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: Parlement de Wallonie
@@ -10,8 +10,7 @@ address: Rue Notre-Dame 1, 5000 Namur
 price: Gratuit
 tags:
   - Exposition
-schedule: |
-  Accessible au public du 4 mai au 30 mai 2021 de 9h à 17h
+schedule: Accessible au public du 6 mai au 30 mai 2021 de 9h à 17h
 booking: ""
 practical: Dans la Galerie de verre du bâtiment Saint-Gilles, Rue Notre-Dame 1, 5000 Namur
 ---
