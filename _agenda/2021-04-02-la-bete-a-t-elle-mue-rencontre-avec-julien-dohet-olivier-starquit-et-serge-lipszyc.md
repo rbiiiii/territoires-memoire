@@ -5,15 +5,14 @@ title: La Bête a-t-elle mué ? - Rencontre avec Julien Dohet, Olivier Starquit 
   Serge Lipszyc
 date_start: 2021-05-06
 date_stop: ""
-hour: 18h
+hour: 20h
 img_file: /assets/uploads/20210506_tdlm_centredoc_labeteatellemue_visuelsweb_sitetm_1240x480.jpg
-place: La Cité Miroir
-address: boulevard de la Sauvenière 33-35. 4000 Liège
+place: https://fb.me/e/4XQyAA1Uk
+address: ""
 price: Gratuit
 tags:
   - Rencontre Auteurs & Compagnie
-booking: "Réservation souhaitée :
-  [reservation@citemiroir.be](mailto:reservation@citemiroir.be) - 04 230 70 50"
+booking: ""
 practical: "[bibliotheque@territoires-memoire.be](mailto:bibliotheque@territoir\
   es-memoire.be) - 04 232 70 62"
 ---
@@ -25,7 +24,9 @@ Partant d’un panorama historique, l’ouvrage *La Bête a-t-elle mué ?* montr
 
 L’extrême droite n’est forte que parce que nous sommes faibles. Plus que jamais, au nom des Lumières, il faut aller au combat pour préserver nos démocraties.
 
-Pour un avant-goût de la rencontre, retrouvez l’entretien avec les deux auteurs dans le dernier numéro d’Aide-Mémoire (Plus que jamais, nom d’un chien !, p. 7)
+Pour un avant-goût de la rencontre, retrouvez l’entretien avec les deux auteurs dans le dernier numéro d’Aide-Mémoire (Plus que jamais, nom d’un chien !, p. 7)\
+\
+Rendez-vous ce jeudi 6 à 20h sur https://fb.me/e/4XQyAA1Uk 
 
 **Les intervenants :**
 
