@@ -1,0 +1,43 @@
+---
+label: Événement
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date_start
+  label: date_start
+- type: text
+  name: date_stop
+  label: date_stop
+- type: text
+  name: hour
+  label: hour
+- type: file
+  name: img_file
+  label: img_file
+- type: text
+  name: place
+  label: place
+- type: text
+  name: address
+  label: address
+- type: text
+  name: price
+  label: price
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: booking
+  label: booking
+- type: text
+  name: practical
+  label: practical
