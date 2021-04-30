@@ -36,7 +36,7 @@ fields:
 - type: text
   name: hour
   label: Heure de l'événement
-  description: Uniquement pour les événements d'une seul journée
+  description: Uniquement pour les événements d'une seule journée.
 - type: file
   name: img_file
   label: Illustration de l'événement
