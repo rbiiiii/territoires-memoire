@@ -14,8 +14,10 @@ sections:
 - type: directory
   path: _agenda
   label: Agenda
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - evenement
 - type: directory
   path: _focus
   label: Focus
