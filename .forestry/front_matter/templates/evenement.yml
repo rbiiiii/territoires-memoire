@@ -1,0 +1,100 @@
+---
+label: Événement
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
+  name: categories
+  label: categories
+  hidden: true
+  default: agenda
+- type: text
+  name: title
+  label: Titre de l'événement
+  config:
+    required: true
+- type: datetime
+  name: date_start
+  label: Date de début
+  config:
+    export_format: YYYY-MM-DD
+    date_format: MM/DD/YYYY
+    required: true
+- name: date_stop
+  type: datetime
+  label: Date de fin
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYY
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+- type: text
+  name: hour
+  label: Heure de l'événement
+  description: Uniquement pour les événements d'une seule journée.
+- type: file
+  name: img_file
+  label: Illustration de l'événement
+  description: 'Format: 1240x480 jpg'
+- type: text
+  name: place
+  label: Adresse affichée
+  description: 'Champ libre pour écrire l''adresse. Aucun format obligatoire, on peut
+    même ajouter ici des indications comme par ex: "derrière la salle de la jeunesse"'
+- type: text
+  name: address
+  label: Adresse google maps
+  description: Faire la recherche de l'adresse dans google maps et copier coller l'adresse
+    que google maps renvoie.
+- type: text
+  name: price
+  label: Prix
+  description: Version courte, visible en haut de l'événement, dans le cadre bleu.
+- type: list
+  name: tags
+  label: Tags
+  description: 'Ex: Concert, Pose de plaque, Conférence, etc..'
+- name: schedule
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Horaire
+  description: Champ détaillé dans la colonne de droite.
+- name: entrance
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Prix d'entrée (version détaillée)
+  description: Champ détaillé dans la colonne de droite.
+- name: booking
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Réservation
+  description: Champ détaillé dans la colonne de droite.
+- name: practical
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Plus d'infos pratiques
