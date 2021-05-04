@@ -3,7 +3,7 @@ layout: post
 categories: agenda
 title: "Citoyens du Livre #32 : la police"
 date_start: 2021-06-23
-date_stop: 2021-06-23
+date_stop: ""
 hour: 17h
 img_file: /assets/uploads/arrestation-de-ravachol_web.jpg
 place: A l'Espace rencontres de la Bibliothèque George Orwell des Territoires de
