@@ -4,7 +4,7 @@ categories: agenda
 title: La Bête a-t-elle mué ? - Rencontre avec Julien Dohet, Olivier Starquit et Serge
   Lipszyc
 date_start: 2021-05-06
-date_stop: 
+date_stop: ""
 hour: 20h
 img_file: "/assets/uploads/20210506_tdlm_centredoc_labeteatellemue_visuelsweb_sitetm_1240x480.jpg"
 place: https://fb.me/e/4XQyAA1Uk

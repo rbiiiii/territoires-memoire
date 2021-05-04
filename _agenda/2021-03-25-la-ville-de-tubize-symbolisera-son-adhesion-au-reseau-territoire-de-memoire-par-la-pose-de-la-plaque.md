@@ -4,7 +4,7 @@ categories: agenda
 title: La Ville de Tubize symbolisera son adhésion au réseau Territoire de Mémoire
   par la pose de la plaque
 date_start: 2021-05-08
-date_stop: 
+date_stop: ""
 hour: 10h
 img_file: "/assets/uploads/20170125-provinces-territoire-de-memoire.jpg"
 place: En direct sur facebook
