@@ -39,6 +39,8 @@ collections:
   agenda:
     output: true
     permalink: /agenda/:year/:month/:title/
+    values:
+     date_stop: ""
   secondary-pages:
     output: true
     layout: secondary-page
