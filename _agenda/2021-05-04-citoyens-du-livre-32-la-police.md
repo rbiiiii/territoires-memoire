@@ -11,11 +11,9 @@ place: A l'Espace rencontres de la Bibliothèque George Orwell des Territoires d
 address: Place Xavier Neujean
 price: Libre
 schedule: |-
-  
+  17h : visite de l'exposition
 
-  17h : exposition à 17h
-
-  18h : rencontre
+  18h : rencontre des Citoyen·ne·s du livre
 booking: |-
   Réservation obligatoire :\
   bibliotheque@territoires-memoire.be ou au 0032 (0) 4 232 70 62.
