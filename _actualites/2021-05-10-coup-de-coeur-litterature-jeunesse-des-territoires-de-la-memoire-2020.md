@@ -3,7 +3,7 @@ layout: post
 published: true
 categories: actualites
 title: Coup de Cœur Littérature Jeunesse des Territoires de la Mémoire - 2020
-img_file: /assets/uploads/couddecoeur_2021.jpg
+img_file: /assets/uploads/couddecoeur_2020.jpg
 posted_on: 2021-05-10
 ---
 Première édition du Coup de Cœur Littérature Jeunesse des Territoires de la Mémoire. Un coup de cœur éminemment politique par notre choix de récompenser des textes et des images qui sont des dénonciations, des revendications, des propositions, des cris, des visions pour un monde meilleur et plus juste. La liberté ne se reçoit pas, elle se prend, à n’importe quel âge. 
