@@ -8,7 +8,7 @@ posted_on: 2021-05-10
 ---
 Résister à l’extrême droite d’ici aux élections de 2024. Comment ?
 
-Les Territoires de la Mémoire vous conviaient ce 6 mai 2021 à une rencontre en ligne avec Serge Lipszyc, président du Comité permanent de contrôle des services de renseignements, et Julien Dohet et Olivier Starquit, auteurs de l’ouvrage La Bête a-t-elle mué ? paru dans la collection « Liberté j’écris ton nom » du Centre d’Action Laïque.
+Les Territoires de la Mémoire vous conviaient ce 6 mai 2021 à une rencontre en ligne avec Serge Lipszyc, président du Comité permanent de contrôle des services de renseignements, Julien Dohet et Olivier Starquit, auteurs de l’ouvrage La Bête a-t-elle mué ? paru dans la collection « Liberté j’écris ton nom » du Centre d’Action Laïque.
 
 **L’extrême droite a-t-elle changé ?** 
 « Elle ne parle plus aujourd'hui de race, elle parle de culture, mais on voit qu'il s'agit d’une culture racialisée » (Julien Dohet).
