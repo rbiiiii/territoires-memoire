@@ -29,6 +29,8 @@ Le prix sera décerné pendant la Foire du livre politique le vendredi 21 mai à
 
 **Présentation des ouvrages**
 
+**\-**
+
 1. *J’ai vu un magnifique oiseau* de Michal Skibinski et Ala Bankroft (Albin Michel Jeunesse, 2020)
 
 ![](/assets/uploads/01-j-ai-vu-un-oiseau-magnifique_web.jpg)
@@ -36,7 +38,9 @@ Le prix sera décerné pendant la Foire du livre politique le vendredi 21 mai à
 La vie d’un enfant polonais pendant les deux mois d’été 1939. Une phrase par jour du15.7.1939 au 14.9.1939, des promenades dans la campagne au retour à Varsovie, d’un bel oiseau aux bombardements allemands, des phrases simples mais qui prennent une dimension tragique dans le contexte de la Seconde guerre mondiale. Les splendides peintures d’Alan Bankroft, très contemplatives, nous invitent à nous plonger dans nos propres souvenirs de vacances, verts et lumineux ou sombres et orageux.
 Un petit complément permet d’en savoir plus sur Michal Skinbinski et du contexte dans lequel furent écrit ces lignes quotidiennes.
 
-<https://www.albin-michel.fr/ouvrages/jai-vu-un-magnifique-oiseau-9782226451231>
+<https://www.albin-michel.fr/ouvrages/jai-vu-un-magnifique-oiseau-9782226451231>\
+\
+**\-**
 
 2. *Tu t’appelleras Lapin* de Marine Schneider (Versant Sud, 2020)
 
@@ -45,7 +49,9 @@ Un petit complément permet d’en savoir plus sur Michal Skinbinski et du conte
 Quel étrange mystère ?! Un lapin géant, semblant mort, est couché au travers du village. Comment vont réagir les habitants ? Belette, petite fille de 7 ans, débrouillarde voudra s’en faire un ami et il sera terrain de jeux pour les enfants. Tandis que les adultes, eux, voudront s’en débarrasser mais trop grand et trop lourd, il restera là sans bouger. Il disparaîtra comme il est apparu, probablement la nuit.
 Face à l’étrangeté, nos réactions sont toutes différentes. L’accepter, cela peut être difficile, mais c’est nécessaire. A travers ce récit poétique illustré tout en finesse, Marine Schneider délivre en toile de fond un message d’ouverture puissant qui ne laissera pas indifférent.
 
-<https://www.versant-sud.com/jeunesse/livre/tu-tappelleras-lapin/>
+<https://www.versant-sud.com/jeunesse/livre/tu-tappelleras-lapin/>\
+\
+**\-**
 
 3. *Ma maman est bizarre* de Camille Victorine et Wanda Gogusey (La Ville Brûle, 2020)
 
@@ -55,7 +61,9 @@ Face à l’étrangeté, nos réactions sont toutes différentes. L’accepter, 
 Avec naïveté, une fille parle de sa maman, de ses amiEs, de sa vie, de son corps. De cette mère qui semble bizarre à sa copine Rose. Bizarre car sa vie est engagée, enjouée, tatouée et, enfin de compte, libérée.
 Tout le monde doit avoir le droit de vivre sa vie, comme il, et surtout, elle l’entend. Pouvoir être cheffe, s’habiller comme on veut, aimer qui on veut. Ce livre est une petite perle insoumise. 
 
-[https://www.lavillebrule.com/catalogue/ma-maman-est-bizarre,140 ](https://www.lavillebrule.com/catalogue/ma-maman-est-bizarre,140)
+[https://www.lavillebrule.com/catalogue/ma-maman-est-bizarre,140 ](https://www.lavillebrule.com/catalogue/ma-maman-est-bizarre,140)\
+\
+**\-**
 
 4. *Julian est une sirène* de Jessica Love (Ecole des loisirs, 2020)
 
@@ -69,7 +77,9 @@ Cet album aborde la problématique du genre sans en avoir l’air, de la normali
 
 <https://www.ecoledesloisirs.fr/livre/julian-est-sirene>  
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+**\-**
 
 5. *Le dictateur* de Ximo Abadia (La joie de lire, 2020)
 
@@ -81,7 +91,9 @@ Son titre original est *Frank*, plus proche du prénom Franco dont il est questi
 
 [https://www.lajoiedelire.ch/livre/le-dictateur/ ](https://www.lajoiedelire.ch/livre/le-dictateur/)
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+**\-**
 
 6. *Les oiseaux ont un roi* de Thierry Dedieu (Seuil jeunesse, 2020)
 
@@ -95,7 +107,9 @@ Un pinson, qui se prend pour un petit Socrate ou un bouffon à plume ou un oisea
 
 <http://www.seuiljeunesse.com/ouvrage/les-oiseaux-ont-un-roi-thierry-dedieu/9791023515268>
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+**\-**
 
 7. *Les grandes grandes vacances* de Gwénaëlle Boulet et Pascale Hédelin (BD kids, 2020)
 
@@ -107,7 +121,9 @@ Des enfants dans la guerre. Une série en bande dessinée sur la vie de Colette 
 
 [https://www.bd-kids.com/les-heros/les-grandes-grandes-vacances  ](https://www.bd-kids.com/les-heros/les-grandes-grandes-vacances)
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+**\-**
 
 8. *Un peu beaucoup* d’Olivier Tallec (École des loisirs - Pastel, 2020)
 
@@ -119,7 +135,9 @@ Un écureuil comme métaphore du capitalisme, il dit « c’est fragile un arbre
 
 <https://www.ecoledesloisirs.fr/livre/peu-beaucoup>
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+**\-**
 
 9. *Migrants* d’Issa Watanabe (La Joie de lire, 2020)
 
@@ -132,7 +150,9 @@ Le voyage de ces animaux anthropomorphes n’est rien d’autre qu’une métaph
 
 [https://www.lajoiedelire.ch/livre/migrants/ ](https://www.lajoiedelire.ch/livre/migrants/)
 
-<!--EndFragment-->
+<!--EndFragment-->\
+\
+**\-**
 
 10. *Les enfants de la résistance* de Benoît Ers et Vincent Dugomier (Le Lombard, 2020)
 
