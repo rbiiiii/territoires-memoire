@@ -14,6 +14,8 @@ Le comité de lecture est composé de permanentEs des Territoires de la Mémoire
 
 Le prix sera décerné pendant la Foire du livre politique le vendredi 21 mai à 14h30. [Programme](http://lafoiredulivre.net/wp-content/uploads/2021/05/Programme-couleur-printemps-2021.pdf)
 
+
+
 **Les titres en lice sont :** 
 
 1. *J’ai vu un magnifique oiseau* de Michal Skibinski et Ala Bankroft (Albin Michel Jeunesse, 2020)
