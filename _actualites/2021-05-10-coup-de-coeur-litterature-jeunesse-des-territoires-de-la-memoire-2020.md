@@ -51,7 +51,7 @@ Face à l’étrangeté, nos réactions sont toutes différentes. L’accepter, 
 
 ![](/assets/uploads/03-ma-mere-est-bizarre_web.jpg)
 
-Une famille monoparentale, une mère féministe aussi libre que fantaisiste, une enfant qui grandit entourée d’adultes hors normes mais bienveillants... 
+*Une famille monoparentale, une mère féministe aussi libre que fantaisiste, une enfant qui grandit entourée d’adultes hors normes mais bienveillants...* 
 Avec naïveté, une fille parle de sa maman, de ses amiEs, de sa vie, de son corps. De cette mère qui semble bizarre à sa copine Rose. Bizarre car sa vie est engagée, enjouée, tatouée et, enfin de compte, libérée.
 Tout le monde doit avoir le droit de vivre sa vie, comme il, et surtout, elle l’entend. Pouvoir être cheffe, s’habiller comme on veut, aimer qui on veut. Ce livre est une petite perle insoumise. 
 
@@ -61,7 +61,7 @@ Tout le monde doit avoir le droit de vivre sa vie, comme il, et surtout, elle l�
 
 ![](/assets/uploads/04-julian-est-une-sirene_web.jpg)
 
-Julian est avec Mamita, sa grand-mère. Leur métro s’arrête et des sirènes montent à bord. Julian adore les sirènes. «Moi aussi, je suis une sirène», dit-il. Une fois seul, il s’apprête, couronne sa tête de longues feuilles vertes qu’il orne de fleurs colorées, noue un long rideau crème à sa taille. Il est prêt. Mamita et lui partent main dans la main vers la parade.
+*Julian est avec Mamita, sa grand-mère. Leur métro s’arrête et des sirènes montent à bord. Julian adore les sirènes. «Moi aussi, je suis une sirène», dit-il. Une fois seul, il s’apprête, couronne sa tête de longues feuilles vertes qu’il orne de fleurs colorées, noue un long rideau crème à sa taille. Il est prêt. Mamita et lui partent main dans la main vers la parade.*
 Sans complexe et sans se prendre la tête, un petit garçon devient une sirène. C’est beau, c’est tendre, c’est juste et c’est son droit.
 Cet album aborde la problématique du genre sans en avoir l’air, de la normalité insoumise.
 
@@ -75,7 +75,7 @@ Cet album aborde la problématique du genre sans en avoir l’air, de la normali
 
 ![](/assets/uploads/05-le-dictateur_web.jpg)
 
-Son titre original est Frank, plus proche du prénom Franco dont il est question dans cet album graphique. La vie et « l’œuvre » d’El Caudillo, ce « chef de guerre » qui a dirigé pendant près de 40 ans l’Espagne d’une main de fer. Aujourd’hui, démocratie, ce pays a du mal à se souvenir de son passé, raison pour laquelle Xima Abadia a pensé ce livre. Au moyen de symboles simples mais efficaces, et dans un style pictural très coloré, l’auteur propose un ouvrage accessible pour parler d’un régime autoritaire.
+Son titre original est *Frank*, plus proche du prénom Franco dont il est question dans cet album graphique. La vie et « l’œuvre » d’El Caudillo, ce « chef de guerre » qui a dirigé pendant près de 40 ans l’Espagne d’une main de fer. Aujourd’hui, démocratie, ce pays a du mal à se souvenir de son passé, raison pour laquelle Xima Abadia a pensé ce livre. Au moyen de symboles simples mais efficaces, et dans un style pictural très coloré, l’auteur propose un ouvrage accessible pour parler d’un régime autoritaire.
 
 <!--StartFragment-->
 
@@ -87,7 +87,7 @@ Son titre original est Frank, plus proche du prénom Franco dont il est question
 
 ![](/assets/uploads/06-les-oiseaux-ont-un-roi_web.jpg)
 
-Dans cet album aux accents de fable, Thierry Dedieu met en scène un pinson insolent qui, un beau jour, s'invite dans la cage de son roi. 
+*Dans cet album aux accents de fable, Thierry Dedieu met en scène un pinson insolent qui, un beau jour, s'invite dans la cage de son roi.* 
 « A part manger, dormir et déféquer, quels sont vos loisirs ? »
 Un pinson, qui se prend pour un petit Socrate ou un bouffon à plume ou un oiseau de passage, fait tourner la tête couronnée du hibou qui se dit roi des oiseaux au point de lui faire comprendre que sa vie est une vie de prisonnier. Une ode à la liberté et à l’insoumission, portée par une écriture raffinée et des illustrations épurées et esthétiques ! 
 
@@ -125,7 +125,7 @@ Un écureuil comme métaphore du capitalisme, il dit « c’est fragile un arbre
 
 ![](/assets/uploads/09-migrants_web.jpg)
 
-Ils sont tous là, lion, toucan, cochon, éléphant, lapin, grenouille… tous différents mais tous avec un petit bagage à la main ou sur le dos. Dans la sombre forêt ils marchent. La Mort, joliment vêtue d’une cape fleurie, les suit, assise sur le dos d’un magnifique oiseau bleu. 
+*Ils sont tous là, lion, toucan, cochon, éléphant, lapin, grenouille… tous différents mais tous avec un petit bagage à la main ou sur le dos. Dans la sombre forêt ils marchent. La Mort, joliment vêtue d’une cape fleurie, les suit, assise sur le dos d’un magnifique oiseau bleu.* 
 Le voyage de ces animaux anthropomorphes n’est rien d’autre qu’une métaphore des parcours des migrantEs, fatigue, tristesse et désespoir sont rendus par un noir profond et des têtes baissées. Ce livre carré porte, sans parole, un message nous poussant, et les enfants aussi, à l’empathie pour ces êtres humains qui fuient la peur, la famine, la guerre, un cataclysme et affrontent d’autres dangers importants pour trouver la paix et la sécurité. Une œuvre de Watanabe plusieurs fois primée à l’internationale !
 
 <!--StartFragment-->
@@ -138,7 +138,7 @@ Le voyage de ces animaux anthropomorphes n’est rien d’autre qu’une métaph
 
 ![](/assets/uploads/10-les-enfants-de-la-resistance_web.jpg)
 
-Eusèbe, Lisa et François ne resteront pas sans réagir face à l’invasion allemande. Ces jeunes du groupe de résistance Lynx, qui nous font penser à la Rose blanche, le groupe de Sophie et Hans Scholl, désobéissent à la dictature de l’occupant nazi dans leur petit village français de Ponchartrain l’Écluse. Ils aident les aviateurs, ils informent les Alliés et détruisent même une usine de cuivre.
+Eusèbe, Lisa et François ne resteront pas sans réagir face à l’invasion allemande. Ces jeunes du groupe de résistance Lynx, qui nous font penser à la *Rose blanche*, le groupe de Sophie et Hans Scholl, désobéissent à la dictature de l’occupant nazi dans leur petit village français de Ponchartrain l’Écluse. Ils aident les aviateurs, ils informent les Alliés et détruisent même une usine de cuivre.
 Les 7 premiers tomes de cette bande dessinée sont sortis, ils existent aussi en roman aux éditions Rageot et sont accompagnés d’un livret pédagogique. Ces œuvres, bien documentées et réalistes, sont idéales pour expliquer la résistance aux plus jeunes.
 
 <!--StartFragment-->
