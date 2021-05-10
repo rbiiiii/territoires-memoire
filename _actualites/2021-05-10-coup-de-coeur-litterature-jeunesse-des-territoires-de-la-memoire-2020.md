@@ -12,7 +12,7 @@ L’objectif est de mettre en évidence un livre illustré accessible à la jeun
 
 Le comité de lecture est composé de permanentEs des Territoires de la Mémoire, de Claire Nanty de la librairie La Grande Ourse et de Brigitte Van Den Bossche des Ateliers du Texte et de l’Image.
 
-Le prix sera décerné pendant la Foire du livre politique le vendredi 21 mai à 14h30. [Programme](http://lafoiredulivre.net/wp-content/uploads/2021/05/Programme-couleur-printemps-2021.pdf)
+Le prix sera décerné pendant la Foire du livre politique le vendredi 21 mai à 19h. [Programme](http://lafoiredulivre.net/wp-content/uploads/2021/05/Programme-couleur-printemps-2021.pdf)
 
 
 
