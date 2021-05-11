@@ -3,7 +3,7 @@ layout: post
 categories: agenda
 title: "Triangle Rouge à Woluwe-Saint-Lambert "
 date_start: 2021-06-02
-date_stop: 2021-06-06
+date_stop: 2021-06-10
 hour: ""
 img_file: /assets/uploads/triangle-rouge-expo.jpg
 place: "A la Maison communale :  Avenue Paul Hymans 2, 1200 Woluwe-Saint-Lambert "
