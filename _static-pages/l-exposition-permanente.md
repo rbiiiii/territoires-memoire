@@ -18,7 +18,7 @@ coronavirus:
     text_block_01: "Votre santé est importante pour nous :"
     pdf:
         text: Nos mesures covid-19
-        url: /assets/pdf/pjc/2020_Protocole_Accueil_Expo_TM.pdf
+        url: /assets/pdf/pjc/2021_Protocole_Accueil_Expo_TM.pdf
     text_block_02: "Merci de respecter votre horaire de visite et ces nouvelles mesures pour le bon déroulement des visites."
     text_block_03:  |- 
 

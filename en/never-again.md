@@ -17,7 +17,7 @@ coronavirus:
     text_block_01: "Your health is important to us:"
     pdf:
         text: Our covid-19 measures
-        url: /assets/pdf/pjc/2020_Protocole_Accueil_Expo_TM.pdf
+        url: /assets/pdf/pjc/2021_Protocole_Accueil_Expo_TM.pdf
     text_block_02: "Thank you for respecting your visit schedule and these new measures for the smooth running of the visits."
 tuiles:
     - title: A multimedia trail in six parts 

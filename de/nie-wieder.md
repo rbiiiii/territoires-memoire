@@ -17,7 +17,7 @@ coronavirus:
     text_block_01: "Ihre Gesundheit ist uns wichtig:"
     pdf:
         text: Unsere Covid-19-Maßnahmen (fr)
-        url: /assets/pdf/pjc/2020_Protocole_Accueil_Expo_TM.pdf
+        url: /assets/pdf/pjc/2021_Protocole_Accueil_Expo_TM.pdf
     text_block_02: "Ich danke Ihnen, dass Sie Ihren Besuchsplan und diese neuen Maßnahmen für einen reibungslosen Ablauf der Besuche eingehalten haben."
 tuiles:
     - title: Multimediale Reise in sechs Teilen 
