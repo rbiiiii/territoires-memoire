@@ -18,10 +18,10 @@ booking: >-
   ­­[www.citemiroir.be](www.citemiroir.be) ou au 04 230 70 50 -
   [reservation@citemiroir.be ](mailto:reservation@citemiroir.be)
 
-  (sauf évolution notables des mesures sanitaires)
+  (sauf évolution notable des mesures sanitaires)
 practical: "Espace Rosa Parks et Bibliothèque George Orwell de La Cité Miroir, "
 ---
-*Quand témoigner la répression des mouvements sociaux devient acte de résistance.*
+*Quand témoigner de la répression des mouvements sociaux devient acte de résistance.*
 
 ZIN TV, le Collectif Krasnyi, le photographe Frédéric Moreau de Bellaing et la Ligue des droits humains se sont associés afin de rendre visible des scènes de répression policière contre les migrant.e.s, contre les mouvements sociaux et contre les citoyen.ne.s… désirant témoigner de cette criminalisation des initiatives solidaires. Un signal d’alarme pour une démocratie qui se détériore et qui détricote lentement ses droits fondamentaux…
 
