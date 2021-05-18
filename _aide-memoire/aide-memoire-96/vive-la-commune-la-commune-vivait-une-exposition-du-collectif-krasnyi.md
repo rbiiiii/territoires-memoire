@@ -15,6 +15,10 @@ En partenariat avec le Collectif Krasnyi, « Vive la Commune ! Vive la Sociale !
 
 Infos sur le site www.krasnyicollective.com et sur la page Facebook Krasnyi Collective.
 
+![](https://www.territoires-memoire.be/assets/uploads/p-2_encartkrasnyi_colonne-vendome.jpg)
+
+<span class="img-copyright">Chute de la colonne Vendôme, _Place Vendôme, Paris_, © Krasnyi Collective / Never Forget collection</span>
+
 ## Légende des photos présentées dans ce numéro
 
 _Textes de Sixtine d’Ydewalle_
@@ -42,10 +46,6 @@ Le 28 mars, les résultats des élections de la Commune sont annoncés et celle-
 **En p.12** : Répression à Montmartre, _Impasse du Tertre, Paris_, ©Krasnyi Collective / Never Forget collection
 
 Le 23 mai, dès l’aube, les combats font rage à Montmartre et à midi, Montmartre tombe. La légende raconte qu’une fédérée, voyant son amant tué sur une barricade de Montmartre, revêtit son uniforme pour se battre à sa place, et, blessée d’une balle dans la gorge, revint sur le trottoir de l’Impasse du Tertre où elle vivait pour y mourir.
-
-![](https://www.territoires-memoire.be/assets/uploads/p-2_encartkrasnyi_colonne-vendome.jpg)
-
-<span class="img-copyright">Chute de la colonne Vendôme, _Place Vendôme, Paris_, © Krasnyi Collective / Never Forget collection</span>
 
 <div class="card card--one">
 <h2 style="margin-top:0">« Occupons-le terrain »</h2>
