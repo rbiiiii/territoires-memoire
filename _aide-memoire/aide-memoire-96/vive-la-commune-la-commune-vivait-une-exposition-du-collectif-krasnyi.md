@@ -48,7 +48,7 @@ Le 23 mai, dès l’aube, les combats font rage à Montmartre et à midi, Montma
 <span class="img-copyright">Chute de la colonne Vendôme, _Place Vendôme, Paris_, © Krasnyi Collective / Never Forget collection</span>
 
 <div class="card card--one">
-<h2>« Occupons-le terrain »</h2>
+<h2 style="margin-top:0">« Occupons-le terrain »</h2>
 
 Une Coordination de collectifs citoyens et d’associations pour la préservation des territoires et des ressources
 
@@ -56,6 +56,6 @@ Face à la destruction de plus en plus d’espaces verts où tous les vivants pe
 
 Manuel à télécharger gratuitement sur le site www.occuponsleterrain.be. De nombreuses autres ressources y sont également mises à disposition.
 
-Lire également la carte blanche publiée le 25 mars dernier sur [https://plus.lesoir.be:](https://plus.lesoir.be: "https://plus.lesoir.be:") «Carte blanche: Non à un aménagement du territoire dicté par une logique de profit!»
+Lire également la carte blanche publiée le 25 mars dernier dans Le Soir Plus : [«Carte blanche: Non à un aménagement du territoire dicté par une logique de profit!»](https://plus.lesoir.be/362613/article/2021-03-25/carte-blanche-non-un-amenagement-du-territoire-dicte-par-une-logique-de-profit])
 
 </div>
