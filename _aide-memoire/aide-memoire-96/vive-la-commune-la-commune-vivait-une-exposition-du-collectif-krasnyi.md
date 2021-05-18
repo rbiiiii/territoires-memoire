@@ -50,12 +50,14 @@ Le 23 mai, dès l’aube, les combats font rage à Montmartre et à midi, Montma
 <div class="card card--one">
 <h2 style="margin-top:0">« Occupons-le terrain »</h2>
 
-Une Coordination de collectifs citoyens et d’associations pour la préservation des territoires et des ressources
+Une Coordination de collectifs citoyens et d’associations pour la préservation des territoires et des ressources.
+
+![](https://www.territoires-memoire.be/assets/uploads/p-2_logo-occupons-le-terrain_encart2.png)
 
 Face à la destruction de plus en plus d’espaces verts où tous les vivants peuvent respirer et se rencontrer, de nombreux collectifs déjà en lutte sur différents territoires se sont rassemblés pour mettre en commun leurs forces et ressources, contre la bétonisation et l’incohérence récurrente des projets d’aménagement du territoire. De cette coordination vient de sortir une publication d’intérêt public : **_Occupons le terrain. Manuel de RÉSISTANCE aux projets inadaptés, imposés & nuisibles !_** Un véritable outil pour toutes celles et ceux qui veulent défendre les territoires contre la logique infernale du marché immobilier.
 
 Manuel à télécharger gratuitement sur le site www.occuponsleterrain.be. De nombreuses autres ressources y sont également mises à disposition.
 
-Lire également la carte blanche publiée le 25 mars dernier dans Le Soir Plus : [«Carte blanche: Non à un aménagement du territoire dicté par une logique de profit!»](https://plus.lesoir.be/362613/article/2021-03-25/carte-blanche-non-un-amenagement-du-territoire-dicte-par-une-logique-de-profit])
+Lire également la carte blanche publiée le 25 mars dernier dans Le Soir Plus : [«Carte blanche: Non à un aménagement du territoire dicté par une logique de profit!»](https://plus.lesoir.be/362613/article/2021-03-25/carte-blanche-non-un-amenagement-du-territoire-dicte-par-une-logique-de-profit\])
 
 </div>
