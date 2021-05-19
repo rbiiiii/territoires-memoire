@@ -67,7 +67,7 @@ $(document).on('keyup', function(event) {
 
 // SLIDERS
 
-$( document ).ready(function() {
+$(document).ready(function() {
 
     // HOME SLIDER
 
@@ -132,11 +132,11 @@ $( document ).ready(function() {
     var resizeTimer;
     
     $(window).on('resize', function(e) {
-    clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(function() {
-        $('.homepage-items__list--small').slick(homeSlickSettings);
-        $('.pdf-txt.books').slick(biblioSlickSettings);  
-    }, 250);
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(function() {
+            $('.homepage-items__list--small').slick(homeSlickSettings);
+            $('.pdf-txt.books').slick(biblioSlickSettings);  
+        }, 250);
     });
 });
 
@@ -190,12 +190,68 @@ $('.post__excerpt, .archive-am-num__excerpt, .page-am-num__excerpt').each(functi
 // AIDE MEMOIRE
 
 $(document).ready(function() {
-    var footnotesList = $('.am-article ol').last(),
-    footnotesItems = footnotesList.find('li'),
-    footnoteHookTop = '<svg class="footnote-hook footnote-hook__top" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve"><polygon fill="#0075A7" points="5.6,44 19.3,44 19.3,19.6 44.4,19.6 44.4,6 5.6,6 "/></svg>',
-    footnoteHookBottom = '<div class="footnote-hook__bottom-container clearfix"><svg class="footnote-hook footnote-hook__bottom" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve"><polygon fill="#0075A7" points="44.4,6 30.7,6 30.7,30.4 5.6,30.4 5.6,44 44.4,44 "/></svg></div>';
+    var footnotesList = $('.am-article ol').last();
+    
+    if (!footnotesList.parent().hasClass('no-footlinks')) {
+        footnotesItems = footnotesList.find('li'),
+        footnoteHookTop = '<svg class="footnote-hook footnote-hook__top" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve"><polygon fill="#0075A7" points="5.6,44 19.3,44 19.3,19.6 44.4,19.6 44.4,6 5.6,6 "/></svg>',
+        footnoteHookBottom = '<div class="footnote-hook__bottom-container clearfix"><svg class="footnote-hook footnote-hook__bottom" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve"><polygon fill="#0075A7" points="44.4,6 30.7,6 30.7,30.4 5.6,30.4 5.6,44 44.4,44 "/></svg></div>';
 
-    footnotesList.addClass('footnotes');
+        footnotesList.addClass('footnotes');
+    
+        function findAndShowAnchors() {
+            var i = 1,
+            anchors = $(".am-article .post__content a[href^='#footnote-']");
+            anchors.each(function() {
+                $(this).addClass('internal footnote-link').attr('id', 'note-'+i);
+                i++;
+            })
+            showAnchors(anchors);
+        }
+    
+        function addLinksToFootnotes() {
+            var i = 1;
+            footnotesItems.each(function() {
+                $(this).prepend('<a href="#note-'+i+'" class="internal note-link" id="footnote-'+i+'" title="Retour dans le texte"><svg id="top-link__svg" viewBox="0 0 40 40"><style>.blue-color{fill:#003b62}</style><path fill="#fff" d="M0 0h40v40H0z"/><path class="blue-color" d="M11 36H4V4h7V0H0v40h11zM29 4h7v32h-7v4h11V0H29z"/><path id="top-link__arrow" class="blue-color" d="M20 18.1l7.6 7.7h3.9L20 14.2 8.5 25.8h3.9z"/></svg></a> ');
+                i++;
+            })
+        }
+    
+        function addVisualHooks() {
+            footnotesList.before(footnoteHookTop);
+            footnotesList.after(footnoteHookBottom);
+        }
+    
+        function showAnchors(target) {
+            
+            target.mouseenter(function() {
+                console.log("test footnotes mouseenter");
+                var anchorVisibilityTimer = setTimeout(closeOpenedAnchors, 1500);
+                closeOpenedAnchors();
+                clearTimeout(anchorVisibilityTimer);
+                var footnoteId = $(this).attr('href');
+                var footnoteIdLength = footnoteId.length;
+                var footnoteIdCleaned = footnoteId.substring(1, footnoteIdLength);
+                var footnoteContent = $('#'+footnoteIdCleaned).parent();
+                var footnoteContentTmp = footnoteContent.clone();
+                footnoteContentTmp.find('a').eq(0).remove();
+                $(this).after('<div class="footnoteContent" style="display:none">'+footnoteHookTop+'<div class="footnoteContentInner">'+footnoteContentTmp.html()+'</div>'+footnoteHookBottom);
+                $('.footnoteContent').slideDown(150);
+                $('.footnote-link').click(closeOpenedAnchors);
+                clearTimeout(anchorVisibilityTimer);
+            });
+        }
+    
+        function closeOpenedAnchors() {
+            $('.footnoteContent').slideUp(150, function() {
+                $(this).remove();
+            });
+        }
+        
+        findAndShowAnchors();
+        addLinksToFootnotes();
+        addVisualHooks();
+    }
 
     function deleteUnwantedFromExcerpt() {
         $('.am-post-item__excerpt').find('img').parent().remove();
@@ -203,60 +259,7 @@ $(document).ready(function() {
             cleanTextFromMd( $(this) );
         });
     }
-
-    function findAndShowAnchors() {
-        var i = 1,
-        anchors = $(".am-article .post__content a[href^='#footnote-']");
-        anchors.each(function() {
-            $(this).addClass('internal footnote-link').attr('id', 'note-'+i);
-            i++;
-        })
-        showAnchors(anchors);
-    }
-
-    function addLinksToFootnotes() {
-        var i = 1;
-        footnotesItems.each(function() {
-            $(this).prepend('<a href="#note-'+i+'" class="internal note-link" id="footnote-'+i+'" title="Retour dans le texte"><svg id="top-link__svg" viewBox="0 0 40 40"><style>.blue-color{fill:#003b62}</style><path fill="#fff" d="M0 0h40v40H0z"/><path class="blue-color" d="M11 36H4V4h7V0H0v40h11zM29 4h7v32h-7v4h11V0H29z"/><path id="top-link__arrow" class="blue-color" d="M20 18.1l7.6 7.7h3.9L20 14.2 8.5 25.8h3.9z"/></svg></a> ');
-            i++;
-        })
-    }
-
-    function addVisualHooks() {
-        footnotesList.before(footnoteHookTop);
-        footnotesList.after(footnoteHookBottom);
-    }
-
-    function showAnchors(target) {
-        
-        target.mouseenter(function() {
-            console.log("test footnotes mouseenter");
-            var anchorVisibilityTimer = setTimeout(closeOpenedAnchors, 1500);
-            closeOpenedAnchors();
-            clearTimeout(anchorVisibilityTimer);
-            var footnoteId = $(this).attr('href');
-            var footnoteIdLength = footnoteId.length;
-            var footnoteIdCleaned = footnoteId.substring(1, footnoteIdLength);
-            var footnoteContent = $('#'+footnoteIdCleaned).parent();
-            var footnoteContentTmp = footnoteContent.clone();
-            footnoteContentTmp.find('a').eq(0).remove();
-            $(this).after('<div class="footnoteContent" style="display:none">'+footnoteHookTop+'<div class="footnoteContentInner">'+footnoteContentTmp.html()+'</div>'+footnoteHookBottom);
-            $('.footnoteContent').slideDown(150);
-            $('.footnote-link').click(closeOpenedAnchors);
-            clearTimeout(anchorVisibilityTimer);
-        });
-    }
-
-    function closeOpenedAnchors() {
-        $('.footnoteContent').slideUp(150, function() {
-            $(this).remove();
-        });
-    }
-    
-    deleteUnwantedFromExcerpt()
-    findAndShowAnchors();
-    addLinksToFootnotes();
-    addVisualHooks();
+    deleteUnwantedFromExcerpt();
 });
 
 

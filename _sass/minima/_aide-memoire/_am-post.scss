@@ -133,10 +133,9 @@
             }
         }
 
-        p, ul, h2, h3, blockquote {
+        p, ul, .no-footlinks ol, h2, h3, blockquote {
             margin-bottom:1.5em;  
-            @include garamond;  
-            
+            @include garamond;
         }
 
         .chapeau {

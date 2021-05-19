@@ -43,6 +43,8 @@ Chaque année, Unia recense une augmentation des signalements relatifs à des fa
 
 ## Que pouvons-vous faire à titre individuel ?
 
+<div class="no-footlinks">
+
 1. Réagissez contre la haine en ligne.
 2. Aidez Facebook et Unia à identifier et bloquer un message haineux.  
    Sur Facebook  
@@ -51,6 +53,8 @@ Chaque année, Unia recense une augmentation des signalements relatifs à des fa
    Sur Tik Tok
 3. Portez le Triangle Rouge au quotidien. Porté sous forme d’un pin’s, il permet à chacun de rappeler que la plupart des citoyens refusent de céder aux idées haineuses, racistes, sexistes ou liberticides.  
    [https://www.trianglerouge.be/](https://www.trianglerouge.be/ "https://www.trianglerouge.be/")
+
+</div>
 
 Les Territoires de la Mémoire sont un centre d’éducation à la résistance et à la citoyenneté créé par d’anciens prisonniers politiques rescapés des camps nazis. Pour effectuer un travail de Mémoire auprès des enfants, des jeunes et des adultes, l’association développe diverses initiatives qui transmettent le passé et encouragent l’implication de toutes et tous dans la construction d’une société démocratique garante des libertés fondamentales.
 
