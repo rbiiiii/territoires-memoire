@@ -47,7 +47,7 @@ Le 28 mars, les résultats des élections de la Commune sont annoncés et celle-
 
 Le 23 mai, dès l’aube, les combats font rage à Montmartre et à midi, Montmartre tombe. La légende raconte qu’une fédérée, voyant son amant tué sur une barricade de Montmartre, revêtit son uniforme pour se battre à sa place, et, blessée d’une balle dans la gorge, revint sur le trottoir de l’Impasse du Tertre où elle vivait pour y mourir.
 
-<div class="card card--one">
+<div class="card card--two">
 <h2 style="margin-top:0">« Occupons-le terrain »</h2>
 
 Une Coordination de collectifs citoyens et d’associations pour la préservation des territoires et des ressources.
