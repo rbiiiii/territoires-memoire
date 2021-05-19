@@ -98,6 +98,7 @@ a.pdf-txt__item__link {
 .pdf-txt__item__text__txt {
     color:$text-color;
     margin:0;
+    line-height:1.3;
 }
 
 @supports (display:grid) {
