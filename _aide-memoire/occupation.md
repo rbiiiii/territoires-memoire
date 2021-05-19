@@ -1,0 +1,24 @@
+---
+categories: _aide-memoire-numeros/aide-memoire-n-96.md
+type: mots
+title: Occupation
+credits: Par Henri Deleersnijder
+about_the_author: ''
+order: 8
+
+---
+Le 18 mars 1871, après que le chef du gouvernement Adolphe Thiers a ordonné la reprise par l’armée des canons de la Garde nationale disposés au pied de la butte Montmartre, le peuple de Paris se soulève contre cette atteinte notoire à sa souveraineté, lui qui vient de subir durant l’hiver le terrible siège de sa ville par les Prussiens. L’insurrection populaire commence, et des barricades s’érigent dans la capitale tandis que l’Hôtel de Ville est occupé. L’écrivain Jules Vallès écrit alors dans son journal _Le Cri du peuple_ : « Paris s’est reconquis. » La Commune se mettait ainsi en place, dont le but était de défendre la République, non bourgeoise mais sociale et universelle.
+
+L’histoire de France – mais pas seulement elle – est ponctuée de ce genre de prises de possession d’un lieu, dictées par une volonté de liberté ou de justice. Ce fut particulièrement le cas en 1936, sous le Front populaire. Au point que le terme « occupation », qui a d’abord désigné « ce à quoi on consacre son temps, son activité » ainsi que le « soin que l’on prend d’une chose », a pris alors le sens d’occuper des locaux. Illégalement, diront certains. Mais cela, c’est une question de point de vue...
+
+Car les occupations d’usines à l’époque – près de 9.000 début juin – et la « grève sur le tas » – environ 2 millions de grévistes – sont nées d’une volonté spontanée du monde ouvrier de présenter à un gouvernement de gauche, issu de la victoire électorale de mai, des revendications auxquelles il estimait avoir droit au plus vite. On danse dans les fabriques où on bichonne l’ « outil de travail », où les femmes viennent soutenir leurs compagnons, où l’on improvise des loisirs, dont le « radio crochet », ancêtre du karaoké. Embellie annonciatrice des congés payés et de nombre de conquêtes sociales qui enchanteront l’été 36.
+
+Après les années noires de l’Occupation, autre temps autre résonance du mot, la veine mobilisatrice ne s’est pas tarie. En témoigne la vaste action de désobéissance civile non violente menée, de 1971 à 1981, contre l’extension d’un camp militaire sur le causse du Larzac, au sud du Massif central. L’opposition des paysans de l’endroit à ce projet du ministre de la Défense du moment, Michel Debré, sera soutenu durant de longues années par des dizaines de milliers de militants. Les plus anciens se souviennent avec nostalgie de l’appel en occitan _Gardarem lo Larzac_, nom d’un journal qui soutiendra avec constance cette lutte, laquelle se soldera par l’abandon du projet, suite à la décision de François Mitterrand, au début de sa présidence de la République.
+
+Ce combat emblématique de la décennie postérieure à Mai 68 peut être vu comme une préfiguration non seulement de la mouvance altermondialiste, mais aussi de celle plus récente répondant à l’acronyme ZAD, soit « Zone à défendre ». On occupe un lieu en permanence pour stopper la réalisation d’un projet : tel fut, parmi d’autres cas similaires, le but poursuivi depuis plus de dix ans par les zadistes de Notre-Dame-des-Landes, au nord de la ville de Nantes, opposés à l’installation d’un aéroport. Celui-ci ne verra finalement pas le jour puisque les autorités y renonceront en 2018. En Belgique, c’est également le combat de la Zablière, la ZAD d’Arlon, qui a occupé autant qu’elle l’a pu le site de l’ancienne Sablière de Schoppach devenu un riche espace pour la faune et la flore, pour le préserver d’un projet de zoning PME.
+
+Des initiatives analogues, dénonçant l’action jugée prédatrice d’un ultra-capitalisme sans états d’âme, se sont démultipliées au niveau mondial, prenant ici et là des nuances particulières mais charriant toutes une protestation sociale, arrimée le plus souvent à des soucis écologiques. Il suffit de songer aux mouvements _Occupy,_ dont celui de Wall Street lancé au début de la décennie 2010.
+
+Au vu de la dispersion de ces luttes hyperlocalisées et ne répondant à aucune concertation venue d’en haut, on rétorquera qu’il n’y a là rien de bien révolutionnaire. Voire... comme le fait remarquer l’écrivain italien Erri De Luca, dans son livre _Le tour de l’oie_, au cours d’un entretien avec son fils – qu’il n’a pas eu – : « \[...\] nous faisions valoir nos propres droits, en diffusant la conscience de posséder une force civique indépendante[1](#footnote-1). » L’ancien membre de _Lotta continua_ savait de quoi il parlait, qui avait été poursuivi pour « incitation à la délinquance » après avoir considéré que la construction de la ligne TGV Lyon-Turin devait être bloquée, sabotée. Puisque, selon ses propres mots, il s’agit d’« une œuvre nuisible et inutile ». Le 19 octobre 2015, il sortait libre du tribunal
+
+1. Erri De Luca, _Le tour de l’oie_, coll. « Du monde entier », Paris, Gallimard, 2018, p. 93.
