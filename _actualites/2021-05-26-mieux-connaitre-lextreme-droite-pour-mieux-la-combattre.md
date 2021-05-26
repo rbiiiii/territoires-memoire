@@ -16,6 +16,8 @@ Afin de conscientiser à l’ampleur que prend l’extrême droite chez nous com
 
 
 Les projets d’extrême droite comportent trois caractéristiques clés simultanées : l’inégalité, le nationalisme, et le radicalisme. Cette grille d’analyse simple et éprouvée sert à évaluer le niveau liberticide d’un discours politique.
+
+
 Ce site, qui sera réactualisé régulièrement en fonction des évolutions politiques en Europe, offre aussi des pistes pour résister et agir, notamment en arborant le Triangle Rouge. Le Triangle Rouge est le symbole de la résistance aux idées qui menacent les libertés fondamentales depuis de nombreuses années. Porté sous forme d’un pin’s, il permet à chacun de rappeler discrètement que la plupart des citoyens refusent de céder aux idées haineuses, racistes, sexistes ou liberticides.\
 \
 <https://extreme-droite-europe.be/>
