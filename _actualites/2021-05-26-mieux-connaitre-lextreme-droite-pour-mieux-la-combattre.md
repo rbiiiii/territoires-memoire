@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 categories: actualites
 title: Mieux connaître l'extrême droite en Europe pour mieux la combattre
 img_file: /assets/uploads/20210526_tdlm_communication_siteextremedroitecalcom_sitetm_1240x480.jpg
