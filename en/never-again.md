@@ -16,8 +16,8 @@ coronavirus:
         url: https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19
     text_block_01: "Your health is important to us:"
     pdf:
-        text: Our covid-19 measures
-        url: /assets/pdf/pjc/2021_Protocole_Accueil_Expo_TM.pdf
+        text: Our covid-19 measures (fr)
+        url: /assets/pdf/pjc/202105_Protocole_Accueil_Expo_TM.pdf
     text_block_02: "Thank you for respecting your visit schedule and these new measures for the smooth running of the visits."
 tuiles:
     - title: A multimedia trail in six parts 

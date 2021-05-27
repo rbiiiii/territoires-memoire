@@ -14,12 +14,13 @@ layout: static-page
                 <ul class="list--no-style">
                     <li>{{ page.coronavirus.address }}</li>
                     <li>{{ page.coronavirus.tel }}</li>
-                    <li><a class="button button--white-on-red" href="{{ page.coronavirus.booking.url }}">{{ page.coronavirus.booking.text }}</a></li>
+                    <!-- <li><a class="button button--white-on-red" href="{{ page.coronavirus.booking.url }}">{{ page.coronavirus.booking.text }}</a></li> -->
                 </ul>
-                <p><strong>{{ page.coronavirus.text_block_01 }}</strong><br>
-                    <a class="button button--white-on-red" href="{{ page.coronavirus.pdf.url }}" target="_blank">{{ page.coronavirus.pdf.text }}</a></p>
                 <div>{{ page.coronavirus.text_block_03 | markdownify }}</div>
                 <p><small>{{ page.coronavirus.text_block_02 }}</small></p>
+                <p>{{ page.coronavirus.text_block_01 }}<br>
+                    <a class="button button--white-on-red" href="{{ page.coronavirus.pdf.url }}" target="_blank">{{ page.coronavirus.pdf.text }}</a>
+                </p>
             </div>
         </div>
     </div>

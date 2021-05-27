@@ -9,23 +9,34 @@ permalink: plusjamaisca
 class: pjc
 intro_text: "L’exposition permanente des Territoires de la Mémoire évoque le cheminement des déportés dans les camps nazis. Très vite, on réalise que l’interrompre est impossible. Guidé par la voix de l’acteur Pierre Arditi, le son, les images et les jeux de lumière, le visiteur est amené à découvrir des espaces qui explorent l’une des pages les plus sombres de notre Histoire : la Seconde Guerre mondiale, la montée du nazisme, les camps de concentration et d’extermination. Le parcours se prolonge par des témoignages et évoque la survie après la captivité. À l’issue de cette visite intense et émouvante, chacun est confronté à la réalité actuelle et s’interroge : que faire et comment résister aujourd’hui&nbsp;?"
 coronavirus:
-    title: "Réservez vos visites et vos animations"
+    title: "Réservez vos visites"
     address: "Place Xavier Neujean 22, 4000&nbsp;Liège"
     tel: 04 230 70 50
     booking:
         text: Formulaire de réservation
         url: https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19
-    text_block_01: "Votre santé est importante pour nous :"
+    text_block_01: "Télécharger le protocole d'accueil :"
     pdf:
-        text: Nos mesures covid-19
-        url: /assets/pdf/pjc/2021_Protocole_Accueil_Expo_TM.pdf
+        text: Protocole d'accueil
+        url: /assets/pdf/pjc/202105_Protocole_Accueil_Expo_TM.pdf
     text_block_02: "Merci de respecter votre horaire de visite et ces nouvelles mesures pour le bon déroulement des visites."
     text_block_03:  |- 
+      En raison de la crise sanitaire, les modalités de visite de l’exposition permanente _Plus jamais ça !_ sont temporairement modifiées :
 
-      - Ouverture au public à partir du 1/12/20.
-      - Jauge de maximum 8 personnes.
-      - Réservation obligatoire via notre [formulaire en ligne](https://shop.utick.net/?pos=CITEMIROIR&module=ACTIVITYSERIEDETAILS&s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19).
-      - Pas d’animation ni de visite guidée.
+      #### « Bulle-classe » 11-12 ans
+
+      - 25 personnes maximum.
+      - Port du masque obligatoire pour les personnes qui accompagnent le groupe d’élèves et pour l’animateur.rice.
+      - Réservations obligatoires par mail à [reservation@territoires-memoire.be](mailto:reservation@territoires-memoire.be).
+      - Des animations sont possibles à partir du 1<sup>er</sup> juin 2021.
+
+      #### Public de 13 ans et plus
+
+      - 8 personnes maximum.
+      - Port du masque obligatoire.
+      - Pas d’animation possible actuellement.
+      - Réservations en ligne obligatoires :  
+        <a class="button button--white-on-red" href="https://shop.utick.net/?pos=CITEMIROIR&amp;module=ACTIVITYSERIEDETAILS&amp;s=ED2DF76C-35A8-41E4-5F4F-ECB2B782AC19">Formulaire de réservation</a>
 tuiles:
     - title: Un parcours multimédia en six parties 
       url: "#un-parcours-en-six-parties"
