@@ -113,7 +113,7 @@ layout: default
               {%- assign curDate = site.time | date: '%Y-%m-%d' -%}
               
               {%- for event in eventPost -%}
-                {%- if event.date_stop != '' and event.date_stop != 'Invalid date' -%}
+                {%- if event.date_stop != '' and event.date_stop != 'Invalid date' and event.date_stop != nil -%}
                     {%- assign postDate = event.date_stop | date: '%Y-%m-%d' -%}
                 {%- else -%}
                     {%- assign postDate = event.date_start | date: '%Y-%m-%d' -%}

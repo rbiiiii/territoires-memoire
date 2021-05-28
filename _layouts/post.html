@@ -51,7 +51,7 @@ layout: default
                 {% when '12' %}décembre
               {% endcase %}
               {{ page.date_start | date: "%Y" }}
-              {% if page.date_stop != '' and page.date_stop != 'Invalid date' %}
+              {% if page.date_stop != '' and page.date_stop != 'Invalid date' and page.date_stop != nil %}
               {% assign mm = page.date_stop | date: "%-m" %}
               <br>> {{ page.date_stop | date: "%-d" }}
                   {% case mm %}

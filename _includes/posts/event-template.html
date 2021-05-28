@@ -49,7 +49,7 @@
                   {% endcase %}
                   {{ event.date_start | date: "%Y" }}
 
-                  {% if event.date_stop != '' and event.date_stop != 'Invalid date' %}
+                  {% if event.date_stop != '' and event.date_stop != 'Invalid date' and event.date_stop != nil %}
                     {% assign mm = event.date_stop | date: "%-m" %}
                     > {{ event.date_stop | date: "%-d" }}
                         {% case mm %}
