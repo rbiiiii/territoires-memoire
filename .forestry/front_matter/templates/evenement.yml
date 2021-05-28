@@ -34,6 +34,7 @@ fields:
     time_format: 
     display_utc: false
     export_format: YYYY-MM-DD
+  default: ''
 - type: text
   name: hour
   label: Heure de l'événement
