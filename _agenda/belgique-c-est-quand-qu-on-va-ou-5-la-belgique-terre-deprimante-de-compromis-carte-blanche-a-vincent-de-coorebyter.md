@@ -1,12 +1,12 @@
 ---
 categories: agenda
-layout: ''
+layout: post
 title: 'Belgique : c’est quand qu’on va où ? #5 - « La Belgique, terre déprimante
   de compromis ? » Carte blanche à Vincent de Coorebyter'
 date_start: 2021-06-23
 date_stop: 
 hour: 12h30
-img_file: https://www.territoires-memoire.be/assets/uploads/c-est-quand-qu-on-va-ou-5.jpg
+img_file: /assets/uploads/c-est-quand-qu-on-va-ou-5.jpg
 place: Cité Miroir – Espace Francisco Ferrer (1e étage)
 address: Pl. Xavier-Neujean 22, 4000 Liège
 price: Entrée libre
