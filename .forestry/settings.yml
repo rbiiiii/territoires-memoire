@@ -99,13 +99,10 @@ sections:
   create: documents
   match: "**/*"
 upload_dir: assets/uploads
-public_path: "/assets/uploads"
+public_path: assets/uploads
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: false
 file_template: ":year:/:month:/:day:/:filename:"
-upload_path: "assets/uploads/:year:/:month:/:day:"
-frontmatter_file_url_template: "assets/uploads/:year:/:month:/:day:"
-body_file_url_template: "assets/uploads/:year:/:month:/:day:"
 build:
   preview_env:
   - JEKYLL_ENV=staging
