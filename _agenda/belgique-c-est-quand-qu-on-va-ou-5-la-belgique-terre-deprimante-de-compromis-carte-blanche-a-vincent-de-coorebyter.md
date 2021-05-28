@@ -10,7 +10,8 @@ img_file: https://www.territoires-memoire.be/assets/uploads/c-est-quand-qu-on-va
 place: Cité Miroir – Espace Francisco Ferrer (1e étage)
 address: Pl. Xavier-Neujean 22, 4000 Liège
 price: Entrée libre
-tags: []
+tags:
+- Conférence
 schedule: ''
 entrance: ''
 booking: "**Réservation obligatoire** : [steve@barricade.be](mailto:steve@barricade.be)"
