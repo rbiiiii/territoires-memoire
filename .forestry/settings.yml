@@ -99,7 +99,7 @@ sections:
   create: documents
   match: "**/*"
 upload_dir: assets/uploads
-public_path: https://www.territoires-memoire.be/assets/uploads
+public_path: "/assets/uploads"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
