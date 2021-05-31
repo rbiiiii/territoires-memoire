@@ -91,7 +91,7 @@ layout: default
           <h2 class="page-section__title">{{ page.news_text }}</h2>
         </a>
           <ul class="post-list list--no-style no-margin-bottom category">
-            {%- assign newsPost = site.actualites | where:'published', 'true' | sort: "posted_on" | reverse -%}
+            {%- assign newsPost = site.actualites | sort: "posted_on" | reverse -%}
             {%- for post in newsPost limit: 2 -%}
               <li class="post-list__item">
                 {%- include /posts/news-template.html -%}
