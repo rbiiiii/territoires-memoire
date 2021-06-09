@@ -1,0 +1,16 @@
+---
+label: Emploi
+hide_body: false
+fields:
+- type: textarea
+  name: title
+  label: title
+- type: datetime
+  name: posted_on
+  label: posted_on
+- type: textarea
+  name: link
+  label: link
+- type: file
+  name: img_file
+  label: img_file
