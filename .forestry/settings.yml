@@ -26,6 +26,13 @@ sections:
   templates:
   - focus
 - type: directory
+  path: _emploi
+  label: Offres d'emploi
+  create: documents
+  match: "**/*"
+  templates:
+  - emploi
+- type: directory
   path: _aide-memoire-numeros
   label: Numéros Aide memoire
   create: all
