@@ -1,4 +1,49 @@
 ---
 label: Emploi
 hide_body: false
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: post
+  hidden: true
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: 'Ex: Assistant·e en Ressources financières (H/F/X)'
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Sous-titre
+  description: 'Ex: Contrat à durée indéterminée'
+- name: posted_on
+  type: datetime
+  label: 'Publié le : '
+  description: ''
+  config:
+    required: false
+    date_format: DD-MM-YYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+- name: end_of_life
+  type: datetime
+  label: Fin de l'offre
+  description: Date à laquelle l'offre disparait du site
+  config:
+    required: false
+    date_format: DD-MM-YYYY
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+- name: emploi_url
+  type: text
+  config:
+    required: false
+  label: URL de l'offre
+  description: Adresse web du document google de l'offre
