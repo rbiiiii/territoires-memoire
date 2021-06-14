@@ -47,3 +47,5 @@ fields:
     required: false
   label: URL de l'offre
   description: Adresse web du document google de l'offre
+pages:
+- _emploi/assistant-e-en-ressources-financieres-h-f-x.md
