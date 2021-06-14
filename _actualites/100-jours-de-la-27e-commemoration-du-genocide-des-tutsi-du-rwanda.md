@@ -3,10 +3,9 @@ layout: post
 categories: actualites
 title: Compte rendu de la conférence de la 27e commémoration du génocide des Tutsi
   du Rwanda
-posted_on: 
+posted_on: 2021-06-14
 img_file: "/assets/uploads/zoom_tutsi_1240x480.jpg"
 uploaded_files: []
-published: false
 
 ---
 _Ce samedi 12 juin dernier, dans le cadre des 100 jours de la 27e commémoration du génocide des Tutsi du Rwanda, s'est tenue une conférence-débat proposée par l'Union des Rescapés du Génocide des Tutsi, avec le soutien de notre asbl._ 
