@@ -1,7 +1,8 @@
 ---
 layout: post
 categories: actualites
-title: 100 jours de la 27e commémoration du génocide des Tutsi du Rwanda
+title: Compte rendu de la conférence de la 27e commémoration du génocide des Tutsi
+  du Rwanda
 posted_on: 
 img_file: "/assets/uploads/zoom_tutsi_1240x480.jpg"
 uploaded_files: []
