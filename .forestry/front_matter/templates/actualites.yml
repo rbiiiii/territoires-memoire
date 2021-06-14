@@ -64,4 +64,5 @@ fields:
   label: Fichier(s)
   description: Zip ou pdf à ajouter en bas d'article
 pages:
+- _actualites/100-jours-de-la-27e-commemoration-du-genocide-des-tutsi-du-rwanda.md
 - _actualites/inauguration-du-parcours-en-marche-citoyen-a-oreye.md
