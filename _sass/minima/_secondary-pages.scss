@@ -21,15 +21,16 @@
 }
 
 .list-soutiens {
-    display:flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    display:grid;
+    grid-template-columns: repeat( auto-fit, minmax(220px, 1fr) );
+    gap: $su*2;
+    justify-items: center;
 
     li {
         width:100%;
         max-width:220px;
         height:180px;
-        margin:0 $su*2 $su*2 0;
+        margin:0;
         display: flex;
         flex-direction: column;
         align-items: center;
