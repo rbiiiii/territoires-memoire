@@ -150,7 +150,11 @@ body.nav-opened {
   transition:transform 150ms ease-out;
 
   &:hover {
-    cursor: pointer;  
+    cursor: pointer;
+  }
+
+  &:active {
+    transform: scale(0.7);
   }
 
   .sticky & {
@@ -169,26 +173,14 @@ body.nav-opened {
   #site-nav__open-trigger {
     transform:scale(0);
     transform-origin: 50% 50%;
-    position: absolute;
-    right: $su;
-    top:140px;
-    float:right;
   }
 
   .sticky {
     width:$max-width;
     margin-right:auto;
     margin-left:auto;
-
-    #site-nav__open-trigger {
-      top: $su;
-      float:right;
-      width:40px;
-    }
   }
 }
-
-
 
 #site-nav__close-trigger {
   width: 80px;
@@ -226,7 +218,7 @@ body.nav-opened {
 
 .site-nav__list {
     position: fixed;
-    z-index:600;
+    z-index:-1;
     top: 0;
     right:0;
     bottom:0;
@@ -240,8 +232,9 @@ body.nav-opened {
     list-style-type: none;
     overflow-x:hidden;
     overflow-y:auto;
-    transform:translateX(200vw);
-    transition:transform 350ms ease-out;
+    opacity:0;
+    pointer-events: none;
+    transition:opacity 250ms ease-out;
 
     @media screen and (min-width:1240px) {
       display:flex;
@@ -258,7 +251,9 @@ body.nav-opened {
     }
 
     .nav-opened & {
-      transform:translateX(0);
+      z-index:600;
+      opacity:1;
+      pointer-events: auto;
     }
 }
 
