@@ -10,6 +10,7 @@ place: A l'Espace rencontres de la Bibliothèque George Orwell des Territoires d
   la Mémoire (2e étage de la Cité Miroir)
 address: Place Xavier Neujean
 price: Libre
+tags: [Citoyens du Livre]
 schedule: |-
   17h : visite de l'exposition
 

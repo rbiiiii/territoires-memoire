@@ -9,7 +9,7 @@ img_file: "/assets/uploads/2021/06/24/tm-exposition-resistances-1.jpg"
 place: A la Citadelle de Namur (Festival Solidarités)
 address: Citadelle de Namur, Route Merveilleuse, Namur
 price: ''
-tags: []
+tags: [Exposition]
 schedule: ''
 entrance: ''
 booking: ''
