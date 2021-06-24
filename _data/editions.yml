@@ -156,6 +156,13 @@
   img_src: points-d-encrage-mon_ami_paco.jpg
   link: https://boutique.territoires-memoire.be/fr/nos-livres/19-mon-ami-paco.html
   categorie: collection-points-d-encrage
+- title: Poetic lab
+  external: true
+  date: 202106
+  author: Charlyne Audin (coord.)
+  img_src: a-refaire-poetic_lab.jpg
+  link: https://boutique.territoires-memoire.be/fr/nos-livres/78-poetic-lab-poesie-embarquee-pour-professeurs.html
+  categorie: collection-a-refaire
 - title: Actualité de la (dé)colonisation
   external: true
   date: 201803
