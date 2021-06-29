@@ -1,10 +1,15 @@
 <article class="post">
     <a class="post__link without-background" href="{{ post.url }}">
         <header class="post__header">
-        <div class="post__header__img">
-            <img src="{{ post.img_file }}?nf_resize=fit&w=550" alt="{{ post.title | escape }}">
+        <picture class="post__header__img">
+            <source media="(min-width:420px)" srcset="{{ post.img_file }}?nf_resize=fit&w=550">
+            <img 
+              src="{{ post.img_file }}?nf_resize=fit&w=420"
+              width="550"
+              height="213"
+              alt="{{ event.title | escape }}">
             <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur" aria-hidden="true">
-        </div>
+        </picture>
         <div class="post__title">
             <h3>{{ post.title }}</h3>
         </div>

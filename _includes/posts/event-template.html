@@ -3,7 +3,14 @@
     <a class="post__link without-background" href="{{ event.url }}">
       <header class="post__header">
         <div class="post__header__img">
-          <img src="{{.site.url}}/{{ event.img_file }}?nf_resize=fit&w=550" alt="{{ event.title | escape }}">
+            <picture>
+              <source media="(min-width:420px)" srcset="{{ event.img_file }}?nf_resize=fit&w=550">
+              <img 
+                src="{{ event.img_file }}?nf_resize=fit&w=420"
+                width="550"
+                height="213"
+                alt="{{ event.title | escape }}">
+            </picture>
           {%- if reverse == "yes" -%}
             {%- include_cached pages/separateur-reverse.html -%}
           {%- else -%}
