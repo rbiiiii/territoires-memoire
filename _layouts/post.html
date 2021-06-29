@@ -5,7 +5,15 @@ layout: default
 
   <header class="post__header">
     <div class="post__header__img">
-      <img src="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg{%- else -%}{{ site.url }}/{{ page.img_file }}{%- endif -%}" alt="{{ page.title }}">
+      <picture>
+        <source media="(min-width:420px)" srcset="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg?nf_resize=fit&w=768{%- else -%}{{ page.img_file }}?nf_resize=fit&w=768{%- endif -%}">
+        <source media="(min-width:768px)" srcset="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg{%- else -%}{{ page.img_file }}{%- endif -%}">
+        <img 
+          src="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg?nf_resize=fit&w=420{%- else -%}{{ page.img_file }}?nf_resize=fit&w=420{%- endif -%}"
+          width="1240"
+          height="480"
+          alt="{{ event.title | escape }}">
+      </picture>
       <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur" aria-hidden="true">
       {%- if page.path contains '_agenda' -%}
       <div class="post__header__tag">

@@ -18,7 +18,15 @@ layout: default
           {%- else -%}
             {%- assign alt = page.title -%}
           {%- endif -%}
-          <img src="/assets/images/{{ page.title_img }}" alt="{{ alt }}" width="1240" height="480">
+          <picture>
+            <source media="(min-width:420px)" srcset="/assets/images/{{ page.title_img }}?nf_resize=fit&w=768">
+            <source media="(min-width:768px)" srcset="/assets/images/{{ page.title_img }}">
+            <img 
+              src="/assets/images/{{ page.title_img }}?nf_resize=fit&w=420"
+              width="1240"
+              height="480"
+              alt="{{ page.title | escape }}">
+          </picture>
       </div>
     {%- endif -%}
   </header>

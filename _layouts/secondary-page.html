@@ -13,7 +13,15 @@ layout: default
     {%- endif -%}
     {%- if page.img_file -%}
       <div class="post__header__img">
-        <img src="/assets/images/{{ page.img_file }}" alt="{{ page.title }}" width="1240" height="480">
+        <picture>
+          <source media="(min-width:420px)" srcset="/assets/images/{{ page.img_file }}?nf_resize=fit&w=768">
+          <source media="(min-width:768px)" srcset="/assets/images/{{ page.img_file }}">
+          <img 
+            src="/assets/images/{{ page.img_file }}?nf_resize=fit&w=420"
+            width="1240"
+            height="480"
+            alt="{{ page.title | escape }}">
+        </picture>
         <img src="/assets/images/tm-separateur.svg" alt="" class="tm-separateur" aria-hidden="true">
       </div>
       <div class="post__title">
