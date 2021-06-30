@@ -156,7 +156,7 @@ layout: default
           {%- if page.address and page.address != '' -%}
             <div id="map"></div>
             <div class="map-address card card--two post__meta__card">
-              <p>{{ page.address }}</p>
+              <p><a target="_blank" href="https://www.google.be/maps/place/{{ page.address }}">{{ page.address }}</a></p>
             </div>
           {%- endif -%}
         </aside>
