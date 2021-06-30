@@ -13,7 +13,7 @@ tags:
 - exposition
 schedule: "Du lundi au vendredi 9h-18h / samedi et dimanche 10h-18h.  \nFermetures
   pendant l’exposition : 01/11 -11/11 -13/12 -24/12 -25/12"
-entrance: "10€   \n7€ (-26 ans | groupe min. 10 pers. | personne handicapée| carte
+entrance: "10€   \n5€ (-26 ans | groupe min. 10 pers. | personne handicapée| carte
   prof | citoyen Cité Miroir | membre Territoires de la Mémoire)  \nArt. 27"
 booking: www.citemiroir.be | reservation@citemiroir.be | 04 230 70 50
 practical: ''
