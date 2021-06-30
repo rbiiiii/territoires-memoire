@@ -14,8 +14,8 @@ layout: default
     {%- if page.img_file -%}
       <div class="post__header__img">
         <picture>
-          <source media="(min-width:420px)" srcset="/assets/images/{{ page.img_file }}?nf_resize=fit&w=768">
           <source media="(min-width:768px)" srcset="/assets/images/{{ page.img_file }}">
+          <source media="(min-width:420px)" srcset="/assets/images/{{ page.img_file }}?nf_resize=fit&w=768">
           <img 
             src="/assets/images/{{ page.img_file }}?nf_resize=fit&w=420"
             width="1240"

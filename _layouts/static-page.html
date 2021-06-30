@@ -19,8 +19,8 @@ layout: default
             {%- assign alt = page.title -%}
           {%- endif -%}
           <picture>
-            <source media="(min-width:420px)" srcset="/assets/images/{{ page.title_img }}?nf_resize=fit&w=768">
             <source media="(min-width:768px)" srcset="/assets/images/{{ page.title_img }}">
+            <source media="(min-width:420px)" srcset="/assets/images/{{ page.title_img }}?nf_resize=fit&w=768">
             <img 
               src="/assets/images/{{ page.title_img }}?nf_resize=fit&w=420"
               width="1240"
