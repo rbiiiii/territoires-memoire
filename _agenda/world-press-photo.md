@@ -15,10 +15,9 @@ schedule: "Du lundi au vendredi 9h-18h / samedi et dimanche 10h-18h.  \nFermetur
 entrance: 10€ prix plein (5€ réduit)
 booking: www.citemiroir.be | reservation@citemiroir.be | 04 230 70 50
 practical: ''
+published: false
 
 ---
-Du 30 octobre 2021 au30 décembre 2021, La Cité Miroir à Liège accueille les lauréats 2021 du prix World Press Photo. Ce concours annuel de photojournalisme récompense des photographes professionnels pour leurs meilleurs clichés et leur contribution au photojournalisme. Lancé en 1955, le prix World Press Photo est aujourd’hui une institution au niveau mondial et un rendez-vous annuel attendu !
+Du 30 octobre au 30 décembre 2021, La Cité Miroir à Liège accueille la 64e exposition du prix World Press Photo. Ce concours annuel de photojournalisme récompense des photographes du monde entier pour leurs meilleurs clichés. Les images présentées nous plongent au cœur d’actualités fortes de 2020 telles que la pandémie de covid-19, le conflit israélo-palestinien ou les manifestations Black Lives Matter. Plus que de simples clichés esthétiques, les photos sélectionnées portent des histoires poignantes de notre monde, de notre environnement ou encore de nos sociétés.
 
-Impressionnantes et interpellantes, les photos présentées pour cette nouvelle édition plongent au cœur d’actualités fortes de 2020 telles que la pandémie de covid-19, le conflit israélo-palestinien ou les manifestations Black Lives Matter. Mais elle nous montre aussi nombre de réalités contemporaines sur les modes de vie dans le monde, notre environnement ou encore nos sociétés.
-
-En tant que centre d’éducation à la citoyenneté et à la résistance, les Territoire de la Mémoire souhaitent, par le biais de cette exposition d’envergure, ouvrir des fenêtres critiques sur les réalités contemporaines. Ils défendent la nécessité du photojournalisme et de la liberté de la presse comme outils de citoyenneté active, de contrôle démocratique et d’indignation résistante.
+En proposant cette exposition d’envergure dans les anciens Bains et Thermes de la Sauvenière, les Territoires de la Mémoire souhaitent ouvrir des fenêtres critiques sur les réalités contemporaines. Ils défendent la nécessité du photojournalisme et de la liberté de la presse comme outils de citoyenneté active, de contrôle démocratique et d’indignation résistante.
