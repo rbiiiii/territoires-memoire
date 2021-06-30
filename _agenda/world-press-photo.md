@@ -15,7 +15,6 @@ schedule: "Du lundi au vendredi 9h-18h / samedi et dimanche 10h-18h.  \nFermetur
 entrance: 10€ prix plein (5€ réduit)
 booking: www.citemiroir.be | reservation@citemiroir.be | 04 230 70 50
 practical: ''
-published: false
 
 ---
 Du 30 octobre 2021 au30 décembre 2021, La Cité Miroir à Liège accueille les lauréats 2021 du prix World Press Photo. Ce concours annuel de photojournalisme récompense des photographes professionnels pour leurs meilleurs clichés et leur contribution au photojournalisme. Lancé en 1955, le prix World Press Photo est aujourd’hui une institution au niveau mondial et un rendez-vous annuel attendu !
