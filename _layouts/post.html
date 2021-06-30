@@ -6,8 +6,8 @@ layout: default
   <header class="post__header">
     <div class="post__header__img">
       <picture>
-        <source media="(min-width:420px)" srcset="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg?nf_resize=fit&w=768{%- else -%}{{ page.img_file }}?nf_resize=fit&w=768{%- endif -%}">
         <source media="(min-width:768px)" srcset="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg{%- else -%}{{ page.img_file }}{%- endif -%}">
+        <source media="(min-width:420px)" srcset="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg?nf_resize=fit&w=768{%- else -%}{{ page.img_file }}?nf_resize=fit&w=768{%- endif -%}">
         <img 
           src="{%- if page.path contains '_emploi' -%}/assets/uploads/tm-emploi.jpg?nf_resize=fit&w=420{%- else -%}{{ page.img_file }}?nf_resize=fit&w=420{%- endif -%}"
           width="1240"
