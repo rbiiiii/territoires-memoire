@@ -15,7 +15,6 @@ schedule: "Du lundi au vendredi 9h-18h / samedi et dimanche 10h-18h.  \nFermetur
 entrance: 10€ prix plein (5€ réduit)
 booking: www.citemiroir.be | reservation@citemiroir.be | 04 230 70 50
 practical: ''
-published: false
 
 ---
 Du 30 octobre au 30 décembre 2021, La Cité Miroir à Liège accueille la 64e exposition du prix World Press Photo. Ce concours annuel de photojournalisme récompense des photographes du monde entier pour leurs meilleurs clichés. Les images présentées nous plongent au cœur d’actualités fortes de 2020 telles que la pandémie de covid-19, le conflit israélo-palestinien ou les manifestations Black Lives Matter. Plus que de simples clichés esthétiques, les photos sélectionnées portent des histoires poignantes de notre monde, de notre environnement ou encore de nos sociétés.
