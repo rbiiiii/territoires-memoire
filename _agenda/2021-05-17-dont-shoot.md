@@ -6,7 +6,7 @@ date_start: 2021-06-19
 date_stop: 2021-09-07
 img_file: /assets/uploads/dontshoot_visuelsitetm.jpg
 place: La Cité Miroir
-address: Place Xavier-Neujean 22
+address: Place Xavier-Neujean 22, 4000 Liège
 price: 1€
 tags:
   - Exposition collective

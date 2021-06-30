@@ -7,7 +7,7 @@ date_stop: 2021-08-29
 hour: ''
 img_file: "/assets/uploads/2021/06/24/tm-exposition-resistances-1.jpg"
 place: A la Citadelle de Namur (Festival Solidarités)
-address: Citadelle de Namur, Route Merveilleuse, Namur
+address: Route Merveilleuse 64, 5000 Namur
 price: ''
 tags: [Exposition]
 schedule: ''
