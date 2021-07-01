@@ -6,9 +6,10 @@ date_start: 2021-09-22
 date_stop: 2021-09-22
 hour: 18h
 img_file: "/assets/uploads/2021/07/01/visu-comm_vettagettyimages_web.jpg"
-place: ''
-address: ''
-price: ''
+place: à la Bibliothèque George Orwell
+address: Venez découvrir les coups de cœur et les coups de gueule des autres lecteurs
+  et partager les vôtres d’une manière conviviale !
+price: Gratuit
 tags: []
 schedule: ''
 entrance: Gratuit
