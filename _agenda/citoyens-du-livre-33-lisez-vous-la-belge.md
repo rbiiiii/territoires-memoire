@@ -9,12 +9,12 @@ img_file: "/assets/uploads/2021/07/01/visu-comm_vettagettyimages.jpeg"
 place: à la Bibliothèque George Orwell
 address: Pl. Xavier-Neujean 22, 4000 Liège
 price: Gratuit
-tags: []
+tags:
+- Rencontre
 schedule: ''
 entrance: Gratuit
 booking: ''
 practical: ''
-published: false
 
 ---
 **Qui dit mois de septembre, dit rentrée littéraire, mais également fête de la Fédération Wallonie-Bruxelles ! A cette occasion, et en hommage à cette « quarantenaire », venez discuter avec nous de livres d’_autrices de la Fédération Wallonie-Bruxelles_.**
