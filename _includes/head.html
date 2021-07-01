@@ -12,12 +12,12 @@
     <meta property="og:type" content="article" />
   {% endif %}
   
-  <link rel="stylesheet" type="text/css" href="/assets/main.css?ver=20210623" />
+  <link rel="stylesheet" type="text/css" href="/assets/main.css?ver=20210701" />
   <link rel="stylesheet" type="text/css" href="/assets/css/fonts.css" />
   
   <link rel="stylesheet" type="text/css" href="/assets/css/jquery.fancybox.min.css" />
   <link rel="stylesheet" type="text/css" href="/assets/css/slick.min.css" />
-  <link rel="stylesheet" type="text/css" href="/assets/css/cookieconsent.min.css" />
+  <link rel="stylesheet" type="text/css" href="/assets/css/cookie-consent.min.css" />
 
   <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
@@ -39,14 +39,11 @@
 
   {%- if page.permalink == "reseau" -%}
   <link rel="stylesheet" href="/assets/css/leaflet.min.css" />
-  <script src="/assets/javascript/leaflet.js"></script>
-  <script src="/assets/javascript/leaflet.ajax.min.js"></script>
+  <script defer src="/assets/javascript/leaflet.js"></script>
+  <script defer src="/assets/javascript/leaflet.ajax.min.js"></script>
   {%- endif -%}
-
-  <!--<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>-->
 
   {%- if page.path contains '_agenda' or page.path contains '_actualites' or page.path contains '_aide-memoire' or page.path contains '_emploi' -%}
   <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5b1e5adbe9c37c00114cb7b8&product=inline-share-buttons"></script>
   {%- endif -%}
-  
 </head>
