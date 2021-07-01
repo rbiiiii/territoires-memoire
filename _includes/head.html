@@ -46,4 +46,50 @@
   {%- if page.path contains '_agenda' or page.path contains '_actualites' or page.path contains '_aide-memoire' or page.path contains '_emploi' -%}
   <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5b1e5adbe9c37c00114cb7b8&product=inline-share-buttons"></script>
   {%- endif -%}
+
+  <script defer src="/assets/javascript/cookie-consent.min.js"></script>
+  <script>
+  // COOKIES
+  window.addEventListener('load', function(){
+  window.cookieconsent.initialise({
+    revokeBtn: "<div class='cc-revoke'></div>",
+    type: "opt-in",
+    theme: "classic",
+    palette: {
+        popup: {
+            background: "#fff",
+            text: "#003a60"
+        },
+        button: {
+            background: "#003a60",
+            text: "#fff"
+        }
+    },
+    content: {
+        message: "Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site.",
+        link: "Politique de confidentialité",
+        allow: "Accepter",
+        deny: "Refuser",
+        href: "https://www.territoires-memoire.be/politique-de-confidentialite"
+    },
+    onInitialise: function(status) {
+      if(status == cookieconsent.status.allow) cookiesLoader();
+    },
+    onStatusChange: function(status) {
+      if (this.hasConsented()) cookiesLoader();
+    }
+  })
+  });
+
+  function cookiesLoader() {
+    // Google Analytics
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-38116427-1', 'auto');
+      ga('send', 'pageview');
+      ga('set', 'anonymizeIp', true);
+  }
+  </script>
 </head>
