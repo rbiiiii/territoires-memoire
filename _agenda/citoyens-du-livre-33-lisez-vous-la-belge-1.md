@@ -6,8 +6,8 @@ date_start: 2021-09-22
 date_stop: 2021-09-22
 hour: 18h
 img_file: "/assets/uploads/2021/07/01/visu-comm_vettagettyimages_web.jpg"
-place: Place Xavier-Neujean 22, Liège
-address: ''
+place: Bibliothèque Georges Orwell
+address: Place Xavier-Neujean 22, Liège
 price: Gratuit
 tags: []
 schedule: ''
