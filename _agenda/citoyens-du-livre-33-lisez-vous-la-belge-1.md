@@ -3,7 +3,7 @@ layout: post
 categories: agenda
 title: 'Citoyens du Livre #33  - Lisez-vous la Belge ?'
 date_start: 2021-09-22
-date_stop: 2021-09-22
+date_stop: 
 hour: 18h
 img_file: "/assets/uploads/2021/07/01/visu-comm_vettagettyimages_web.jpg"
 place: Bibliothèque Georges Orwell
