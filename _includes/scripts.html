@@ -1,8 +1,7 @@
 <script src="/assets/javascript/jquery.min.js"></script>
 <script src="/assets/javascript/jquery.fancybox.min.js"></script>
-<script src="/assets/javascript/slick.min.js"></script>
-<script src="/assets/javascript/main.js?ver=20210519"></script>
-
+<script defer src="/assets/javascript/slick.min.js"></script>
+<script defer src="/assets/javascript/main.js?ver=20210519"></script>
 
 {%- if page.path contains '_aide-memoire' or page.path contains '_aide-memoire' -%}
 <script>
@@ -15,24 +14,25 @@
 {%- endif -%}
 {%- if page.path contains '_agenda' -%}
 <script>
-    var geocoder;
-    var map;
-    var address = {{ page.address | jsonify }};
-    function initMap(){var e=new google.maps.Map(document.getElementById("map"),{zoom:14,styles:[{elementType:"geometry",stylers:[{color:"#1d2c4d"}]},{elementType:"labels.text.fill",stylers:[{color:"#8ec3b9"}]},{elementType:"labels.text.stroke",stylers:[{color:"#1a3646"}]},{featureType:"administrative.country",elementType:"geometry.stroke",stylers:[{color:"#4b6878"}]},{featureType:"administrative.land_parcel",elementType:"labels.text.fill",stylers:[{color:"#64779e"}]},{featureType:"administrative.province",elementType:"geometry.stroke",stylers:[{color:"#4b6878"}]},{featureType:"landscape.man_made",elementType:"geometry.stroke",stylers:[{color:"#334e87"}]},{featureType:"landscape.natural",elementType:"geometry",stylers:[{color:"#023e58"}]},{featureType:"poi",elementType:"geometry",stylers:[{color:"#283d6a"}]},{featureType:"poi",elementType:"labels.text.fill",stylers:[{color:"#6f9ba5"}]},{featureType:"poi",elementType:"labels.text.stroke",stylers:[{color:"#1d2c4d"}]},{featureType:"poi.park",elementType:"geometry.fill",stylers:[{color:"#023e58"}]},{featureType:"poi.park",elementType:"labels.text.fill",stylers:[{color:"#3C7680"}]},{featureType:"road",elementType:"geometry",stylers:[{color:"#304a7d"}]},{featureType:"road",elementType:"labels.text.fill",stylers:[{color:"#98a5be"}]},{featureType:"road",elementType:"labels.text.stroke",stylers:[{color:"#1d2c4d"}]},{featureType:"road.highway",elementType:"geometry",stylers:[{color:"#2c6675"}]},{featureType:"road.highway",elementType:"geometry.stroke",stylers:[{color:"#255763"}]},{featureType:"road.highway",elementType:"labels.text.fill",stylers:[{color:"#b0d5ce"}]},{featureType:"road.highway",elementType:"labels.text.stroke",stylers:[{color:"#023e58"}]},{featureType:"transit",elementType:"labels.text.fill",stylers:[{color:"#98a5be"}]},{featureType:"transit",elementType:"labels.text.stroke",stylers:[{color:"#1d2c4d"}]},{featureType:"transit.line",elementType:"geometry.fill",stylers:[{color:"#283d6a"}]},{featureType:"transit.station",elementType:"geometry",stylers:[{color:"#3a4762"}]},{featureType:"water",elementType:"geometry",stylers:[{color:"#0e1626"}]},{featureType:"water",elementType:"labels.text.fill",stylers:[{color:"#4e6d70"}]}]});geocoder=new google.maps.Geocoder,codeAddress(geocoder,e)}function codeAddress(e,l){e.geocode({address:address},function(e,t){if("OK"===t){l.setCenter(e[0].geometry.location);new google.maps.Marker({map:l,icon:"/assets/images/icons/tm-icon-map_marker.png",position:e[0].geometry.location})}else alert("Geocode was not successful for the following reason: "+t)})}
-  </script>
+  var geocoder;
+  var map;
+  var address = {{ page.address | jsonify }};
+  function initMap(){var e=new google.maps.Map(document.getElementById("map"),{zoom:14,styles:[{elementType:"geometry",stylers:[{color:"#1d2c4d"}]},{elementType:"labels.text.fill",stylers:[{color:"#8ec3b9"}]},{elementType:"labels.text.stroke",stylers:[{color:"#1a3646"}]},{featureType:"administrative.country",elementType:"geometry.stroke",stylers:[{color:"#4b6878"}]},{featureType:"administrative.land_parcel",elementType:"labels.text.fill",stylers:[{color:"#64779e"}]},{featureType:"administrative.province",elementType:"geometry.stroke",stylers:[{color:"#4b6878"}]},{featureType:"landscape.man_made",elementType:"geometry.stroke",stylers:[{color:"#334e87"}]},{featureType:"landscape.natural",elementType:"geometry",stylers:[{color:"#023e58"}]},{featureType:"poi",elementType:"geometry",stylers:[{color:"#283d6a"}]},{featureType:"poi",elementType:"labels.text.fill",stylers:[{color:"#6f9ba5"}]},{featureType:"poi",elementType:"labels.text.stroke",stylers:[{color:"#1d2c4d"}]},{featureType:"poi.park",elementType:"geometry.fill",stylers:[{color:"#023e58"}]},{featureType:"poi.park",elementType:"labels.text.fill",stylers:[{color:"#3C7680"}]},{featureType:"road",elementType:"geometry",stylers:[{color:"#304a7d"}]},{featureType:"road",elementType:"labels.text.fill",stylers:[{color:"#98a5be"}]},{featureType:"road",elementType:"labels.text.stroke",stylers:[{color:"#1d2c4d"}]},{featureType:"road.highway",elementType:"geometry",stylers:[{color:"#2c6675"}]},{featureType:"road.highway",elementType:"geometry.stroke",stylers:[{color:"#255763"}]},{featureType:"road.highway",elementType:"labels.text.fill",stylers:[{color:"#b0d5ce"}]},{featureType:"road.highway",elementType:"labels.text.stroke",stylers:[{color:"#023e58"}]},{featureType:"transit",elementType:"labels.text.fill",stylers:[{color:"#98a5be"}]},{featureType:"transit",elementType:"labels.text.stroke",stylers:[{color:"#1d2c4d"}]},{featureType:"transit.line",elementType:"geometry.fill",stylers:[{color:"#283d6a"}]},{featureType:"transit.station",elementType:"geometry",stylers:[{color:"#3a4762"}]},{featureType:"water",elementType:"geometry",stylers:[{color:"#0e1626"}]},{featureType:"water",elementType:"labels.text.fill",stylers:[{color:"#4e6d70"}]}]});geocoder=new google.maps.Geocoder,codeAddress(geocoder,e)}function codeAddress(e,l){e.geocode({address:address},function(e,t){if("OK"===t){l.setCenter(e[0].geometry.location);new google.maps.Marker({map:l,icon:"/assets/images/icons/tm-icon-map_marker.png",position:e[0].geometry.location})}else alert("Geocode was not successful for the following reason: "+t)})}
+</script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBPPTCKwiBsM1Yu7rEdpt4nojbPQ10D3Dk&callback=initMap" defer></script>
 {%- endif -%}
 
 {%- if page.permalink == "reseau" -%}
 <script>  
-//////// DRAW MAP AND DISPLAY COMMUNES COUNT
+// DRAW MAP AND DISPLAY COMMUNES COUNT
 var reseauMap=L.map("reseau-map",{scrollWheelZoom:!1,touchZoom:!0,doubleClickZoom:!0}),pathToGeoJSON="/assets/json/belgium.geojson",geoJSONLayer=new L.GeoJSON.AJAX(pathToGeoJSON,{filter:communes,color:"#003a60",weight:2});function communes(e){return e.properties.show_on_map}function initMap(){var e=7;768<=$(window).width()&&(e=8),reseauMap.setView([50.302,4.614],e)}function addCommunes(){$("#reseau-filtre").show(),$("#add-communes-wrapper").hide();var e=$("#list-reseau"),o=[];geoJSONLayer.eachLayer(function(e){var a=e.feature.properties.name;o.push(a)});for(var a=o.sort(),t=a.length,n=0;n<t;n++)e.append('<li class="list-reseau__item"><a>'+a[n]+"</a></li>")}function showPopUp(){$(".list-reseau__item a").on("click",function(e){e.preventDefault,$("html, body").animate({scrollTop:$("#votre-commune-est-elle-territoire-de-memoire").offset().top},800);var o=$(this).html();geoJSONLayer.eachLayer(function(e){var a=e.feature.properties.name;a===o&&(initMap(),e.bindPopup(a).openPopup())})})}function reseauFilter(){for(var e=document.getElementById("reseauInput").value.toUpperCase(),a=document.getElementById("list-reseau").getElementsByTagName("li"),o=0;o<a.length;o++)-1<a[o].getElementsByTagName("a")[0].innerHTML.toUpperCase().indexOf(e)?a[o].style.display="":a[o].style.display="none"}geoJSONLayer.bindPopup(function(e){return e.feature.properties.name}),geoJSONLayer.addTo(reseauMap),geoJSONLayer.on("data:loaded",function(){var e=-5;reseauMap.eachLayer(function(){e+=1}),$("#numberOfCommunes").html(e),$("#addCommunes").addClass("visible")}),initMap(),L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",{attribution:'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',maxZoom:18,scrollWheelZoom:!0,id:"mapbox/light-v10",accessToken:"pk.eyJ1Ijoid2VibWFzdGVydG0iLCJhIjoiY2toNHlnbGp3MDNjbDJ4b2h1enE5eDM5eiJ9.n-prZftDYzyC3rNb6xpX9A"}).addTo(reseauMap),$("#addCommunes").on("click",function(){addCommunes(),showPopUp()}),$("#reseauInput").on("keyup",function(e){27==e.keyCode?($("#reseauInput").val(""),$(".list-reseau__item").css("display","inline")):reseauFilter()});
 </script>
 {%- endif -%}
+
 {%- if page.permalink == "aide-memoire" -%}
-<script src="/assets/javascript/search-am.js"></script>
-<script src="/assets/javascript/search-books.js"></script>  
+<script defer src="/assets/javascript/search-am.js"></script>
+<script defer src="/assets/javascript/search-books.js"></script>  
 <script>
 // SEARCH AM
 var amSearchInput=document.getElementById("am-search-input"),amResultsContainer=document.getElementById("am-results-container");amSearch({searchInput:amSearchInput,resultsContainer:amResultsContainer,json:"/assets/json/search-am.json",searchResultTemplate:'<div class="am-result"><a class="am-result__link" href="{url}"><h4 class="am-result__title">{title}</h4></a><div><a href="/{num}">{num}</a> | {credits}</div></div>'});
@@ -40,25 +40,52 @@ var amSearchInput=document.getElementById("am-search-input"),amResultsContainer=
 var booksSearchInput=document.getElementById("books-search-input"),booksResultsContainer=document.getElementById("books-results-container");booksSearch({searchInput:booksSearchInput,resultsContainer:booksResultsContainer,json:"/assets/json/search-books.json",searchResultTemplate:'<li class="block post-list__item block archives-heart__list__item"><div class="pdf-txt__item"><a class="pdf-txt__item__link book__link" href="{bookLink}"><div class="pdf-txt__item__text book__content"><h3 class="pdf-txt__item__text__title book__title">{author}, <em>{title}</em>, {editor}, {year}</h3><div class="book__body"><div class="book__img-wrapper"><img class="pdf-txt__item__img book__img" src="{imgSrc}" role="presentation"></div><div class="pdf-txt__item__text__txt">{content}</div></div></div></a></div></li>'});
 </script> 
 {%- endif -%}
+
+<script defer src="/assets/javascript/cookie-consent.min.js"></script>
 <script>
-window.netlifyIdentity&&window.netlifyIdentity.on("init",a=>{a||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})});
+// COOKIES
+window.addEventListener('load', function(){
+  window.cookieconsent.initialise({
+   revokeBtn: "<div class='cc-revoke'></div>",
+   type: "opt-in",
+   theme: "classic",
+   palette: {
+       popup: {
+           background: "#fff",
+           text: "#003a60"
+        },
+       button: {
+           background: "#003a60",
+           text: "#fff"
+        }
+    },
+   content: {
+       message: "Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site.",
+       link: "Politique de confidentialité",
+       allow: "Accepter",
+       deny: "Refuser",
+       href: "https://www.territoires-memoire.be/politique-de-confidentialite"
+    },
+    onInitialise: function(status) {
+      if(status == cookieconsent.status.allow) cookiesLoader();
+    },
+    onStatusChange: function(status) {
+      if (this.hasConsented()) cookiesLoader();
+    }
+  })
+});
+
+function cookiesLoader() {
+   // Google Analytics
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-38116427-1', 'auto');
+      ga('send', 'pageview');
+}
 </script>
-<script src="/assets/javascript/cookieconsent.min.js"></script>
-<script>
-// COOKIE CONSENT
-window.addEventListener("load",function(){window.cookieconsent.initialise({palette:{popup:{background:"#ffffff",text:"#003a60"},button:{background:"#003a60",text:"#ffffff"}},theme:"classic",content:{message:"Nous utilisons des cookies pour vous garantir la meilleure expérience sur notre site. Si vous continuez à utiliser ce dernier, nous considérerons que vous acceptez l'utilisation des cookies. ",dismiss:"Accepter",link:"En savoir plus",href:"/politique-de-confidentialite"}})});
-</script>
-<script type="text/javascript">
-//GOOGLE ANALYTICS
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-38116427-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
+
 {%- if thisPageClass == "home" -%}
 <script>
   // SHOW / HIDE VIDEO 
