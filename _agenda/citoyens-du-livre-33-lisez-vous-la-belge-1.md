@@ -6,7 +6,7 @@ date_start: 2021-09-22
 date_stop: 2021-09-22
 hour: 18h
 img_file: "/assets/uploads/2021/07/01/visu-comm_vettagettyimages_web.jpg"
-place: Pl. Xavier-Neujean, 4000 Liège, Belgique
+place: Place Xavier-Neujean 22, Liège
 address: Pl
 price: Gratuit
 tags: []
