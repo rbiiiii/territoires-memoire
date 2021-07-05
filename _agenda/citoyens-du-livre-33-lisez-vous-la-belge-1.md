@@ -13,7 +13,7 @@ tags: []
 schedule: ''
 entrance: Gratuit
 booking: ''
-practical: ''
+practical: bibliotheque@territoires-memoire.be ou au 0032 (0) 4 232 70 62.
 
 ---
 **Qui dit mois de septembre, dit rentrée littéraire, mais également fête de la Fédération Wallonie-Bruxelles ! A cette occasion,  et en hommage à cette « quarantenaire », venez discuter avec nous de livres d’autrices de la  Fédération Wallonie-Bruxelles, et​ pourquoi pas également de Flandre?**
