@@ -12,11 +12,21 @@ L’objectif est de mettre en évidence un livre illustré accessible à la jeun
 
 Le comité de lecture est composé de permanentEs des Territoires de la Mémoire, de Claire Nanty de la librairie La Grande Ourse et de Brigitte Van Den Bossche des Ateliers du Texte et de l’Image.
 
-Le prix sera décerné pendant la Foire du livre politique le vendredi 21 mai à 19h. [Programme](http://lafoiredulivre.net/wp-content/uploads/2021/05/Programme-couleur-printemps-2021.pdf)
+Le prix a été décerné pendant la Foire du livre politique le vendredi 21 mai à 19h.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OeM8Zt2p_6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+  
 
-**Les titres en lice sont :** 
+### Les 3 coups de cœur sont 
+
+- *Tu t’appelleras Lapin* de Marine Schneider (Versant Sud, 2020)
+- *Julian est une sirène* de Jessica Love (Ecole des loisirs, 2020)
+- *Migrants* d’Issa Watanabe (La Joie de lire, 2020)
+
+  
+
+### Les titres en lice étaient :
 
 1. *J’ai vu un magnifique oiseau* de Michal Skibinski et Ala Bankroft (Albin Michel Jeunesse, 2020)
 2. *Tu t’appelleras Lapin* de Marine Schneider (Versant Sud, 2020)
@@ -29,7 +39,9 @@ Le prix sera décerné pendant la Foire du livre politique le vendredi 21 mai à
 9. *Migrants* d’Issa Watanabe (La Joie de lire, 2020)
 10. *Les enfants de la résistance* de Benoît Ers et Vincent Dugomier (Le Lombard, 2020)
 
-**Présentation des ouvrages**
+  
+
+### Présentation des ouvrages
 
 **\-**
 
