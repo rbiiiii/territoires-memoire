@@ -16,7 +16,7 @@ booking: ''
 practical: ''
 
 ---
-**Qui dit mois de septembre, dit rentrée littéraire, mais également fête de la Fédération Wallonie-Bruxelles ! A cette occasion,  et en hommage à cette « quarantenaire », venez discuter avec nous de livres d’autrices de la  Fédération Wallonie-Bruxelles.**
+**Qui dit mois de septembre, dit rentrée littéraire, mais également fête de la Fédération Wallonie-Bruxelles ! A cette occasion,  et en hommage à cette « quarantenaire », venez discuter avec nous de livres d’autrices de la  Fédération Wallonie-Bruxelles, et​ pourquoi pas également de Flandre?**
 
 Se rencontrer, discuter, échanger… autour de thématiques comme l’histoire et la politique, partager vos découvertes culturelles avec d’autres lecteur-trice.s au travers de romans, BD, essais ou encore via le 7e art, le documentaire, les expositions…C’est ce que vous propose le groupe de lecteur-trice.s Les Citoyens du livre .
 
