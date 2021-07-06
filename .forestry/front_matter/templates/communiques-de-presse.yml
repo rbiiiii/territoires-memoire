@@ -19,3 +19,5 @@ fields:
   config:
     maxSize: 64
   label: Fichier ZIP
+pages:
+- _communiques-presse/l-histoire-de-francisco-boix-et-des-photos-derobees-aux-ss.md
