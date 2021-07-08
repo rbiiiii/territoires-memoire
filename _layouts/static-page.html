@@ -19,12 +19,13 @@ layout: default
             {%- assign alt = page.title -%}
           {%- endif -%}
           <picture>
-            <source media="(min-width:768px)" srcset="/assets/images/{{ page.title_img }}">
+            <source media="(min-width:1024px)" srcset="/assets/images/{{ page.title_img }}">
+            <source media="(min-width:768px)" srcset="/assets/images/{{ page.title_img }}?nf_resize=fit&w=1024">
             <source media="(min-width:420px)" srcset="/assets/images/{{ page.title_img }}?nf_resize=fit&w=768">
             <img 
               src="/assets/images/{{ page.title_img }}?nf_resize=fit&w=420"
-              width="1240"
-              height="480"
+              width="1920"
+              height="400"
               alt="{{ page.title | escape }}">
           </picture>
       </div>
