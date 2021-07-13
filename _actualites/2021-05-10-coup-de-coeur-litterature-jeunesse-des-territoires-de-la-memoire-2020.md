@@ -14,7 +14,7 @@ Le comité de lecture est composé de permanentEs des Territoires de la Mémoire
 
 Le prix a été décerné pendant la Foire du livre politique le vendredi 21 mai à 19h.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OeM8Zt2p_6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OeM8Zt2p_6w?start=1033" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 
